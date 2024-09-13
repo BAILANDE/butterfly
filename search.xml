@@ -9,8 +9,9 @@
 </ul>
 </li>
 </ol>
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true" width="93%" height="340"></iframe>
-
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
 ]]></content>
       <categories>
         <category>学习笔记</category>
@@ -18,6 +19,114 @@
       <tags>
         <tag>学习笔记</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>《C语言程序设计》笔记</title>
+    <url>/2024/09/13/C%E8%AF%AD%E8%A8%80/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="c87348d0e26a7747d707934f8734271639fc9fcdaa24e5478988ad8aee83d493">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b4fac987334b5fdb96248339bbc65434763f50729889c66db899080c1c3363faf445e65e58f5742c4d0637bd066a5d76e01990d727ee6f9aad72d21a1e9d115703f9394b4a65971dbda430cc5994a3d7411b05d21f0cc6e317140da6bbc824cc601ff3e8eed0526b349444d2def1c5d92afee2dd816f69b023e8e258972d4364d2595a1f34d5a83722ed6a82539b1b8754f8bf0051506a2ec267bfda66c82845306da0570f810cb7a18757d61703919c4d51c7908d3b2225d54e7eacaf519474bfc2dd39927f43c384b25e8040cd4af57f9ba50895f7b83f0f7a9aff6dfe2bc658416be62a320eba93e9c1e8da0ade97046d46e80598bdb2b559c0e03461aa0ecbfdb4206677665cd69cdd7aa0a3fbf0123889f5a0ed213d817398f0246dcf6b8398614a19de69a3442a2b4464aedeb688c74d18a98fd839259e967e59283464f554d0f286c9580682297fc80707fc882b5f8c02133fe6a06374b3d4ea269da36e308725a70b138cecc79759dd61b0e8f742b9b3150050ea01bead6534628e0e9f2502e6a69e878d29d5d80c4252d1494a220194346b7448573c9a61efd2eb00bbb66eda7711a69ce623df53161268c2481354a64def23e627d0d31e4099ecdcf3bf4640e229642eb96bfb01be2276a6e4e5a728f783f2ea874a633d47ab5c960686daca2730869499ec061717aaafb1c4292c1e817342f0a716a8fc810f4155582783e17b0919fffe0b8e144538dd074aedc1a24846c87317acfc606e341f2af651a9c6d618f8817ba4fbfebf5a90441f633b88b17d695982db56bd32b9e9c72130b6b2585c80fd7a1fb3659653583f46fc6153cfe4d5786030df2b58276658d9ca8e8151fea81472cdc20d759cc33b9baf74388aabfd6c904d16d706eb8cdbef1391eb5bf753e18f72d244345e2927de4ccf915dab5211efb92112b0b56178dacbc9d3c3e459dcc7b490fe6ee639d3b9d2269bb17fe2d89413b5b52c0f3fdbf6635c888abc6aff434aed5577c90f9a7ecb960306a5bd98d88b981b9ff5f8e59aacbb0986a7df620718965c6cd8d78d876c12a83856eb829d601d2a8db3062b477f7f4f3ebc641e7ebbdb367bce6eb06a744cd7ad33c5eb1aba01b795dc43757e0b625d57b13004cc02fb4c01b4e7513d0d63be5ea197720af5e9391e9bd3e2dc6c442b3c01ecd380194d3aeffa5f2544991c383490711e6f37d7349c39848c040e0a541f85c3b1b47b38810eb6636dcd6ea608bdbd16cd15602d0265704c66f337d91a5fbfe84f3ef765961c1eeec4b67490397c79c5c34cd2986040852db34fe3e0a3a737b03a06a05518b6b8d39721e89174e90df695827604fc7c6e124482068058f80e3ffac30db603906eec14773b63ed46e43060aabc22f0088c5c3567538238327d256c62d33fdefb7ec4d034c10a2a5d3327c1c657adfac6fc3dddd3842160326fcdf134b4aa1fda4cd6df1c89cc9439fe75260b92fe6bd830994d42e05e9ef666508181449b2970b5d06cb724cebd751b0231fe595e1da9685bfd1aac1c078b4b31f8a76431b060899902ce17c803e509c1475e426d8bf74bbb71fd8f7d1d55ea51485fd5922dc840f001fe8dec0368ce85e04143fcc1301172722eb311642ead31dc8ff1340782625ded67fc176ae69ddb5620fb5d6a4277f938ae3b6d828e5a87c25f368e3794ce44a0a52383f595d1ada7501c1e61f0505cc9785c87a448b2b791255ee337e3c10b3d3844631d2a45e2f980959b8e041fd988045d55b0bb857c7770e0839ec08d08095ec8bf99adf27f8b9939af9e4d5dfcf18f787e26ac6987a302f8034f97f913e5daf3dad09e283ab55b025128a86e4af16879120cced189009d9b8f080c4d543bff5318b4ac36d75074b3d65437f2998ac82ec8bcc6401c5ee3e07b8707ad1de471060c10e9054a00917981266aa964f1a93720668b1bf946f8eff5856986fe582e72499d8540cc9a180904a037f3eea93632427acb3589224c6e3af4de32a570e0ee084cdc1c9122c89480cafae41eb31110277737f5e3803410d1f68592e8fed031772dc2e47e29b77b793e762f6b412473a53f06a0118d9d9dba7689eb33ea7d1a3047f589bf56386bdcd677d1e5c89274b0ddb2cf4232ac4d2231d73debd15c8ef3ccd9625fed49d5998fb17d9b04638f3c53828bece47c07099ce519ca5176c5f0f18f32b6444cfc9e371bc71ac83dc9bf515107ccce2d902598d107388ba0a846801d48d5d06474022415b21602d87cd7e03c4191e55925f5f43ae80b3a11c37759fdb66584de3bba43fd89cdbd98973fd3a3b8f112bd95b669088a1edf87832fe23cb2a7abfa3f1680ac35820f59e6917c188922d7f55bc9b4a849f450fddff7147556d2c0ef2ed3ade21443ecd97ea4658d7848a67a7c7d1c0ac6291c6b913d562136a08eb571b81a0cb20a681dafa27b791b22d7d5f314363d3c994b0644212f0c26d6fb01fc7aa22d3b02c2d22146ca30dbb19faec201cc05040882d4f791c9b11ca4e2c7c31efb54f9e317e41c38626b8104458a8c024015fd5e14f7dd24e1fdedfcf9d4832e2f2ed48435d3967e428bdcdb261639dc90ac6213a8aa751ea6d483a99c90d676223f620df66fd3a7bce8df9e0ffe935ffacf573df2341d19c2d25934817225187ee9bfd673ab09c6f691f2f4b4f3639cb539632506fcde8ed3be89ea47efb7e3ac31bf28c72d94d38e821c93b85f97e9efa39f9a7a477ad12dbc6f554f61b2c39becd0a2c57ee57e19fd229521a212dbb89a54dfb71e6e4c90eddf1c0889a9fe2afa6ca5f6a3b4a50dcaa9c5641e668108b22607d619b7ff42c248b1af530b2aece5f1b7de92f01c98dec2f54e8a25cbfefbaef835951f62f74e0482928785f282602501e1208af5f0c682f297c218cc122ddbaec672ae104ac9626dff20b303636efcbf1dda03e4e8ea30c1b495af8b44ea6f3ab1954bd262f092aa6b1bb0f2b2a519f23d27f6a7faef26e6e731abc40f91c1be9aa281f80a5bccdf7dc48c8f940478ebf6b792b60cb9626c4477314148904bfaff74474d41a705be2f273f6a6f26f257cdfa214e90bdb3543ab0aab9d3f5aa67d7867ca0ca4305971d5ad9df59fca3a76e4035ba22f32aefb89f53f70363273e75706804293c5c3285d3d2501e2390605286eb0335efc812500f0aee74b08e9e54fb4b52d838c754c87f80a6fc6c7229f76aed22ffaa8b8156f06a72c8a289a93a085201fc370bdcaf0b15469e5f05b5bb40d60ae9c070319f8dfb74a27a29e218f5a089922ae3b29410ca78ab9ac1a5d0bca9c14cdf1067a075d17842f39e07ddccc3d7fd88801a9b6127ed5b49eb2a376ae0170ec1ca4fafdcd20f1499d26d66d4cbcacdd42ad1fbd975115f776bccaf4d550ab08d4de716d97ae9829788c26b84a405d5d3ddf8cd2388010d93f1e8fdd564a1601d1e096c0d69d04f96838c9d8bed6a3b727fafe57f0493269aa4708ddf05b3ffe57e6e96d5fdb0d16705281e74bacbb9384f89c3d71acaec8d3e24d41ec06eec1c32d76f9d7d4b7c33ad2ba250ea84979f6f0cc2ab174c3876dfe68645f29d03c3bec2c0d718f9d4c1b02478dc2e60886102c77a68830ecf93bde71d9e94a36f346eb942e1ce6bcfc0344b2f3e61c0c7cb8bb81f11319be6df4713a7e496241ba31101a2d23de21fdeab32cea4b7b950195f7f84d498f58dccaaa9925e674243663748f9d8cda1470f5579c8262ffebb8dd4a796eb747779eb8da67b023905c3538e95689fce87c8b6574dbc11b2377137a79f2f9dd0a7ee9f4c1279e61a11d73cbf2dba5b1f4e061dba9a715f026fef9d49ae00c08bf54ce7e4bd442ab5ed7573f4a43cda2cfa2625909320ff7a177e0197b88b46fc34de04585b031326ac68b40fa021d018854d970d5802119315e7bc24c97e6fce771a25ef4719e16af50b3059292a64b409168c2278a69fd3838b36aa6de80c969dbe080f70541b9ebcb3d7c79bf5980c61cd9005b2573b78d1d72cd215e936a86cf25fb5a4d9a1e73ffaeea1d645469001c5b3d5746178b672121303cb31d51ea40321662bf7852b2bc05bb5f128deb0dc71bafa35c41900b061cf692ac32bd020c80c7b0141931acccbdd1367bd5f16427ec040183bf71a4a414a16869c82bde984543528ba654fb94f0336e5cdcbd67e8e244d4e6ae7927b06287d8d28c4118c2817909b9056ef4de99445b8a0d3fe3114b7606aa8668d26ec10de16b8194e20011c346ed658bbeb6e907a853080ed6cf2c69619a75c91cafe40ed3622988d890fea12d7138edb0325c759e387a5e922dd2167ff946113531718fc29d30b9425fcd4949b3a987ee4294ae2e60406eaa2849cc1ad4fe1d26b954d04d5ba554046d90a13a2869a3dcf82d47373a3307abcdc92647370f07790619b62ddb2192de7a6521c1cea76b9cc40f7c15942e7fea30b977b8bdb0d4a379d23b8d378d8c143ed95836c02980698744c34ca4f731d9f31f6a8a03626a4aee0bc6f5b3bad871ca6d59c426c1d969c01f14044b2ee392f8d253a41257965b7805d48a510d6804ac43b9e9ded9dddaa94cda3823ef86fcb37b55abdfc8c370098aa49a56c589b9e0683380734bcf36c3e8fc273746125c874e69b9e21e0cec0067cd03eca64b44f77b05da61a94a6eef86a7abc5e091cd9b9b412e01ec540237c5d85da65edc3aa9974ab2164b0f9939fb2c4c034d67e473b27c9bc6261e37042a4cc6820fc473b84f40e49c33caf3ab2dce63e5e8fb2768e4b91b180b9a89ff3b68439148f7029554dac7e07d3d371fd945b31b9e14f9c32febfb53fa1687e029cf9746253c50c5d98b6fea1f7cbe40ca24a479a897b0e3704843dd48202648b65b297885cf3e267dff23376960718d51dbf851a639be3e8720b723abd4bd1c0b3fee487f83e43ac46138a8afcf7cddbc53efa1b2432fdb7f564b91e88003868cec81a1428cad476ef8bdbe100d535da31f317ab159301517e0d4f07686306a3d2e3eb8a03c5e473df7f2de4ea181b8da06a3f6d2875acb4352730b9263b4e3a1c22df8b3be1b5f005f65e979afa9d6580a291b862e824c853181a121e829b1fa0a6adb36d3329db0e4588c88e302401062de61b09a544aa8c08dfae3906132323e7b9c0336d01259c608badbb0849105dce1811d6a2f7ee9698772c5be9f7f3dd23f49cd176aadd057d58f933572ca2371001a5a55f14740bb8e04ee2765c77f1459c814596c661b75fa5614</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《可编程序控制器技术与应用》笔记</title>
+    <url>/2024/09/07/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
+<p> 前言：本文是由Ding在大学课程“可编程序控制器技术与应用”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h2 id="PLC的起源和诞生"><a href="#PLC的起源和诞生" class="headerlink" title="PLC的起源和诞生"></a>PLC的起源和诞生</h2><ul>
+<li><strong>起源</strong>：1968年，美国最大的汽车制造商<a href="https://baike.baidu.com/item/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/556241"><strong>通用汽车公司</strong></a>为了适应生产工艺不断更新的需要，期望找到一种新的方法，尽可能减少重新设计继电控制系统和重新接线的工作，以降低成本、缩短周期，设想把计算机通用、灵活、功能完备等优点和继电控制系统的简单易懂、价格便宜等优点结合起来，制成一种通用控制装置，并把计算机的编程方法和程序输入方式加以简化，用面向控制过程、面向问题的“自然语言”进行编程，使不熟悉计算机的人也能方便地使用。</li>
+<li><strong>诞生</strong>：1969年，美国<a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8/5559330#:~:text=%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8%EF%BC%88%E5%8D%B3%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B1%E6%96%87%EF%BC%9ADigital%20Equipment%20Corporation%EF%BC%8C%E7%AE%80%E7%A7%B0DEC%EF%BC%89%E3%80%82%201998%E5%B9%B41%E6%9C%88DEC%E5%85%AC%E5%8F%B8%E8%A2%AB,%E5%BA%B7%E6%9F%8F%20%E4%BB%A596%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%94%B6%E8%B4%AD%EF%BC%8C2001%E5%B9%B4%20%E6%83%A0%E6%99%AE%20%E5%BA%B7%E6%9F%8F%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6%E3%80%82"><strong>美国数字设备公司</strong></a>研制出了第一台可编程序逻辑控制器PDP—14，在通用汽车公司的自动装配线上试用获得了成功。</li>
+</ul>
+<h2 id="PLC简介"><a href="#PLC简介" class="headerlink" title="PLC简介"></a>PLC简介</h2><ol>
+<li>可编程逻辑控制器（Programmable Logic Controller）简称PLC，最初只能进行计数、定时及开关量逻辑控制。<br>随着计算机技术的发展，可编程逻辑控制的功能不断扩展和完善，其功能远远超出了逻辑控制的范围，具有了PID、A&#x2F;D、D&#x2F;A、算术运算、数字量智能控制、监控、通信联网等多方面的功能，它已变成了实际意义上的一种工业控制计算机。</li>
+<li>于是，美国电器制造商协会将其正式命名为可编程序控制器（Programmable Controller），简称PC。</li>
+<li>由于它与<a href="https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E8%AE%A1%E7%AE%97%E6%9C%BA/3731770"><strong>个人计算机(Personal computer)</strong></a>的简称PC相同，所以人们习惯上仍将其称为<a href="https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8/84414?fromtitle=PLC&fromid=275974"><strong>PLC</strong></a>。</li>
+</ol>
+<h2 id="PLC定义"><a href="#PLC定义" class="headerlink" title="PLC定义"></a>PLC定义</h2><ul>
+<li>1987年2月，国际电工委员会(IEC)对可编程控制器的定义是：1987年，国际电工委员会 (IEC)是这样定义可编程控制器的：“可编程控制器是一种数字运算操作的电子系统，专为在工业环境下应用而设计，它采用可编程序的存储器，用来在其内部存储执行逻辑运算、数序控制、定时、技术和算术运算等操作的指令，并通过数字式、模拟式的输入和输出，控制各种类型的机械或生产过程。</li>
+</ul>
+<h2 id="PLC的分类"><a href="#PLC的分类" class="headerlink" title="PLC的分类"></a>PLC的分类</h2><ol>
+<li>按结构特点分<ul>
+<li>整体式；：结构紧凑、体积小、价格低,小型PLC一般采用整体式结构</li>
+<li>模块式：配置灵活，可根据需要选配不同规模的系统，且装配便，便于扩展和维修，大、中型PLC一般采用模块式结构</li>
+</ul>
+</li>
+<li>按控制规模分<ul>
+<li>微型:I&#x2F;0点数小于64</li>
+<li>小型:I&#x2F;0点数64-256</li>
+<li>中型:I&#x2F;0点数256-1024</li>
+<li>大型:I&#x2F;0点数1024以上</li>
+</ul>
+</li>
+<li>按控制性能分<ul>
+<li>低档机</li>
+<li>中档机</li>
+<li>高档机</li>
+</ul>
+</li>
+</ol>
+<h2 id="PLC应用"><a href="#PLC应用" class="headerlink" title="PLC应用"></a>PLC应用</h2><ol>
+<li>数字量控制</li>
+<li>运动量控制</li>
+<li>闭环过程控制</li>
+<li>数据处理</li>
+<li>通信联网</li>
+</ol>
+<h2 id="PLC基本结构"><a href="#PLC基本结构" class="headerlink" title="PLC基本结构"></a>PLC基本结构</h2><ul>
+<li>CPU,电源，储存器和输入输出接口电路等组成（其硬件组成与微型计算机相似。）</li>
+</ul>
+<h2 id="PLC特点"><a href="#PLC特点" class="headerlink" title="PLC特点"></a>PLC特点</h2><ul>
+<li>（可编程逻辑控制器）的特点包括：<ol>
+<li>编程方法简单易学</li>
+<li>功能强，性能价格比高</li>
+<li>硬件配套齐全，用户使用方便，适应性强</li>
+<li>可靠性高，抗干扰能力强</li>
+<li>系统的设计、安装、调试工作量少</li>
+<li>维修工作量小，维修方便</li>
+<li>体积小，能耗低</li>
+</ol>
+</li>
+</ul>
+<h2 id="PLC基本编程语言"><a href="#PLC基本编程语言" class="headerlink" title="PLC基本编程语言"></a>PLC基本编程语言</h2><ol>
+<li>梯形图</li>
+<li>语句表</li>
+<li>功能块图</li>
+<li>顺序功能图</li>
+<li>结构文本</li>
+</ol>
+<h2 id="PLC控制系统示意图"><a href="#PLC控制系统示意图" class="headerlink" title="PLC控制系统示意图"></a>PLC控制系统示意图</h2><p><img src="/img/PLC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="PLC控制系统示意图"></p>
+<h2 id="PLC工作原理"><a href="#PLC工作原理" class="headerlink" title="PLC工作原理"></a>PLC工作原理</h2><p><img src="/img/PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt="PLC工作原理"></p>
+<ul>
+<li><strong>扫描周期</strong>：PLC在RUN工作状态时，执行一次扫描过程所需的时间称为扫描周期，典型值为1～l00ms</li>
+</ul>
+<h1 id="S7-1200-PLC-简介"><a href="#S7-1200-PLC-简介" class="headerlink" title="S7-1200 PLC 简介"></a><a href="https://www.ad.siemens.com.cn/productportal/prods/s7-1200_plc_easy_plus/04-version/01-Specification/S7-1200_New_Para.html">S7-1200 PLC 简介</a></h1><ul>
+<li>S7-1200 PLC (Programmable Logic Controller) 是西门子公司推出的一款PLC，主要面向简单而高精度的自动化任务。</li>
+<li>S7-1200设计紧凑、组态灵活且具有功能强大的指令集，这些特点的组合使它成为控制各种应用的完美解决方案。  </li>
+<li>CPU将微处理器、集成电源、输入电路和输出电路组合到一个设计紧凑的外壳中以形成功能强大的PLC。CPU根据用户程序逻辑监视输入并更改输出，用户程序可以包含布尔逻辑、计数、定时、复杂数学运算以及与其它智能设备的通信。</li>
+<li>S7-1200视频<ul>
+<li><a href="https://www.bilibili.com/video/BV1nzpzeFE8U?t=9.3"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，希望理解）</a></li>
+</ul>
+</li>
+</ul>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+]]></content>
   </entry>
   <entry>
     <title>《应用文写作》笔记</title>
@@ -147,92 +256,6 @@
       <tags>
         <tag>学习笔记</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>《可编程序控制器技术与应用》笔记</title>
-    <url>/2024/09/07/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
-<p> 前言：本文是由Ding在大学课程“可编程序控制器技术与应用”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h2 id="PLC的起源和诞生"><a href="#PLC的起源和诞生" class="headerlink" title="PLC的起源和诞生"></a>PLC的起源和诞生</h2><ul>
-<li><strong>起源</strong>：1968年，美国最大的汽车制造商<a href="https://baike.baidu.com/item/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/556241"><strong>通用汽车公司</strong></a>为了适应生产工艺不断更新的需要，期望找到一种新的方法，尽可能减少重新设计继电控制系统和重新接线的工作，以降低成本、缩短周期，设想把计算机通用、灵活、功能完备等优点和继电控制系统的简单易懂、价格便宜等优点结合起来，制成一种通用控制装置，并把计算机的编程方法和程序输入方式加以简化，用面向控制过程、面向问题的“自然语言”进行编程，使不熟悉计算机的人也能方便地使用。</li>
-<li><strong>诞生</strong>：1969年，美国<a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8/5559330#:~:text=%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8%EF%BC%88%E5%8D%B3%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B1%E6%96%87%EF%BC%9ADigital%20Equipment%20Corporation%EF%BC%8C%E7%AE%80%E7%A7%B0DEC%EF%BC%89%E3%80%82%201998%E5%B9%B41%E6%9C%88DEC%E5%85%AC%E5%8F%B8%E8%A2%AB,%E5%BA%B7%E6%9F%8F%20%E4%BB%A596%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%94%B6%E8%B4%AD%EF%BC%8C2001%E5%B9%B4%20%E6%83%A0%E6%99%AE%20%E5%BA%B7%E6%9F%8F%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6%E3%80%82"><strong>美国数字设备公司</strong></a>研制出了第一台可编程序逻辑控制器PDP—14，在通用汽车公司的自动装配线上试用获得了成功。</li>
-</ul>
-<h2 id="PLC简介"><a href="#PLC简介" class="headerlink" title="PLC简介"></a>PLC简介</h2><ol>
-<li>可编程逻辑控制器（Programmable Logic Controller）简称PLC，最初只能进行计数、定时及开关量逻辑控制。<br>随着计算机技术的发展，可编程逻辑控制的功能不断扩展和完善，其功能远远超出了逻辑控制的范围，具有了PID、A&#x2F;D、D&#x2F;A、算术运算、数字量智能控制、监控、通信联网等多方面的功能，它已变成了实际意义上的一种工业控制计算机。</li>
-<li>于是，美国电器制造商协会将其正式命名为可编程序控制器（Programmable Controller），简称PC。</li>
-<li>由于它与<a href="https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E8%AE%A1%E7%AE%97%E6%9C%BA/3731770"><strong>个人计算机(Personal computer)</strong></a>的简称PC相同，所以人们习惯上仍将其称为<a href="https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8/84414?fromtitle=PLC&fromid=275974"><strong>PLC</strong></a>。</li>
-</ol>
-<h2 id="PLC定义"><a href="#PLC定义" class="headerlink" title="PLC定义"></a>PLC定义</h2><ul>
-<li>1987年2月，国际电工委员会(IEC)对可编程控制器的定义是：1987年，国际电工委员会 (IEC)是这样定义可编程控制器的：“可编程控制器是一种数字运算操作的电子系统，专为在工业环境下应用而设计，它采用可编程序的存储器，用来在其内部存储执行逻辑运算、数序控制、定时、技术和算术运算等操作的指令，并通过数字式、模拟式的输入和输出，控制各种类型的机械或生产过程。</li>
-</ul>
-<h2 id="PLC的分类"><a href="#PLC的分类" class="headerlink" title="PLC的分类"></a>PLC的分类</h2><ol>
-<li>按结构特点分<ul>
-<li>整体式；：结构紧凑、体积小、价格低,小型PLC一般采用整体式结构</li>
-<li>模块式：配置灵活，可根据需要选配不同规模的系统，且装配便，便于扩展和维修，大、中型PLC一般采用模块式结构</li>
-</ul>
-</li>
-<li>按控制规模分<ul>
-<li>微型:I&#x2F;0点数小于64</li>
-<li>小型:I&#x2F;0点数64-256</li>
-<li>中型:I&#x2F;0点数256-1024</li>
-<li>大型:I&#x2F;0点数1024以上</li>
-</ul>
-</li>
-<li>按控制性能分<ul>
-<li>低档机</li>
-<li>中档机</li>
-<li>高档机</li>
-</ul>
-</li>
-</ol>
-<h2 id="PLC应用"><a href="#PLC应用" class="headerlink" title="PLC应用"></a>PLC应用</h2><ol>
-<li>数字量控制</li>
-<li>运动量控制</li>
-<li>闭环过程控制</li>
-<li>数据处理</li>
-<li>通信联网</li>
-</ol>
-<h2 id="PLC基本结构"><a href="#PLC基本结构" class="headerlink" title="PLC基本结构"></a>PLC基本结构</h2><ul>
-<li>CPU,电源，储存器和输入输出接口电路等组成（其硬件组成与微型计算机相似。）</li>
-</ul>
-<h2 id="PLC特点"><a href="#PLC特点" class="headerlink" title="PLC特点"></a>PLC特点</h2><ul>
-<li>（可编程逻辑控制器）的特点包括：<ol>
-<li>编程方法简单易学</li>
-<li>功能强，性能价格比高</li>
-<li>硬件配套齐全，用户使用方便，适应性强</li>
-<li>可靠性高，抗干扰能力强</li>
-<li>系统的设计、安装、调试工作量少</li>
-<li>维修工作量小，维修方便</li>
-<li>体积小，能耗低</li>
-</ol>
-</li>
-</ul>
-<h2 id="PLC基本编程语言"><a href="#PLC基本编程语言" class="headerlink" title="PLC基本编程语言"></a>PLC基本编程语言</h2><ol>
-<li>梯形图</li>
-<li>语句表</li>
-<li>功能块图</li>
-<li>顺序功能图</li>
-<li>结构文本</li>
-</ol>
-<h2 id="PLC控制系统示意图"><a href="#PLC控制系统示意图" class="headerlink" title="PLC控制系统示意图"></a>PLC控制系统示意图</h2><p><img src="/img/PLC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="PLC控制系统示意图"></p>
-<h2 id="PLC工作原理"><a href="#PLC工作原理" class="headerlink" title="PLC工作原理"></a>PLC工作原理</h2><p><img src="/img/PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt="PLC工作原理"></p>
-<ul>
-<li><strong>扫描周期</strong>：PLC在RUN工作状态时，执行一次扫描过程所需的时间称为扫描周期，典型值为1～l00ms</li>
-</ul>
-<h1 id="S7-1200-PLC-简介"><a href="#S7-1200-PLC-简介" class="headerlink" title="S7-1200 PLC 简介"></a><a href="https://www.ad.siemens.com.cn/productportal/prods/s7-1200_plc_easy_plus/04-version/01-Specification/S7-1200_New_Para.html">S7-1200 PLC 简介</a></h1><ul>
-<li>S7-1200 PLC (Programmable Logic Controller) 是西门子公司推出的一款PLC，主要面向简单而高精度的自动化任务。</li>
-<li>S7-1200设计紧凑、组态灵活且具有功能强大的指令集，这些特点的组合使它成为控制各种应用的完美解决方案。  </li>
-<li>CPU将微处理器、集成电源、输入电路和输出电路组合到一个设计紧凑的外壳中以形成功能强大的PLC。CPU根据用户程序逻辑监视输入并更改输出，用户程序可以包含布尔逻辑、计数、定时、复杂数学运算以及与其它智能设备的通信。</li>
-<li>S7-1200视频<ul>
-<li><a href="https://www.bilibili.com/video/BV1nzpzeFE8U?t=9.3"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，希望理解）</a></li>
-</ul>
-</li>
-</ul>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-]]></content>
   </entry>
   <entry>
     <title>《数控车床与加工工艺》笔记</title>
