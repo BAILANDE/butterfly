@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>《产品三维造型与结构设计（UG）》笔记</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
+<li>入门案例1<ul>
+<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
+</ul>
+</li>
+</ol>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《可编程序控制器技术与应用》笔记</title>
     <url>/2024/09/07/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
@@ -95,10 +115,420 @@
 ]]></content>
   </entry>
   <entry>
+    <title>关于借钱这件事</title>
+    <url>/2024/09/17/%E5%80%BA%E5%8A%A1%E8%BF%BD%E8%AE%A8/</url>
+    <content><![CDATA[<h2 id="事情经过"><a href="#事情经过" class="headerlink" title="事情经过"></a>事情经过</h2><ul>
+<li><p>在那个炎热的七月暑假，我遇到了一个棘手的问题。一位我并不十分亲近的朋友向我求助，希望我能借给他一笔钱。数额不大，但足以考验我们的友情。考虑到我们同在一所大学，同属一个院系，我几乎没有犹豫就答应了他的请求，并约定在新学期开始时他会还给我。然而，随着开学季的到来，我却发现事情并没有按照预期发展。尽管我多次友好地提醒他，他却始终没有归还借款的意思。</p>
+<p>面对这样的情况，我决定采取更为正式的措施。我开始搜集所有可能的证据，准备通过法律途径来解决这个问题。我知道这可能不是一条容易走的路，但正义和诚信一定会得到伸张。我整理了我们的聊天记录，转账凭证，以及所有可能支持我的主张的文件。当然，这不仅是为了追回那笔钱，更是为了维护我的权利和尊严。</p>
+</li>
+<li><p>最后，考虑到借款金额不大，我需要权衡诉讼的成本和收益。在某些情况下，通过和解或调解来解决纠纷可能更为经济和高效。我已经准备好了所有可能需要的证据，并且正在考虑所有可行的解决方案，以便尽快解决这个问题。</p>
+</li>
+<li><p>在我精心准备诉讼书和搜集所有必要证据，正站在法律行动门槛上的时候，发生了一件令我始料未及的事情。那位迟迟不肯归还借款的朋友，突然间，将欠款如数奉还。这个转变让我感到困惑，我原本已经做好了与他对抗到底的准备，以为他可能会成为那种逃避债务的“老赖”，没想到他却在最后关头选择了履行承诺。</p>
+<p>面对这突如其来的还款，我选择了接受。毕竟，我的初衷并非是通过诉讼来惩罚他，而是希望收回我应得的借款。既然他现在已经归还了款项，我认为继续诉讼已无必要。于是，我决定停止诉讼进程，同时也放下了这段因金钱而产生的不愉快。</p>
+<p>这件事情给了我深刻的教训：在金钱和友情的交织中，信任和沟通的重要性不言而喻。我也意识到，在处理类似的纠纷时，保持冷静和理智，以及适时采取行动，是多么关键。虽然这次的经历有些波折，但最终能够和平解决，也算是一个圆满的结局。</p>
+</li>
+</ul>
+<h2 id="欠条与诉讼书"><a href="#欠条与诉讼书" class="headerlink" title="欠条与诉讼书"></a>欠条与诉讼书</h2><h3 id="欠条"><a href="#欠条" class="headerlink" title="欠条"></a>欠条</h3><ul>
+<li><p>在我整理的过程中，我发现欠条可以避免很多问题。欠条是一种简单的债权债务凭证，通常由借款人（债务人）向出借人（债权人）出具，用以证明借款人欠出借人一定数额的款项或物品，并承诺在约定的时间内偿还。欠条在民间借贷、货物交易、服务提供等多种经济活动中广泛使用，作为一种非正式的法律文件，它记录了双方的债务关系。</p>
+</li>
+<li><p>欠条是个人或单位在借款、收货、服务等情况下，向对方出具的证明欠款或欠物事实的凭证。一个基本的欠条格式通常包括以下几个要素：</p>
+</li>
+</ul>
+<blockquote>
+<p>借款合同</p>
+<p>甲方（出借人）：姓名<br>身份证号码：<br>联系方式：</p>
+<p>乙方（借款人）：姓名<br>身份证号码：<br>联系方式：</p>
+<p>鉴于乙方因个人需要向甲方借款，甲乙双方本着平等自愿、诚实信用的原则，就借款事宜达成如下协议：</p>
+<ol>
+<li><p>借款金额：乙方向甲方借款人民币（大写）____（￥___元）。</p>
+</li>
+<li><p>借款期限：自____年____月____日起至____年____月____日止。</p>
+</li>
+<li><p>借款利息：借款期限内利息为年利率___%，利息自借款之日起计算。</p>
+</li>
+<li><p>还款方式：乙方应于借款期限届满之日一次性归还本金及利息。</p>
+</li>
+<li><p>违约责任：如乙方未能按期归还借款，应向甲方支付违约金，违约金为逾期金额的___%。</p>
+</li>
+<li><p>争议解决：本合同在履行过程中发生的任何争议，双方应友好协商解决；协商不成的，任何一方均可向甲方所在地人民法院提起诉讼。</p>
+</li>
+<li><p>本合同自双方签字之日起生效。</p>
+</li>
+</ol>
+<p>甲方（签字）：_____________________<br>乙方（签字）：_____________________<br>签订日期：____年____月____日</p>
+<p>  注：本欠条一式两份，借款人和出借人各执一份。</p>
+</blockquote>
+<ul>
+<li>这里有一些注意事项：</li>
+</ul>
+<blockquote>
+<p>借钱时，写欠条可以通过以下几个步骤来确保其有效性和法律效力：</p>
+<ol>
+<li><strong>明确借款人和出借人信息</strong>：在欠条中详细写明借款人和出借人的全名和有效联系方式，包括身份证号码。</li>
+<li><strong>借款金额</strong>：清楚地写明借款金额，最好同时用数字和文字两种形式表述，以避免篡改。</li>
+<li><strong>借款日期和还款日期</strong>：注明借款的具体日期和约定的还款日期。</li>
+<li><strong>借款目的</strong>：写明借款的具体用途，这有助于在发生纠纷时证明借款的合法性。</li>
+<li><strong>利息和还款方式</strong>：如果涉及利息，应明确利率和计息方式。同时，也要明确还款方式，比如一次性还清还是分期偿还。</li>
+<li><strong>签名和日期</strong>：欠条必须由借款人亲自签名，并注明签名的日期。</li>
+<li><strong>其他条款</strong>：如违约责任、争议解决方式等。</li>
+<li><strong>签名</strong>：债务人必须在欠条上签名，有时还需要按手印。</li>
+<li><strong>法律合规性</strong>：确保欠条内容符合当地法律法规的要求，必要时可以咨询法律专业人士。</li>
+<li>请注意，欠条虽然没有经过公证，但如果内容真实、合法，且双方当事人意思表示真实，它在法律上是有效的。在发生纠纷时，欠条可以作为证据使用，帮助债权人追讨债务。不过，为了增强法律效力，建议在出具欠条时有第三方见证，并保留好相关的交易记录或其他证据。对于大额交易或复杂情况，最好通过正式的合同并进行公证。843561</li>
+</ol>
+</blockquote>
+<h3 id="诉讼书"><a href="#诉讼书" class="headerlink" title="诉讼书"></a>诉讼书</h3><ul>
+<li><p>诉讼书，也称为起诉状，是当事人向法院提起诉讼时提交的正式书面文件。它包含了原告对被告的诉讼请求、事实和理由的陈述，以及支持诉讼请求的证据和法律依据。诉讼书是启动法律诉讼程序的关键文件，它使得法院能够了解争议的基本情况，并决定是否受理该案件。</p>
+<p>诉讼书通常包括以下几个部分：</p>
+<ol>
+<li><strong>首部</strong>：包括法院的名称、原告和被告的基本信息（如姓名、性别、年龄、职业、住址等）。</li>
+<li><strong>诉讼请求</strong>：明确列出原告要求法院做出的具体判决，如要求被告偿还债务、赔偿损失、履行合同等。</li>
+<li><strong>事实和理由</strong>：详细叙述导致诉讼的事实背景，包括争议发生的时间、地点、当事人之间的法律关系、争议的具体内容等，并阐述为什么原告认为自己有权提起诉讼，以及被告为什么应当承担相应的法律责任。</li>
+<li><strong>证据清单</strong>：列出所有支持诉讼请求的证据，如合同文本、通信记录、证人证言、鉴定意见、书证物证等。</li>
+<li><strong>附项</strong>：包括诉讼书的附件，如证据材料、法律条文等。</li>
+<li><strong>尾部</strong>：包括原告的签名或盖章、诉讼书的提交日期等。</li>
+</ol>
+</li>
+<li><p>在中国，根据《中华人民共和国民事诉讼法》的规定，起诉状应当由原告本人或者其代理人签名或者盖章，并注明提交日期。起诉状应当用中文书写，并且提交给有管辖权的法院。起诉状的撰写应当清晰、准确、合法，确保所提供的信息真实有效，以免影响诉讼的进行和结果。在撰写起诉状时，通常建议咨询法律专业人士，以确保符合法律要求和格式规范。</p>
+</li>
+</ul>
+<ul>
+<li><p>比如我的诉讼书</p>
+<blockquote>
+<p><strong>某某法院</strong></p>
+<p><strong>民事起诉状</strong></p>
+<p><strong>原告：</strong> 张三，男，25岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
+<p><strong>被告：</strong> 李四，男，24岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
+<p><strong>诉讼请求：</strong></p>
+<ol>
+<li>判令被告李四立即偿还原告张三借款本金人民币xxxx元（大写：伍仟元整）。</li>
+<li>判令被告李四支付自逾期还款之日起至实际偿还之日止的逾期利息（按中国人民银行同期贷款利率计算）。</li>
+<li>判令被告李四承担本案的全部诉讼费用。</li>
+</ol>
+<p><strong>事实和理由：</strong><br>原告张三与被告李四均为xx大学xx院系的学生。2023年7月15日，被告因个人消费需要向原告借款人民币xxxx元，并承诺于2023年9月1日新学期开始时一次性偿还。原告基于对同学情谊的信任，同意了被告的借款请求，并通过银行转账方式向被告支付了借款。双方未正式签订借款合同，但有聊天记录和转账凭证作为证据。</p>
+<p>然而，约定的还款日期已过，被告李四并未履行还款义务。原告自2023年9月1日起多次通过微信和电话方式提醒被告还款，被告均以各种理由推脱，至今未偿还任何款项。原告认为，被告的行为已构成违约，严重侵害了原告的合法权益。根据《中华人民共和国民法典》第五百零六条、第五百七十七条的规定，原告有权要求被告偿还借款本金及逾期利息，并承担违约责任。</p>
+<p>为维护自身合法权益，原告特向贵院提起诉讼，请求判如所请。</p>
+<p><strong>证据清单：</strong></p>
+<ol>
+<li>微信聊天记录截图，证明被告向原告借款的事实及双方关于还款的约定。</li>
+<li>银行转账凭证，证明原告已向被告支付借款。</li>
+<li>原告向被告催款的微信聊天记录和通话记录，证明原告已多次催告被告还款。</li>
+<li>逾期利息计算明细。</li>
+</ol>
+<p><strong>附项：</strong></p>
+<ol>
+<li>证据材料清单。</li>
+<li>《中华人民共和国民法典》相关法律条文。</li>
+</ol>
+<p><strong>原告签名：</strong> 张三</p>
+<p><strong>日期：</strong> 2024年9月18日</p>
+<hr>
+<p>请注意，上述诉讼书是一个示例，实际起诉状应根据具体案件的事实和法律规定进行详细撰写。在提交法院之前，建议由专业律师进行审核和修改。</p>
+</blockquote>
+</li>
+</ul>
+<ul>
+<li>尽管没有使用借条，使得证据链条略显不足，但幸运的是，我保留了详尽的聊天记录和通话记录，这些资料为我提供了有力的支持，尽管我尚未采取法律诉讼这一步骤。</li>
+</ul>
+<h2 id="关于打欠条这件事"><a href="#关于打欠条这件事" class="headerlink" title="关于打欠条这件事"></a>关于打欠条这件事</h2><blockquote>
+<p>好朋友之间借钱是否应该打欠条，这是一个涉及到信任、法律保护和人际关系复杂性的议题。以下是对这个问题的详细论述：</p>
+<h3 id="信任与关系的考量"><a href="#信任与关系的考量" class="headerlink" title="信任与关系的考量"></a>信任与关系的考量</h3><ol>
+<li><strong>信任的基础</strong>：朋友之间的借贷往往建立在相互信任的基础上。打欠条可能被视为对这种信任的一种考验，有时会让人感觉在金钱面前友谊受到了质疑。</li>
+<li><strong>关系的维护</strong>：在没有明确书面协议的情况下，朋友之间可能更依赖于口头协议和个人信誉。这种方式在关系良好时通常有效，但一旦出现问题，可能会损害双方的关系。</li>
+</ol>
+<h3 id="法律保护的必要性"><a href="#法律保护的必要性" class="headerlink" title="法律保护的必要性"></a>法律保护的必要性</h3><ol>
+<li><strong>证据的重要性</strong>：在法律上，书面证据是解决争议的关键。如果没有欠条，一旦借款人违约，出借人可能会面临难以追讨债务的问题。</li>
+<li><strong>权利的明确</strong>：欠条可以明确双方的权利和义务，包括借款金额、还款期限、利息等，有助于防止未来的误解和纠纷。</li>
+</ol>
+<h3 id="风险管理的角度"><a href="#风险管理的角度" class="headerlink" title="风险管理的角度"></a>风险管理的角度</h3><ol>
+<li><strong>风险评估</strong>：即使是朋友，也应该对借款人的信用和还款能力进行评估。打欠条是一种风险管理的手段，可以减少潜在的财务风险。</li>
+<li><strong>预防措施</strong>：在金钱交易中，即使是朋友，也应该采取一定的预防措施。这不仅是对自己财务安全的保护，也是对友谊负责任的表现。</li>
+</ol>
+<h3 id="社会和文化的影响"><a href="#社会和文化的影响" class="headerlink" title="社会和文化的影响"></a>社会和文化的影响</h3><ol>
+<li><strong>社会观念</strong>：不同的社会和文化对朋友间借贷的看法不同。在一些文化中，朋友间借钱不打欠条是常见的，而在其他文化中，即使是小额借贷也会要求有正式的书面记录。</li>
+<li><strong>个人价值观</strong>：个人对于金钱和友谊的看法也会影响是否打欠条的决定。一些人可能认为即使是朋友，金钱交易也应该明确和正式；而另一些人可能更看重维护关系的和谐。</li>
+</ol>
+<h3 id="实际操作建议"><a href="#实际操作建议" class="headerlink" title="实际操作建议"></a>实际操作建议</h3><ol>
+<li><strong>沟通</strong>：在决定是否打欠条之前，双方应该进行充分的沟通，了解彼此的期望和担忧。</li>
+<li><strong>灵活性</strong>：可以考虑采用较为非正式的书面协议，如电子邮件或短信确认，以减少正式欠条可能带来的尴尬。</li>
+<li><strong>第三方见证</strong>：在没有欠条的情况下，有时可以邀请第三方见证，或者通过银行转账等方式留下交易记录。</li>
+</ol>
+<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>好朋友之间是否打欠条是一个需要综合考虑的问题。它不仅涉及到法律保护和风险管理，还涉及到对友谊的尊重和维护。在做出决定时，应该基于对朋友的了解、对风险的评估以及对双方关系的考虑。最重要的是，无论是否打欠条，都应该确保双方的理解和同意，以维护友谊和信任。</p>
+</blockquote>
+<ul>
+<li>我的建议<ol>
+<li>借人应该评估借款人的信用和还款能力，避免因借款人无力偿还而造成损失。</li>
+<li>对于出借人来说，借出去的钱应该是自己可以承受损失的金额，即使借款人无法偿还，也不会对自己的经济状况造成重大影响。</li>
+<li>在没有明确书面记录的情况下，朋友间的借贷往往依赖于信任和口头协议。然而，当还款出现问题时，缺乏书面记录可能导致双方各执一词，难以达成共识。欠条作为一种预防措施，有助于减少此类纠纷的发生。</li>
+<li>将打欠条作为标准做法，也有助于提高公众对财务责任和法律意识的认识。它传递了一个信息，即即使是在朋友之间，金钱交易也应该有适当的正式程序。</li>
+</ol>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>个人权益维护</category>
+      </categories>
+      <tags>
+        <tag>个人权益维护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在线密码生成器</title>
+    <url>/2024/09/19/%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>密码生成器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .password-generator {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .password-box {
+            width: 100%;
+            margin: 10px 0;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+            word-break: break-all;
+            max-height: 160px; /* 设置密码框的最大高度 */
+            overflow-y: auto; /* 允许垂直滚动 */
+            display: block; /* 移除-webkit-box的样式 */
+        }
+        .password {
+            font-size: 24px;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            outline: none;
+            margin: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .options {
+            margin-bottom: 20px;
+        }
+        .option {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>密码生成器</h1>
+        <div class="password-generator">
+            <div class="password-box" id="generatedPassword">点击按钮生成密码</div>
+            <button onclick="generatePassword()">生成密码</button>
+            <button onclick="copyPassword()">复制密码</button>
+        </div>
+        <div class="options">
+            <label for="passwordLength">密码长度:</label>
+            <input type="number" id="passwordLength" value="12" min="4" max="50">
+            <label class="option"><input type="checkbox" id="lowercase" checked> 小写字母</label>
+            <label class="option"><input type="checkbox" id="uppercase" checked> 大写字母</label>
+            <label class="option"><input type="checkbox" id="numbers" checked> 数字</label>
+            <label class="option"><input type="checkbox" id="symbols" checked> 特殊符号</label>
+        </div>
+    </div>
+
+<script>
+        function generatePassword() {
+            var length = document.getElementById("passwordLength").value;
+            var charset = "";
+            var hasLowercase = document.getElementById("lowercase").checked;
+            var hasUppercase = document.getElementById("uppercase").checked;
+            var hasNumbers = document.getElementById("numbers").checked;
+            var hasSymbols = document.getElementById("symbols").checked;
+
+            if (hasLowercase) charset += "abcdefghijklmnopqrstuvwxyz";
+            if (hasUppercase) charset += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            if (hasNumbers) charset += "0123456789";
+            if (hasSymbols) charset += "!@#$%^&*()_+";
+
+            var retVal = "";
+            for (var i = 0, n = charset.length; i < length; ++i) {
+                retVal += charset.charAt(Math.floor(Math.random() * n));
+            }
+            document.getElementById("generatedPassword").textContent = retVal;
+        }
+
+        function copyPassword() {
+            var password = document.getElementById("generatedPassword").textContent;
+            navigator.clipboard.writeText(password).then(function() {
+                alert("密码已复制到剪贴板");
+            }, function(err) {
+                alert("无法复制密码: " + err);
+            });
+        }
+</script>
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title>《应用文写作》笔记</title>
+    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
+<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
+<li>一般文章类：记叙文、议论文、说明文。</li>
+<li>文学作品类：诗歌、散文、小说、戏剧。</li>
+<li>应用(实用)文类：日用文、专用文。</li>
+</ol>
+<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
+<li><strong>产生</strong><ol>
+<li>仓颉造字，以代结绳。</li>
+<li>我国最早的文章是应用文</li>
+<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
+<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
+<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
+</ol>
+</li>
+<li><strong>发展</strong><ol>
+<li>*<strong>先秦</strong>；萌芽期</li>
+<li><strong>秦——清</strong>；形成发展期</li>
+<li><strong>清后</strong>；繁荣期</li>
+</ol>
+</li>
+</ul>
+<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
+<li><strong>实用性</strong></li>
+<li><strong>规范性(格式性)</strong></li>
+<li><strong>真实性</strong></li>
+<li><strong>时效性</strong></li>
+<li><strong>广泛性</strong></li>
+<li><strong>确定性(对象)</strong></li>
+</ul>
+<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>公文类</li>
+<li>事务文书</li>
+<li>经济文书</li>
+<li>职场文书</li>
+<li>科技文书</li>
+<li>宣传文书</li>
+<li>法律文书</li>
+</ol>
+<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>主旨(鲜明，集中)</li>
+<li>材料(真实，典型)</li>
+<li>结构(严谨，完整)</li>
+<li>语言(简明，朴实，庄重)</li>
+</ol>
+<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
+<li><strong>记叙</strong></li>
+<li><strong>描写</strong></li>
+<li><strong>说明</strong></li>
+<li><strong>议论</strong></li>
+<li><strong>抒情</strong></li>
+</ul>
+<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
+<li>象形法</li>
+<li>指事法</li>
+<li>会意法</li>
+<li>形声法</li>
+<li>转注法(辅助)</li>
+<li>假借法(辅助)</li>
+</ul>
+</li>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
+<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
+</ul>
+</li>
+</ol>
+<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
+<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
+<li>特点<ul>
+<li>预见性</li>
+<li>针对性</li>
+<li>可行性</li>
+<li>约束性</li>
+</ul>
+</li>
+<li>三要素：目标、措施、步骤</li>
+<li>写法<ul>
+<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
+<p>例：《清华大学2015年度工作计划》</p>
+</blockquote>
+</li>
+<li>正文：<ul>
+<li>前言：目的、依据、指导思想、任务要求。</li>
+<li>主体：做什么——怎么做——什么时候完成<ul>
+<li>目标任务：做什么（明确）</li>
+<li>方法实施：怎么做（具体）</li>
+<li>时间步骤：什么时候完成（清楚）</li>
+</ul>
+</li>
+<li>结尾：希望、要求</li>
+</ul>
+</li>
+<li>落款：单位（个人）名称+日期</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>如果说要策划一场活动，那么应该包括以下几点：</p>
+<ol>
+<li>活动名称</li>
+<li>活动主题</li>
+<li>活动时间、地点</li>
+<li>活动内容</li>
+<li>活动形式</li>
+<li>活动参加人员负责人</li>
+<li>活动经费来源、预算 </li>
+<li>策划单位、日期</li>
+</ol>
+</blockquote>
+<ol start="5">
+<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
+<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>软件安装目录</title>
     <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="07038e08635107deeeadd984e420825608f60e0147390c36ed3164db9bf88fe4">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433bd5716cdff5fed6f1db109b6f3d0602d4f1e7d46aa64cc813fc26343972918a2617f90bf09de093881be31c45919b46eeeb573152828a0392b74184d59183b2b05134ff97ea48d5ce9a6927dbf72b2c10121b121adfac3a01cd260912bd85534253ded90c2cc940edb0df1ba01e16332984e340f7d718d484e371e139acaa32c22f39758375eba284037ecf323a6b317503cb0975d69349230614f0610e3afdece3d43637c16f86725a0335b482bba0c91a72a20af863913fcfdc4bf63cebf7c124109272c7b92e240e5bc9ad2fdb4c8876dad768609ec54951021af946b4bce6619186b82d3a463591b14d9aaf649c59aedbc050ad83b8a3f85100a6bb51af3aaf26ecc396591139a69605635d5765f131395b0551614f9b760cf0954ef08ae2581d05d1b4d261109bdcdc0ac22ee0cdeb7958a2f983062ae76ecaac76bdb74a593af09e6485fdb041f7486273fbe7837eb5ed0b4e856a386bc3bc9a86e9722e9ecf7442a83ebd6637e0fc58dfcf7adad783312b9c1c957749d29f2e90ad49c8533e6af769f5e56ff17d69f8d86cc5023aa46f2089075146063cb78a0b18b0ace3bad4c0158333da4580c76d31db1ade12cb5caad1a9261e204423b633aeb0137f377b69fca0245eba0449af99f1477fdd85a64dcd01b7734037f44b8e134583fc5ae8f7ddff3292eb2be95a231285808ff4cfec958b0fef1b5d9ac612a22efdc578cc1b349c9c83fc9cb2c899ec8423ce92c3496aa821b4799e0e9819912d53190551bd5b2051743b5ae6e51926ef276545687c9f2657707d97dd7094806861b1ba33ec00883c3ad868d38012bc74903609aa93b524266b9a0eeb2c3fe2fb8fcf0aae1ac6e3dbe78055d30be46a1c99eaa239091d43bd77dec3b380699d54153650284fd995a17cf0ffe0ed6c1c233b8432eaba8fd3ba47b5446fc34196dcb8aa23bd3918db665f1930909ccc50b1ee9617aa115838c9e9b50ffb0ba2943d04800637f7685c0e95b3ff838756fab178af25939a56ed0850d3b1065def8c595a4b38249e58a6f5445c86a3f96b9fdd3882f40a70443be58cfb4d28fd2470c466815f3071fb2f315aa5b5cd3b8a30324bd5b2a5c5d686354a01a24d7b4a6f298229dc0c1f7bbe23e48247cfcebce95f4d4a4710903ad956d1df867e42f89cd1604bb0b044b2611635e84c3f094842a3ef7bf16d5d651eb6798aabe12ed8940cda6c54213fa2626e4d9e0b102c7c5c7c72f360ba94aef06b4fe800684834df492b9a7ee05c92956eac3c195bfd14979ce03c4440dc092b8849d204497d9570b74dba91926352c1f9210296323fc25767c100e0df00b8c2d05ad9fffe6f4c6f24b4a50241124fd30b5c855e1d441794e24151fe43be559a3329e21dd5918f52fc7808d5e91bfa31aa918f694c8948a13f51f6ee846f58abad0bd7ff7dafa27fd1984261f3c3d46afa96d3ea6b7ae6bf1c61719582884a35e21895ec755da37cfab987f3a93a376d851ff269fadbf64c0cf6a76b699f1de1e291c365ec4c26953f4b08b4639f236e6ebfe89670d5a3e0fe5c27e423684e83bcb444b1840f108c8d378e79f2cfc43ab04ea8e79879d0f6e2e87cd91bf737bc08e8ca75a58303d50e1d3d5459932c146891020404cb6cc94f5090edc86a04055c30db673da3dd413c8eab458e9dd9d1f110af51e514c253db5abe2144bfccdbe4da5ed6fcbe86098181358fb35ddd29c2a39aa389c5aecdc8c9636d6f72e01428d3ca539be1005ddec38ba503c0b473d2190a0ceda547134f11d02c4a18e35a19d705a072359fec7e0de5cad1278c71adcb398956729c1ccbacd9550100949a896356fc7cb94bec66718d64fa138ee2b2debd4e5620ea6d3edb9008d52970640f217ee2717cf249972b1f0a18a87ce8a067532c6ab60181ccc7b1ddd59a57f20af9f81923a3dccd78b252c1856334ed7a86c2a306af0809c020891c7cb13c916ec808431e611d5ef980b746888231cff4bd076b4eee88f31da4b0dfc63b409488d484f2ed292faa3f404794e348bc2ba2b836ed1122e05abc9a796ffd95f86c50b9b9ec0596a22e6200a754c4e7228fcbc28a5bb3fa57f3f15adfeeb4a23b83c26639d944742f9c595cd509c41facf6fda692e1565f41d3919470fa54f7d038c0936f6de5e8cc67660074999716913f92817b2802be92914ba27cf36aa83de591babee3dd64f892fafc0ad7af99ef160c72844064b70258e48e1c64df7ae0a15db7299c905b36ecd2e69b73d1ee5833473c5ca3692feccfb2918b661a99c319eee2f7568be48fcd13a05ac86723b477da670d357d15f25b7ae3cd11e2fe829d6063338054aac36d59f8f4b0f65a57fba253fe387e79c25c48c8bde170ccc5e28fa5850138cc3ef823f28f994176f72ec0eb520fbcdd8bfe61cd0fbdf2e901d1b42b40ad4de4930df8480675f9af9986b28710b5df57883fd1e968262ed79a617d677af8068edf7467feddea8fde6fdce08954f1d45741ef4eb9a05b4650c13f8e56db4ac796064b039fac2eb222bac09aa62c92abb372a7772610831a8d0012806ce64ad88e0b03e5a2e2702779960aff57b28b0bff1d563d669202f46fbcb59c1e4944b46296a916f9d47789441c8a53fa262fe7c6155f01f8bafbde327b3e2b10ad772ef401eaf3eb</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="c17b3c93c8ce7d60c1221d4edc9cd5a264eee13a260f1c8e098f941950b93422">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433bd5716cdff5fed6f1db109b6f3d0602d4f1e7d46aa64cc813fc26343972918a2617f90bf09de093881be31c45919b46eeeb573152828a0392b74184d59183b2b05134ff97ea48d5ce9a6927dbf72b2c10121b121adfac3a01cd260912bd85534253ded90c2cc940edb0df1ba01e16332984e340f7d718d484e371e139acaa32c22f39758375eba284037ecf323a6b317503cb0975d69349230614f0610e3afdece3d43637c16f86725a0335b482bba0c91a72a20af863913fcfdc4bf63cebf7c124109272c7b92e240e5bc9ad2fdb4c8876dad768609ec54951021af946b4bce6619186b82d3a463591b14d9aaf649c59aedbc050ad83b8a3f85100a6bb51af3aaf26ecc396591139a69605635d5765f131395b0551614f9b760cf0954ef08ae2581d05d1b4d261109bdcdc0ac22ee0cdeb7958a2f983062ae76ecaac76bdb74a593af09e6485fdb041f7486273fbe7837eb5ed0b4e856a386bc3bc9a86e9722e9ecf7442a83ebd6637e0fc58dfcf7adad783312b9c1c957749d29f2e90ad49c8533e6af769f5e56ff17d69f8d86cc5023aa46f2089075146063cb78a0b18b0ace3bad4c0158333da4580c76d31db1ade12cb5caad1a9261e204423b633aeb0137f377b69fca0245eba0449af99f1477fdd85a64dcd01b7734037f44b8e134583fc5ae8f7ddff3292eb2be95a231285808ff4cfec958b0fef1b5d9ac612a22efdc578cc1b349c9c83fc9cb2c899ec8423ce92c3496aa821b4799e0e9819912d53190551bd5b2051743b5ae6e51926ef276545687c9f2657707d97dd7094806861b1ba33ec00883c3ad868d38012bc74903609aa93b524266b9a0eeb2c3fe2fb8fcf0aae1ac6e3dbe78055d30be46a1c99eaa239091d43bd77dec3b380699d54153650284fd995a17cf0ffe0ed6c1c233b8432eaba8fd3ba47b5446fc34196dcb8aa23bd3918db665f1930909ccc50b1ee9617aa115838c9e9b50ffb0ba2943d04800637f7685c0e95b3ff838756fab178af25939a56ed0850d3b1065def8c595a4b38249e58a6f5445c86a3f96b9fdd3882f40a70443be58cfb4d28fd2470c466815f3071fb2f315aa5b5cd3b8a30324bd5b2a5c5d686354a01a24d7b4a6f298229dc0c1f7bbe23e48247cfcebce95f4d4a4710903ad956d1df867e42f89cd1604bb0b044b2611635e84c3f094842a3ef7bf16d5d651eb6798aabe12ed8940cda6c54213fa2626e4d9e0b102c7c5c7c72f360ba94aef06b4fe800684834df492b9a7ee05c92956eac3c195bfd14979ce03c4440dc092b8849d204497d9570b74dba91926352c1f9210296323fc25767c100e0df00b8c2d05ad9fffe6f4c6f24b4a50241124fd30b5c855e1d441794e24151fe43be559a3329e21dd5918f52fc7808d5e91bfa31aa918f694c8948a13f51f6ee846f58abad0bd7ff7dafa27fd1984261f3c3d46afa96d3ea6b7ae6bf1c61719582884a35e21895ec755da37cfab987f3a93a376d851ff269fadbf64c0cf6a76b699f1de1e291c365ec4c26953f4b08b4639f236e6ebfe89670d5a3e0fe5c27e423684e83bcb444b1840f108c8d378e79f2cfc43ab04ea8e79879d0f6e2e87cd91bf737bc08e8ca75a58303d50e1d3d5459932c146891020404cb6cc94f5090edc86a04055c30db673da3dd413c8eab458e9dd9d1f110af51e514c253db5abe2144bfccdbe4da5ed6fcbe86098181358fb35ddd29c2a39aa389c5aecdc8c9636d6f72e01428d3ca539be1005ddec38ba503c0b473d2190a0ceda547134f11d02c4a18e35a19d705a072359fec7e0de5cad1278c71adcb398956729c1ccbac4bd9d825d41c26f520696f2dc9c8624e0600f257dbe45cd8231be63084373d1cd5269503e4c63e7f74e7e972d43e3d6cc52042d8b8f9dd936e2e4f2843db30c1145ae37a9bd0aa3dc46bd62f096ec71da08274737d4b5185327d816ac03e19be7136e0b10ce1d94aa49d4637569efe88699e08cdcf77a6801d2930463dc7a604ef28808f03a9526f3ef1b11ac21bbd893a9cf6b2302c2117f015bf4ab74e27de677f8c013b035fdbe9e0fe83f93a399bbfc999dafe648f077d2892ea354f21ba8adf64dd71f7311a7efd1958fee350b55bdf1f49223ce33c04c59a4a73fdcd62e8fb65f648db3f7c0255760ad1f8892e1e902b9deafc0ae58a05af23356063a291b7a6969e9a3fa2c14400b82df2e0c86aa95ff32cc24ec1d07c0507f6877b462b4bba2c3aa3a5472acff45c5cc8298eace3c7a848fdaaf2bdf02d7d6c222cde0c92fc37f6fb19019d985d26d8012f87df50805c402d308606f683f05b794738c93edd54df9dfab12393d4147154ae8dc2dc8685b61ec934485382d884ae987a77e1b58fe3dbc98ed1a08272ad9b0d5a8f6d58442bcda7e76f720d6e9c5d68e6f7e09ac71ee64a60576f1b1c7017a7bc8b66be41909383bf2caf37035ae1708089f9a782b394a83a4690fc76c1ecb6f1e4c9d6e2192091da3c10278cdccf79da088e026071728bc39a0c7e4976cedceeb07f5894c39b4eee2b65a0f50c44655daef4ae7dc6ce769b6c0fe1263521721ae5e7cffcc3902689c8b2bf5a276bdb460935a907ec0e7fe53171a5717205179318752bfdb44f5b34e8e1602f0b66227f06ccec477df0aab24577a13148708665c84ea51019620434808cc666a0dfc29a0b5a6d817f3f7a9b4ab944c30c90605dd417e8a306ea39106236dd8ca4d6e1a6b79e0f6828f7dd23728588934b44904e3c0ca5eea77460f67122e2bb2689b9ef199222cfc60a245d3db8bbde3a4a70dec7f12fc5f278e4e7f4e99f9c5e1e3533b7d3ea245ceeb31565ca72be93ab7c407b65a2d4e1ff65d95cd6df7284346c1f</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -412,312 +842,6 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《产品三维造型与结构设计（UG）》笔记</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
-<li>入门案例1<ul>
-<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
-</ul>
-</li>
-</ol>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《应用文写作》笔记</title>
-    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
-<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
-<li>一般文章类：记叙文、议论文、说明文。</li>
-<li>文学作品类：诗歌、散文、小说、戏剧。</li>
-<li>应用(实用)文类：日用文、专用文。</li>
-</ol>
-<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
-<li><strong>产生</strong><ol>
-<li>仓颉造字，以代结绳。</li>
-<li>我国最早的文章是应用文</li>
-<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
-<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
-<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
-</ol>
-</li>
-<li><strong>发展</strong><ol>
-<li>*<strong>先秦</strong>；萌芽期</li>
-<li><strong>秦——清</strong>；形成发展期</li>
-<li><strong>清后</strong>；繁荣期</li>
-</ol>
-</li>
-</ul>
-<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
-<li><strong>实用性</strong></li>
-<li><strong>规范性(格式性)</strong></li>
-<li><strong>真实性</strong></li>
-<li><strong>时效性</strong></li>
-<li><strong>广泛性</strong></li>
-<li><strong>确定性(对象)</strong></li>
-</ul>
-<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>公文类</li>
-<li>事务文书</li>
-<li>经济文书</li>
-<li>职场文书</li>
-<li>科技文书</li>
-<li>宣传文书</li>
-<li>法律文书</li>
-</ol>
-<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>主旨(鲜明，集中)</li>
-<li>材料(真实，典型)</li>
-<li>结构(严谨，完整)</li>
-<li>语言(简明，朴实，庄重)</li>
-</ol>
-<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
-<li><strong>记叙</strong></li>
-<li><strong>描写</strong></li>
-<li><strong>说明</strong></li>
-<li><strong>议论</strong></li>
-<li><strong>抒情</strong></li>
-</ul>
-<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
-<li>象形法</li>
-<li>指事法</li>
-<li>会意法</li>
-<li>形声法</li>
-<li>转注法(辅助)</li>
-<li>假借法(辅助)</li>
-</ul>
-</li>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
-<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
-</ul>
-</li>
-</ol>
-<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
-<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
-<li>特点<ul>
-<li>预见性</li>
-<li>针对性</li>
-<li>可行性</li>
-<li>约束性</li>
-</ul>
-</li>
-<li>三要素：目标、措施、步骤</li>
-<li>写法<ul>
-<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
-<p>例：《清华大学2015年度工作计划》</p>
-</blockquote>
-</li>
-<li>正文：<ul>
-<li>前言：目的、依据、指导思想、任务要求。</li>
-<li>主体：做什么——怎么做——什么时候完成<ul>
-<li>目标任务：做什么（明确）</li>
-<li>方法实施：怎么做（具体）</li>
-<li>时间步骤：什么时候完成（清楚）</li>
-</ul>
-</li>
-<li>结尾：希望、要求</li>
-</ul>
-</li>
-<li>落款：单位（个人）名称+日期</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>如果说要策划一场活动，那么应该包括以下几点：</p>
-<ol>
-<li>活动名称</li>
-<li>活动主题</li>
-<li>活动时间、地点</li>
-<li>活动内容</li>
-<li>活动形式</li>
-<li>活动参加人员负责人</li>
-<li>活动经费来源、预算 </li>
-<li>策划单位、日期</li>
-</ol>
-</blockquote>
-<ol start="5">
-<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
-<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于借钱这件事</title>
-    <url>/2024/09/17/%E5%80%BA%E5%8A%A1%E8%BF%BD%E8%AE%A8/</url>
-    <content><![CDATA[<h2 id="事情经过"><a href="#事情经过" class="headerlink" title="事情经过"></a>事情经过</h2><ul>
-<li><p>在那个炎热的七月暑假，我遇到了一个棘手的问题。一位我并不十分亲近的朋友向我求助，希望我能借给他一笔钱。数额不大，但足以考验我们的友情。考虑到我们同在一所大学，同属一个院系，我几乎没有犹豫就答应了他的请求，并约定在新学期开始时他会还给我。然而，随着开学季的到来，我却发现事情并没有按照预期发展。尽管我多次友好地提醒他，他却始终没有归还借款的意思。</p>
-<p>面对这样的情况，我决定采取更为正式的措施。我开始搜集所有可能的证据，准备通过法律途径来解决这个问题。我知道这可能不是一条容易走的路，但正义和诚信一定会得到伸张。我整理了我们的聊天记录，转账凭证，以及所有可能支持我的主张的文件。当然，这不仅是为了追回那笔钱，更是为了维护我的权利和尊严。</p>
-</li>
-<li><p>最后，考虑到借款金额不大，我需要权衡诉讼的成本和收益。在某些情况下，通过和解或调解来解决纠纷可能更为经济和高效。我已经准备好了所有可能需要的证据，并且正在考虑所有可行的解决方案，以便尽快解决这个问题。</p>
-</li>
-<li><p>在我精心准备诉讼书和搜集所有必要证据，正站在法律行动门槛上的时候，发生了一件令我始料未及的事情。那位迟迟不肯归还借款的朋友，突然间，将欠款如数奉还。这个转变让我感到困惑，我原本已经做好了与他对抗到底的准备，以为他可能会成为那种逃避债务的“老赖”，没想到他却在最后关头选择了履行承诺。</p>
-<p>面对这突如其来的还款，我选择了接受。毕竟，我的初衷并非是通过诉讼来惩罚他，而是希望收回我应得的借款。既然他现在已经归还了款项，我认为继续诉讼已无必要。于是，我决定停止诉讼进程，同时也放下了这段因金钱而产生的不愉快。</p>
-<p>这件事情给了我深刻的教训：在金钱和友情的交织中，信任和沟通的重要性不言而喻。我也意识到，在处理类似的纠纷时，保持冷静和理智，以及适时采取行动，是多么关键。虽然这次的经历有些波折，但最终能够和平解决，也算是一个圆满的结局。</p>
-</li>
-</ul>
-<h2 id="欠条与诉讼书"><a href="#欠条与诉讼书" class="headerlink" title="欠条与诉讼书"></a>欠条与诉讼书</h2><h3 id="欠条"><a href="#欠条" class="headerlink" title="欠条"></a>欠条</h3><ul>
-<li><p>在我整理的过程中，我发现欠条可以避免很多问题。欠条是一种简单的债权债务凭证，通常由借款人（债务人）向出借人（债权人）出具，用以证明借款人欠出借人一定数额的款项或物品，并承诺在约定的时间内偿还。欠条在民间借贷、货物交易、服务提供等多种经济活动中广泛使用，作为一种非正式的法律文件，它记录了双方的债务关系。</p>
-</li>
-<li><p>欠条是个人或单位在借款、收货、服务等情况下，向对方出具的证明欠款或欠物事实的凭证。一个基本的欠条格式通常包括以下几个要素：</p>
-</li>
-</ul>
-<blockquote>
-<p>借款合同</p>
-<p>甲方（出借人）：姓名<br>身份证号码：<br>联系方式：</p>
-<p>乙方（借款人）：姓名<br>身份证号码：<br>联系方式：</p>
-<p>鉴于乙方因个人需要向甲方借款，甲乙双方本着平等自愿、诚实信用的原则，就借款事宜达成如下协议：</p>
-<ol>
-<li><p>借款金额：乙方向甲方借款人民币（大写）____（￥___元）。</p>
-</li>
-<li><p>借款期限：自____年____月____日起至____年____月____日止。</p>
-</li>
-<li><p>借款利息：借款期限内利息为年利率___%，利息自借款之日起计算。</p>
-</li>
-<li><p>还款方式：乙方应于借款期限届满之日一次性归还本金及利息。</p>
-</li>
-<li><p>违约责任：如乙方未能按期归还借款，应向甲方支付违约金，违约金为逾期金额的___%。</p>
-</li>
-<li><p>争议解决：本合同在履行过程中发生的任何争议，双方应友好协商解决；协商不成的，任何一方均可向甲方所在地人民法院提起诉讼。</p>
-</li>
-<li><p>本合同自双方签字之日起生效。</p>
-</li>
-</ol>
-<p>甲方（签字）：_____________________<br>乙方（签字）：_____________________<br>签订日期：____年____月____日</p>
-<p>  注：本欠条一式两份，借款人和出借人各执一份。</p>
-</blockquote>
-<ul>
-<li>这里有一些注意事项：</li>
-</ul>
-<blockquote>
-<p>借钱时，写欠条可以通过以下几个步骤来确保其有效性和法律效力：</p>
-<ol>
-<li><strong>明确借款人和出借人信息</strong>：在欠条中详细写明借款人和出借人的全名和有效联系方式，包括身份证号码。</li>
-<li><strong>借款金额</strong>：清楚地写明借款金额，最好同时用数字和文字两种形式表述，以避免篡改。</li>
-<li><strong>借款日期和还款日期</strong>：注明借款的具体日期和约定的还款日期。</li>
-<li><strong>借款目的</strong>：写明借款的具体用途，这有助于在发生纠纷时证明借款的合法性。</li>
-<li><strong>利息和还款方式</strong>：如果涉及利息，应明确利率和计息方式。同时，也要明确还款方式，比如一次性还清还是分期偿还。</li>
-<li><strong>签名和日期</strong>：欠条必须由借款人亲自签名，并注明签名的日期。</li>
-<li><strong>其他条款</strong>：如违约责任、争议解决方式等。</li>
-<li><strong>签名</strong>：债务人必须在欠条上签名，有时还需要按手印。</li>
-<li><strong>法律合规性</strong>：确保欠条内容符合当地法律法规的要求，必要时可以咨询法律专业人士。</li>
-<li>请注意，欠条虽然没有经过公证，但如果内容真实、合法，且双方当事人意思表示真实，它在法律上是有效的。在发生纠纷时，欠条可以作为证据使用，帮助债权人追讨债务。不过，为了增强法律效力，建议在出具欠条时有第三方见证，并保留好相关的交易记录或其他证据。对于大额交易或复杂情况，最好通过正式的合同并进行公证。843561</li>
-</ol>
-</blockquote>
-<h3 id="诉讼书"><a href="#诉讼书" class="headerlink" title="诉讼书"></a>诉讼书</h3><ul>
-<li><p>诉讼书，也称为起诉状，是当事人向法院提起诉讼时提交的正式书面文件。它包含了原告对被告的诉讼请求、事实和理由的陈述，以及支持诉讼请求的证据和法律依据。诉讼书是启动法律诉讼程序的关键文件，它使得法院能够了解争议的基本情况，并决定是否受理该案件。</p>
-<p>诉讼书通常包括以下几个部分：</p>
-<ol>
-<li><strong>首部</strong>：包括法院的名称、原告和被告的基本信息（如姓名、性别、年龄、职业、住址等）。</li>
-<li><strong>诉讼请求</strong>：明确列出原告要求法院做出的具体判决，如要求被告偿还债务、赔偿损失、履行合同等。</li>
-<li><strong>事实和理由</strong>：详细叙述导致诉讼的事实背景，包括争议发生的时间、地点、当事人之间的法律关系、争议的具体内容等，并阐述为什么原告认为自己有权提起诉讼，以及被告为什么应当承担相应的法律责任。</li>
-<li><strong>证据清单</strong>：列出所有支持诉讼请求的证据，如合同文本、通信记录、证人证言、鉴定意见、书证物证等。</li>
-<li><strong>附项</strong>：包括诉讼书的附件，如证据材料、法律条文等。</li>
-<li><strong>尾部</strong>：包括原告的签名或盖章、诉讼书的提交日期等。</li>
-</ol>
-</li>
-<li><p>在中国，根据《中华人民共和国民事诉讼法》的规定，起诉状应当由原告本人或者其代理人签名或者盖章，并注明提交日期。起诉状应当用中文书写，并且提交给有管辖权的法院。起诉状的撰写应当清晰、准确、合法，确保所提供的信息真实有效，以免影响诉讼的进行和结果。在撰写起诉状时，通常建议咨询法律专业人士，以确保符合法律要求和格式规范。</p>
-</li>
-</ul>
-<ul>
-<li><p>比如我的诉讼书</p>
-<blockquote>
-<p><strong>某某法院</strong></p>
-<p><strong>民事起诉状</strong></p>
-<p><strong>原告：</strong> 张三，男，25岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
-<p><strong>被告：</strong> 李四，男，24岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
-<p><strong>诉讼请求：</strong></p>
-<ol>
-<li>判令被告李四立即偿还原告张三借款本金人民币xxxx元（大写：伍仟元整）。</li>
-<li>判令被告李四支付自逾期还款之日起至实际偿还之日止的逾期利息（按中国人民银行同期贷款利率计算）。</li>
-<li>判令被告李四承担本案的全部诉讼费用。</li>
-</ol>
-<p><strong>事实和理由：</strong><br>原告张三与被告李四均为xx大学xx院系的学生。2023年7月15日，被告因个人消费需要向原告借款人民币xxxx元，并承诺于2023年9月1日新学期开始时一次性偿还。原告基于对同学情谊的信任，同意了被告的借款请求，并通过银行转账方式向被告支付了借款。双方未正式签订借款合同，但有聊天记录和转账凭证作为证据。</p>
-<p>然而，约定的还款日期已过，被告李四并未履行还款义务。原告自2023年9月1日起多次通过微信和电话方式提醒被告还款，被告均以各种理由推脱，至今未偿还任何款项。原告认为，被告的行为已构成违约，严重侵害了原告的合法权益。根据《中华人民共和国民法典》第五百零六条、第五百七十七条的规定，原告有权要求被告偿还借款本金及逾期利息，并承担违约责任。</p>
-<p>为维护自身合法权益，原告特向贵院提起诉讼，请求判如所请。</p>
-<p><strong>证据清单：</strong></p>
-<ol>
-<li>微信聊天记录截图，证明被告向原告借款的事实及双方关于还款的约定。</li>
-<li>银行转账凭证，证明原告已向被告支付借款。</li>
-<li>原告向被告催款的微信聊天记录和通话记录，证明原告已多次催告被告还款。</li>
-<li>逾期利息计算明细。</li>
-</ol>
-<p><strong>附项：</strong></p>
-<ol>
-<li>证据材料清单。</li>
-<li>《中华人民共和国民法典》相关法律条文。</li>
-</ol>
-<p><strong>原告签名：</strong> 张三</p>
-<p><strong>日期：</strong> 2024年9月18日</p>
-<hr>
-<p>请注意，上述诉讼书是一个示例，实际起诉状应根据具体案件的事实和法律规定进行详细撰写。在提交法院之前，建议由专业律师进行审核和修改。</p>
-</blockquote>
-</li>
-</ul>
-<ul>
-<li>尽管没有使用借条，使得证据链条略显不足，但幸运的是，我保留了详尽的聊天记录和通话记录，这些资料为我提供了有力的支持，尽管我尚未采取法律诉讼这一步骤。</li>
-</ul>
-<h2 id="关于打欠条这件事"><a href="#关于打欠条这件事" class="headerlink" title="关于打欠条这件事"></a>关于打欠条这件事</h2><blockquote>
-<p>好朋友之间借钱是否应该打欠条，这是一个涉及到信任、法律保护和人际关系复杂性的议题。以下是对这个问题的详细论述：</p>
-<h3 id="信任与关系的考量"><a href="#信任与关系的考量" class="headerlink" title="信任与关系的考量"></a>信任与关系的考量</h3><ol>
-<li><strong>信任的基础</strong>：朋友之间的借贷往往建立在相互信任的基础上。打欠条可能被视为对这种信任的一种考验，有时会让人感觉在金钱面前友谊受到了质疑。</li>
-<li><strong>关系的维护</strong>：在没有明确书面协议的情况下，朋友之间可能更依赖于口头协议和个人信誉。这种方式在关系良好时通常有效，但一旦出现问题，可能会损害双方的关系。</li>
-</ol>
-<h3 id="法律保护的必要性"><a href="#法律保护的必要性" class="headerlink" title="法律保护的必要性"></a>法律保护的必要性</h3><ol>
-<li><strong>证据的重要性</strong>：在法律上，书面证据是解决争议的关键。如果没有欠条，一旦借款人违约，出借人可能会面临难以追讨债务的问题。</li>
-<li><strong>权利的明确</strong>：欠条可以明确双方的权利和义务，包括借款金额、还款期限、利息等，有助于防止未来的误解和纠纷。</li>
-</ol>
-<h3 id="风险管理的角度"><a href="#风险管理的角度" class="headerlink" title="风险管理的角度"></a>风险管理的角度</h3><ol>
-<li><strong>风险评估</strong>：即使是朋友，也应该对借款人的信用和还款能力进行评估。打欠条是一种风险管理的手段，可以减少潜在的财务风险。</li>
-<li><strong>预防措施</strong>：在金钱交易中，即使是朋友，也应该采取一定的预防措施。这不仅是对自己财务安全的保护，也是对友谊负责任的表现。</li>
-</ol>
-<h3 id="社会和文化的影响"><a href="#社会和文化的影响" class="headerlink" title="社会和文化的影响"></a>社会和文化的影响</h3><ol>
-<li><strong>社会观念</strong>：不同的社会和文化对朋友间借贷的看法不同。在一些文化中，朋友间借钱不打欠条是常见的，而在其他文化中，即使是小额借贷也会要求有正式的书面记录。</li>
-<li><strong>个人价值观</strong>：个人对于金钱和友谊的看法也会影响是否打欠条的决定。一些人可能认为即使是朋友，金钱交易也应该明确和正式；而另一些人可能更看重维护关系的和谐。</li>
-</ol>
-<h3 id="实际操作建议"><a href="#实际操作建议" class="headerlink" title="实际操作建议"></a>实际操作建议</h3><ol>
-<li><strong>沟通</strong>：在决定是否打欠条之前，双方应该进行充分的沟通，了解彼此的期望和担忧。</li>
-<li><strong>灵活性</strong>：可以考虑采用较为非正式的书面协议，如电子邮件或短信确认，以减少正式欠条可能带来的尴尬。</li>
-<li><strong>第三方见证</strong>：在没有欠条的情况下，有时可以邀请第三方见证，或者通过银行转账等方式留下交易记录。</li>
-</ol>
-<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>好朋友之间是否打欠条是一个需要综合考虑的问题。它不仅涉及到法律保护和风险管理，还涉及到对友谊的尊重和维护。在做出决定时，应该基于对朋友的了解、对风险的评估以及对双方关系的考虑。最重要的是，无论是否打欠条，都应该确保双方的理解和同意，以维护友谊和信任。</p>
-</blockquote>
-<ul>
-<li>我的建议<ol>
-<li>借人应该评估借款人的信用和还款能力，避免因借款人无力偿还而造成损失。</li>
-<li>对于出借人来说，借出去的钱应该是自己可以承受损失的金额，即使借款人无法偿还，也不会对自己的经济状况造成重大影响。</li>
-<li>在没有明确书面记录的情况下，朋友间的借贷往往依赖于信任和口头协议。然而，当还款出现问题时，缺乏书面记录可能导致双方各执一词，难以达成共识。欠条作为一种预防措施，有助于减少此类纠纷的发生。</li>
-<li>将打欠条作为标准做法，也有助于提高公众对财务责任和法律意识的认识。它传递了一个信息，即即使是在朋友之间，金钱交易也应该有适当的正式程序。</li>
-</ol>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>个人权益维护</category>
-      </categories>
-      <tags>
-        <tag>个人权益维护</tag>
       </tags>
   </entry>
 </search>
