@@ -21,6 +21,140 @@
       </tags>
   </entry>
   <entry>
+    <title>在线密码生成器</title>
+    <url>/2024/09/19/%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>密码生成器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .password-generator {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .input-box, .password-box {
+            width: 100%;
+            margin: 10px 0;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+            word-break: break-all;
+            max-height: 160px;
+            overflow-y: auto;
+            display: block;
+        }
+        .input-box {
+            text-align: center; /* 文本居中 */
+        }
+        .password {
+            font-size: 24px;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            outline: none;
+            margin: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .options {
+            margin-bottom: 20px;
+        }
+        .option {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>密码生成器</h1>
+        <div class="password-generator">
+            <input type="text" class="input-box" id="passwordName" placeholder="请输入密码名称">
+            <div class="password-box" id="generatedPassword">点击按钮生成密码</div>
+            <button onclick="generatePassword()">生成密码</button>
+            <button onclick="copyPassword()">复制密码</button>
+        </div>
+        <div class="options">
+            <label for="passwordLength">密码长度:</label>
+            <input type="number" id="passwordLength" value="12" min="4" max="50">
+            <label class="option"><input type="checkbox" id="lowercase" checked> 小写字母</label>
+            <label class="option"><input type="checkbox" id="uppercase" checked> 大写字母</label>
+            <label class="option"><input type="checkbox" id="numbers" checked> 数字</label>
+            <label class="option"><input type="checkbox" id="symbols" checked> 特殊符号</label>
+        </div>
+    </div>
+
+<script>
+        function generatePassword() {
+            var length = document.getElementById("passwordLength").value;
+            var charset = "";
+            var hasLowercase = document.getElementById("lowercase").checked;
+            var hasUppercase = document.getElementById("uppercase").checked;
+            var hasNumbers = document.getElementById("numbers").checked;
+            var hasSymbols = document.getElementById("symbols").checked;
+
+            if (hasLowercase) charset += "abcdefghijklmnopqrstuvwxyz";
+            if (hasUppercase) charset += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            if (hasNumbers) charset += "0123456789";
+            if (hasSymbols) charset += "!@#$%^&*()_+";
+
+            var retVal = "";
+            for (var i = 0, n = charset.length; i < length; ++i) {
+                retVal += charset.charAt(Math.floor(Math.random() * n));
+            }
+            
+            document.getElementById("generatedPassword").textContent = retVal;
+        }
+
+        function copyPassword() {
+            var passwordName = document.getElementById("passwordName").value || "未命名密码";
+            var password = document.getElementById("generatedPassword").textContent;
+
+            var markdownContent = `## ${passwordName}\n\`\`\`\n${password}\n\`\`\``;
+
+            navigator.clipboard.writeText(markdownContent).then(function() {
+                alert("密码名称和密码已复制到剪贴板");
+            }, function(err) {
+                alert("无法复制内容: " + err);
+            });
+        }
+</script>
+</body>
+</html>
+]]></content>
+  </entry>
+  <entry>
     <title>关于借钱这件事</title>
     <url>/2024/09/17/%E5%80%BA%E5%8A%A1%E8%BF%BD%E8%AE%A8/</url>
     <content><![CDATA[<h2 id="事情经过"><a href="#事情经过" class="headerlink" title="事情经过"></a>事情经过</h2><ul>
@@ -176,130 +310,6 @@
       <tags>
         <tag>个人权益维护</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>在线密码生成器</title>
-    <url>/2024/09/19/%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>密码生成器</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .password-generator {
-            margin-top: 20px;
-            text-align: center;
-        }
-        .password-box {
-            width: 100%;
-            margin: 10px 0;
-            padding: 10px;
-            font-size: 16px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            box-sizing: border-box;
-            word-break: break-all;
-            max-height: 160px; /* 设置密码框的最大高度 */
-            overflow-y: auto; /* 允许垂直滚动 */
-            display: block; /* 移除-webkit-box的样式 */
-        }
-        .password {
-            font-size: 24px;
-            font-weight: bold;
-            color: #555;
-            margin-bottom: 10px;
-        }
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            color: #fff;
-            background-color: #007bff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            outline: none;
-            margin: 5px;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-        .options {
-            margin-bottom: 20px;
-        }
-        .option {
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>密码生成器</h1>
-        <div class="password-generator">
-            <div class="password-box" id="generatedPassword">点击按钮生成密码</div>
-            <button onclick="generatePassword()">生成密码</button>
-            <button onclick="copyPassword()">复制密码</button>
-        </div>
-        <div class="options">
-            <label for="passwordLength">密码长度:</label>
-            <input type="number" id="passwordLength" value="12" min="4" max="50">
-            <label class="option"><input type="checkbox" id="lowercase" checked> 小写字母</label>
-            <label class="option"><input type="checkbox" id="uppercase" checked> 大写字母</label>
-            <label class="option"><input type="checkbox" id="numbers" checked> 数字</label>
-            <label class="option"><input type="checkbox" id="symbols" checked> 特殊符号</label>
-        </div>
-    </div>
-
-<script>
-        function generatePassword() {
-            var length = document.getElementById("passwordLength").value;
-            var charset = "";
-            var hasLowercase = document.getElementById("lowercase").checked;
-            var hasUppercase = document.getElementById("uppercase").checked;
-            var hasNumbers = document.getElementById("numbers").checked;
-            var hasSymbols = document.getElementById("symbols").checked;
-
-            if (hasLowercase) charset += "abcdefghijklmnopqrstuvwxyz";
-            if (hasUppercase) charset += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            if (hasNumbers) charset += "0123456789";
-            if (hasSymbols) charset += "!@#$%^&*()_+";
-
-            var retVal = "";
-            for (var i = 0, n = charset.length; i < length; ++i) {
-                retVal += charset.charAt(Math.floor(Math.random() * n));
-            }
-            document.getElementById("generatedPassword").textContent = retVal;
-        }
-
-        function copyPassword() {
-            var password = document.getElementById("generatedPassword").textContent;
-            navigator.clipboard.writeText(password).then(function() {
-                alert("密码已复制到剪贴板");
-            }, function(err) {
-                alert("无法复制密码: " + err);
-            });
-        }
-</script>
-</body>
-</html>]]></content>
   </entry>
   <entry>
     <title>《可编程序控制器技术与应用》笔记</title>
@@ -522,28 +532,6 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件安装目录</title>
-    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="c17b3c93c8ce7d60c1221d4edc9cd5a264eee13a260f1c8e098f941950b93422">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433bd5716cdff5fed6f1db109b6f3d0602d4f1e7d46aa64cc813fc26343972918a2617f90bf09de093881be31c45919b46eeeb573152828a0392b74184d59183b2b05134ff97ea48d5ce9a6927dbf72b2c10121b121adfac3a01cd260912bd85534253ded90c2cc940edb0df1ba01e16332984e340f7d718d484e371e139acaa32c22f39758375eba284037ecf323a6b317503cb0975d69349230614f0610e3afdece3d43637c16f86725a0335b482bba0c91a72a20af863913fcfdc4bf63cebf7c124109272c7b92e240e5bc9ad2fdb4c8876dad768609ec54951021af946b4bce6619186b82d3a463591b14d9aaf649c59aedbc050ad83b8a3f85100a6bb51af3aaf26ecc396591139a69605635d5765f131395b0551614f9b760cf0954ef08ae2581d05d1b4d261109bdcdc0ac22ee0cdeb7958a2f983062ae76ecaac76bdb74a593af09e6485fdb041f7486273fbe7837eb5ed0b4e856a386bc3bc9a86e9722e9ecf7442a83ebd6637e0fc58dfcf7adad783312b9c1c957749d29f2e90ad49c8533e6af769f5e56ff17d69f8d86cc5023aa46f2089075146063cb78a0b18b0ace3bad4c0158333da4580c76d31db1ade12cb5caad1a9261e204423b633aeb0137f377b69fca0245eba0449af99f1477fdd85a64dcd01b7734037f44b8e134583fc5ae8f7ddff3292eb2be95a231285808ff4cfec958b0fef1b5d9ac612a22efdc578cc1b349c9c83fc9cb2c899ec8423ce92c3496aa821b4799e0e9819912d53190551bd5b2051743b5ae6e51926ef276545687c9f2657707d97dd7094806861b1ba33ec00883c3ad868d38012bc74903609aa93b524266b9a0eeb2c3fe2fb8fcf0aae1ac6e3dbe78055d30be46a1c99eaa239091d43bd77dec3b380699d54153650284fd995a17cf0ffe0ed6c1c233b8432eaba8fd3ba47b5446fc34196dcb8aa23bd3918db665f1930909ccc50b1ee9617aa115838c9e9b50ffb0ba2943d04800637f7685c0e95b3ff838756fab178af25939a56ed0850d3b1065def8c595a4b38249e58a6f5445c86a3f96b9fdd3882f40a70443be58cfb4d28fd2470c466815f3071fb2f315aa5b5cd3b8a30324bd5b2a5c5d686354a01a24d7b4a6f298229dc0c1f7bbe23e48247cfcebce95f4d4a4710903ad956d1df867e42f89cd1604bb0b044b2611635e84c3f094842a3ef7bf16d5d651eb6798aabe12ed8940cda6c54213fa2626e4d9e0b102c7c5c7c72f360ba94aef06b4fe800684834df492b9a7ee05c92956eac3c195bfd14979ce03c4440dc092b8849d204497d9570b74dba91926352c1f9210296323fc25767c100e0df00b8c2d05ad9fffe6f4c6f24b4a50241124fd30b5c855e1d441794e24151fe43be559a3329e21dd5918f52fc7808d5e91bfa31aa918f694c8948a13f51f6ee846f58abad0bd7ff7dafa27fd1984261f3c3d46afa96d3ea6b7ae6bf1c61719582884a35e21895ec755da37cfab987f3a93a376d851ff269fadbf64c0cf6a76b699f1de1e291c365ec4c26953f4b08b4639f236e6ebfe89670d5a3e0fe5c27e423684e83bcb444b1840f108c8d378e79f2cfc43ab04ea8e79879d0f6e2e87cd91bf737bc08e8ca75a58303d50e1d3d5459932c146891020404cb6cc94f5090edc86a04055c30db673da3dd413c8eab458e9dd9d1f110af51e514c253db5abe2144bfccdbe4da5ed6fcbe86098181358fb35ddd29c2a39aa389c5aecdc8c9636d6f72e01428d3ca539be1005ddec38ba503c0b473d2190a0ceda547134f11d02c4a18e35a19d705a072359fec7e0de5cad1278c71adcb398956729c1ccbac4bd9d825d41c26f520696f2dc9c8624e0600f257dbe45cd8231be63084373d1cd5269503e4c63e7f74e7e972d43e3d6cc52042d8b8f9dd936e2e4f2843db30c1145ae37a9bd0aa3dc46bd62f096ec71da08274737d4b5185327d816ac03e19be7136e0b10ce1d94aa49d4637569efe88699e08cdcf77a6801d2930463dc7a604ef28808f03a9526f3ef1b11ac21bbd893a9cf6b2302c2117f015bf4ab74e27de677f8c013b035fdbe9e0fe83f93a399bbfc999dafe648f077d2892ea354f21ba8adf64dd71f7311a7efd1958fee350b55bdf1f49223ce33c04c59a4a73fdcd62e8fb65f648db3f7c0255760ad1f8892e1e902b9deafc0ae58a05af23356063a291b7a6969e9a3fa2c14400b82df2e0c86aa95ff32cc24ec1d07c0507f6877b462b4bba2c3aa3a5472acff45c5cc8298eace3c7a848fdaaf2bdf02d7d6c222cde0c92fc37f6fb19019d985d26d8012f87df50805c402d308606f683f05b794738c93edd54df9dfab12393d4147154ae8dc2dc8685b61ec934485382d884ae987a77e1b58fe3dbc98ed1a08272ad9b0d5a8f6d58442bcda7e76f720d6e9c5d68e6f7e09ac71ee64a60576f1b1c7017a7bc8b66be41909383bf2caf37035ae1708089f9a782b394a83a4690fc76c1ecb6f1e4c9d6e2192091da3c10278cdccf79da088e026071728bc39a0c7e4976cedceeb07f5894c39b4eee2b65a0f50c44655daef4ae7dc6ce769b6c0fe1263521721ae5e7cffcc3902689c8b2bf5a276bdb460935a907ec0e7fe53171a5717205179318752bfdb44f5b34e8e1602f0b66227f06ccec477df0aab24577a13148708665c84ea51019620434808cc666a0dfc29a0b5a6d817f3f7a9b4ab944c30c90605dd417e8a306ea39106236dd8ca4d6e1a6b79e0f6828f7dd23728588934b44904e3c0ca5eea77460f67122e2bb2689b9ef199222cfc60a245d3db8bbde3a4a70dec7f12fc5f278e4e7f4e99f9c5e1e3533b7d3ea245ceeb31565ca72be93ab7c407b65a2d4e1ff65d95cd6df7284346c1f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>实用</category>
-      </categories>
-      <tags>
-        <tag>实用</tag>
       </tags>
   </entry>
   <entry>
@@ -842,6 +830,28 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件安装目录</title>
+    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>实用</category>
+      </categories>
+      <tags>
+        <tag>实用</tag>
       </tags>
   </entry>
 </search>
