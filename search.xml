@@ -21,6 +21,98 @@
       </tags>
   </entry>
   <entry>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+</blockquote>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>password-generator(密码生成器)</title>
+    <url>/2024/09/19/password-generator/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
+<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
+</blockquote>
+<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
+<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
+<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
+<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
+<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
+<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
+<li>password-generator分为两个版本<ul>
+<li>web版功能简单，使用方便</li>
+<li>pc版有备份功能，磁盘占用小</li>
+</ul>
+</li>
+</ul>
+<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><blockquote>
+<p>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a><br>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）<br>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a><br>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></p>
+</blockquote>
+<ol>
+<li><p>这个密码生成器的基本功能包括：</p>
+<ul>
+<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
+</li>
+<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
+</li>
+</ul>
+</li>
+<li><p>选择字符类型：</p>
+<ul>
+<li>小写字母</li>
+<li>大写字母</li>
+<li>数字</li>
+<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
+<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
+</ul>
+</li>
+<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
+</li>
+<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
+</li>
+</ol>
+<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
+
+<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><ul>
+<li><p>下载地址（附源代码）</p>
+<blockquote>
+<p>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a><br>其他下载地址：</p>
+<ul>
+<li>蓝奏云：<a href="https://wweo.lanzouj.com/iLWKj2ah2j2d%EF%BC%88%E5%AF%86%E7%A0%81:7a65%EF%BC%89">https://wweo.lanzouj.com/iLWKj2ah2j2d（密码:7a65）</a></li>
+</ul>
+</blockquote>
+</li>
+<li><p>主要功能和web版差不多，增加了github备份功能，请看演示(视频)[]</p>
+</li>
+</ul>
+<div class="video-container">
+  <iframe src="Autoplay=0" allowfullscreen></iframe>
+</div>
+
+<ul>
+<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。</li>
+<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于借钱这件事</title>
     <url>/2024/09/17/%E5%80%BA%E5%8A%A1%E8%BF%BD%E8%AE%A8/</url>
     <content><![CDATA[<h2 id="事情经过"><a href="#事情经过" class="headerlink" title="事情经过"></a>事情经过</h2><ul>
@@ -79,7 +171,7 @@
 <li><strong>其他条款</strong>：如违约责任、争议解决方式等。</li>
 <li><strong>签名</strong>：债务人必须在欠条上签名，有时还需要按手印。</li>
 <li><strong>法律合规性</strong>：确保欠条内容符合当地法律法规的要求，必要时可以咨询法律专业人士。</li>
-<li>请注意，欠条虽然没有经过公证，但如果内容真实、合法，且双方当事人意思表示真实，它在法律上是有效的。在发生纠纷时，欠条可以作为证据使用，帮助债权人追讨债务。不过，为了增强法律效力，建议在出具欠条时有第三方见证，并保留好相关的交易记录或其他证据。对于大额交易或复杂情况，最好通过正式的合同并进行公证。843561</li>
+<li>请注意，欠条虽然没有经过公证，但如果内容真实、合法，且双方当事人意思表示真实，它在法律上是有效的。在发生纠纷时，欠条可以作为证据使用，帮助债权人追讨债务。不过，为了增强法律效力，建议在出具欠条时有第三方见证，并保留好相关的交易记录或其他证据。对于大额交易或复杂情况，最好通过正式的合同并进行公证。</li>
 </ol>
 </blockquote>
 <h3 id="诉讼书"><a href="#诉讼书" class="headerlink" title="诉讼书"></a>诉讼书</h3><ul>
@@ -718,60 +810,6 @@
       </categories>
       <tags>
         <tag>实用</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>password-generator(密码生成器)</title>
-    <url>/2024/09/19/password-generator/</url>
-    <content><![CDATA[<h1 id="password-generator-密码生成器"><a href="#password-generator-密码生成器" class="headerlink" title="password-generator(密码生成器)"></a>password-generator(密码生成器)</h1><h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><blockquote>
-<p>注：password-generator部分由AI生成<br>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”无法复制，手动复制还是可以的）<br>开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a><br>网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a><br>网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></p>
-</blockquote>
-<ol>
-<li><p>这个密码生成器的基本功能包括：</p>
-<ul>
-<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
-</li>
-<li><p>选择密码长度：用户可以设置生成密码的长度，范围从4到50个字符。</p>
-</li>
-</ul>
-</li>
-<li><p>选择字符类型：</p>
-<ul>
-<li>小写字母</li>
-<li>大写字母</li>
-<li>数字</li>
-<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
-<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
-</ul>
-</li>
-<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
-</li>
-<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
-</li>
-</ol>
-<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
-
-<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2>]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><blockquote>
-<p>注：部分由AI生成<br>github开源地址：<br>网站1:<br>网站2: </p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
       </tags>
   </entry>
 </search>
