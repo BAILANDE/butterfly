@@ -21,24 +21,6 @@
       </tags>
   </entry>
   <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>password-generator(密码生成器)</title>
     <url>/2024/09/19/password-generator/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
@@ -56,10 +38,13 @@
 </ul>
 </li>
 </ul>
-<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><blockquote>
-<p>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a><br>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）<br>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a><br>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></p>
-</blockquote>
-<ol>
+<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
+<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
+<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
+<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
+<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
+</ul>
+<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
 <li><p>这个密码生成器的基本功能包括：</p>
 <ul>
 <li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
@@ -84,24 +69,33 @@
 </ol>
 <iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
 
-<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><ul>
-<li><p>下载地址（附源代码）</p>
-<blockquote>
-<p>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a><br>其他下载地址：</p>
-<ul>
-<li>蓝奏云：<a href="https://wweo.lanzouj.com/iLWKj2ah2j2d%EF%BC%88%E5%AF%86%E7%A0%81:7a65%EF%BC%89">https://wweo.lanzouj.com/iLWKj2ah2j2d（密码:7a65）</a></li>
+<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
+<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
+<li>其他下载地址：<ul>
+<li>蓝奏云：<a href="https://wweo.lanzouj.com/iLWKj2ah2j2d">点击跳转</a> 密码:7a65</li>
 </ul>
-</blockquote>
-</li>
-<li><p>主要功能和web版差不多，增加了github备份功能，请看演示(视频)[]</p>
 </li>
 </ul>
-<div class="video-container">
+<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
+<li>与web版基本一致，只有以下两点差别：<ul>
+<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
+<li>有备份至github功能</li>
+</ul>
+</li>
+</ul>
+<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示-视频"><a href="#演示-视频" class="headerlink" title="演示(视频)[]"></a>演示(视频)[]</h4><div class="video-container">
   <iframe src="Autoplay=0" allowfullscreen></iframe>
 </div>
 
+<h4 id="图文教程"><a href="#图文教程" class="headerlink" title="图文教程"></a>图文教程</h4><blockquote>
+<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
+</blockquote>
 <ul>
-<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。</li>
+<li>教程开始 password_generator教程图片</li>
+</ul>
+<p><img src="/password_generator/0.png" alt="password_generator教程图片"><br><img src="/password_generator/1.png" alt="password_generator教程图片"><br><img src="/password_generator/2.png" alt="password_generator教程图片"><br><img src="/password_generator/3.png" alt="password_generator教程图片"><br><img src="/password_generator/4.png" alt="password_generator教程图片"><br><img src="/password_generator/5.png" alt="password_generator教程图片"><br><img src="/password_generator/6.png" alt="password_generator教程图片"><br><img src="/password_generator/-1.png" alt="password_generator教程图片"><br><img src="/password_generator/7.png" alt="password_generator教程图片"><br><img src="/password_generator/8.png" alt="password_generator教程图片"><br><img src="/password_generator/9.png" alt="password_generator教程图片"><br><img src="/password_generator/10.png" alt="password_generator教程图片"><br><img src="/password_generator/11.png" alt="password_generator教程图片"><br><img src="/password_generator/12.png" alt="password_generator教程图片"><br><img src="/password_generator/13.png" alt="password_generator教程图片"><br><img src="/password_generator/14.png" alt="password_generator教程图片"><br><img src="/password_generator/15.png" alt="password_generator教程图片"><br><img src="/password_generator/16.png" alt="password_generator教程图片"><br><img src="/password_generator/17.png" alt="password_generator教程图片"><br><img src="/password_generator/18.png" alt="password_generator教程图片"></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
+<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
 <li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
 </ul>
 ]]></content>
@@ -110,163 +104,6 @@
       </categories>
       <tags>
         <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于借钱这件事</title>
-    <url>/2024/09/17/%E5%80%BA%E5%8A%A1%E8%BF%BD%E8%AE%A8/</url>
-    <content><![CDATA[<h2 id="事情经过"><a href="#事情经过" class="headerlink" title="事情经过"></a>事情经过</h2><ul>
-<li><p>在那个炎热的七月暑假，我遇到了一个棘手的问题。一位我并不十分亲近的朋友向我求助，希望我能借给他一笔钱。数额不大，但足以考验我们的友情。考虑到我们同在一所大学，同属一个院系，我几乎没有犹豫就答应了他的请求，并约定在新学期开始时他会还给我。然而，随着开学季的到来，我却发现事情并没有按照预期发展。尽管我多次友好地提醒他，他却始终没有归还借款的意思。</p>
-<p>面对这样的情况，我决定采取更为正式的措施。我开始搜集所有可能的证据，准备通过法律途径来解决这个问题。我知道这可能不是一条容易走的路，但正义和诚信一定会得到伸张。我整理了我们的聊天记录，转账凭证，以及所有可能支持我的主张的文件。当然，这不仅是为了追回那笔钱，更是为了维护我的权利和尊严。</p>
-</li>
-<li><p>最后，考虑到借款金额不大，我需要权衡诉讼的成本和收益。在某些情况下，通过和解或调解来解决纠纷可能更为经济和高效。我已经准备好了所有可能需要的证据，并且正在考虑所有可行的解决方案，以便尽快解决这个问题。</p>
-</li>
-<li><p>在我精心准备诉讼书和搜集所有必要证据，正站在法律行动门槛上的时候，发生了一件令我始料未及的事情。那位迟迟不肯归还借款的朋友，突然间，将欠款如数奉还。这个转变让我感到困惑，我原本已经做好了与他对抗到底的准备，以为他可能会成为那种逃避债务的“老赖”，没想到他却在最后关头选择了履行承诺。</p>
-<p>面对这突如其来的还款，我选择了接受。毕竟，我的初衷并非是通过诉讼来惩罚他，而是希望收回我应得的借款。既然他现在已经归还了款项，我认为继续诉讼已无必要。于是，我决定停止诉讼进程，同时也放下了这段因金钱而产生的不愉快。</p>
-<p>这件事情给了我深刻的教训：在金钱和友情的交织中，信任和沟通的重要性不言而喻。我也意识到，在处理类似的纠纷时，保持冷静和理智，以及适时采取行动，是多么关键。虽然这次的经历有些波折，但最终能够和平解决，也算是一个圆满的结局。</p>
-</li>
-</ul>
-<h2 id="欠条与诉讼书"><a href="#欠条与诉讼书" class="headerlink" title="欠条与诉讼书"></a>欠条与诉讼书</h2><h3 id="欠条"><a href="#欠条" class="headerlink" title="欠条"></a>欠条</h3><ul>
-<li><p>在我整理的过程中，我发现欠条可以避免很多问题。欠条是一种简单的债权债务凭证，通常由借款人（债务人）向出借人（债权人）出具，用以证明借款人欠出借人一定数额的款项或物品，并承诺在约定的时间内偿还。欠条在民间借贷、货物交易、服务提供等多种经济活动中广泛使用，作为一种非正式的法律文件，它记录了双方的债务关系。</p>
-</li>
-<li><p>欠条是个人或单位在借款、收货、服务等情况下，向对方出具的证明欠款或欠物事实的凭证。一个基本的欠条格式通常包括以下几个要素：</p>
-</li>
-</ul>
-<blockquote>
-<p>借款合同</p>
-<p>甲方（出借人）：姓名<br>身份证号码：<br>联系方式：</p>
-<p>乙方（借款人）：姓名<br>身份证号码：<br>联系方式：</p>
-<p>鉴于乙方因个人需要向甲方借款，甲乙双方本着平等自愿、诚实信用的原则，就借款事宜达成如下协议：</p>
-<ol>
-<li><p>借款金额：乙方向甲方借款人民币（大写）____（￥___元）。</p>
-</li>
-<li><p>借款期限：自____年____月____日起至____年____月____日止。</p>
-</li>
-<li><p>借款利息：借款期限内利息为年利率___%，利息自借款之日起计算。</p>
-</li>
-<li><p>还款方式：乙方应于借款期限届满之日一次性归还本金及利息。</p>
-</li>
-<li><p>违约责任：如乙方未能按期归还借款，应向甲方支付违约金，违约金为逾期金额的___%。</p>
-</li>
-<li><p>争议解决：本合同在履行过程中发生的任何争议，双方应友好协商解决；协商不成的，任何一方均可向甲方所在地人民法院提起诉讼。</p>
-</li>
-<li><p>本合同自双方签字之日起生效。</p>
-</li>
-</ol>
-<p>甲方（签字）：_____________________<br>乙方（签字）：_____________________<br>签订日期：____年____月____日</p>
-<p>  注：本欠条一式两份，借款人和出借人各执一份。</p>
-</blockquote>
-<ul>
-<li>这里有一些注意事项：</li>
-</ul>
-<blockquote>
-<p>借钱时，写欠条可以通过以下几个步骤来确保其有效性和法律效力：</p>
-<ol>
-<li><strong>明确借款人和出借人信息</strong>：在欠条中详细写明借款人和出借人的全名和有效联系方式，包括身份证号码。</li>
-<li><strong>借款金额</strong>：清楚地写明借款金额，最好同时用数字和文字两种形式表述，以避免篡改。</li>
-<li><strong>借款日期和还款日期</strong>：注明借款的具体日期和约定的还款日期。</li>
-<li><strong>借款目的</strong>：写明借款的具体用途，这有助于在发生纠纷时证明借款的合法性。</li>
-<li><strong>利息和还款方式</strong>：如果涉及利息，应明确利率和计息方式。同时，也要明确还款方式，比如一次性还清还是分期偿还。</li>
-<li><strong>签名和日期</strong>：欠条必须由借款人亲自签名，并注明签名的日期。</li>
-<li><strong>其他条款</strong>：如违约责任、争议解决方式等。</li>
-<li><strong>签名</strong>：债务人必须在欠条上签名，有时还需要按手印。</li>
-<li><strong>法律合规性</strong>：确保欠条内容符合当地法律法规的要求，必要时可以咨询法律专业人士。</li>
-<li>请注意，欠条虽然没有经过公证，但如果内容真实、合法，且双方当事人意思表示真实，它在法律上是有效的。在发生纠纷时，欠条可以作为证据使用，帮助债权人追讨债务。不过，为了增强法律效力，建议在出具欠条时有第三方见证，并保留好相关的交易记录或其他证据。对于大额交易或复杂情况，最好通过正式的合同并进行公证。</li>
-</ol>
-</blockquote>
-<h3 id="诉讼书"><a href="#诉讼书" class="headerlink" title="诉讼书"></a>诉讼书</h3><ul>
-<li><p>诉讼书，也称为起诉状，是当事人向法院提起诉讼时提交的正式书面文件。它包含了原告对被告的诉讼请求、事实和理由的陈述，以及支持诉讼请求的证据和法律依据。诉讼书是启动法律诉讼程序的关键文件，它使得法院能够了解争议的基本情况，并决定是否受理该案件。</p>
-<p>诉讼书通常包括以下几个部分：</p>
-<ol>
-<li><strong>首部</strong>：包括法院的名称、原告和被告的基本信息（如姓名、性别、年龄、职业、住址等）。</li>
-<li><strong>诉讼请求</strong>：明确列出原告要求法院做出的具体判决，如要求被告偿还债务、赔偿损失、履行合同等。</li>
-<li><strong>事实和理由</strong>：详细叙述导致诉讼的事实背景，包括争议发生的时间、地点、当事人之间的法律关系、争议的具体内容等，并阐述为什么原告认为自己有权提起诉讼，以及被告为什么应当承担相应的法律责任。</li>
-<li><strong>证据清单</strong>：列出所有支持诉讼请求的证据，如合同文本、通信记录、证人证言、鉴定意见、书证物证等。</li>
-<li><strong>附项</strong>：包括诉讼书的附件，如证据材料、法律条文等。</li>
-<li><strong>尾部</strong>：包括原告的签名或盖章、诉讼书的提交日期等。</li>
-</ol>
-</li>
-<li><p>在中国，根据《中华人民共和国民事诉讼法》的规定，起诉状应当由原告本人或者其代理人签名或者盖章，并注明提交日期。起诉状应当用中文书写，并且提交给有管辖权的法院。起诉状的撰写应当清晰、准确、合法，确保所提供的信息真实有效，以免影响诉讼的进行和结果。在撰写起诉状时，通常建议咨询法律专业人士，以确保符合法律要求和格式规范。</p>
-</li>
-</ul>
-<ul>
-<li><p>比如我的诉讼书</p>
-<blockquote>
-<p><strong>某某法院</strong></p>
-<p><strong>民事起诉状</strong></p>
-<p><strong>原告：</strong> 张三，男，25岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
-<p><strong>被告：</strong> 李四，男，24岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
-<p><strong>诉讼请求：</strong></p>
-<ol>
-<li>判令被告李四立即偿还原告张三借款本金人民币xxxx元（大写：伍仟元整）。</li>
-<li>判令被告李四支付自逾期还款之日起至实际偿还之日止的逾期利息（按中国人民银行同期贷款利率计算）。</li>
-<li>判令被告李四承担本案的全部诉讼费用。</li>
-</ol>
-<p><strong>事实和理由：</strong><br>原告张三与被告李四均为xx大学xx院系的学生。2023年7月15日，被告因个人消费需要向原告借款人民币xxxx元，并承诺于2023年9月1日新学期开始时一次性偿还。原告基于对同学情谊的信任，同意了被告的借款请求，并通过银行转账方式向被告支付了借款。双方未正式签订借款合同，但有聊天记录和转账凭证作为证据。</p>
-<p>然而，约定的还款日期已过，被告李四并未履行还款义务。原告自2023年9月1日起多次通过微信和电话方式提醒被告还款，被告均以各种理由推脱，至今未偿还任何款项。原告认为，被告的行为已构成违约，严重侵害了原告的合法权益。根据《中华人民共和国民法典》第五百零六条、第五百七十七条的规定，原告有权要求被告偿还借款本金及逾期利息，并承担违约责任。</p>
-<p>为维护自身合法权益，原告特向贵院提起诉讼，请求判如所请。</p>
-<p><strong>证据清单：</strong></p>
-<ol>
-<li>微信聊天记录截图，证明被告向原告借款的事实及双方关于还款的约定。</li>
-<li>银行转账凭证，证明原告已向被告支付借款。</li>
-<li>原告向被告催款的微信聊天记录和通话记录，证明原告已多次催告被告还款。</li>
-<li>逾期利息计算明细。</li>
-</ol>
-<p><strong>附项：</strong></p>
-<ol>
-<li>证据材料清单。</li>
-<li>《中华人民共和国民法典》相关法律条文。</li>
-</ol>
-<p><strong>原告签名：</strong> 张三</p>
-<p><strong>日期：</strong> 2024年9月18日</p>
-<hr>
-<p>请注意，上述诉讼书是一个示例，实际起诉状应根据具体案件的事实和法律规定进行详细撰写。在提交法院之前，建议由专业律师进行审核和修改。</p>
-</blockquote>
-</li>
-</ul>
-<ul>
-<li>尽管没有使用借条，使得证据链条略显不足，但幸运的是，我保留了详尽的聊天记录和通话记录，这些资料为我提供了有力的支持，尽管我尚未采取法律诉讼这一步骤。</li>
-</ul>
-<h2 id="关于打欠条这件事"><a href="#关于打欠条这件事" class="headerlink" title="关于打欠条这件事"></a>关于打欠条这件事</h2><blockquote>
-<p>好朋友之间借钱是否应该打欠条，这是一个涉及到信任、法律保护和人际关系复杂性的议题。以下是对这个问题的详细论述：</p>
-<h3 id="信任与关系的考量"><a href="#信任与关系的考量" class="headerlink" title="信任与关系的考量"></a>信任与关系的考量</h3><ol>
-<li><strong>信任的基础</strong>：朋友之间的借贷往往建立在相互信任的基础上。打欠条可能被视为对这种信任的一种考验，有时会让人感觉在金钱面前友谊受到了质疑。</li>
-<li><strong>关系的维护</strong>：在没有明确书面协议的情况下，朋友之间可能更依赖于口头协议和个人信誉。这种方式在关系良好时通常有效，但一旦出现问题，可能会损害双方的关系。</li>
-</ol>
-<h3 id="法律保护的必要性"><a href="#法律保护的必要性" class="headerlink" title="法律保护的必要性"></a>法律保护的必要性</h3><ol>
-<li><strong>证据的重要性</strong>：在法律上，书面证据是解决争议的关键。如果没有欠条，一旦借款人违约，出借人可能会面临难以追讨债务的问题。</li>
-<li><strong>权利的明确</strong>：欠条可以明确双方的权利和义务，包括借款金额、还款期限、利息等，有助于防止未来的误解和纠纷。</li>
-</ol>
-<h3 id="风险管理的角度"><a href="#风险管理的角度" class="headerlink" title="风险管理的角度"></a>风险管理的角度</h3><ol>
-<li><strong>风险评估</strong>：即使是朋友，也应该对借款人的信用和还款能力进行评估。打欠条是一种风险管理的手段，可以减少潜在的财务风险。</li>
-<li><strong>预防措施</strong>：在金钱交易中，即使是朋友，也应该采取一定的预防措施。这不仅是对自己财务安全的保护，也是对友谊负责任的表现。</li>
-</ol>
-<h3 id="社会和文化的影响"><a href="#社会和文化的影响" class="headerlink" title="社会和文化的影响"></a>社会和文化的影响</h3><ol>
-<li><strong>社会观念</strong>：不同的社会和文化对朋友间借贷的看法不同。在一些文化中，朋友间借钱不打欠条是常见的，而在其他文化中，即使是小额借贷也会要求有正式的书面记录。</li>
-<li><strong>个人价值观</strong>：个人对于金钱和友谊的看法也会影响是否打欠条的决定。一些人可能认为即使是朋友，金钱交易也应该明确和正式；而另一些人可能更看重维护关系的和谐。</li>
-</ol>
-<h3 id="实际操作建议"><a href="#实际操作建议" class="headerlink" title="实际操作建议"></a>实际操作建议</h3><ol>
-<li><strong>沟通</strong>：在决定是否打欠条之前，双方应该进行充分的沟通，了解彼此的期望和担忧。</li>
-<li><strong>灵活性</strong>：可以考虑采用较为非正式的书面协议，如电子邮件或短信确认，以减少正式欠条可能带来的尴尬。</li>
-<li><strong>第三方见证</strong>：在没有欠条的情况下，有时可以邀请第三方见证，或者通过银行转账等方式留下交易记录。</li>
-</ol>
-<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>好朋友之间是否打欠条是一个需要综合考虑的问题。它不仅涉及到法律保护和风险管理，还涉及到对友谊的尊重和维护。在做出决定时，应该基于对朋友的了解、对风险的评估以及对双方关系的考虑。最重要的是，无论是否打欠条，都应该确保双方的理解和同意，以维护友谊和信任。</p>
-</blockquote>
-<ul>
-<li>我的建议<ol>
-<li>借人应该评估借款人的信用和还款能力，避免因借款人无力偿还而造成损失。</li>
-<li>对于出借人来说，借出去的钱应该是自己可以承受损失的金额，即使借款人无法偿还，也不会对自己的经济状况造成重大影响。</li>
-<li>在没有明确书面记录的情况下，朋友间的借贷往往依赖于信任和口头协议。然而，当还款出现问题时，缺乏书面记录可能导致双方各执一词，难以达成共识。欠条作为一种预防措施，有助于减少此类纠纷的发生。</li>
-<li>将打欠条作为标准做法，也有助于提高公众对财务责任和法律意识的认识。它传递了一个信息，即即使是在朋友之间，金钱交易也应该有适当的正式程序。</li>
-</ol>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>个人权益维护</category>
-      </categories>
-      <tags>
-        <tag>个人权益维护</tag>
       </tags>
   </entry>
   <entry>
@@ -362,6 +199,24 @@
 
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+</blockquote>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
   </entry>
   <entry>
     <title>《应用文写作》笔记</title>
@@ -788,6 +643,163 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>债务追讨（2024.9.17）</title>
+    <url>/2024/09/17/%E5%80%BA%E5%8A%A1%E8%BF%BD%E8%AE%A8/</url>
+    <content><![CDATA[<h2 id="事情经过"><a href="#事情经过" class="headerlink" title="事情经过"></a>事情经过</h2><ul>
+<li><p>在那个炎热的七月暑假，我遇到了一个棘手的问题。一位我并不十分亲近的朋友向我求助，希望我能借给他一笔钱。数额不大，但足以考验我们的友情。考虑到我们同在一所大学，同属一个院系，我几乎没有犹豫就答应了他的请求，并约定在新学期开始时他会还给我。然而，随着开学季的到来，我却发现事情并没有按照预期发展。尽管我多次友好地提醒他，他却始终没有归还借款的意思。</p>
+<p>面对这样的情况，我决定采取更为正式的措施。我开始搜集所有可能的证据，准备通过法律途径来解决这个问题。我知道这可能不是一条容易走的路，但正义和诚信一定会得到伸张。我整理了我们的聊天记录，转账凭证，以及所有可能支持我的主张的文件。当然，这不仅是为了追回那笔钱，更是为了维护我的权利和尊严。</p>
+</li>
+<li><p>最后，考虑到借款金额不大，我需要权衡诉讼的成本和收益。在某些情况下，通过和解或调解来解决纠纷可能更为经济和高效。我已经准备好了所有可能需要的证据，并且正在考虑所有可行的解决方案，以便尽快解决这个问题。</p>
+</li>
+<li><p>在我精心准备诉讼书和搜集所有必要证据，正站在法律行动门槛上的时候，发生了一件令我始料未及的事情。那位迟迟不肯归还借款的朋友，突然间，将欠款如数奉还。这个转变让我感到困惑，我原本已经做好了与他对抗到底的准备，以为他可能会成为那种逃避债务的“老赖”，没想到他却在最后关头选择了履行承诺。</p>
+<p>面对这突如其来的还款，我选择了接受。毕竟，我的初衷并非是通过诉讼来惩罚他，而是希望收回我应得的借款。既然他现在已经归还了款项，我认为继续诉讼已无必要。于是，我决定停止诉讼进程，同时也放下了这段因金钱而产生的不愉快。</p>
+<p>这件事情给了我深刻的教训：在金钱和友情的交织中，信任和沟通的重要性不言而喻。我也意识到，在处理类似的纠纷时，保持冷静和理智，以及适时采取行动，是多么关键。虽然这次的经历有些波折，但最终能够和平解决，也算是一个圆满的结局。</p>
+</li>
+</ul>
+<h2 id="欠条与诉讼书"><a href="#欠条与诉讼书" class="headerlink" title="欠条与诉讼书"></a>欠条与诉讼书</h2><h3 id="欠条"><a href="#欠条" class="headerlink" title="欠条"></a>欠条</h3><ul>
+<li><p>在我整理的过程中，我发现欠条可以避免很多问题。欠条是一种简单的债权债务凭证，通常由借款人（债务人）向出借人（债权人）出具，用以证明借款人欠出借人一定数额的款项或物品，并承诺在约定的时间内偿还。欠条在民间借贷、货物交易、服务提供等多种经济活动中广泛使用，作为一种非正式的法律文件，它记录了双方的债务关系。</p>
+</li>
+<li><p>欠条是个人或单位在借款、收货、服务等情况下，向对方出具的证明欠款或欠物事实的凭证。一个基本的欠条格式通常包括以下几个要素：</p>
+</li>
+</ul>
+<blockquote>
+<p>借款合同</p>
+<p>甲方（出借人）：姓名<br>身份证号码：<br>联系方式：</p>
+<p>乙方（借款人）：姓名<br>身份证号码：<br>联系方式：</p>
+<p>鉴于乙方因个人需要向甲方借款，甲乙双方本着平等自愿、诚实信用的原则，就借款事宜达成如下协议：</p>
+<ol>
+<li><p>借款金额：乙方向甲方借款人民币（大写）____（￥___元）。</p>
+</li>
+<li><p>借款期限：自____年____月____日起至____年____月____日止。</p>
+</li>
+<li><p>借款利息：借款期限内利息为年利率___%，利息自借款之日起计算。</p>
+</li>
+<li><p>还款方式：乙方应于借款期限届满之日一次性归还本金及利息。</p>
+</li>
+<li><p>违约责任：如乙方未能按期归还借款，应向甲方支付违约金，违约金为逾期金额的___%。</p>
+</li>
+<li><p>争议解决：本合同在履行过程中发生的任何争议，双方应友好协商解决；协商不成的，任何一方均可向甲方所在地人民法院提起诉讼。</p>
+</li>
+<li><p>本合同自双方签字之日起生效。</p>
+</li>
+</ol>
+<p>甲方（签字）：_____________________<br>乙方（签字）：_____________________<br>签订日期：____年____月____日</p>
+<p>  注：本欠条一式两份，借款人和出借人各执一份。</p>
+</blockquote>
+<ul>
+<li>这里有一些注意事项：</li>
+</ul>
+<blockquote>
+<p>借钱时，写欠条可以通过以下几个步骤来确保其有效性和法律效力：</p>
+<ol>
+<li><strong>明确借款人和出借人信息</strong>：在欠条中详细写明借款人和出借人的全名和有效联系方式，包括身份证号码。</li>
+<li><strong>借款金额</strong>：清楚地写明借款金额，最好同时用数字和文字两种形式表述，以避免篡改。</li>
+<li><strong>借款日期和还款日期</strong>：注明借款的具体日期和约定的还款日期。</li>
+<li><strong>借款目的</strong>：写明借款的具体用途，这有助于在发生纠纷时证明借款的合法性。</li>
+<li><strong>利息和还款方式</strong>：如果涉及利息，应明确利率和计息方式。同时，也要明确还款方式，比如一次性还清还是分期偿还。</li>
+<li><strong>签名和日期</strong>：欠条必须由借款人亲自签名，并注明签名的日期。</li>
+<li><strong>其他条款</strong>：如违约责任、争议解决方式等。</li>
+<li><strong>签名</strong>：债务人必须在欠条上签名，有时还需要按手印。</li>
+<li><strong>法律合规性</strong>：确保欠条内容符合当地法律法规的要求，必要时可以咨询法律专业人士。</li>
+<li>请注意，欠条虽然没有经过公证，但如果内容真实、合法，且双方当事人意思表示真实，它在法律上是有效的。在发生纠纷时，欠条可以作为证据使用，帮助债权人追讨债务。不过，为了增强法律效力，建议在出具欠条时有第三方见证，并保留好相关的交易记录或其他证据。对于大额交易或复杂情况，最好通过正式的合同并进行公证。</li>
+</ol>
+</blockquote>
+<h3 id="诉讼书"><a href="#诉讼书" class="headerlink" title="诉讼书"></a>诉讼书</h3><ul>
+<li><p>诉讼书，也称为起诉状，是当事人向法院提起诉讼时提交的正式书面文件。它包含了原告对被告的诉讼请求、事实和理由的陈述，以及支持诉讼请求的证据和法律依据。诉讼书是启动法律诉讼程序的关键文件，它使得法院能够了解争议的基本情况，并决定是否受理该案件。</p>
+<p>诉讼书通常包括以下几个部分：</p>
+<ol>
+<li><strong>首部</strong>：包括法院的名称、原告和被告的基本信息（如姓名、性别、年龄、职业、住址等）。</li>
+<li><strong>诉讼请求</strong>：明确列出原告要求法院做出的具体判决，如要求被告偿还债务、赔偿损失、履行合同等。</li>
+<li><strong>事实和理由</strong>：详细叙述导致诉讼的事实背景，包括争议发生的时间、地点、当事人之间的法律关系、争议的具体内容等，并阐述为什么原告认为自己有权提起诉讼，以及被告为什么应当承担相应的法律责任。</li>
+<li><strong>证据清单</strong>：列出所有支持诉讼请求的证据，如合同文本、通信记录、证人证言、鉴定意见、书证物证等。</li>
+<li><strong>附项</strong>：包括诉讼书的附件，如证据材料、法律条文等。</li>
+<li><strong>尾部</strong>：包括原告的签名或盖章、诉讼书的提交日期等。</li>
+</ol>
+</li>
+<li><p>在中国，根据《中华人民共和国民事诉讼法》的规定，起诉状应当由原告本人或者其代理人签名或者盖章，并注明提交日期。起诉状应当用中文书写，并且提交给有管辖权的法院。起诉状的撰写应当清晰、准确、合法，确保所提供的信息真实有效，以免影响诉讼的进行和结果。在撰写起诉状时，通常建议咨询法律专业人士，以确保符合法律要求和格式规范。</p>
+</li>
+</ul>
+<ul>
+<li><p>比如我的诉讼书</p>
+<blockquote>
+<p><strong>某某法院</strong></p>
+<p><strong>民事起诉状</strong></p>
+<p><strong>原告：</strong> 张三，男，25岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
+<p><strong>被告：</strong> 李四，男，24岁，大学生，住址：xx省xx市xx区xx路xx号（等其他信息）。</p>
+<p><strong>诉讼请求：</strong></p>
+<ol>
+<li>判令被告李四立即偿还原告张三借款本金人民币xxxx元（大写：伍仟元整）。</li>
+<li>判令被告李四支付自逾期还款之日起至实际偿还之日止的逾期利息（按中国人民银行同期贷款利率计算）。</li>
+<li>判令被告李四承担本案的全部诉讼费用。</li>
+</ol>
+<p><strong>事实和理由：</strong><br>原告张三与被告李四均为xx大学xx院系的学生。2023年7月15日，被告因个人消费需要向原告借款人民币xxxx元，并承诺于2023年9月1日新学期开始时一次性偿还。原告基于对同学情谊的信任，同意了被告的借款请求，并通过银行转账方式向被告支付了借款。双方未正式签订借款合同，但有聊天记录和转账凭证作为证据。</p>
+<p>然而，约定的还款日期已过，被告李四并未履行还款义务。原告自2023年9月1日起多次通过微信和电话方式提醒被告还款，被告均以各种理由推脱，至今未偿还任何款项。原告认为，被告的行为已构成违约，严重侵害了原告的合法权益。根据《中华人民共和国民法典》第五百零六条、第五百七十七条的规定，原告有权要求被告偿还借款本金及逾期利息，并承担违约责任。</p>
+<p>为维护自身合法权益，原告特向贵院提起诉讼，请求判如所请。</p>
+<p><strong>证据清单：</strong></p>
+<ol>
+<li>微信聊天记录截图，证明被告向原告借款的事实及双方关于还款的约定。</li>
+<li>银行转账凭证，证明原告已向被告支付借款。</li>
+<li>原告向被告催款的微信聊天记录和通话记录，证明原告已多次催告被告还款。</li>
+<li>逾期利息计算明细。</li>
+</ol>
+<p><strong>附项：</strong></p>
+<ol>
+<li>证据材料清单。</li>
+<li>《中华人民共和国民法典》相关法律条文。</li>
+</ol>
+<p><strong>原告签名：</strong> 张三</p>
+<p><strong>日期：</strong> 2024年9月18日</p>
+<hr>
+<p>请注意，上述诉讼书是一个示例，实际起诉状应根据具体案件的事实和法律规定进行详细撰写。在提交法院之前，建议由专业律师进行审核和修改。</p>
+</blockquote>
+</li>
+</ul>
+<ul>
+<li>尽管没有使用借条，使得证据链条略显不足，但幸运的是，我保留了详尽的聊天记录和通话记录，这些资料为我提供了有力的支持，尽管我尚未采取法律诉讼这一步骤。</li>
+</ul>
+<h2 id="关于打欠条这件事"><a href="#关于打欠条这件事" class="headerlink" title="关于打欠条这件事"></a>关于打欠条这件事</h2><blockquote>
+<p>好朋友之间借钱是否应该打欠条，这是一个涉及到信任、法律保护和人际关系复杂性的议题。以下是对这个问题的详细论述：</p>
+<h3 id="信任与关系的考量"><a href="#信任与关系的考量" class="headerlink" title="信任与关系的考量"></a>信任与关系的考量</h3><ol>
+<li><strong>信任的基础</strong>：朋友之间的借贷往往建立在相互信任的基础上。打欠条可能被视为对这种信任的一种考验，有时会让人感觉在金钱面前友谊受到了质疑。</li>
+<li><strong>关系的维护</strong>：在没有明确书面协议的情况下，朋友之间可能更依赖于口头协议和个人信誉。这种方式在关系良好时通常有效，但一旦出现问题，可能会损害双方的关系。</li>
+</ol>
+<h3 id="法律保护的必要性"><a href="#法律保护的必要性" class="headerlink" title="法律保护的必要性"></a>法律保护的必要性</h3><ol>
+<li><strong>证据的重要性</strong>：在法律上，书面证据是解决争议的关键。如果没有欠条，一旦借款人违约，出借人可能会面临难以追讨债务的问题。</li>
+<li><strong>权利的明确</strong>：欠条可以明确双方的权利和义务，包括借款金额、还款期限、利息等，有助于防止未来的误解和纠纷。</li>
+</ol>
+<h3 id="风险管理的角度"><a href="#风险管理的角度" class="headerlink" title="风险管理的角度"></a>风险管理的角度</h3><ol>
+<li><strong>风险评估</strong>：即使是朋友，也应该对借款人的信用和还款能力进行评估。打欠条是一种风险管理的手段，可以减少潜在的财务风险。</li>
+<li><strong>预防措施</strong>：在金钱交易中，即使是朋友，也应该采取一定的预防措施。这不仅是对自己财务安全的保护，也是对友谊负责任的表现。</li>
+</ol>
+<h3 id="社会和文化的影响"><a href="#社会和文化的影响" class="headerlink" title="社会和文化的影响"></a>社会和文化的影响</h3><ol>
+<li><strong>社会观念</strong>：不同的社会和文化对朋友间借贷的看法不同。在一些文化中，朋友间借钱不打欠条是常见的，而在其他文化中，即使是小额借贷也会要求有正式的书面记录。</li>
+<li><strong>个人价值观</strong>：个人对于金钱和友谊的看法也会影响是否打欠条的决定。一些人可能认为即使是朋友，金钱交易也应该明确和正式；而另一些人可能更看重维护关系的和谐。</li>
+</ol>
+<h3 id="实际操作建议"><a href="#实际操作建议" class="headerlink" title="实际操作建议"></a>实际操作建议</h3><ol>
+<li><strong>沟通</strong>：在决定是否打欠条之前，双方应该进行充分的沟通，了解彼此的期望和担忧。</li>
+<li><strong>灵活性</strong>：可以考虑采用较为非正式的书面协议，如电子邮件或短信确认，以减少正式欠条可能带来的尴尬。</li>
+<li><strong>第三方见证</strong>：在没有欠条的情况下，有时可以邀请第三方见证，或者通过银行转账等方式留下交易记录。</li>
+</ol>
+<h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>好朋友之间是否打欠条是一个需要综合考虑的问题。它不仅涉及到法律保护和风险管理，还涉及到对友谊的尊重和维护。在做出决定时，应该基于对朋友的了解、对风险的评估以及对双方关系的考虑。最重要的是，无论是否打欠条，都应该确保双方的理解和同意，以维护友谊和信任。</p>
+</blockquote>
+<ul>
+<li>我的建议<ol>
+<li>借人应该评估借款人的信用和还款能力，避免因借款人无力偿还而造成损失。</li>
+<li>对于出借人来说，借出去的钱应该是自己可以承受损失的金额，即使借款人无法偿还，也不会对自己的经济状况造成重大影响。</li>
+<li>在没有明确书面记录的情况下，朋友间的借贷往往依赖于信任和口头协议。然而，当还款出现问题时，缺乏书面记录可能导致双方各执一词，难以达成共识。欠条作为一种预防措施，有助于减少此类纠纷的发生。</li>
+<li>将打欠条作为标准做法，也有助于提高公众对财务责任和法律意识的认识。它传递了一个信息，即即使是在朋友之间，金钱交易也应该有适当的正式程序。</li>
+</ol>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>个人权益维护</category>
+      </categories>
+      <tags>
+        <tag>个人权益维护</tag>
       </tags>
   </entry>
   <entry>
