@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>《产品三维造型与结构设计（UG）》笔记</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
+<li>入门案例1<ul>
+<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
+</ul>
+</li>
+</ol>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>calculator(计算器)</title>
     <url>/2024/09/20/calculator/</url>
     <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
@@ -89,8 +109,9 @@
 <p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
 </blockquote>
 <ul>
-<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"><br><a href="/password_generator/password_generator.pdf" target="_blank">查看PDF文件</a></li>
+<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
 </ul>
+<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
 <h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
 <li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
 <li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
@@ -101,6 +122,135 @@
       </categories>
       <tags>
         <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《应用文写作》笔记</title>
+    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
+<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
+<li>一般文章类：记叙文、议论文、说明文。</li>
+<li>文学作品类：诗歌、散文、小说、戏剧。</li>
+<li>应用(实用)文类：日用文、专用文。</li>
+</ol>
+<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
+<li><strong>产生</strong><ol>
+<li>仓颉造字，以代结绳。</li>
+<li>我国最早的文章是应用文</li>
+<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
+<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
+<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
+</ol>
+</li>
+<li><strong>发展</strong><ol>
+<li>*<strong>先秦</strong>；萌芽期</li>
+<li><strong>秦——清</strong>；形成发展期</li>
+<li><strong>清后</strong>；繁荣期</li>
+</ol>
+</li>
+</ul>
+<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
+<li><strong>实用性</strong></li>
+<li><strong>规范性(格式性)</strong></li>
+<li><strong>真实性</strong></li>
+<li><strong>时效性</strong></li>
+<li><strong>广泛性</strong></li>
+<li><strong>确定性(对象)</strong></li>
+</ul>
+<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>公文类</li>
+<li>事务文书</li>
+<li>经济文书</li>
+<li>职场文书</li>
+<li>科技文书</li>
+<li>宣传文书</li>
+<li>法律文书</li>
+</ol>
+<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>主旨(鲜明，集中)</li>
+<li>材料(真实，典型)</li>
+<li>结构(严谨，完整)</li>
+<li>语言(简明，朴实，庄重)</li>
+</ol>
+<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
+<li><strong>记叙</strong></li>
+<li><strong>描写</strong></li>
+<li><strong>说明</strong></li>
+<li><strong>议论</strong></li>
+<li><strong>抒情</strong></li>
+</ul>
+<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
+<li>象形法</li>
+<li>指事法</li>
+<li>会意法</li>
+<li>形声法</li>
+<li>转注法(辅助)</li>
+<li>假借法(辅助)</li>
+</ul>
+</li>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
+<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
+</ul>
+</li>
+</ol>
+<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
+<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
+<li>特点<ul>
+<li>预见性</li>
+<li>针对性</li>
+<li>可行性</li>
+<li>约束性</li>
+</ul>
+</li>
+<li>三要素：目标、措施、步骤</li>
+<li>写法<ul>
+<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
+<p>例：《清华大学2015年度工作计划》</p>
+</blockquote>
+</li>
+<li>正文：<ul>
+<li>前言：目的、依据、指导思想、任务要求。</li>
+<li>主体：做什么——怎么做——什么时候完成<ul>
+<li>目标任务：做什么（明确）</li>
+<li>方法实施：怎么做（具体）</li>
+<li>时间步骤：什么时候完成（清楚）</li>
+</ul>
+</li>
+<li>结尾：希望、要求</li>
+</ul>
+</li>
+<li>落款：单位（个人）名称+日期</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>如果说要策划一场活动，那么应该包括以下几点：</p>
+<ol>
+<li>活动名称</li>
+<li>活动主题</li>
+<li>活动时间、地点</li>
+<li>活动内容</li>
+<li>活动形式</li>
+<li>活动参加人员负责人</li>
+<li>活动经费来源、预算 </li>
+<li>策划单位、日期</li>
+</ol>
+</blockquote>
+<ol start="5">
+<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
+<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -353,26 +503,6 @@
 
 
 ]]></content>
-  </entry>
-  <entry>
-    <title>《产品三维造型与结构设计（UG）》笔记</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
-<li>入门案例1<ul>
-<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
-</ul>
-</li>
-</ol>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
   </entry>
   <entry>
     <title>《数控车床与加工工艺》笔记</title>
@@ -664,135 +794,6 @@
 <h3 id="程序编写"><a href="#程序编写" class="headerlink" title="程序编写"></a>程序编写</h3><ul>
 <li>示例程序<figure class="highlight txt"><table><tr><td class="code"><pre><span class="line">&quot;#&quot;后面是注释，如果代码块太长影响阅读可以在点击右侧隐藏按钮。</span><br><span class="line"></span><br><span class="line">O0001;               #程序编号，用于标识程序,&quot;O&quot;后面的&quot;0001&quot;必须是四位数</span><br><span class="line">T0101;               #选择刀具1号刀具，01号刀具补偿</span><br><span class="line">M03S800;                 #主轴正转，转速设置为800转/分钟</span><br><span class="line">G00X50.Z50.;                 #快速定位到X轴50mm，Z轴50mm的位置</span><br><span class="line">G00X35.Z5.;                 #快速定位到X轴35mm，Z轴5mm的位置</span><br><span class="line">G01X35.Z-20.F0.15;              #以0.15mm/转的进给率，直线插补到X轴35mm，Z轴-20mm的位置</span><br><span class="line">G01X40.Z-30.F0.15;              #以0.15mm/转的进给率，直线插补到X轴40mm，Z轴-30mm的位置</span><br><span class="line">G01X40.Z-40.F0.15;              #以0.15mm/转的进给率，直线插补到X轴40mm，Z轴-40mm的位置</span><br><span class="line">G01X44.Z-40.F0.15;              #以0.15mm/转的进给率，直线插补到X轴44mm，Z轴-40mm的位置</span><br><span class="line">X44.Z-50.;              #直线插补到X轴44mm，Z轴-50mm的位置（G01命令省略，因为前一行是G01）</span><br><span class="line">X50.Z-50.;              #直线插补到X轴50mm，Z轴-50mm的位置</span><br><span class="line">G01 X100.Z100.;         #直线插补到X轴100mm，Z轴100mm的位置</span><br><span class="line">M05 ;               #主轴停止</span><br><span class="line">M30 ;               #程序结束</span><br></pre></td></tr></table></figure></li>
 </ul>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《应用文写作》笔记</title>
-    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
-<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
-<li>一般文章类：记叙文、议论文、说明文。</li>
-<li>文学作品类：诗歌、散文、小说、戏剧。</li>
-<li>应用(实用)文类：日用文、专用文。</li>
-</ol>
-<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
-<li><strong>产生</strong><ol>
-<li>仓颉造字，以代结绳。</li>
-<li>我国最早的文章是应用文</li>
-<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
-<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
-<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
-</ol>
-</li>
-<li><strong>发展</strong><ol>
-<li>*<strong>先秦</strong>；萌芽期</li>
-<li><strong>秦——清</strong>；形成发展期</li>
-<li><strong>清后</strong>；繁荣期</li>
-</ol>
-</li>
-</ul>
-<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
-<li><strong>实用性</strong></li>
-<li><strong>规范性(格式性)</strong></li>
-<li><strong>真实性</strong></li>
-<li><strong>时效性</strong></li>
-<li><strong>广泛性</strong></li>
-<li><strong>确定性(对象)</strong></li>
-</ul>
-<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>公文类</li>
-<li>事务文书</li>
-<li>经济文书</li>
-<li>职场文书</li>
-<li>科技文书</li>
-<li>宣传文书</li>
-<li>法律文书</li>
-</ol>
-<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>主旨(鲜明，集中)</li>
-<li>材料(真实，典型)</li>
-<li>结构(严谨，完整)</li>
-<li>语言(简明，朴实，庄重)</li>
-</ol>
-<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
-<li><strong>记叙</strong></li>
-<li><strong>描写</strong></li>
-<li><strong>说明</strong></li>
-<li><strong>议论</strong></li>
-<li><strong>抒情</strong></li>
-</ul>
-<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
-<li>象形法</li>
-<li>指事法</li>
-<li>会意法</li>
-<li>形声法</li>
-<li>转注法(辅助)</li>
-<li>假借法(辅助)</li>
-</ul>
-</li>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
-<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
-</ul>
-</li>
-</ol>
-<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
-<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
-<li>特点<ul>
-<li>预见性</li>
-<li>针对性</li>
-<li>可行性</li>
-<li>约束性</li>
-</ul>
-</li>
-<li>三要素：目标、措施、步骤</li>
-<li>写法<ul>
-<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
-<p>例：《清华大学2015年度工作计划》</p>
-</blockquote>
-</li>
-<li>正文：<ul>
-<li>前言：目的、依据、指导思想、任务要求。</li>
-<li>主体：做什么——怎么做——什么时候完成<ul>
-<li>目标任务：做什么（明确）</li>
-<li>方法实施：怎么做（具体）</li>
-<li>时间步骤：什么时候完成（清楚）</li>
-</ul>
-</li>
-<li>结尾：希望、要求</li>
-</ul>
-</li>
-<li>落款：单位（个人）名称+日期</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>如果说要策划一场活动，那么应该包括以下几点：</p>
-<ol>
-<li>活动名称</li>
-<li>活动主题</li>
-<li>活动时间、地点</li>
-<li>活动内容</li>
-<li>活动形式</li>
-<li>活动参加人员负责人</li>
-<li>活动经费来源、预算 </li>
-<li>策划单位、日期</li>
-</ol>
-</blockquote>
-<ol start="5">
-<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
-<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
-</blockquote>
-</li>
-</ol>
 ]]></content>
       <categories>
         <category>学习笔记</category>
