@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《产品三维造型与结构设计（UG）》笔记</title>
     <url>/2024/09/05/UG/</url>
     <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
@@ -36,6 +18,24 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+</blockquote>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
       </tags>
   </entry>
   <entry>
@@ -125,98 +125,115 @@
       </tags>
   </entry>
   <entry>
-    <title>《可编程序控制器技术与应用》笔记</title>
-    <url>/2024/09/07/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
-<p> 前言：本文是由Ding在大学课程“可编程序控制器技术与应用”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h2 id="PLC的起源和诞生"><a href="#PLC的起源和诞生" class="headerlink" title="PLC的起源和诞生"></a>PLC的起源和诞生</h2><ul>
-<li><strong>起源</strong>：1968年，美国最大的汽车制造商<a href="https://baike.baidu.com/item/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/556241"><strong>通用汽车公司</strong></a>为了适应生产工艺不断更新的需要，期望找到一种新的方法，尽可能减少重新设计继电控制系统和重新接线的工作，以降低成本、缩短周期，设想把计算机通用、灵活、功能完备等优点和继电控制系统的简单易懂、价格便宜等优点结合起来，制成一种通用控制装置，并把计算机的编程方法和程序输入方式加以简化，用面向控制过程、面向问题的“自然语言”进行编程，使不熟悉计算机的人也能方便地使用。</li>
-<li><strong>诞生</strong>：1969年，美国<a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8/5559330#:~:text=%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8%EF%BC%88%E5%8D%B3%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B1%E6%96%87%EF%BC%9ADigital%20Equipment%20Corporation%EF%BC%8C%E7%AE%80%E7%A7%B0DEC%EF%BC%89%E3%80%82%201998%E5%B9%B41%E6%9C%88DEC%E5%85%AC%E5%8F%B8%E8%A2%AB,%E5%BA%B7%E6%9F%8F%20%E4%BB%A596%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%94%B6%E8%B4%AD%EF%BC%8C2001%E5%B9%B4%20%E6%83%A0%E6%99%AE%20%E5%BA%B7%E6%9F%8F%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6%E3%80%82"><strong>美国数字设备公司</strong></a>研制出了第一台可编程序逻辑控制器PDP—14，在通用汽车公司的自动装配线上试用获得了成功。</li>
-</ul>
-<h2 id="PLC简介"><a href="#PLC简介" class="headerlink" title="PLC简介"></a>PLC简介</h2><ol>
-<li>可编程逻辑控制器（Programmable Logic Controller）简称PLC，最初只能进行计数、定时及开关量逻辑控制。<br>随着计算机技术的发展，可编程逻辑控制的功能不断扩展和完善，其功能远远超出了逻辑控制的范围，具有了PID、A&#x2F;D、D&#x2F;A、算术运算、数字量智能控制、监控、通信联网等多方面的功能，它已变成了实际意义上的一种工业控制计算机。</li>
-<li>于是，美国电器制造商协会将其正式命名为可编程序控制器（Programmable Controller），简称PC。</li>
-<li>由于它与<a href="https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E8%AE%A1%E7%AE%97%E6%9C%BA/3731770"><strong>个人计算机(Personal computer)</strong></a>的简称PC相同，所以人们习惯上仍将其称为<a href="https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8/84414?fromtitle=PLC&fromid=275974"><strong>PLC</strong></a>。</li>
-</ol>
-<h2 id="PLC定义"><a href="#PLC定义" class="headerlink" title="PLC定义"></a>PLC定义</h2><ul>
-<li>1987年2月，国际电工委员会(IEC)对可编程控制器的定义是：1987年，国际电工委员会 (IEC)是这样定义可编程控制器的：“可编程控制器是一种数字运算操作的电子系统，专为在工业环境下应用而设计，它采用可编程序的存储器，用来在其内部存储执行逻辑运算、数序控制、定时、技术和算术运算等操作的指令，并通过数字式、模拟式的输入和输出，控制各种类型的机械或生产过程。</li>
-</ul>
-<h2 id="PLC的分类"><a href="#PLC的分类" class="headerlink" title="PLC的分类"></a>PLC的分类</h2><ol>
-<li>按结构特点分<ul>
-<li>整体式；：结构紧凑、体积小、价格低,小型PLC一般采用整体式结构</li>
-<li>模块式：配置灵活，可根据需要选配不同规模的系统，且装配便，便于扩展和维修，大、中型PLC一般采用模块式结构</li>
-</ul>
+    <title>python学习笔记</title>
+    <url>/2024/09/25/python/</url>
+    <content><![CDATA[<h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
+<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
+<p>解释一下为什么学习python：</p>
+<ol>
+<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
 </li>
-<li>按控制规模分<ul>
-<li>微型:I&#x2F;0点数小于64</li>
-<li>小型:I&#x2F;0点数64-256</li>
-<li>中型:I&#x2F;0点数256-1024</li>
-<li>大型:I&#x2F;0点数1024以上</li>
-</ul>
+<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
 </li>
-<li>按控制性能分<ul>
-<li>低档机</li>
-<li>中档机</li>
-<li>高档机</li>
-</ul>
+<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
+</li>
+<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
+</li>
+<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
+</li>
+<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
+</li>
+<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
+</li>
+<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
+</li>
+<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
+</li>
+<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
+</li>
+<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
+</li>
+<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
+</li>
+<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
+</li>
+<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
 </li>
 </ol>
-<h2 id="PLC应用"><a href="#PLC应用" class="headerlink" title="PLC应用"></a>PLC应用</h2><ol>
-<li>数字量控制</li>
-<li>运动量控制</li>
-<li>闭环过程控制</li>
-<li>数据处理</li>
-<li>通信联网</li>
-</ol>
-<h2 id="PLC基本结构"><a href="#PLC基本结构" class="headerlink" title="PLC基本结构"></a>PLC基本结构</h2><ul>
-<li>CPU,电源，储存器和输入输出接口电路等组成（其硬件组成与微型计算机相似。）</li>
+<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
+<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
+<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
+<li><a href="https://www.python.org/">python官网</a></li>
 </ul>
-<h2 id="PLC特点"><a href="#PLC特点" class="headerlink" title="PLC特点"></a>PLC特点</h2><ul>
-<li>（可编程逻辑控制器）的特点包括：<ol>
-<li>编程方法简单易学</li>
-<li>功能强，性能价格比高</li>
-<li>硬件配套齐全，用户使用方便，适应性强</li>
-<li>可靠性高，抗干扰能力强</li>
-<li>系统的设计、安装、调试工作量少</li>
-<li>维修工作量小，维修方便</li>
-<li>体积小，能耗低</li>
-</ol>
-</li>
-</ul>
-<h2 id="PLC基本编程语言"><a href="#PLC基本编程语言" class="headerlink" title="PLC基本编程语言"></a>PLC基本编程语言</h2><ol>
-<li>梯形图</li>
-<li>语句表</li>
-<li>功能块图</li>
-<li>顺序功能图</li>
-<li>结构文本</li>
-</ol>
-<h2 id="PLC控制系统示意图"><a href="#PLC控制系统示意图" class="headerlink" title="PLC控制系统示意图"></a>PLC控制系统示意图</h2><p><img src="/img/PLC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="PLC控制系统示意图"></p>
-<h2 id="PLC工作原理"><a href="#PLC工作原理" class="headerlink" title="PLC工作原理"></a>PLC工作原理</h2><p><img src="/img/PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt="PLC工作原理"></p>
+<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
+<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
+<ol>
+<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
 <ul>
-<li><strong>扫描周期</strong>：PLC在RUN工作状态时，执行一次扫描过程所需的时间称为扫描周期，典型值为1～l00ms</li>
-</ul>
-<h1 id="S7-1200-PLC-简介"><a href="#S7-1200-PLC-简介" class="headerlink" title="S7-1200 PLC 简介"></a><a href="https://www.ad.siemens.com.cn/productportal/prods/s7-1200_plc_easy_plus/04-version/01-Specification/S7-1200_New_Para.html">S7-1200 PLC 简介</a></h1><ul>
-<li>S7-1200 PLC (Programmable Logic Controller) 是西门子公司推出的一款PLC，主要面向简单而高精度的自动化任务。</li>
-<li>S7-1200设计紧凑、组态灵活且具有功能强大的指令集，这些特点的组合使它成为控制各种应用的完美解决方案。  </li>
-<li>CPU将微处理器、集成电源、输入电路和输出电路组合到一个设计紧凑的外壳中以形成功能强大的PLC。CPU根据用户程序逻辑监视输入并更改输出，用户程序可以包含布尔逻辑、计数、定时、复杂数学运算以及与其它智能设备的通信。</li>
-<li>S7-1200视频<ul>
-<li><a href="https://www.bilibili.com/video/BV1nzpzeFE8U?t=9.3"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，希望理解）</a></li>
+<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
 </ul>
 </li>
+<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
+<ul>
+<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
 </ul>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-<h2 id="实例演示"><a href="#实例演示" class="headerlink" title="实例演示"></a>实例演示</h2><h3 id="电机启停控制"><a href="#电机启停控制" class="headerlink" title="电机启停控制"></a>电机启停控制</h3><div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-
-
-
-]]></content>
+</li>
+<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
+<ul>
+<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
+</ul>
+</li>
+<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
+</ul>
+</li>
+<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
+<ul>
+<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
+</ul>
+</li>
+<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
+<ul>
+<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
+</ul>
+</li>
+<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
+<ul>
+<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
+</ul>
+</li>
+<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
+</li>
+<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
+</li>
+<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
+</li>
+</ul>
+<h2 id="笔记从此处开始"><a href="#笔记从此处开始" class="headerlink" title="笔记从此处开始"></a>笔记从此处开始</h2>]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
   </entry>
   <entry>
     <title>债务追讨（2024.9.17）</title>
@@ -376,133 +393,98 @@
       </tags>
   </entry>
   <entry>
-    <title>《应用文写作》笔记</title>
-    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
-<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+    <title>《可编程序控制器技术与应用》笔记</title>
+    <url>/2024/09/07/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
+<p> 前言：本文是由Ding在大学课程“可编程序控制器技术与应用”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
 </blockquote>
-<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
-<li>一般文章类：记叙文、议论文、说明文。</li>
-<li>文学作品类：诗歌、散文、小说、戏剧。</li>
-<li>应用(实用)文类：日用文、专用文。</li>
-</ol>
-<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
-<li><strong>产生</strong><ol>
-<li>仓颉造字，以代结绳。</li>
-<li>我国最早的文章是应用文</li>
-<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
-<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
-<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
-</ol>
-</li>
-<li><strong>发展</strong><ol>
-<li>*<strong>先秦</strong>；萌芽期</li>
-<li><strong>秦——清</strong>；形成发展期</li>
-<li><strong>清后</strong>；繁荣期</li>
-</ol>
-</li>
+<h2 id="PLC的起源和诞生"><a href="#PLC的起源和诞生" class="headerlink" title="PLC的起源和诞生"></a>PLC的起源和诞生</h2><ul>
+<li><strong>起源</strong>：1968年，美国最大的汽车制造商<a href="https://baike.baidu.com/item/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/556241"><strong>通用汽车公司</strong></a>为了适应生产工艺不断更新的需要，期望找到一种新的方法，尽可能减少重新设计继电控制系统和重新接线的工作，以降低成本、缩短周期，设想把计算机通用、灵活、功能完备等优点和继电控制系统的简单易懂、价格便宜等优点结合起来，制成一种通用控制装置，并把计算机的编程方法和程序输入方式加以简化，用面向控制过程、面向问题的“自然语言”进行编程，使不熟悉计算机的人也能方便地使用。</li>
+<li><strong>诞生</strong>：1969年，美国<a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8/5559330#:~:text=%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8%EF%BC%88%E5%8D%B3%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B1%E6%96%87%EF%BC%9ADigital%20Equipment%20Corporation%EF%BC%8C%E7%AE%80%E7%A7%B0DEC%EF%BC%89%E3%80%82%201998%E5%B9%B41%E6%9C%88DEC%E5%85%AC%E5%8F%B8%E8%A2%AB,%E5%BA%B7%E6%9F%8F%20%E4%BB%A596%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%94%B6%E8%B4%AD%EF%BC%8C2001%E5%B9%B4%20%E6%83%A0%E6%99%AE%20%E5%BA%B7%E6%9F%8F%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6%E3%80%82"><strong>美国数字设备公司</strong></a>研制出了第一台可编程序逻辑控制器PDP—14，在通用汽车公司的自动装配线上试用获得了成功。</li>
 </ul>
-<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
-<li><strong>实用性</strong></li>
-<li><strong>规范性(格式性)</strong></li>
-<li><strong>真实性</strong></li>
-<li><strong>时效性</strong></li>
-<li><strong>广泛性</strong></li>
-<li><strong>确定性(对象)</strong></li>
-</ul>
-<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>公文类</li>
-<li>事务文书</li>
-<li>经济文书</li>
-<li>职场文书</li>
-<li>科技文书</li>
-<li>宣传文书</li>
-<li>法律文书</li>
+<h2 id="PLC简介"><a href="#PLC简介" class="headerlink" title="PLC简介"></a>PLC简介</h2><ol>
+<li>可编程逻辑控制器（Programmable Logic Controller）简称PLC，最初只能进行计数、定时及开关量逻辑控制。<br>随着计算机技术的发展，可编程逻辑控制的功能不断扩展和完善，其功能远远超出了逻辑控制的范围，具有了PID、A&#x2F;D、D&#x2F;A、算术运算、数字量智能控制、监控、通信联网等多方面的功能，它已变成了实际意义上的一种工业控制计算机。</li>
+<li>于是，美国电器制造商协会将其正式命名为可编程序控制器（Programmable Controller），简称PC。</li>
+<li>由于它与<a href="https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E8%AE%A1%E7%AE%97%E6%9C%BA/3731770"><strong>个人计算机(Personal computer)</strong></a>的简称PC相同，所以人们习惯上仍将其称为<a href="https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8/84414?fromtitle=PLC&fromid=275974"><strong>PLC</strong></a>。</li>
 </ol>
-<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>主旨(鲜明，集中)</li>
-<li>材料(真实，典型)</li>
-<li>结构(严谨，完整)</li>
-<li>语言(简明，朴实，庄重)</li>
-</ol>
-<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
-<li><strong>记叙</strong></li>
-<li><strong>描写</strong></li>
-<li><strong>说明</strong></li>
-<li><strong>议论</strong></li>
-<li><strong>抒情</strong></li>
+<h2 id="PLC定义"><a href="#PLC定义" class="headerlink" title="PLC定义"></a>PLC定义</h2><ul>
+<li>1987年2月，国际电工委员会(IEC)对可编程控制器的定义是：1987年，国际电工委员会 (IEC)是这样定义可编程控制器的：“可编程控制器是一种数字运算操作的电子系统，专为在工业环境下应用而设计，它采用可编程序的存储器，用来在其内部存储执行逻辑运算、数序控制、定时、技术和算术运算等操作的指令，并通过数字式、模拟式的输入和输出，控制各种类型的机械或生产过程。</li>
 </ul>
-<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
-<li>象形法</li>
-<li>指事法</li>
-<li>会意法</li>
-<li>形声法</li>
-<li>转注法(辅助)</li>
-<li>假借法(辅助)</li>
+<h2 id="PLC的分类"><a href="#PLC的分类" class="headerlink" title="PLC的分类"></a>PLC的分类</h2><ol>
+<li>按结构特点分<ul>
+<li>整体式；：结构紧凑、体积小、价格低,小型PLC一般采用整体式结构</li>
+<li>模块式：配置灵活，可根据需要选配不同规模的系统，且装配便，便于扩展和维修，大、中型PLC一般采用模块式结构</li>
 </ul>
 </li>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
-<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
+<li>按控制规模分<ul>
+<li>微型:I&#x2F;0点数小于64</li>
+<li>小型:I&#x2F;0点数64-256</li>
+<li>中型:I&#x2F;0点数256-1024</li>
+<li>大型:I&#x2F;0点数1024以上</li>
+</ul>
+</li>
+<li>按控制性能分<ul>
+<li>低档机</li>
+<li>中档机</li>
+<li>高档机</li>
 </ul>
 </li>
 </ol>
-<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
-<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
-<li>特点<ul>
-<li>预见性</li>
-<li>针对性</li>
-<li>可行性</li>
-<li>约束性</li>
-</ul>
-</li>
-<li>三要素：目标、措施、步骤</li>
-<li>写法<ul>
-<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
-<p>例：《清华大学2015年度工作计划》</p>
-</blockquote>
-</li>
-<li>正文：<ul>
-<li>前言：目的、依据、指导思想、任务要求。</li>
-<li>主体：做什么——怎么做——什么时候完成<ul>
-<li>目标任务：做什么（明确）</li>
-<li>方法实施：怎么做（具体）</li>
-<li>时间步骤：什么时候完成（清楚）</li>
-</ul>
-</li>
-<li>结尾：希望、要求</li>
-</ul>
-</li>
-<li>落款：单位（个人）名称+日期</li>
-</ul>
-</li>
+<h2 id="PLC应用"><a href="#PLC应用" class="headerlink" title="PLC应用"></a>PLC应用</h2><ol>
+<li>数字量控制</li>
+<li>运动量控制</li>
+<li>闭环过程控制</li>
+<li>数据处理</li>
+<li>通信联网</li>
 </ol>
-<blockquote>
-<p>如果说要策划一场活动，那么应该包括以下几点：</p>
-<ol>
-<li>活动名称</li>
-<li>活动主题</li>
-<li>活动时间、地点</li>
-<li>活动内容</li>
-<li>活动形式</li>
-<li>活动参加人员负责人</li>
-<li>活动经费来源、预算 </li>
-<li>策划单位、日期</li>
+<h2 id="PLC基本结构"><a href="#PLC基本结构" class="headerlink" title="PLC基本结构"></a>PLC基本结构</h2><ul>
+<li>CPU,电源，储存器和输入输出接口电路等组成（其硬件组成与微型计算机相似。）</li>
+</ul>
+<h2 id="PLC特点"><a href="#PLC特点" class="headerlink" title="PLC特点"></a>PLC特点</h2><ul>
+<li>（可编程逻辑控制器）的特点包括：<ol>
+<li>编程方法简单易学</li>
+<li>功能强，性能价格比高</li>
+<li>硬件配套齐全，用户使用方便，适应性强</li>
+<li>可靠性高，抗干扰能力强</li>
+<li>系统的设计、安装、调试工作量少</li>
+<li>维修工作量小，维修方便</li>
+<li>体积小，能耗低</li>
 </ol>
-</blockquote>
-<ol start="5">
-<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
-<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
-</blockquote>
 </li>
+</ul>
+<h2 id="PLC基本编程语言"><a href="#PLC基本编程语言" class="headerlink" title="PLC基本编程语言"></a>PLC基本编程语言</h2><ol>
+<li>梯形图</li>
+<li>语句表</li>
+<li>功能块图</li>
+<li>顺序功能图</li>
+<li>结构文本</li>
 </ol>
+<h2 id="PLC控制系统示意图"><a href="#PLC控制系统示意图" class="headerlink" title="PLC控制系统示意图"></a>PLC控制系统示意图</h2><p><img src="/img/PLC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="PLC控制系统示意图"></p>
+<h2 id="PLC工作原理"><a href="#PLC工作原理" class="headerlink" title="PLC工作原理"></a>PLC工作原理</h2><p><img src="/img/PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt="PLC工作原理"></p>
+<ul>
+<li><strong>扫描周期</strong>：PLC在RUN工作状态时，执行一次扫描过程所需的时间称为扫描周期，典型值为1～l00ms</li>
+</ul>
+<h1 id="S7-1200-PLC-简介"><a href="#S7-1200-PLC-简介" class="headerlink" title="S7-1200 PLC 简介"></a><a href="https://www.ad.siemens.com.cn/productportal/prods/s7-1200_plc_easy_plus/04-version/01-Specification/S7-1200_New_Para.html">S7-1200 PLC 简介</a></h1><ul>
+<li>S7-1200 PLC (Programmable Logic Controller) 是西门子公司推出的一款PLC，主要面向简单而高精度的自动化任务。</li>
+<li>S7-1200设计紧凑、组态灵活且具有功能强大的指令集，这些特点的组合使它成为控制各种应用的完美解决方案。  </li>
+<li>CPU将微处理器、集成电源、输入电路和输出电路组合到一个设计紧凑的外壳中以形成功能强大的PLC。CPU根据用户程序逻辑监视输入并更改输出，用户程序可以包含布尔逻辑、计数、定时、复杂数学运算以及与其它智能设备的通信。</li>
+<li>S7-1200视频<ul>
+<li><a href="https://www.bilibili.com/video/BV1nzpzeFE8U?t=9.3"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，希望理解）</a></li>
+</ul>
+</li>
+</ul>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+
+<h2 id="实例演示"><a href="#实例演示" class="headerlink" title="实例演示"></a>实例演示</h2><h3 id="电机启停控制"><a href="#电机启停控制" class="headerlink" title="电机启停控制"></a>电机启停控制</h3><div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+
+
+
+
 ]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
   </entry>
   <entry>
     <title>《数控车床与加工工艺》笔记</title>
@@ -794,6 +776,135 @@
 <h3 id="程序编写"><a href="#程序编写" class="headerlink" title="程序编写"></a>程序编写</h3><ul>
 <li>示例程序<figure class="highlight txt"><table><tr><td class="code"><pre><span class="line">&quot;#&quot;后面是注释，如果代码块太长影响阅读可以在点击右侧隐藏按钮。</span><br><span class="line"></span><br><span class="line">O0001;               #程序编号，用于标识程序,&quot;O&quot;后面的&quot;0001&quot;必须是四位数</span><br><span class="line">T0101;               #选择刀具1号刀具，01号刀具补偿</span><br><span class="line">M03S800;                 #主轴正转，转速设置为800转/分钟</span><br><span class="line">G00X50.Z50.;                 #快速定位到X轴50mm，Z轴50mm的位置</span><br><span class="line">G00X35.Z5.;                 #快速定位到X轴35mm，Z轴5mm的位置</span><br><span class="line">G01X35.Z-20.F0.15;              #以0.15mm/转的进给率，直线插补到X轴35mm，Z轴-20mm的位置</span><br><span class="line">G01X40.Z-30.F0.15;              #以0.15mm/转的进给率，直线插补到X轴40mm，Z轴-30mm的位置</span><br><span class="line">G01X40.Z-40.F0.15;              #以0.15mm/转的进给率，直线插补到X轴40mm，Z轴-40mm的位置</span><br><span class="line">G01X44.Z-40.F0.15;              #以0.15mm/转的进给率，直线插补到X轴44mm，Z轴-40mm的位置</span><br><span class="line">X44.Z-50.;              #直线插补到X轴44mm，Z轴-50mm的位置（G01命令省略，因为前一行是G01）</span><br><span class="line">X50.Z-50.;              #直线插补到X轴50mm，Z轴-50mm的位置</span><br><span class="line">G01 X100.Z100.;         #直线插补到X轴100mm，Z轴100mm的位置</span><br><span class="line">M05 ;               #主轴停止</span><br><span class="line">M30 ;               #程序结束</span><br></pre></td></tr></table></figure></li>
 </ul>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《应用文写作》笔记</title>
+    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
+<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
+<li>一般文章类：记叙文、议论文、说明文。</li>
+<li>文学作品类：诗歌、散文、小说、戏剧。</li>
+<li>应用(实用)文类：日用文、专用文。</li>
+</ol>
+<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
+<li><strong>产生</strong><ol>
+<li>仓颉造字，以代结绳。</li>
+<li>我国最早的文章是应用文</li>
+<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
+<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
+<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
+</ol>
+</li>
+<li><strong>发展</strong><ol>
+<li>*<strong>先秦</strong>；萌芽期</li>
+<li><strong>秦——清</strong>；形成发展期</li>
+<li><strong>清后</strong>；繁荣期</li>
+</ol>
+</li>
+</ul>
+<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
+<li><strong>实用性</strong></li>
+<li><strong>规范性(格式性)</strong></li>
+<li><strong>真实性</strong></li>
+<li><strong>时效性</strong></li>
+<li><strong>广泛性</strong></li>
+<li><strong>确定性(对象)</strong></li>
+</ul>
+<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>公文类</li>
+<li>事务文书</li>
+<li>经济文书</li>
+<li>职场文书</li>
+<li>科技文书</li>
+<li>宣传文书</li>
+<li>法律文书</li>
+</ol>
+<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>主旨(鲜明，集中)</li>
+<li>材料(真实，典型)</li>
+<li>结构(严谨，完整)</li>
+<li>语言(简明，朴实，庄重)</li>
+</ol>
+<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
+<li><strong>记叙</strong></li>
+<li><strong>描写</strong></li>
+<li><strong>说明</strong></li>
+<li><strong>议论</strong></li>
+<li><strong>抒情</strong></li>
+</ul>
+<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
+<li>象形法</li>
+<li>指事法</li>
+<li>会意法</li>
+<li>形声法</li>
+<li>转注法(辅助)</li>
+<li>假借法(辅助)</li>
+</ul>
+</li>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
+<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
+</ul>
+</li>
+</ol>
+<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
+<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
+<li>特点<ul>
+<li>预见性</li>
+<li>针对性</li>
+<li>可行性</li>
+<li>约束性</li>
+</ul>
+</li>
+<li>三要素：目标、措施、步骤</li>
+<li>写法<ul>
+<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
+<p>例：《清华大学2015年度工作计划》</p>
+</blockquote>
+</li>
+<li>正文：<ul>
+<li>前言：目的、依据、指导思想、任务要求。</li>
+<li>主体：做什么——怎么做——什么时候完成<ul>
+<li>目标任务：做什么（明确）</li>
+<li>方法实施：怎么做（具体）</li>
+<li>时间步骤：什么时候完成（清楚）</li>
+</ul>
+</li>
+<li>结尾：希望、要求</li>
+</ul>
+</li>
+<li>落款：单位（个人）名称+日期</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>如果说要策划一场活动，那么应该包括以下几点：</p>
+<ol>
+<li>活动名称</li>
+<li>活动主题</li>
+<li>活动时间、地点</li>
+<li>活动内容</li>
+<li>活动形式</li>
+<li>活动参加人员负责人</li>
+<li>活动经费来源、预算 </li>
+<li>策划单位、日期</li>
+</ol>
+</blockquote>
+<ol start="5">
+<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
+<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
+</blockquote>
+</li>
+</ol>
 ]]></content>
       <categories>
         <category>学习笔记</category>
