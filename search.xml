@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>《产品三维造型与结构设计（UG）》笔记</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
-<li>入门案例1<ul>
-<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
 </ul>
-</li>
-</ol>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+</blockquote>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
 ]]></content>
       <categories>
-        <category>学习笔记</category>
+        <category>AI编程</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
+        <tag>AI编程</tag>
       </tags>
   </entry>
   <entry>
@@ -104,163 +102,6 @@
       </categories>
       <tags>
         <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>python学习笔记</title>
-    <url>/2024/09/25/python/</url>
-    <content><![CDATA[<h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
-<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
-<p>解释一下为什么学习python：</p>
-<ol>
-<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
-</li>
-<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
-</li>
-<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
-</li>
-<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
-</li>
-<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
-</li>
-<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
-</li>
-<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
-</li>
-<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
-</li>
-<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
-</li>
-<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
-</li>
-<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
-</li>
-<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
-</li>
-<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
-</li>
-<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
-</li>
-</ol>
-<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
-<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
-<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
-<li><a href="https://www.python.org/">python官网</a></li>
-</ul>
-<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
-<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
-<ol>
-<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
-<ul>
-<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
-</ul>
-</li>
-<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
-<ul>
-<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-</ul>
-</li>
-<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
-<ul>
-<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
-</ul>
-</li>
-<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
-<ul>
-<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
-</ul>
-</li>
-<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
-<ul>
-<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
-</ul>
-</li>
-<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
-<ul>
-<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
-</ul>
-</li>
-<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
-<ul>
-<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
-</ul>
-</li>
-<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
-<ul>
-<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
-</ul>
-</li>
-<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
-<ul>
-<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
-</ul>
-</li>
-<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
-<ul>
-<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
-</ul>
-</li>
-</ol>
-</li>
-<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
-</li>
-<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
-</li>
-<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
-</li>
-<li><p>对于刚开始接触Python的新手来说，首要任务是熟悉Python的开发环境配置以及安装一个合适的集成开发环境（IDE）。以下是一些建议：</p>
-<ol>
-<li><p><strong>安装Python</strong>：</p>
-<ul>
-<li>首先，访问Python的官方网站下载适合您操作系统的Python版本。</li>
-<li>安装Python时，确保勾选了“Add Python to PATH”选项，这样可以在命令行中方便地调用Python。</li>
-</ul>
-</li>
-<li><p><strong>配置环境</strong>：</p>
-<ul>
-<li>验证安装是否成功，可以在命令行中输入<code>python --version</code>或<code>python3 --version</code>来检查Python的版本。</li>
-<li>了解如何创建和激活虚拟环境，这对于管理不同项目的依赖非常有用。</li>
-</ul>
-</li>
-<li><p><strong>选择IDE</strong>：</p>
-<ul>
-<li>选择一个功能强大且易于使用的IDE，如PyCharm、Visual Studio Code（VSCode）、Eclipse（配合PyDev插件）等。</li>
-<li>安装IDE，并熟悉其基本功能，如代码高亮、自动补全、代码调试等。</li>
-</ul>
-</li>
-<li><p><strong>设置IDE</strong>：</p>
-<ul>
-<li>在IDE中配置Python解释器，确保它指向了正确安装的Python版本。</li>
-<li>探索和安装必要的插件或扩展，以增强IDE的功能。</li>
-</ul>
-</li>
-<li><p><strong>编写Hello World</strong>：</p>
-<ul>
-<li>在IDE中创建您的第一个Python脚本，编写经典的“Hello, World!”程序，并运行它以验证环境配置是否正确。</li>
-</ul>
-</li>
-<li><p><strong>寻求帮助</strong>：</p>
-<ul>
-<li>如果在配置环境或安装IDE时遇到问题，不要犹豫，寻求社区的帮助或查阅相关文档。</li>
-</ul>
-</li>
-</ol>
-</li>
-<li><p>记住，一个舒适且功能齐全的开发环境是高效编程的基础。花时间正确设置您的环境，将有助于您更顺利地开始Python学习之旅。如果您实在不会的话，请参考bilibili up主 **<a href="https://www.bilibili.com/video/BV1jgWLeREbp?t=288.3">年年吃布饱的视频</a>**（点击此处精准空降原视频）。</p>
-</li>
-<li><p>视频作者主页: <strong><a href="https://space.bilibili.com/3546660779068014">点此跳转</a></strong></p>
-</li>
-</ul>
-<div class="video-container">
-  <iframe src="player.bilibili.com/player.html?isOutside=true&aid=113004884527853&bvid=BV1jgWLeREbp&cid=500001658178767&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-<h2 id="笔记从此处开始"><a href="#笔记从此处开始" class="headerlink" title="笔记从此处开始"></a>笔记从此处开始</h2><h3 id=""><a href="#" class="headerlink" title=""></a></h3>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -421,25 +262,181 @@
       </tags>
   </entry>
   <entry>
-    <title>软件安装目录</title>
-    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
-      </label>
-    </div>
-  </div>
+    <title>python学习笔记</title>
+    <url>/2024/09/25/python/</url>
+    <content><![CDATA[<h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
+<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
+<p>解释一下为什么学习python：</p>
+<ol>
+<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
+</li>
+<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
+</li>
+<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
+</li>
+<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
+</li>
+<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
+</li>
+<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
+</li>
+<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
+</li>
+<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
+</li>
+<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
+</li>
+<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
+</li>
+<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
+</li>
+<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
+</li>
+<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
+</li>
+<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
+</li>
+</ol>
+<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
+<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
+<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
+<li><a href="https://www.python.org/">python官网</a></li>
+</ul>
+<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
+<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
+<ol>
+<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
+<ul>
+<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+</ul>
+</li>
+<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
+<ul>
+<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+</ul>
+</li>
+<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
+<ul>
+<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
+</ul>
+</li>
+<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
+</ul>
+</li>
+<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
+<ul>
+<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
+</ul>
+</li>
+<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
+<ul>
+<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
+</ul>
+</li>
+<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
+<ul>
+<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
+</ul>
+</li>
+<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
+</li>
+<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
+</li>
+<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
+</li>
+<li><p>对于刚开始接触Python的新手来说，首要任务是熟悉Python的开发环境配置以及安装一个合适的集成开发环境（IDE）。以下是一些建议：</p>
+<ol>
+<li><p><strong>安装Python</strong>：</p>
+<ul>
+<li>首先，访问Python的官方网站下载适合您操作系统的Python版本。</li>
+<li>安装Python时，确保勾选了“Add Python to PATH”选项，这样可以在命令行中方便地调用Python。</li>
+</ul>
+</li>
+<li><p><strong>配置环境</strong>：</p>
+<ul>
+<li>验证安装是否成功，可以在命令行中输入<code>python --version</code>或<code>python3 --version</code>来检查Python的版本。</li>
+<li>了解如何创建和激活虚拟环境，这对于管理不同项目的依赖非常有用。</li>
+</ul>
+</li>
+<li><p><strong>选择IDE</strong>：</p>
+<ul>
+<li>选择一个功能强大且易于使用的IDE，如PyCharm、Visual Studio Code（VSCode）、Eclipse（配合PyDev插件）等。</li>
+<li>安装IDE，并熟悉其基本功能，如代码高亮、自动补全、代码调试等。</li>
+</ul>
+</li>
+<li><p><strong>设置IDE</strong>：</p>
+<ul>
+<li>在IDE中配置Python解释器，确保它指向了正确安装的Python版本。</li>
+<li>探索和安装必要的插件或扩展，以增强IDE的功能。</li>
+</ul>
+</li>
+<li><p><strong>编写Hello World</strong>：</p>
+<ul>
+<li>在IDE中创建您的第一个Python脚本，编写经典的“Hello, World!”程序，并运行它以验证环境配置是否正确。</li>
+</ul>
+</li>
+<li><p><strong>寻求帮助</strong>：</p>
+<ul>
+<li>如果在配置环境或安装IDE时遇到问题，不要犹豫，寻求社区的帮助或查阅相关文档。</li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>记住，一个舒适且功能齐全的开发环境是高效编程的基础。花时间正确设置您的环境，将有助于您更顺利地开始Python学习之旅。如果您实在不会的话，请参考bilibili up主 **<a href="https://www.bilibili.com/video/BV1jgWLeREbp?t=288.3">年年吃布饱的视频</a>**（点击此处精准空降原视频）。</p>
+</li>
+<li><p>视频作者主页: <strong><a href="https://space.bilibili.com/3546660779068014">点此跳转</a></strong></p>
+</li>
+</ul>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113004884527853&bvid=BV1jgWLeREbp&cid=500001658178767&p=1Autoplay=0" allowfullscreen></iframe>
 </div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+
+
+<h2 id="笔记从此处开始"><a href="#笔记从此处开始" class="headerlink" title="笔记从此处开始"></a>笔记从此处开始</h2><h3 id=""><a href="#" class="headerlink" title=""></a></h3>]]></content>
       <categories>
-        <category>实用</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>实用</tag>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《产品三维造型与结构设计（UG）》笔记</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
+<li>入门案例1<ul>
+<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
+</ul>
+</li>
+</ol>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -964,21 +961,25 @@
       </tags>
   </entry>
   <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
+    <title>软件安装目录</title>
+    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>AI编程</category>
+        <category>实用</category>
       </categories>
       <tags>
-        <tag>AI编程</tag>
+        <tag>实用</tag>
       </tags>
   </entry>
 </search>
