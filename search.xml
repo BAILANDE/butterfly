@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>《产品三维造型与结构设计（UG）》笔记</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
-<li>入门案例1<ul>
-<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
-</ul>
-</li>
-</ol>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>calculator(计算器)</title>
     <url>/2024/09/20/calculator/</url>
     <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
@@ -39,89 +19,152 @@
       </tags>
   </entry>
   <entry>
-    <title>password-generator(密码生成器)</title>
-    <url>/2024/09/19/password-generator/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
-<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
+    <title>《应用文写作》笔记</title>
+    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
+<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
 </blockquote>
-<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
-<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
-<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
-<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
-<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
-<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
-<li>password-generator分为两个版本<ul>
-<li>web版功能简单，使用方便</li>
-<li>pc版有备份功能，磁盘占用小</li>
-</ul>
+<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
+<li>一般文章类：记叙文、议论文、说明文。</li>
+<li>文学作品类：诗歌、散文、小说、戏剧。</li>
+<li>应用(实用)文类：日用文、专用文。</li>
+</ol>
+<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
+<li><strong>产生</strong><ol>
+<li>仓颉造字，以代结绳。</li>
+<li>我国最早的文章是应用文</li>
+<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
+<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
+<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
+</ol>
+</li>
+<li><strong>发展</strong><ol>
+<li>*<strong>先秦</strong>；萌芽期</li>
+<li><strong>秦——清</strong>；形成发展期</li>
+<li><strong>清后</strong>；繁荣期</li>
+</ol>
 </li>
 </ul>
-<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
-<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
-<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
-<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
-<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
+<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
+<li><strong>实用性</strong></li>
+<li><strong>规范性(格式性)</strong></li>
+<li><strong>真实性</strong></li>
+<li><strong>时效性</strong></li>
+<li><strong>广泛性</strong></li>
+<li><strong>确定性(对象)</strong></li>
 </ul>
-<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
-<li><p>这个密码生成器的基本功能包括：</p>
-<ul>
-<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
-</li>
-<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
-</li>
+<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>公文类</li>
+<li>事务文书</li>
+<li>经济文书</li>
+<li>职场文书</li>
+<li>科技文书</li>
+<li>宣传文书</li>
+<li>法律文书</li>
+</ol>
+<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>主旨(鲜明，集中)</li>
+<li>材料(真实，典型)</li>
+<li>结构(严谨，完整)</li>
+<li>语言(简明，朴实，庄重)</li>
+</ol>
+<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
+<li><strong>记叙</strong></li>
+<li><strong>描写</strong></li>
+<li><strong>说明</strong></li>
+<li><strong>议论</strong></li>
+<li><strong>抒情</strong></li>
+</ul>
+<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
+<li>象形法</li>
+<li>指事法</li>
+<li>会意法</li>
+<li>形声法</li>
+<li>转注法(辅助)</li>
+<li>假借法(辅助)</li>
 </ul>
 </li>
-<li><p>选择字符类型：</p>
-<ul>
-<li>小写字母</li>
-<li>大写字母</li>
-<li>数字</li>
-<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
-<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
+<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
 </ul>
-</li>
-<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
-</li>
-<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
 </li>
 </ol>
-<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
-
-<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
-<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
-<li>其他下载地址：<ul>
-<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
+<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
+<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
+<li>特点<ul>
+<li>预见性</li>
+<li>针对性</li>
+<li>可行性</li>
+<li>约束性</li>
 </ul>
 </li>
-</ul>
-<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
-<li>与web版基本一致，只有以下两点差别：<ul>
-<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
-<li>有备份至github功能</li>
-</ul>
-</li>
-</ul>
-<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
-<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
+<li>三要素：目标、措施、步骤</li>
+<li>写法<ul>
+<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
+<p>例：《清华大学2015年度工作计划》</p>
 </blockquote>
-<ul>
-<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
+</li>
+<li>正文：<ul>
+<li>前言：目的、依据、指导思想、任务要求。</li>
+<li>主体：做什么——怎么做——什么时候完成<ul>
+<li>目标任务：做什么（明确）</li>
+<li>方法实施：怎么做（具体）</li>
+<li>时间步骤：什么时候完成（清楚）</li>
 </ul>
-<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
-<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
-<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
+</li>
+<li>结尾：希望、要求</li>
 </ul>
+</li>
+<li>落款：单位（个人）名称+日期</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>如果说要策划一场活动，那么应该包括以下几点：</p>
+<ol>
+<li>活动名称</li>
+<li>活动主题</li>
+<li>活动时间、地点</li>
+<li>活动内容</li>
+<li>活动形式</li>
+<li>活动参加人员负责人</li>
+<li>活动经费来源、预算 </li>
+<li>策划单位、日期</li>
+</ol>
+</blockquote>
+<ol start="5">
+<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
+<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
+</blockquote>
+</li>
+</ol>
 ]]></content>
       <categories>
-        <category>AI编程</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>AI编程</tag>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《产品三维造型与结构设计（UG）》笔记</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
+<li>入门案例1<ul>
+<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
+</ul>
+</li>
+</ol>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -279,426 +322,6 @@
       </categories>
       <tags>
         <tag>个人权益维护</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>python学习笔记</title>
-    <url>/2024/09/25/python/</url>
-    <content><![CDATA[<h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><blockquote>
-<p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之&gt;旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
-</blockquote>
-<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
-<p>解释一下为什么学习python：</p>
-<ol>
-<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
-</li>
-<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
-</li>
-<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
-</li>
-<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
-</li>
-<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
-</li>
-<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
-</li>
-<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
-</li>
-<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
-</li>
-<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
-</li>
-<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
-</li>
-<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
-</li>
-<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
-</li>
-<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
-</li>
-<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
-</li>
-</ol>
-<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
-<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
-<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
-<li><a href="https://www.python.org/">python官网</a></li>
-</ul>
-<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
-<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
-<ol>
-<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
-<ul>
-<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
-</ul>
-</li>
-<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
-<ul>
-<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-</ul>
-</li>
-<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
-<ul>
-<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
-</ul>
-</li>
-<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
-<ul>
-<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
-</ul>
-</li>
-<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
-<ul>
-<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
-</ul>
-</li>
-<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
-<ul>
-<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
-</ul>
-</li>
-<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
-<ul>
-<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
-</ul>
-</li>
-<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
-<ul>
-<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
-</ul>
-</li>
-<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
-<ul>
-<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
-</ul>
-</li>
-<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
-<ul>
-<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
-</ul>
-</li>
-</ol>
-</li>
-<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
-</li>
-<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
-</li>
-<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
-</li>
-<li><p>对于刚开始接触Python的新手来说，首要任务是熟悉Python的开发环境配置以及安装一个合适的集成开发环境（IDE）。以下是一些建议：</p>
-<ol>
-<li><p><strong>安装Python</strong>：</p>
-<ul>
-<li>首先，访问Python的官方网站下载适合您操作系统的Python版本。</li>
-<li>安装Python时，确保勾选了“Add Python to PATH”选项，这样可以在命令行中方便地调用Python。</li>
-</ul>
-</li>
-<li><p><strong>配置环境</strong>：</p>
-<ul>
-<li>验证安装是否成功，可以在命令行中输入<code>python --version</code>或<code>python3 --version</code>来检查Python的版本。</li>
-<li>了解如何创建和激活虚拟环境，这对于管理不同项目的依赖非常有用。</li>
-</ul>
-</li>
-<li><p><strong>选择IDE</strong>：</p>
-<ul>
-<li>选择一个功能强大且易于使用的IDE，如PyCharm、Visual Studio Code（VSCode）、Eclipse（配合PyDev插件）等。</li>
-<li>安装IDE，并熟悉其基本功能，如代码高亮、自动补全、代码调试等。</li>
-</ul>
-</li>
-<li><p><strong>设置IDE</strong>：</p>
-<ul>
-<li>在IDE中配置Python解释器，确保它指向了正确安装的Python版本。</li>
-<li>探索和安装必要的插件或扩展，以增强IDE的功能。</li>
-</ul>
-</li>
-<li><p><strong>编写Hello World</strong>：</p>
-<ul>
-<li>在IDE中创建您的第一个Python脚本，编写经典的“Hello, World!”程序，并运行它以验证环境配置是否正确。</li>
-</ul>
-</li>
-<li><p><strong>寻求帮助</strong>：</p>
-<ul>
-<li>如果在配置环境或安装IDE时遇到问题，不要犹豫，寻求社区的帮助或查阅相关文档。</li>
-</ul>
-</li>
-</ol>
-</li>
-<li><p>记住，一个舒适且功能齐全的开发环境是高效编程的基础。花时间正确设置您的环境，将有助于您更顺利地开始Python学习之旅。如果您遇到困难或不确定如何进行，请参考bilibili up主 **<a href="https://www.bilibili.com/video/BV1jgWLeREbp?t=288.3">年年吃布饱的视频</a>**（点击此处精准空降原视频）。</p>
-</li>
-<li><p>视频作者主页: <strong><a href="https://space.bilibili.com/3546660779068014">点此跳转</a></strong></p>
-</li>
-</ul>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113004884527853&bvid=BV1jgWLeREbp&cid=500001658178767&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-<ul>
-<li><p>对于刚开始学习编程的新手来说，<strong>免费的PyCharm社区版（PyCharm Community Edition）</strong>已经足够满足基本的编程需求。</p>
-<ul>
-<li><a href="https://www.jetbrains.com/pycharm/download/?section=windows">下载PyCharm社区版</a></li>
-</ul>
-</li>
-<li><p>在阅读了前面的介绍之后，您对Python已经有了初步的认识。现在，让我们正式踏上Python的学习之旅。</p>
-</li>
-<li><p>为了使您的编程体验更加流畅，您可以先对PyCharm进行一些优化设置，以确保它更加符合您的工作习惯，例如</p>
-<ul>
-<li>设置所需快捷键。<ul>
-<li>ctrl+向上滚动滚轮为字体放大</li>
-<li>ctrl+向下滚动滚轮为字体缩小</li>
-<li>………………</li>
-</ul>
-</li>
-<li>配置所需插件<ul>
-<li>汉化包（帮助我们更好的使用PyCharm）</li>
-<li>翻译插件（帮助我们理解英文代码和注释）</li>
-</ul>
-</li>
-<li>设置自己喜欢的主题</li>
-</ul>
-</li>
-</ul>
-<h2 id="python，从此处开始"><a href="#python，从此处开始" class="headerlink" title="python，从此处开始"></a>python，从此处开始</h2><h3 id="python基础语法"><a href="#python基础语法" class="headerlink" title="python基础语法"></a>python基础语法</h3><h4 id="字面量"><a href="#字面量" class="headerlink" title="字面量"></a>字面量</h4><ol>
-<li><p>字面量的含义：在代码中被写下来的、固定的值。称之为字面量</p>
-</li>
-<li><p>常见字面量的类型<br>目前先了解整数、浮点数、字符串即可</p>
-</li>
-<li><p>基于print语句完成各类字面量的输出</p>
-</li>
-</ol>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="number">666</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="number">13.14</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<h4 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h4><p>在程序代码中，对代码进行解释说明的文字确实被称为注释，这些注释不会被系统执行。根据你的描述，我们可以将注释分为以下两种：</p>
-<ol>
-<li><p><strong>单行注释</strong>：</p>
-<ul>
-<li>这是最常见的注释方式，通常用于解释代码中的某一行或几行。</li>
-<li>单行注释以特定的符号开始，比如在Python中是 <code>#</code>。</li>
-<li>单行注释仅对紧随其后的一行代码有效。</li>
-</ul>
-<p>示例（Python）：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 这是一个单行注释</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)  <span class="comment"># 这行代码会打印 &quot;Hello, World!&quot;</span></span><br></pre></td></tr></table></figure>
-<ul>
-<li>注：一般建议”#”和注释内容之间用空格隔开</li>
-</ul>
-</li>
-<li><p><strong>多行注释</strong>：</p>
-<ul>
-<li>多行注释用于跨越多行的解释说明。</li>
-<li>在某些语言中，可以使用特定的多行注释语法，而在Python中，通常使用三个连续的单引号 <code>&#39;&#39;&#39;</code> 或双引号 <code>&quot;&quot;&quot;</code> 来创建多行字符串，虽然它们主要用于文档字符串（docstrings），但也可以用来创建多行注释。</li>
-<li>多行注释可以包含在代码块的开始处，用于解释整个函数、类或模块。</li>
-</ul>
-<p>示例（Python）：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">这是一个多行注释</span></span><br><span class="line"><span class="string">可以跨越多行</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure></li>
-</ol>
-<p>在实际编程中，注释的使用应该简洁明了，避免冗余，同时确保它们能够为代码的阅读者提供有价值的信息。此外，注释应该随着代码的更新而更新，以保持代码的准确性和可维护性。</p>
-<h4 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h4><ul>
-<li><p>变量：在程序运行时，能够存储计算结果或能表示值的抽象概念，简单的说，变量就是在程序运行时，记录数据用的。</p>
-</li>
-<li><p>变量的定义格式</p>
-<ul>
-<li>变量名 &#x3D; 变量值</li>
-<li>每个变量都有自己的名称，称之为“变量名”，即变量本身。</li>
-<li>每个变量都有自己存储的值（内容），称之为“变量值”。</li>
-<li>“&#x3D;”表示赋值，将右侧的值赋予左侧的变量。</li>
-<li>下面是一个示例</li>
-</ul>
-</li>
-<li><p>需注意，变量的值<strong>是可以发生改变的</strong>，下面是一个示例</p>
-</li>
-</ul>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 初始化变量money，表示钱包中的初始金额</span></span><br><span class="line">money = <span class="number">50</span></span><br><span class="line"><span class="comment"># 打印初始金额，单位是人民币</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br><span class="line"><span class="comment"># 购买一个汉堡，花费10元人民币，从钱包中减去10元</span></span><br><span class="line">money = money-<span class="number">10</span>  </span><br><span class="line"><span class="comment"># 打印购买汉堡后的剩余金额</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>拓展：</p>
-<ol>
-<li>print语句如何输出多份内容？<br>   答：使用”,”隔开，例如：   <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(内容<span class="number">1</span>,内容<span class="number">2</span>, 内容<span class="number">3</span>)</span><br></pre></td></tr></table></figure></li>
-<li>python如何使用加减乘除？<br>   答：+（加）、-（减）、*（乘）、&#x2F;（除）</li>
-</ol>
-</blockquote>
-<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4><ul>
-<li><p>在之前的学习中，我们了解到数据是有类型的，目前的学习我们主要接触三类数据类型。</p>
-<table>
-<thead>
-<tr>
-<th>类型</th>
-<th>描述</th>
-<th>说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>string</td>
-<td>字符串类型</td>
-<td>有引号引起来的数据都是字符串</td>
-</tr>
-<tr>
-<td>int</td>
-<td>整型（有符号）</td>
-<td>数字类型，存放整数 如-1，10,20,0等</td>
-</tr>
-<tr>
-<td>float</td>
-<td>浮点型（有符号）</td>
-<td>数字类型，存放小数 如1.3，-3.4,20.24等</td>
-</tr>
-</tbody></table>
-</li>
-<li><p>那么问题来了，怎么判断数据的类型呢？这里我们有三种方法：</p>
-<ol>
-<li>在print语句中，直接输出类型信息：</li>
-</ol>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 打印字符串 &quot;hello，world&quot; 的数据类型</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(<span class="string">&quot;hello，world&quot;</span>))</span><br><span class="line"><span class="comment"># 打印整数 2024 的数据类型</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(<span class="number">2024</span>))</span><br><span class="line"><span class="comment"># 打印浮点数 20.24 的数据类型</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(<span class="number">20.24</span>))</span><br></pre></td></tr></table></figure>
-
-<p>  此时，终端应该显示以下内容:</p>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 表示字符串类型的数据类型对象</span></span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line"><span class="comment"># 表示整数类型的数据类型对象</span></span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;int&#x27;</span>&gt;</span><br><span class="line"><span class="comment"># 表示浮点数类型的数据类型对象</span></span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;float&#x27;</span>&gt;</span><br></pre></td></tr></table></figure>
-
-<ol start="2">
-<li>用变量存储type()的结果（返回值）：</li>
-</ol>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">字符串 = <span class="built_in">type</span>(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">整数 = <span class="built_in">type</span>(<span class="number">2024</span>)</span><br><span class="line">浮点数 = <span class="built_in">type</span>(<span class="number">20.24</span>)</span><br><span class="line"><span class="built_in">print</span>(字符串)</span><br><span class="line"><span class="built_in">print</span>(整数)</span><br><span class="line"><span class="built_in">print</span>(浮点数)</span><br></pre></td></tr></table></figure>
-<p>  在终端显示的结果应该和第一种方法是一样的。</p>
-<ol start="3">
-<li>使用type()语句查看变量中存储的数据类型。<br> <strong>这里要注意，变量是没有类型的，我们查看的是变量存储的数据类型</strong></li>
-</ol>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">字符串 = <span class="string">&quot;hello world&quot;</span></span><br><span class="line">字符串数据类型 = <span class="built_in">type</span>(字符串)</span><br><span class="line"><span class="built_in">print</span>(字符串数据类型)</span><br></pre></td></tr></table></figure>
-
-<p>  终端结果应该是<code>&lt;class &#39;str&#39;&gt;</code></p>
-</li>
-</ul>
-<h4 id="数据类型转换"><a href="#数据类型转换" class="headerlink" title="数据类型转换"></a>数据类型转换</h4><h4 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h4><h4 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h4><h4 id="字符串拓展"><a href="#字符串拓展" class="headerlink" title="字符串拓展"></a>字符串拓展</h4><h4 id="数据输入"><a href="#数据输入" class="headerlink" title="数据输入"></a>数据输入</h4>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《应用文写作》笔记</title>
-    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
-<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
-<li>一般文章类：记叙文、议论文、说明文。</li>
-<li>文学作品类：诗歌、散文、小说、戏剧。</li>
-<li>应用(实用)文类：日用文、专用文。</li>
-</ol>
-<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
-<li><strong>产生</strong><ol>
-<li>仓颉造字，以代结绳。</li>
-<li>我国最早的文章是应用文</li>
-<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
-<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
-<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
-</ol>
-</li>
-<li><strong>发展</strong><ol>
-<li>*<strong>先秦</strong>；萌芽期</li>
-<li><strong>秦——清</strong>；形成发展期</li>
-<li><strong>清后</strong>；繁荣期</li>
-</ol>
-</li>
-</ul>
-<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
-<li><strong>实用性</strong></li>
-<li><strong>规范性(格式性)</strong></li>
-<li><strong>真实性</strong></li>
-<li><strong>时效性</strong></li>
-<li><strong>广泛性</strong></li>
-<li><strong>确定性(对象)</strong></li>
-</ul>
-<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>公文类</li>
-<li>事务文书</li>
-<li>经济文书</li>
-<li>职场文书</li>
-<li>科技文书</li>
-<li>宣传文书</li>
-<li>法律文书</li>
-</ol>
-<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>主旨(鲜明，集中)</li>
-<li>材料(真实，典型)</li>
-<li>结构(严谨，完整)</li>
-<li>语言(简明，朴实，庄重)</li>
-</ol>
-<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
-<li><strong>记叙</strong></li>
-<li><strong>描写</strong></li>
-<li><strong>说明</strong></li>
-<li><strong>议论</strong></li>
-<li><strong>抒情</strong></li>
-</ul>
-<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
-<li>象形法</li>
-<li>指事法</li>
-<li>会意法</li>
-<li>形声法</li>
-<li>转注法(辅助)</li>
-<li>假借法(辅助)</li>
-</ul>
-</li>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
-<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
-</ul>
-</li>
-</ol>
-<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
-<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
-<li>特点<ul>
-<li>预见性</li>
-<li>针对性</li>
-<li>可行性</li>
-<li>约束性</li>
-</ul>
-</li>
-<li>三要素：目标、措施、步骤</li>
-<li>写法<ul>
-<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
-<p>例：《清华大学2015年度工作计划》</p>
-</blockquote>
-</li>
-<li>正文：<ul>
-<li>前言：目的、依据、指导思想、任务要求。</li>
-<li>主体：做什么——怎么做——什么时候完成<ul>
-<li>目标任务：做什么（明确）</li>
-<li>方法实施：怎么做（具体）</li>
-<li>时间步骤：什么时候完成（清楚）</li>
-</ul>
-</li>
-<li>结尾：希望、要求</li>
-</ul>
-</li>
-<li>落款：单位（个人）名称+日期</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>如果说要策划一场活动，那么应该包括以下几点：</p>
-<ol>
-<li>活动名称</li>
-<li>活动主题</li>
-<li>活动时间、地点</li>
-<li>活动内容</li>
-<li>活动形式</li>
-<li>活动参加人员负责人</li>
-<li>活动经费来源、预算 </li>
-<li>策划单位、日期</li>
-</ol>
-</blockquote>
-<ol start="5">
-<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
-<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -1094,6 +717,92 @@
 ]]></content>
   </entry>
   <entry>
+    <title>password-generator(密码生成器)</title>
+    <url>/2024/09/19/password-generator/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
+<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
+</blockquote>
+<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
+<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
+<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
+<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
+<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
+<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
+<li>password-generator分为两个版本<ul>
+<li>web版功能简单，使用方便</li>
+<li>pc版有备份功能，磁盘占用小</li>
+</ul>
+</li>
+</ul>
+<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
+<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
+<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
+<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
+<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
+</ul>
+<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
+<li><p>这个密码生成器的基本功能包括：</p>
+<ul>
+<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
+</li>
+<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
+</li>
+</ul>
+</li>
+<li><p>选择字符类型：</p>
+<ul>
+<li>小写字母</li>
+<li>大写字母</li>
+<li>数字</li>
+<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
+<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
+</ul>
+</li>
+<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
+</li>
+<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
+</li>
+</ol>
+<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
+
+<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
+<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
+<li>其他下载地址：<ul>
+<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
+</ul>
+</li>
+</ul>
+<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
+<li>与web版基本一致，只有以下两点差别：<ul>
+<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
+<li>有备份至github功能</li>
+</ul>
+</li>
+</ul>
+<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+
+<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
+<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
+</blockquote>
+<ul>
+<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
+</ul>
+<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
+<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
+<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>软件安装目录</title>
     <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -1113,6 +822,297 @@
       </categories>
       <tags>
         <tag>实用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>python学习笔记</title>
+    <url>/2024/09/25/python/</url>
+    <content><![CDATA[<h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><blockquote>
+<p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之&gt;旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
+</blockquote>
+<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
+<p>解释一下为什么学习python：</p>
+<ol>
+<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
+</li>
+<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
+</li>
+<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
+</li>
+<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
+</li>
+<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
+</li>
+<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
+</li>
+<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
+</li>
+<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
+</li>
+<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
+</li>
+<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
+</li>
+<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
+</li>
+<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
+</li>
+<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
+</li>
+<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
+</li>
+</ol>
+<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
+<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
+<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
+<li><a href="https://www.python.org/">python官网</a></li>
+</ul>
+<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
+<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
+<ol>
+<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
+<ul>
+<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+</ul>
+</li>
+<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
+<ul>
+<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+</ul>
+</li>
+<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
+<ul>
+<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
+</ul>
+</li>
+<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
+</ul>
+</li>
+<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
+<ul>
+<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
+</ul>
+</li>
+<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
+<ul>
+<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
+</ul>
+</li>
+<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
+<ul>
+<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
+</ul>
+</li>
+<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
+</li>
+<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
+</li>
+<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
+</li>
+<li><p>对于刚开始接触Python的新手来说，首要任务是熟悉Python的开发环境配置以及安装一个合适的集成开发环境（IDE）。以下是一些建议：</p>
+<ol>
+<li><p><strong>安装Python</strong>：</p>
+<ul>
+<li>首先，访问Python的官方网站下载适合您操作系统的Python版本。</li>
+<li>安装Python时，确保勾选了“Add Python to PATH”选项，这样可以在命令行中方便地调用Python。</li>
+</ul>
+</li>
+<li><p><strong>配置环境</strong>：</p>
+<ul>
+<li>验证安装是否成功，可以在命令行中输入<code>python --version</code>或<code>python3 --version</code>来检查Python的版本。</li>
+<li>了解如何创建和激活虚拟环境，这对于管理不同项目的依赖非常有用。</li>
+</ul>
+</li>
+<li><p><strong>选择IDE</strong>：</p>
+<ul>
+<li>选择一个功能强大且易于使用的IDE，如PyCharm、Visual Studio Code（VSCode）、Eclipse（配合PyDev插件）等。</li>
+<li>安装IDE，并熟悉其基本功能，如代码高亮、自动补全、代码调试等。</li>
+</ul>
+</li>
+<li><p><strong>设置IDE</strong>：</p>
+<ul>
+<li>在IDE中配置Python解释器，确保它指向了正确安装的Python版本。</li>
+<li>探索和安装必要的插件或扩展，以增强IDE的功能。</li>
+</ul>
+</li>
+<li><p><strong>编写Hello World</strong>：</p>
+<ul>
+<li>在IDE中创建您的第一个Python脚本，编写经典的“Hello, World!”程序，并运行它以验证环境配置是否正确。</li>
+</ul>
+</li>
+<li><p><strong>寻求帮助</strong>：</p>
+<ul>
+<li>如果在配置环境或安装IDE时遇到问题，不要犹豫，寻求社区的帮助或查阅相关文档。</li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>记住，一个舒适且功能齐全的开发环境是高效编程的基础。花时间正确设置您的环境，将有助于您更顺利地开始Python学习之旅。如果您遇到困难或不确定如何进行，请参考bilibili up主 **<a href="https://www.bilibili.com/video/BV1jgWLeREbp?t=288.3">年年吃布饱的视频</a>**（点击此处精准空降原视频）。</p>
+</li>
+<li><p>视频作者主页: <strong><a href="https://space.bilibili.com/3546660779068014">点此跳转</a></strong></p>
+</li>
+</ul>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113004884527853&bvid=BV1jgWLeREbp&cid=500001658178767&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+
+<ul>
+<li><p>对于刚开始学习编程的新手来说，<strong>免费的PyCharm社区版（PyCharm Community Edition）</strong>已经足够满足基本的编程需求。</p>
+<ul>
+<li><a href="https://www.jetbrains.com/pycharm/download/?section=windows">下载PyCharm社区版</a></li>
+</ul>
+</li>
+<li><p>在阅读了前面的介绍之后，您对Python已经有了初步的认识。现在，让我们正式踏上Python的学习之旅。</p>
+</li>
+<li><p>为了使您的编程体验更加流畅，您可以先对PyCharm进行一些优化设置，以确保它更加符合您的工作习惯，例如</p>
+<ul>
+<li>设置所需快捷键。<ul>
+<li>ctrl+向上滚动滚轮为字体放大</li>
+<li>ctrl+向下滚动滚轮为字体缩小</li>
+<li>………………</li>
+</ul>
+</li>
+<li>配置所需插件<ul>
+<li>汉化包（帮助我们更好的使用PyCharm）</li>
+<li>翻译插件（帮助我们理解英文代码和注释）</li>
+</ul>
+</li>
+<li>设置自己喜欢的主题</li>
+</ul>
+</li>
+</ul>
+<h2 id="python，从此处开始"><a href="#python，从此处开始" class="headerlink" title="python，从此处开始"></a>python，从此处开始</h2><h3 id="python基础语法"><a href="#python基础语法" class="headerlink" title="python基础语法"></a>python基础语法</h3><h4 id="字面量"><a href="#字面量" class="headerlink" title="字面量"></a>字面量</h4><ol>
+<li><p>字面量的含义：在代码中被写下来的、固定的值。称之为字面量</p>
+</li>
+<li><p>常见字面量的类型<br>目前先了解整数、浮点数、字符串即可</p>
+</li>
+<li><p>基于print语句完成各类字面量的输出</p>
+</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="number">666</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="number">13.14</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<h4 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h4><p>在程序代码中，对代码进行解释说明的文字确实被称为注释，这些注释不会被系统执行。根据你的描述，我们可以将注释分为以下两种：</p>
+<ol>
+<li><p><strong>单行注释</strong>：</p>
+<ul>
+<li>这是最常见的注释方式，通常用于解释代码中的某一行或几行。</li>
+<li>单行注释以特定的符号开始，比如在Python中是 <code>#</code>。</li>
+<li>单行注释仅对紧随其后的一行代码有效。</li>
+</ul>
+<p>示例（Python）：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 这是一个单行注释</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)  <span class="comment"># 这行代码会打印 &quot;Hello, World!&quot;</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>注：一般建议”#”和注释内容之间用空格隔开</li>
+</ul>
+</li>
+<li><p><strong>多行注释</strong>：</p>
+<ul>
+<li>多行注释用于跨越多行的解释说明。</li>
+<li>在某些语言中，可以使用特定的多行注释语法，而在Python中，通常使用三个连续的单引号 <code>&#39;&#39;&#39;</code> 或双引号 <code>&quot;&quot;&quot;</code> 来创建多行字符串，虽然它们主要用于文档字符串（docstrings），但也可以用来创建多行注释。</li>
+<li>多行注释可以包含在代码块的开始处，用于解释整个函数、类或模块。</li>
+</ul>
+<p>示例（Python）：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">这是一个多行注释</span></span><br><span class="line"><span class="string">可以跨越多行</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure></li>
+</ol>
+<p>在实际编程中，注释的使用应该简洁明了，避免冗余，同时确保它们能够为代码的阅读者提供有价值的信息。此外，注释应该随着代码的更新而更新，以保持代码的准确性和可维护性。</p>
+<h4 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h4><ul>
+<li><p>变量：在程序运行时，能够存储计算结果或能表示值的抽象概念，简单的说，变量就是在程序运行时，记录数据用的。</p>
+</li>
+<li><p>变量的定义格式</p>
+<ul>
+<li>变量名 &#x3D; 变量值</li>
+<li>每个变量都有自己的名称，称之为“变量名”，即变量本身。</li>
+<li>每个变量都有自己存储的值（内容），称之为“变量值”。</li>
+<li>“&#x3D;”表示赋值，将右侧的值赋予左侧的变量。</li>
+<li>下面是一个示例</li>
+</ul>
+</li>
+<li><p>需注意，变量的值<strong>是可以发生改变的</strong>，下面是一个示例</p>
+</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 初始化变量money，表示钱包中的初始金额</span></span><br><span class="line">money = <span class="number">50</span></span><br><span class="line"><span class="comment"># 打印初始金额，单位是人民币</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br><span class="line"><span class="comment"># 购买一个汉堡，花费10元人民币，从钱包中减去10元</span></span><br><span class="line">money = money-<span class="number">10</span>  </span><br><span class="line"><span class="comment"># 打印购买汉堡后的剩余金额</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>拓展：</p>
+<ol>
+<li>print语句如何输出多份内容？<br>   答：使用”,”隔开，例如：   <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(内容<span class="number">1</span>,内容<span class="number">2</span>, 内容<span class="number">3</span>)</span><br></pre></td></tr></table></figure></li>
+<li>python如何使用加减乘除？<br>   答：+（加）、-（减）、*（乘）、&#x2F;（除）</li>
+</ol>
+</blockquote>
+<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4><ul>
+<li><p>在之前的学习中，我们了解到数据是有类型的，目前的学习我们主要接触三类数据类型。</p>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>描述</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>string</td>
+<td>字符串类型</td>
+<td>有引号引起来的数据都是字符串</td>
+</tr>
+<tr>
+<td>int</td>
+<td>整型（有符号）</td>
+<td>数字类型，存放整数 如-1，10,20,0等</td>
+</tr>
+<tr>
+<td>float</td>
+<td>浮点型（有符号）</td>
+<td>数字类型，存放小数 如1.3，-3.4,20.24等</td>
+</tr>
+</tbody></table>
+</li>
+<li><p>那么问题来了，怎么判断数据的类型呢？这里我们有三种方法：</p>
+<ol>
+<li>在print语句中，直接输出类型信息：</li>
+</ol>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 打印字符串 &quot;hello，world&quot; 的数据类型</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(<span class="string">&quot;hello，world&quot;</span>))</span><br><span class="line"><span class="comment"># 打印整数 2024 的数据类型</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(<span class="number">2024</span>))</span><br><span class="line"><span class="comment"># 打印浮点数 20.24 的数据类型</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(<span class="number">20.24</span>))</span><br></pre></td></tr></table></figure>
+
+<p>  此时，终端应该显示以下内容:</p>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 表示字符串类型的数据类型对象</span></span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line"><span class="comment"># 表示整数类型的数据类型对象</span></span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;int&#x27;</span>&gt;</span><br><span class="line"><span class="comment"># 表示浮点数类型的数据类型对象</span></span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;float&#x27;</span>&gt;</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>用变量存储type()的结果（返回值）：</li>
+</ol>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">字符串 = <span class="built_in">type</span>(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">整数 = <span class="built_in">type</span>(<span class="number">2024</span>)</span><br><span class="line">浮点数 = <span class="built_in">type</span>(<span class="number">20.24</span>)</span><br><span class="line"><span class="built_in">print</span>(字符串)</span><br><span class="line"><span class="built_in">print</span>(整数)</span><br><span class="line"><span class="built_in">print</span>(浮点数)</span><br></pre></td></tr></table></figure>
+<p>  在终端显示的结果应该和第一种方法是一样的。</p>
+<ol start="3">
+<li>使用type()语句查看变量中存储的数据类型。<br> <strong>这里要注意，变量是没有类型的，我们查看的是变量存储的数据类型</strong></li>
+</ol>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">字符串 = <span class="string">&quot;hello world&quot;</span></span><br><span class="line">字符串数据类型 = <span class="built_in">type</span>(字符串)</span><br><span class="line"><span class="built_in">print</span>(字符串数据类型)</span><br></pre></td></tr></table></figure>
+
+<p>  终端结果应该是<code>&lt;class &#39;str&#39;&gt;</code></p>
+</li>
+</ul>
+<h4 id="数据类型转换"><a href="#数据类型转换" class="headerlink" title="数据类型转换"></a>数据类型转换</h4><h4 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h4><h4 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h4><h4 id="字符串拓展"><a href="#字符串拓展" class="headerlink" title="字符串拓展"></a>字符串拓展</h4><h4 id="数据输入"><a href="#数据输入" class="headerlink" title="数据输入"></a>数据输入</h4>]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
 </search>
