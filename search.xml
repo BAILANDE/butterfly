@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
+    <title>《产品三维造型与结构设计（UG）》笔记</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
+<li>入门案例1<ul>
+<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
 </ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+</li>
+</ol>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+
 ]]></content>
       <categories>
-        <category>AI编程</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>AI编程</tag>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -102,6 +105,41 @@
       </categories>
       <tags>
         <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+</blockquote>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>名言收录</title>
+    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
+<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。</p>
+</blockquote>
+<ol>
+<li>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -259,135 +297,6 @@
       </categories>
       <tags>
         <tag>个人权益维护</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《应用文写作》笔记</title>
-    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
-<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
-<li>一般文章类：记叙文、议论文、说明文。</li>
-<li>文学作品类：诗歌、散文、小说、戏剧。</li>
-<li>应用(实用)文类：日用文、专用文。</li>
-</ol>
-<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
-<li><strong>产生</strong><ol>
-<li>仓颉造字，以代结绳。</li>
-<li>我国最早的文章是应用文</li>
-<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
-<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
-<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
-</ol>
-</li>
-<li><strong>发展</strong><ol>
-<li>*<strong>先秦</strong>；萌芽期</li>
-<li><strong>秦——清</strong>；形成发展期</li>
-<li><strong>清后</strong>；繁荣期</li>
-</ol>
-</li>
-</ul>
-<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
-<li><strong>实用性</strong></li>
-<li><strong>规范性(格式性)</strong></li>
-<li><strong>真实性</strong></li>
-<li><strong>时效性</strong></li>
-<li><strong>广泛性</strong></li>
-<li><strong>确定性(对象)</strong></li>
-</ul>
-<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>公文类</li>
-<li>事务文书</li>
-<li>经济文书</li>
-<li>职场文书</li>
-<li>科技文书</li>
-<li>宣传文书</li>
-<li>法律文书</li>
-</ol>
-<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>主旨(鲜明，集中)</li>
-<li>材料(真实，典型)</li>
-<li>结构(严谨，完整)</li>
-<li>语言(简明，朴实，庄重)</li>
-</ol>
-<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
-<li><strong>记叙</strong></li>
-<li><strong>描写</strong></li>
-<li><strong>说明</strong></li>
-<li><strong>议论</strong></li>
-<li><strong>抒情</strong></li>
-</ul>
-<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
-<li>象形法</li>
-<li>指事法</li>
-<li>会意法</li>
-<li>形声法</li>
-<li>转注法(辅助)</li>
-<li>假借法(辅助)</li>
-</ul>
-</li>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
-<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
-</ul>
-</li>
-</ol>
-<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
-<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
-<li>特点<ul>
-<li>预见性</li>
-<li>针对性</li>
-<li>可行性</li>
-<li>约束性</li>
-</ul>
-</li>
-<li>三要素：目标、措施、步骤</li>
-<li>写法<ul>
-<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
-<p>例：《清华大学2015年度工作计划》</p>
-</blockquote>
-</li>
-<li>正文：<ul>
-<li>前言：目的、依据、指导思想、任务要求。</li>
-<li>主体：做什么——怎么做——什么时候完成<ul>
-<li>目标任务：做什么（明确）</li>
-<li>方法实施：怎么做（具体）</li>
-<li>时间步骤：什么时候完成（清楚）</li>
-</ul>
-</li>
-<li>结尾：希望、要求</li>
-</ul>
-</li>
-<li>落款：单位（个人）名称+日期</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>如果说要策划一场活动，那么应该包括以下几点：</p>
-<ol>
-<li>活动名称</li>
-<li>活动主题</li>
-<li>活动时间、地点</li>
-<li>活动内容</li>
-<li>活动形式</li>
-<li>活动参加人员负责人</li>
-<li>活动经费来源、预算 </li>
-<li>策划单位、日期</li>
-</ol>
-</blockquote>
-<ol start="5">
-<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
-<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
-</blockquote>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -831,6 +740,135 @@
       </tags>
   </entry>
   <entry>
+    <title>《应用文写作》笔记</title>
+    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
+<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
+<li>一般文章类：记叙文、议论文、说明文。</li>
+<li>文学作品类：诗歌、散文、小说、戏剧。</li>
+<li>应用(实用)文类：日用文、专用文。</li>
+</ol>
+<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
+<li><strong>产生</strong><ol>
+<li>仓颉造字，以代结绳。</li>
+<li>我国最早的文章是应用文</li>
+<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
+<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
+<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
+</ol>
+</li>
+<li><strong>发展</strong><ol>
+<li>*<strong>先秦</strong>；萌芽期</li>
+<li><strong>秦——清</strong>；形成发展期</li>
+<li><strong>清后</strong>；繁荣期</li>
+</ol>
+</li>
+</ul>
+<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
+<li><strong>实用性</strong></li>
+<li><strong>规范性(格式性)</strong></li>
+<li><strong>真实性</strong></li>
+<li><strong>时效性</strong></li>
+<li><strong>广泛性</strong></li>
+<li><strong>确定性(对象)</strong></li>
+</ul>
+<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>公文类</li>
+<li>事务文书</li>
+<li>经济文书</li>
+<li>职场文书</li>
+<li>科技文书</li>
+<li>宣传文书</li>
+<li>法律文书</li>
+</ol>
+<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>主旨(鲜明，集中)</li>
+<li>材料(真实，典型)</li>
+<li>结构(严谨，完整)</li>
+<li>语言(简明，朴实，庄重)</li>
+</ol>
+<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
+<li><strong>记叙</strong></li>
+<li><strong>描写</strong></li>
+<li><strong>说明</strong></li>
+<li><strong>议论</strong></li>
+<li><strong>抒情</strong></li>
+</ul>
+<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
+<li>象形法</li>
+<li>指事法</li>
+<li>会意法</li>
+<li>形声法</li>
+<li>转注法(辅助)</li>
+<li>假借法(辅助)</li>
+</ul>
+</li>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
+<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
+</ul>
+</li>
+</ol>
+<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
+<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
+<li>特点<ul>
+<li>预见性</li>
+<li>针对性</li>
+<li>可行性</li>
+<li>约束性</li>
+</ul>
+</li>
+<li>三要素：目标、措施、步骤</li>
+<li>写法<ul>
+<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
+<p>例：《清华大学2015年度工作计划》</p>
+</blockquote>
+</li>
+<li>正文：<ul>
+<li>前言：目的、依据、指导思想、任务要求。</li>
+<li>主体：做什么——怎么做——什么时候完成<ul>
+<li>目标任务：做什么（明确）</li>
+<li>方法实施：怎么做（具体）</li>
+<li>时间步骤：什么时候完成（清楚）</li>
+</ul>
+</li>
+<li>结尾：希望、要求</li>
+</ul>
+</li>
+<li>落款：单位（个人）名称+日期</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>如果说要策划一场活动，那么应该包括以下几点：</p>
+<ol>
+<li>活动名称</li>
+<li>活动主题</li>
+<li>活动时间、地点</li>
+<li>活动内容</li>
+<li>活动形式</li>
+<li>活动参加人员负责人</li>
+<li>活动经费来源、预算 </li>
+<li>策划单位、日期</li>
+</ol>
+</blockquote>
+<ol start="5">
+<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
+<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《数控车床与加工工艺》笔记</title>
     <url>/2024/09/04/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A%E4%B8%8E%E5%8A%A0%E5%B7%A5%E5%B7%A5%E8%89%BA/</url>
     <content><![CDATA[<h1 id="数控车床与加工工艺"><a href="#数控车床与加工工艺" class="headerlink" title="数控车床与加工工艺"></a>数控车床与加工工艺</h1><blockquote>
@@ -1129,49 +1167,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《产品三维造型与结构设计（UG）》笔记</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<h1 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h1><ol>
-<li>入门案例1<ul>
-<li><a href="https://www.bilibili.com/video/BV1sRpMemEjz?t=3.8"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，敬请谅解）</a></li>
-</ul>
-</li>
-</ol>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113083636778365&bvid=BV1sRpMemEjz&cid=25747390532&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件安装目录</title>
-    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>实用</category>
-      </categories>
-      <tags>
-        <tag>实用</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《可编程序控制器技术与应用》笔记</title>
     <url>/2024/09/07/%E5%8F%AF%E7%BC%96%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
@@ -1266,17 +1261,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>名言收录</title>
-    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
-    <content><![CDATA[<h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><ol>
-<li>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。”                                                      ————毛泽东</li>
-</ol>
-]]></content>
+    <title>软件安装目录</title>
+    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>学习笔记</category>
+        <category>实用</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
+        <tag>实用</tag>
       </tags>
   </entry>
 </search>
