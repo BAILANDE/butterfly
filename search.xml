@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>《产品三维造型与结构设计（UG）》测试内容</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="考试案例"><a href="#考试案例" class="headerlink" title="考试案例"></a>考试案例</h1><h2 id="案例一"><a href="#案例一" class="headerlink" title="案例一"></a>案例一</h2>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>可编程序控制器技术与应用</title>
     <url>/2024/09/07/PLC/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
@@ -233,22 +222,32 @@
       </tags>
   </entry>
   <entry>
-    <title>名言收录</title>
-    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
-<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
 </blockquote>
-<ol>
-<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
-</li>
-<li></li>
-</ol>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>AI编程</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《产品三维造型与结构设计（UG）》测试内容</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="考试案例"><a href="#考试案例" class="headerlink" title="考试案例"></a>考试案例</h1><h2 id="案例一"><a href="#案例一" class="headerlink" title="案例一"></a>案例一</h2>]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -271,6 +270,707 @@
       </categories>
       <tags>
         <tag>个人权益维护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>名言收录</title>
+    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
+<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+</blockquote>
+<ol>
+<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
+</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《数控车床与加工工艺》笔记</title>
+    <url>/2024/09/04/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A%E4%B8%8E%E5%8A%A0%E5%B7%A5%E5%B7%A5%E8%89%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="数控车床与加工工艺"><a href="#数控车床与加工工艺" class="headerlink" title="数控车床与加工工艺"></a>数控车床与加工工艺</h1><blockquote>
+<p>前言：本文是由Ding在大学课程“数控车床与加工工艺”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h2 id="基础认知"><a href="#基础认知" class="headerlink" title="基础认知"></a>基础认知</h2><h3 id="数控车床简述"><a href="#数控车床简述" class="headerlink" title="数控车床简述"></a>数控车床简述</h3><ul>
+<li>概述参考<a href="https://baike.baidu.com/item/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A/3205">数控车床（百度百科）</a></li>
+</ul>
+<h3 id="数控车床型号"><a href="#数控车床型号" class="headerlink" title="数控车床型号"></a>数控车床型号</h3><blockquote>
+<p>数控车床型号表示方法遵守GB&#x2F;T15375-2008《金属切削机床 型号编制方法》，由字母及一组数字组成。例如数控车床代号CK6140含义如下:</p>
+</blockquote>
+<ul>
+<li>CK6140<ol>
+<li>“C”表示车床</li>
+<li>“K”表示数控</li>
+<li>“6”表示落地及卧式车床组</li>
+<li>“1”表示卧式车床系</li>
+<li>“40”表示床身最大回转直径（400mm）的1&#x2F;10</li>
+</ol>
+</li>
+<li>5085<ol>
+<li>“50”表示床身最大回转直径（500mm）的1&#x2F;10</li>
+<li>“85”表示最大加工长度（850mm）的1&#x2F;10</li>
+</ol>
+</li>
+</ul>
+<h3 id="数控机床分类"><a href="#数控机床分类" class="headerlink" title="数控机床分类"></a>数控机床分类</h3><ol>
+<li>按照数控系统分类<ul>
+<li>Funuc(日)</li>
+<li>西门子(德)</li>
+<li>华中(中)</li>
+<li>广数(中)</li>
+<li>凯恩帝(中)</li>
+</ul>
+</li>
+<li>按照主轴系统分类<ul>
+<li>立式</li>
+<li>卧式<ul>
+<li>水平导轨式</li>
+<li>倾斜导轨式</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h3 id="数控车床用途（加工范围）"><a href="#数控车床用途（加工范围）" class="headerlink" title="数控车床用途（加工范围）"></a>数控车床用途（加工范围）</h3><ul>
+<li>数控车床是使用较为广泛的 数控机床 之一。 它主要用于 轴类零件 或盘类零件的内外圆柱面、任意锥角的内外圆锥面、复杂回转内外曲面和圆柱、圆锥螺纹等切削加工，并能进行切槽、 钻孔 、扩孔、铰孔及镗孔等。</li>
+</ul>
+<h3 id="数控车床主要系统"><a href="#数控车床主要系统" class="headerlink" title="数控车床主要系统"></a>数控车床主要系统</h3><ul>
+<li>Funuc(日)</li>
+<li>西门子(德)</li>
+<li>华中(中)</li>
+<li>广数(中)</li>
+<li>凯恩帝(中)</li>
+</ul>
+<h3 id="数控车五大指令"><a href="#数控车五大指令" class="headerlink" title="数控车五大指令"></a>数控车五大指令</h3><ol>
+<li>G表示：准备功能。</li>
+<li>M表示：辅助功能。</li>
+<li>S表示：主轴功能。</li>
+<li>T表示：刀具功能。</li>
+<li>F表示：进给功能。</li>
+</ol>
+<blockquote>
+<p><strong>补充</strong><br>第一台数控机床：美国麻省理工学院在1952年研制出第一台带有控制器的三轴铣床，标志着世界上第一台数控机床的诞生。<br>中国第一台数控机床：1958年，北京第一机床厂与清华大学合作，试制出中国第一台数控机床——X53K1三坐标数控机床。</p>
+</blockquote>
+<h2 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h2><h3 id="五大指令"><a href="#五大指令" class="headerlink" title="五大指令"></a>五大指令</h3><h4 id="G（FUNUC）"><a href="#G（FUNUC）" class="headerlink" title="G（FUNUC）"></a>G（FUNUC）</h4><h5 id="FANUC-0iMate-TD系统与SINUMERIK828D系统常用G代码功能"><a href="#FANUC-0iMate-TD系统与SINUMERIK828D系统常用G代码功能" class="headerlink" title="FANUC 0iMate-TD系统与SINUMERIK828D系统常用G代码功能"></a>FANUC 0iMate-TD系统与SINUMERIK828D系统常用G代码功能</h5><table>
+  <tr>
+    <th>G代码</th>
+    <th>发那科系统含义</th>
+    <th>西门子系统含义</th>
+  </tr>
+  <tr>
+    <td>G00</td>
+    <td>快速点定位(快速移动)</td>
+    <td>快速点定位(快速移动)</td>
+  </tr>
+  <tr>
+    <td>G01</td>
+    <td>直线插补</td>
+    <td>直线插补</td>
+  </tr>
+  <tr>
+    <td>G02</td>
+    <td>顺时针圆弧插补</td>
+    <td>顺时针圆弧插补</td>
+  </tr>
+  <tr>
+    <td>G03</td>
+    <td>逆时针圆弧插补</td>
+    <td>逆时针圆弧插补</td>
+  </tr>
+  <tr>
+    <td>G04</td>
+    <td>暂停</td>
+    <td>暂停</td>
+  </tr>
+  <tr>
+    <td>G28</td>
+    <td>返回参考点</td>
+    <td>用G74表示返回参考点</td>
+  </tr>
+  <tr>
+    <td>G32</td>
+    <td>切削螺纹</td>
+    <td>用G33表示切削螺纹</td>
+  </tr>
+  <tr>
+    <td>G40</td>
+    <td>取消刀尖圆弧半径补偿</td>
+    <td>取消刀尖圆弧半径补偿</td>
+  </tr>
+  <tr>
+    <td>G41</td>
+    <td>刀尖圆弧半径左补偿</td>
+    <td>刀尖圆弧半径左补偿</td>
+  </tr>
+  <tr>
+    <td>G42</td>
+    <td>刀尖圆弧半径右补偿</td>
+    <td>刀尖圆弧半径右补偿</td>
+  </tr>
+  <tr>
+    <td>G70</td>
+    <td>精车复合循环</td>
+    <td rowspan="4">西门子毛坯循环用 CYCLE952</td>
+  </tr>
+  <tr>
+    <td>G71</td>
+    <td>粗车复合循环</td>
+  </tr>
+  <tr>
+    <td>G72</td>
+    <td>端面粗车复合循环</td>
+  </tr>
+  <tr>
+    <td>G73</td>
+    <td>固定形状粗车复合循环</td>
+  </tr>
+  <tr>
+    <td>G74</td>
+    <td>端面深孔钻削、端面车槽复合循环</td>
+    <td>回参考点</td>
+  </tr>
+  <tr>
+    <td>G75</td>
+    <td>径向沟槽复合循环</td>
+    <td>回固定点(西门子车槽循环用 CYCLE930、CYCLE940)</td>
+  </tr>
+  <tr>
+    <td>G76</td>
+    <td>螺纹切削复合循环</td>
+    <td>西门子螺纹切削复合循环用CYCLE99</td>
+  </tr>
+  <tr>
+    <td>G90</td>
+    <td>外圆(内孔)单一固定循环</td>
+    <td>绝对值编程</td>
+  </tr>
+  <tr>
+    <td>G92(重点)</td>
+    <td>螺纹切削单一循环</td>
+    <td>未指定</td>
+  </tr>
+  <tr>
+    <td>G96</td>
+    <td>主轴转速恒定切削速度</td>
+    <td>主轴转速恒定切削速度</td>
+  </tr>
+  <tr>
+    <td>G97</td>
+    <td>取消主轴恒定切削速度</td>
+    <td>取消主轴恒定切削速度</td>
+  </tr>
+  <tr>
+    <td>G98</td>
+    <td>每分钟进给量(mm/min)</td>
+    <td>未指定</td>
+  </tr>
+  <tr>
+    <td>G99</td>
+    <td>每转进给量(mm/r)</td>
+    <td>未指定</td>
+  </tr>
+</table>
+
+
+
+<h4 id="M"><a href="#M" class="headerlink" title="M"></a>M</h4><h5 id="FANUC-0i-Mate-和-SINUMERIK-828D-系统常用辅助功能指令及含义"><a href="#FANUC-0i-Mate-和-SINUMERIK-828D-系统常用辅助功能指令及含义" class="headerlink" title="FANUC 0i Mate 和 SINUMERIK 828D 系统常用辅助功能指令及含义"></a>FANUC 0i Mate 和 SINUMERIK 828D 系统常用辅助功能指令及含义</h5><table>
+<thead>
+<tr>
+<th>指令</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>M00</td>
+<td>程序停止</td>
+</tr>
+<tr>
+<td>M01</td>
+<td>计划停止</td>
+</tr>
+<tr>
+<td>M02</td>
+<td>程序结束</td>
+</tr>
+<tr>
+<td>M03</td>
+<td>主轴正转</td>
+</tr>
+<tr>
+<td>M04</td>
+<td>主轴反转</td>
+</tr>
+<tr>
+<td>M05</td>
+<td>主轴停</td>
+</tr>
+<tr>
+<td>M08</td>
+<td>切削液开</td>
+</tr>
+<tr>
+<td>M09</td>
+<td>切削液关</td>
+</tr>
+<tr>
+<td>M30</td>
+<td>程序结束</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>（必考）M02和M30的区别:<br>M02和M30都是程序结束的指令<br>但是M02指的是程序结束且光标停止在程序结束处，而M30指的是程序结束且光标跳转到程序开头。<br>M02是停止指令，完成工件加工程序段的所有指令后，使主轴、进给和冷却液停止，程序光标停在程序末尾。<br>M30是复位指令，完成停止动作后，重新复位，完成M02指令功能外，还使储存器中的加工程序返回到初始状态。 </p>
+</blockquote>
+<h4 id="S"><a href="#S" class="headerlink" title="S"></a>S</h4><ul>
+<li>不同材料加工转速</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>材料</th>
+<th>S转速（mm&#x2F;min）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>钢（45#）、铁、铝</td>
+<td>S600——S1200</td>
+</tr>
+<tr>
+<td>不锈钢</td>
+<td>S300——S500</td>
+</tr>
+<tr>
+<td>尼龙</td>
+<td>1000以上</td>
+</tr>
+</tbody></table>
+<h4 id="T"><a href="#T" class="headerlink" title="T"></a>T</h4><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>对应刀具</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>T0101</td>
+<td>一号刀具（90度外圆车刀）</td>
+</tr>
+<tr>
+<td>T0202</td>
+<td>二号刀具（切刀）</td>
+</tr>
+<tr>
+<td>T0303</td>
+<td>三号刀具（螺纹刀）</td>
+</tr>
+<tr>
+<td>T0404</td>
+<td>四号刀具（35度偏刀）</td>
+</tr>
+</tbody></table>
+<h4 id="F"><a href="#F" class="headerlink" title="F"></a>F</h4><ul>
+<li>常用的进给速度单位一般是每转进给量(mm&#x2F;r),即G99</li>
+<li>常用的进给速度一般是F（0.1——0.3），最常用的一般是0.15。（这里是指每转进给量）<blockquote>
+<p>粗车和精车的区别<br>简单来说：</p>
+<ol>
+<li><strong>目的</strong>：粗车是为了快速去除材料，精车是为了提高精度和表面质量。</li>
+<li><strong>精度</strong>：粗车的精度较低，精车的精度较高。</li>
+<li><strong>切削用量</strong>：粗车使用较大的切削深度和进给量，精车使用较小的切削深度和进给量。</li>
+<li><strong>刀具</strong>：粗车刀具角度大，精车刀具角度小，更适合精细加工。</li>
+<li><strong>机床</strong>：粗车可以在普通机床上完成，精车则需要更精密的机床。</li>
+</ol>
+</blockquote>
+</li>
+</ul>
+<h3 id="编程-1"><a href="#编程-1" class="headerlink" title="编程"></a>编程</h3><blockquote>
+<p>从这里正式开始我们的编程部分</p>
+</blockquote>
+<h4 id="G00"><a href="#G00" class="headerlink" title="G00"></a>G00</h4><blockquote>
+<p>在发那科数控机床中，G00指令代表的是“快速定位”。这个指令用于控制数控机床在两个指定点之间以最高速度进行快速移动，而不进行任何加工操作。G00指令的主要作用是实现机床的快速移动，可以大大缩短加工时间。在数控加工过程中，机床需要在不同的加工点之间进行移动，而G00指令则提供了一种快速移动的方式。使用G00指令时，机床会以最大速度移动到目标位置，不进行切削或加工操作。这种快速移动有助于提高生产效率和机床的运行速度。简而言之，G00是一个用于快速定位的G代码指令，它使得机床能够迅速从一个位置移动到另一个位置，以提高加工效率。</p>
+</blockquote>
+<ul>
+<li><p><strong>格式</strong>：<code>G00 X(U)_ Z(W)_</code></p>
+<p>这里，<code>X(U)</code> 和 <code>Z(W)</code> 分别代表目标点的绝对坐标或相对坐标位移。其中，<code>X</code> 和 <code>Z</code> 表示目标点的绝对坐标，而 <code>U</code> 和 <code>W</code> 表示目标点相对于刀具当前位置的相对坐标位移。<code>X(U)</code> 表示坐标按直径输入。在使用G00指令时，需要注意以下几点：</p>
+<ol>
+<li>该指令使刀具按照点位控制方式快速移动到指定位置。移动过程中不得对工件进行加工。</li>
+<li>所有编程轴同时以参数所定义的速度移动，当某轴走完编程值便停止，而其他轴继续运动。</li>
+<li>不运动的坐标无须编程。</li>
+<li>G00可以写成G0。</li>
+</ol>
+</li>
+</ul>
+<p>例如，如果有一个指令 <code>G00 X75 Z200</code>，它将使刀具快速移动到X轴75单位，Z轴200单位的位置。这种快速移动不会对工件进行加工，且各轴以最大速度独立移动，直到达到指定位置。</p>
+<h4 id="GO1"><a href="#GO1" class="headerlink" title="GO1"></a>GO1</h4><blockquote>
+<p>在发那科数控机床中，G01指令代表的是“直线插补”。这个指令用于控制数控机床的刀具沿直线路径从一个点移动到另一个点，通常用于切削加工。以下是G01指令的一些关键特点：</p>
+<ol>
+<li><strong>直线移动</strong>：G01指令使刀具以直线方式移动到指定的坐标位置。</li>
+<li><strong>速度控制</strong>：G01指令允许通过F指令参数来设置进给速度或切削速度。</li>
+<li><strong>坐标系设置</strong>：在使用G01指令之前，需要确保正确设置了坐标系，以保证机床的坐标系与编程中的坐标系一致。</li>
+<li><strong>运动路径规划</strong>：在编写G01指令时，需要仔细规划运动路径，确保路径是安全、稳定和符合加工要求的。</li>
+<li><strong>坐标值准确性</strong>：在编写G01指令时，要确保输入的坐标值准确无误，错误的坐标值可能导致机床运动到错误的位置。</li>
+</ol>
+</blockquote>
+<ul>
+<li><strong>格式</strong>：<code>G01 X(U) Z(W) F</code><br>G01指令的格式通常为<code>G01 X(U) Z(W) F</code><ol>
+<li>其中X、Z为要求移动到的位置的绝对坐标值；</li>
+<li>U、W为要求移动到的位置的增量坐标值；</li>
+<li>F为进给速率，即刀具移动的速度。</li>
+<li>G01也可以写成G1。</li>
+<li>这个指令在数控加工中非常关键，因为它允许精确控制刀具的直线运动，从而实现精确的加工。</li>
+</ol>
+</li>
+</ul>
+<h4 id="GO2-GO3"><a href="#GO2-GO3" class="headerlink" title="GO2&amp;GO3"></a>GO2&amp;GO3</h4><blockquote>
+<p>在发那科数控机床中，G02和G03指令分别代表顺时针和逆时针方向的圆弧插补。</p>
+</blockquote>
+<ol>
+<li><p><strong>G02指令</strong>：代表顺时针方向圆弧插补（Clockwise）。使用G02指令时，刀具会沿着顺时针方向的圆弧路径从一个点移动到另一个点。</p>
+</li>
+<li><p><strong>G03指令</strong>：代表逆时针方向圆弧插补（Counter-Clockwise）。使用G03指令时，刀具会沿着逆时针方向的圆弧路径从一个点移动到另一个点。</p>
+</li>
+<li><p><strong>G02和G03的格式</strong>:</p>
+</li>
+</ol>
+<ul>
+<li>这两个指令格式都是一样的:<code>G02(G03)) X终点坐标 Y终点坐标 R圆弧半径 F进给速率</code></li>
+</ul>
+<h4 id="G92指令"><a href="#G92指令" class="headerlink" title="G92指令"></a>G92指令</h4><blockquote>
+<p>在发那科数控机床中，G92指令用于螺纹切削循环，它是一种简单螺纹循环指令，可以简化程序，用于切削加工圆柱螺纹和圆锥螺纹。</p>
+</blockquote>
+<ol>
+<li><p><strong>指令格式</strong>：<code>G92 X Z F</code></p>
+<ul>
+<li>X、Z：分别代表螺纹终点的绝对坐标。</li>
+<li>F：公制螺纹的螺距（单位：mm&#x2F;牙），必须为正数，默认值为1。</li>
+</ul>
+</li>
+<li><p><strong>功能</strong>：G92指令可以切削加工圆柱螺纹，通过简化程序减少编程的复杂性。</p>
+</li>
+</ol>
+<p>通过使用G92指令，可以在数控车床上高效、准确地进行螺纹加工。</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《应用文写作》笔记</title>
+    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
+<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
+</blockquote>
+<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
+<li>一般文章类：记叙文、议论文、说明文。</li>
+<li>文学作品类：诗歌、散文、小说、戏剧。</li>
+<li>应用(实用)文类：日用文、专用文。</li>
+</ol>
+<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
+<li><strong>产生</strong><ol>
+<li>仓颉造字，以代结绳。</li>
+<li>我国最早的文章是应用文</li>
+<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
+<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
+<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
+</ol>
+</li>
+<li><strong>发展</strong><ol>
+<li>*<strong>先秦</strong>；萌芽期</li>
+<li><strong>秦——清</strong>；形成发展期</li>
+<li><strong>清后</strong>；繁荣期</li>
+</ol>
+</li>
+</ul>
+<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
+<li><strong>实用性</strong></li>
+<li><strong>规范性(格式性)</strong></li>
+<li><strong>真实性</strong></li>
+<li><strong>时效性</strong></li>
+<li><strong>广泛性</strong></li>
+<li><strong>确定性(对象)</strong></li>
+</ul>
+<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>公文类</li>
+<li>事务文书</li>
+<li>经济文书</li>
+<li>职场文书</li>
+<li>科技文书</li>
+<li>宣传文书</li>
+<li>法律文书</li>
+</ol>
+<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
+<li>主旨(鲜明，集中)</li>
+<li>材料(真实，典型)</li>
+<li>结构(严谨，完整)</li>
+<li>语言(简明，朴实，庄重)</li>
+</ol>
+<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
+<li><strong>记叙</strong></li>
+<li><strong>描写</strong></li>
+<li><strong>说明</strong></li>
+<li><strong>议论</strong></li>
+<li><strong>抒情</strong></li>
+</ul>
+<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
+<li>象形法</li>
+<li>指事法</li>
+<li>会意法</li>
+<li>形声法</li>
+<li>转注法(辅助)</li>
+<li>假借法(辅助)</li>
+</ul>
+</li>
+<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
+<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
+</ul>
+</li>
+</ol>
+<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
+<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
+<li>特点<ul>
+<li>预见性</li>
+<li>针对性</li>
+<li>可行性</li>
+<li>约束性</li>
+</ul>
+</li>
+<li>三要素：目标、措施、步骤</li>
+<li>写法<ul>
+<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
+<p>例：《清华大学2015年度工作计划》</p>
+</blockquote>
+</li>
+<li>正文：<ul>
+<li>前言：目的、依据、指导思想、任务要求。</li>
+<li>主体：做什么——怎么做——什么时候完成<ul>
+<li>目标任务：做什么（明确）</li>
+<li>方法实施：怎么做（具体）</li>
+<li>时间步骤：什么时候完成（清楚）</li>
+</ul>
+</li>
+<li>结尾：希望、要求</li>
+</ul>
+</li>
+<li>落款：单位（个人）名称+日期</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>如果说要策划一场活动，那么应该包括以下几点：</p>
+<ol>
+<li>活动名称</li>
+<li>活动主题</li>
+<li>活动时间、地点</li>
+<li>活动内容</li>
+<li>活动形式</li>
+<li>活动参加人员负责人</li>
+<li>活动经费来源、预算 </li>
+<li>策划单位、日期</li>
+</ol>
+</blockquote>
+<ol start="5">
+<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
+<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
+</blockquote>
+</li>
+</ol>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ol>
+<li>定义：对过去工作的回顾、分析、评定</li>
+<li>特点：<ul>
+<li>自我性</li>
+<li>概括性</li>
+<li>实践性</li>
+</ul>
+</li>
+<li>种类<ul>
+<li>如果从实际工作的角度看，总结可归结为三大类：一是汇报工作的全面总结，二是介绍经验或揭露问题的专题总结，三是个人的思想、工作、学习总结。如按不同标准可划分以下几类。<ul>
+<li><p>按性质分：有全面总结和专题总结。</p>
+</li>
+<li><p>按内容分：有工作总结、学习总结、思想总结、事故总结、活动总结等。</p>
+</li>
+<li><p>按时间分：有年度总结、季度总结、月份总结等。</p>
+</li>
+<li><p>按范围分：有个人总结、班组总结、单位总结、部门总结、地区总结等。</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>总结的写法<ul>
+<li>总结的格式与计划相同，都由标题、正文、落款三部分构成。<ul>
+<li>标题：总结的标题有公文式标题、文章式标题或双标题</li>
+<li>正文：<ul>
+<li>前言部分：一般应简单概述总结的内容、背景、目的等。常见的开头方式有概述式、提示式、结论式、问题式。</li>
+<li>主体部分：总结主体部分的结构形式主要有条目式、三段式、分块式、漫谈式。</li>
+<li>结尾部分：总结的结尾简单写写存在的主要问题，表一下决心，或展望前景，说明今后的打算与设想。</li>
+</ul>
+</li>
+<li>落款：在正文右下方署名，单位总结一般名称在标题中出现，文尾可不写。日期写在署名下。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>总结写作要求： </p>
+<ol>
+<li>态度要端正，内容要真实<br>  总结的目的是要从对过去的工作回顾与思考中，寻找成功的经验和失败的教训，以指导今后的工作，因此，应当客观、全面、辩证地分析事物，从中得出科学的结论。切不可喜功好大，言过其实，弄虚作假。</li>
+<li>重点要突出，点面要结合<br>  总结必须占有充足的材料，才能使内容充实，但不能像“流水账”那样，罗列现象，没有重点。总结要突出重点内容，有点有面，点面结合才具有说服力。</li>
+<li>思路要清晰，层次要分明<br>  总结一般较长，因此必须思路清晰，最好有一根主线贯穿全文，让人把握核心。层次也要分明，不可一塌糊涂。</li>
+</ol>
+</blockquote>
+<h2 id="职场文书"><a href="#职场文书" class="headerlink" title="职场文书"></a>职场文书</h2><p>随着我国市场经济的不断发展与完善，我国的就业方式已由过去的单向选择转变为目前的单位与职工都有的双向选择。大中专毕业生或待业人员在寻找职业时，就需要求职类的应用文。随着社会竞争的日趋激烈，人们在工作中面临着竞岗和离岗等考验，这时也需要就职类应用文。总之，在现代社会写好求职类和就职类应用文是职业人必备的基本功之一。</p>
+<h3 id="求职信"><a href="#求职信" class="headerlink" title="求职信"></a>求职信</h3><ol>
+<li>在当今人才竞争激烈的社会，大中专毕业生或待业人员，要想赢得就业的机会，就必须善于向用人单位宣传、推荐自己，这就需要撰写求职信、应聘信并附上个人简历、毕业生登记表和有关证件复印件等内容，用人单位通过这些材料，了解求职人的基本情况，在现代社会写好求职信和应聘信是职业人必备的基本功之一。</li>
+</ol>
+<blockquote>
+<p>在这里补充一下书信知识，书信分为一般书信（例如家书、情书）、社交书信（慰问信、祝贺信）、专用书信（介绍信、求职信）。格式一般包括标题、称呼、问候语、正文、祝贺语、署名、日期。<br>区分对联上下联的方法<br>对联是中国传统文化中的一种文学形式，通常由两句话组成，分别称为上联和下联。它们在字数、对仗、意义上都要求相匹配。区分对联的上下联通常有以下几种方法：</p>
+<ol>
+<li><strong>尾字声调</strong>：在传统的对联中，上联的最后一个字通常是仄声（即第三声或第四声），而下联的最后一个字则是平声（即第一声或第二声）。</li>
+<li><strong>时间顺序</strong>：如果对联中涉及到时间的先后，通常时间在前的为上联，时间在后的为下联。</li>
+<li><strong>空间顺序</strong>：如果对联中涉及到空间的上下、内外、远近等，通常按照空间的逻辑顺序排列，如从外到内、从上到下等。</li>
+<li><strong>逻辑关系</strong>：根据对联的逻辑关系，上联往往是提出问题或者描述现象，下联则是回答问题或者进一步阐释。</li>
+<li><strong>字数多少</strong>：在一些对联中，上联的字数可能比下联多，但这并不是一个普遍的规则。</li>
+<li><strong>横批</strong>：如果对联有横批，那么横批下的第一个字所在的联就是上联。</li>
+<li><strong>张贴位置</strong>：在张贴对联时，上联通常贴在右边（面向门时），下联贴在左边。</li>
+<li><strong>内容含义</strong>：有时上联和下联的内容含义也能帮助区分，比如上联可能是一个引子或者背景介绍，下联则是主题或者高潮。</li>
+<li><strong>书写习惯</strong>：在书写对联时，上联通常从右往左写，下联从左往右写。</li>
+<li><strong>特定场合</strong>：在某些特定的节日或场合，对联的内容和顺序也有特定的规定。<br>通过这些方法，通常可以较为准确地区分对联的上下联。不过，由于对联的创作非常灵活，有时也可能会遇到一些特殊情况，需要结合具体的对联内容和背景来确定。’</li>
+</ol>
+</blockquote>
+<ol start="2">
+<li><p>求职信的特点</p>
+<ol>
+<li>自荐性</li>
+<li>针对性</li>
+<li>竞争性</li>
+</ol>
+</li>
+<li><p>求职信的写法</p>
+<ol>
+<li>标题：正中间写“求职信”（或者应聘信、自荐信）</li>
+<li>称呼：标题下定格写用人单位或领导名称（例如“XXX公司经理”）</li>
+<li>问候语：在第二行空两格写“您好！”</li>
+<li>正文：<ol>
+<li>开头：写求职信的缘由，目标，自我简介</li>
+<li>主体：思想品行，学习能力（主修课程），专业水平，爱好特长、实习情况、获奖情况。</li>
+<li>结尾：决心、展望</li>
+</ol>
+</li>
+<li>祝福语：“此致”空两格写，“敬礼”顶格写。</li>
+<li>署名、日期：右下角写</li>
+<li>附件：个人简历、电话、证书复印件。</li>
+</ol>
+</li>
+</ol>
+<h3 id="个人简历"><a href="#个人简历" class="headerlink" title="个人简历"></a>个人简历</h3><blockquote>
+<p>随着社会的发展，人事制度的变革，使得职业选择的机会越来越多，范围越来越广，职业变更也越发频繁。在选择或变更职业之前，首先要做好的工作就是准备一份让用人单位产生注意力和发生兴趣，或能够获得人才交流中心人员的信任感或赞赏，从而把你推荐给用人单位的简历。<br>所谓简历，就是对自己的生活经历，包括学历、工作经历及相关成就等，有选择地、重点地加以概括、叙述的一种应用文书，也称个人简历或个人履历书。  有人称简历是职场“敲门砖”，一份妥当的简历，可以引起招聘单位的兴趣，为写作者赢得面试的机会。一般来说，任何一个单位公开招聘，都会收到很多简历，而大多数简历都是大同小异，招聘一方可能会视而不见。因此，简历的好坏是决定求职者能否得到所求职位的第一关。<br>个人简历除具有求职文书功能外，在现代社会，简历是人事档案的重要组成部分，也是考查干部、选拔任用人才等必须具备的一份重要资料。</p>
+</blockquote>
+<ol>
+<li>个人简历的种类<ol>
+<li>依据表达方式的不同，个人简历可分为表格式和叙述式。</li>
+<li>依据写作顺序的不同，个人简历可分为时间顺序型简历、职能型简历和组合型简历。</li>
+</ol>
+</li>
+<li>个人简历一般具备以下几个特点：<ol>
+<li>真实性</li>
+<li>目的性   </li>
+<li>完整性</li>
+<li>简明性</li>
+</ol>
+</li>
+<li>个人简历写法</li>
+</ol>
+<blockquote>
+<p>不同类型的简历，写作格式不尽相同。通常情况下，简历可由标题、正文、落款三个部分组成。</p>
+</blockquote>
+<ol>
+<li>标题<br>个人简历的标题，可以写成个人简历、简历、个人履历书，也可以在它们的前面加上写作者的名字，如：张扬个人简历。</li>
+<li>正文<ol>
+<li>个人基本情况</li>
+<li>学习经历(大学或大专主修课)</li>
+<li>工作经历（社团活动、实践学习）</li>
+<li>个人技能（专业水平能力、其他能力）</li>
+<li>爱好特长</li>
+<li>获奖情况</li>
+<li>求职意向</li>
+<li>自我评定</li>
+<li>联系方式<br>3、落款</li>
+</ol>
+</li>
+</ol>
+<blockquote>
+<p>个人简历的写作要求</p>
+<ol>
+<li>内容真实客观<br>在简历写作中，个人的基本情况与学习、工作等经历，以及各项优势特长等必须如实记写，绝不能弄虚作假，编造学历、资历来欺骗用人单位。用人单位会层层把关，多方考核。求职者若作假，一旦真相大白，不仅不能被录用，写作者的品质也必将大打折扣。<br>一些人力资源部经理一再告诫大家，求职简历一定要按照实际情况填写，任何虚假的内容都不要写。一位经理说，即使有的人靠含有水分的简历得到了面试的机会，但面试时也会露出马脚。企业选人都非常慎重，自己当年应聘时过了9道关，而弄虚作假是过不了一轮又一轮的面试关的。</li>
+<li>突出具体优势<br>写作个人简历，亮出你最吸引人的优点。<br>撰写简历要把握对方为什么要考虑让你到他们公司来担任这个职务?你如何能帮助他们解决问题?也就是要根据求职目标突出自身优势，即完成本职工作所具备的学识、能力、专长或者已取得的成就，并且尽可能用事实和数字加以说明，如在校主修专业课程的成绩、竞赛中获得的奖项、专业实习成绩、工作实践成果等，进而让用人单位清楚地认识你所具备的求职、任职资格。</li>
+<li>表述简洁明了<br>作为求职文书使用的个人简历，在写作时应力求简洁明了，没有必要将自己的所有经历都一一地表述出来，篇幅尽量压缩在1～2页纸以内（Ａ4纸），最好1页就能说明问题，关键是要能最大限度地反映出自身所具有的求职优势。</li>
+<li>语言文字准确<br>个人简历写作者在表述自己学识、能力、经验时，语言要准确，既不夸大自己的能力，也不必过分自谦，而要实事求是，使人阅后确信所写内容与写作者的实际相符。文字书写要准确，人事部门相关人士会认为写错别字的求职者文化素质不高，或做事马虎大意。<br>每到招聘时，一个企业或单位，尤其是大型企业或单位，每次都会收到很多份简历，工作人员不可能都仔细阅读，一般一份简历只用１分钟就看完了，最多不超过３分钟。</li>
+<li>递交简历的技巧<br>在企业招聘会现场给企业递交简历时，要选择人不是很多、很乱时候，要多争取跟用人单位聊聊，增加对方的印象，最好能让对方把你的简历做上重点标注，否则你的简历极有可能被淹没在一堆竞争者的简历中。</li>
+</ol>
+</blockquote>
+<h3 id="竞聘书"><a href="#竞聘书" class="headerlink" title="竞聘书"></a>竞聘书</h3><ol>
+<li>竞聘书的含义</li>
+</ol>
+<ul>
+<li>是竞聘者为了实现竞争上岗，在竞聘会议上面对评审者和听众发表</li>
+<li>展露自我具有足够条件的专用演说类文书，也叫竞聘演讲稿、竞聘报告或讲话稿。大至竞选总统，小到竞聘上岗，都要用这种讲话稿。在我国，随着竞争上岗的普遍实行，竞聘讲话稿的写作越来越显得重要。</li>
+</ul>
+<ol start="2">
+<li>竞聘书作用</li>
+</ol>
+<ul>
+<li>竞聘书既是竞聘者对自身素质的评价，也是人事部门和群众了解竞聘者情况的渠道。它既为择优选聘提供依据，也有利于竞聘者自身素质的提高，同时也是组织人事部门用以考核干部的重要档案材料。</li>
+</ul>
+<ol start="3">
+<li>竞聘书特点<ul>
+<li>明确性</li>
+<li>集中性</li>
+<li>竞争性</li>
+<li>实用性</li>
+<li>程序性</li>
+<li>准确性</li>
+</ul>
+</li>
+<li>竞聘书写法<ol>
+<li>标题<ul>
+<li>文种式</li>
+<li>公文式</li>
+<li>文章式</li>
+</ul>
+</li>
+<li>称呼：评委、听众。</li>
+<li>问候语：“大家好！”</li>
+<li>正文：<ol>
+<li>开头：交代身份、竞聘缘由、目标等<br> 2.主体<ol>
+<li>自我简介，包括但不限于年龄、毕业院校、专业、学历、工作经历。</li>
+<li>对岗位的认知和理解。</li>
+<li>竞聘优势条件：政治素质、业务能力、工作态度。</li>
+<li>上岗后的目标和设想。</li>
+</ol>
+</li>
+<li>结尾：态度、展望</li>
+</ol>
+</li>
+<li>结束语：感谢、祝福。</li>
+<li>落款：署名和日期。</li>
+</ol>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -791,706 +1491,6 @@
 <p>结果是</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1*1的结果是1</span><br><span class="line">1*1的结果是1</span><br><span class="line">字符串在Python中的类型名是：&lt;class &#x27;str&#x27;&gt;</span><br></pre></td></tr></table></figure>
 <h4 id="数据输入"><a href="#数据输入" class="headerlink" title="数据输入"></a>数据输入</h4>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《应用文写作》笔记</title>
-    <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
-<p>前言：本文是由Ding在大学课程“应用文写作”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h3 id="文体知识"><a href="#文体知识" class="headerlink" title="文体知识"></a>文体知识</h3><ol>
-<li>一般文章类：记叙文、议论文、说明文。</li>
-<li>文学作品类：诗歌、散文、小说、戏剧。</li>
-<li>应用(实用)文类：日用文、专用文。</li>
-</ol>
-<h3 id="应用问的产生和发展"><a href="#应用问的产生和发展" class="headerlink" title="应用问的产生和发展"></a>应用问的产生和发展</h3><ul>
-<li><strong>产生</strong><ol>
-<li>仓颉造字，以代结绳。</li>
-<li>我国最早的文章是应用文</li>
-<li>最早的应用文是“<a href="https://baike.baidu.com/item/%E7%94%B2%E9%AA%A8%E5%8D%9C%E8%BE%9E/1778149">甲骨卜辞</a>”</li>
-<li>我国最早的应用文集是《<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">尚书</a>》</li>
-<li>第一个把应用文作为文体提出的是清代的<a href="https://baike.baidu.com/item/%E5%B0%9A%E4%B9%A6/6297">刘熙载</a>。</li>
-</ol>
-</li>
-<li><strong>发展</strong><ol>
-<li>*<strong>先秦</strong>；萌芽期</li>
-<li><strong>秦——清</strong>；形成发展期</li>
-<li><strong>清后</strong>；繁荣期</li>
-</ol>
-</li>
-</ul>
-<h3 id="应用文特点"><a href="#应用文特点" class="headerlink" title="应用文特点"></a>应用文特点</h3><ul>
-<li><strong>实用性</strong></li>
-<li><strong>规范性(格式性)</strong></li>
-<li><strong>真实性</strong></li>
-<li><strong>时效性</strong></li>
-<li><strong>广泛性</strong></li>
-<li><strong>确定性(对象)</strong></li>
-</ul>
-<h3 id="应用文种类"><a href="#应用文种类" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>公文类</li>
-<li>事务文书</li>
-<li>经济文书</li>
-<li>职场文书</li>
-<li>科技文书</li>
-<li>宣传文书</li>
-<li>法律文书</li>
-</ol>
-<h3 id="应用文种类-1"><a href="#应用文种类-1" class="headerlink" title="应用文种类"></a>应用文种类</h3><ol>
-<li>主旨(鲜明，集中)</li>
-<li>材料(真实，典型)</li>
-<li>结构(严谨，完整)</li>
-<li>语言(简明，朴实，庄重)</li>
-</ol>
-<h3 id="应用文表达方式"><a href="#应用文表达方式" class="headerlink" title="应用文表达方式"></a>应用文表达方式</h3><ul>
-<li><strong>记叙</strong></li>
-<li><strong>描写</strong></li>
-<li><strong>说明</strong></li>
-<li><strong>议论</strong></li>
-<li><strong>抒情</strong></li>
-</ul>
-<h3 id="补充知识"><a href="#补充知识" class="headerlink" title="补充知识"></a>补充知识</h3><ol>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E9%80%A0%E5%AD%97%E6%B3%95?fromModule=lemma_search-box">汉字造字法</a><ul>
-<li>象形法</li>
-<li>指事法</li>
-<li>会意法</li>
-<li>形声法</li>
-<li>转注法(辅助)</li>
-<li>假借法(辅助)</li>
-</ul>
-</li>
-<li><a href="https://baike.baidu.com/item/%E6%B1%89%E5%AD%97%E5%8F%91%E5%B1%95%E5%8F%B2/296648">汉字发展历程</a><ul>
-<li>甲骨文（商）→金文（周）→大篆(秦)→小篆（秦）→隶书（汉）→楷书（魏晋）→行书。</li>
-</ul>
-</li>
-</ol>
-<h2 id="事务文书写作"><a href="#事务文书写作" class="headerlink" title="事务文书写作"></a><a href="https://baike.baidu.com/item/%E4%BA%8B%E5%8A%A1%E6%96%87%E4%B9%A6/7105361">事务文书</a>写作</h2><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><ol>
-<li>计划的别称：规划、设想、要求、纲要、方案、安排、打算</li>
-<li>特点<ul>
-<li>预见性</li>
-<li>针对性</li>
-<li>可行性</li>
-<li>约束性</li>
-</ul>
-</li>
-<li>三要素：目标、措施、步骤</li>
-<li>写法<ul>
-<li>标题：单位（个人）名称+时限+内容+文种 <blockquote>
-<p>例：《清华大学2015年度工作计划》</p>
-</blockquote>
-</li>
-<li>正文：<ul>
-<li>前言：目的、依据、指导思想、任务要求。</li>
-<li>主体：做什么——怎么做——什么时候完成<ul>
-<li>目标任务：做什么（明确）</li>
-<li>方法实施：怎么做（具体）</li>
-<li>时间步骤：什么时候完成（清楚）</li>
-</ul>
-</li>
-<li>结尾：希望、要求</li>
-</ul>
-</li>
-<li>落款：单位（个人）名称+日期</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>如果说要策划一场活动，那么应该包括以下几点：</p>
-<ol>
-<li>活动名称</li>
-<li>活动主题</li>
-<li>活动时间、地点</li>
-<li>活动内容</li>
-<li>活动形式</li>
-<li>活动参加人员负责人</li>
-<li>活动经费来源、预算 </li>
-<li>策划单位、日期</li>
-</ol>
-</blockquote>
-<ol start="5">
-<li>作业：写一份活动策划方案（内容不限）,要求内容清晰层析，层次分明，结构完整。<blockquote>
-<p>示例(仅供参考)<img src="/img/%E6%B4%BB%E5%8A%A8%E7%AD%96%E5%88%92%E6%96%B9%E6%A1%88.png" alt="勇攀高峰”——XX 大学秋季爬山活动详细策划案"></p>
-</blockquote>
-</li>
-</ol>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ol>
-<li>定义：对过去工作的回顾、分析、评定</li>
-<li>特点：<ul>
-<li>自我性</li>
-<li>概括性</li>
-<li>实践性</li>
-</ul>
-</li>
-<li>种类<ul>
-<li>如果从实际工作的角度看，总结可归结为三大类：一是汇报工作的全面总结，二是介绍经验或揭露问题的专题总结，三是个人的思想、工作、学习总结。如按不同标准可划分以下几类。<ul>
-<li><p>按性质分：有全面总结和专题总结。</p>
-</li>
-<li><p>按内容分：有工作总结、学习总结、思想总结、事故总结、活动总结等。</p>
-</li>
-<li><p>按时间分：有年度总结、季度总结、月份总结等。</p>
-</li>
-<li><p>按范围分：有个人总结、班组总结、单位总结、部门总结、地区总结等。</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>总结的写法<ul>
-<li>总结的格式与计划相同，都由标题、正文、落款三部分构成。<ul>
-<li>标题：总结的标题有公文式标题、文章式标题或双标题</li>
-<li>正文：<ul>
-<li>前言部分：一般应简单概述总结的内容、背景、目的等。常见的开头方式有概述式、提示式、结论式、问题式。</li>
-<li>主体部分：总结主体部分的结构形式主要有条目式、三段式、分块式、漫谈式。</li>
-<li>结尾部分：总结的结尾简单写写存在的主要问题，表一下决心，或展望前景，说明今后的打算与设想。</li>
-</ul>
-</li>
-<li>落款：在正文右下方署名，单位总结一般名称在标题中出现，文尾可不写。日期写在署名下。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<blockquote>
-<p>总结写作要求： </p>
-<ol>
-<li>态度要端正，内容要真实<br>  总结的目的是要从对过去的工作回顾与思考中，寻找成功的经验和失败的教训，以指导今后的工作，因此，应当客观、全面、辩证地分析事物，从中得出科学的结论。切不可喜功好大，言过其实，弄虚作假。</li>
-<li>重点要突出，点面要结合<br>  总结必须占有充足的材料，才能使内容充实，但不能像“流水账”那样，罗列现象，没有重点。总结要突出重点内容，有点有面，点面结合才具有说服力。</li>
-<li>思路要清晰，层次要分明<br>  总结一般较长，因此必须思路清晰，最好有一根主线贯穿全文，让人把握核心。层次也要分明，不可一塌糊涂。</li>
-</ol>
-</blockquote>
-<h2 id="职场文书"><a href="#职场文书" class="headerlink" title="职场文书"></a>职场文书</h2><p>随着我国市场经济的不断发展与完善，我国的就业方式已由过去的单向选择转变为目前的单位与职工都有的双向选择。大中专毕业生或待业人员在寻找职业时，就需要求职类的应用文。随着社会竞争的日趋激烈，人们在工作中面临着竞岗和离岗等考验，这时也需要就职类应用文。总之，在现代社会写好求职类和就职类应用文是职业人必备的基本功之一。</p>
-<h3 id="求职信"><a href="#求职信" class="headerlink" title="求职信"></a>求职信</h3><ol>
-<li>在当今人才竞争激烈的社会，大中专毕业生或待业人员，要想赢得就业的机会，就必须善于向用人单位宣传、推荐自己，这就需要撰写求职信、应聘信并附上个人简历、毕业生登记表和有关证件复印件等内容，用人单位通过这些材料，了解求职人的基本情况，在现代社会写好求职信和应聘信是职业人必备的基本功之一。</li>
-</ol>
-<blockquote>
-<p>在这里补充一下书信知识，书信分为一般书信（例如家书、情书）、社交书信（慰问信、祝贺信）、专用书信（介绍信、求职信）。格式一般包括标题、称呼、问候语、正文、祝贺语、署名、日期。<br>区分对联上下联的方法<br>对联是中国传统文化中的一种文学形式，通常由两句话组成，分别称为上联和下联。它们在字数、对仗、意义上都要求相匹配。区分对联的上下联通常有以下几种方法：</p>
-<ol>
-<li><strong>尾字声调</strong>：在传统的对联中，上联的最后一个字通常是仄声（即第三声或第四声），而下联的最后一个字则是平声（即第一声或第二声）。</li>
-<li><strong>时间顺序</strong>：如果对联中涉及到时间的先后，通常时间在前的为上联，时间在后的为下联。</li>
-<li><strong>空间顺序</strong>：如果对联中涉及到空间的上下、内外、远近等，通常按照空间的逻辑顺序排列，如从外到内、从上到下等。</li>
-<li><strong>逻辑关系</strong>：根据对联的逻辑关系，上联往往是提出问题或者描述现象，下联则是回答问题或者进一步阐释。</li>
-<li><strong>字数多少</strong>：在一些对联中，上联的字数可能比下联多，但这并不是一个普遍的规则。</li>
-<li><strong>横批</strong>：如果对联有横批，那么横批下的第一个字所在的联就是上联。</li>
-<li><strong>张贴位置</strong>：在张贴对联时，上联通常贴在右边（面向门时），下联贴在左边。</li>
-<li><strong>内容含义</strong>：有时上联和下联的内容含义也能帮助区分，比如上联可能是一个引子或者背景介绍，下联则是主题或者高潮。</li>
-<li><strong>书写习惯</strong>：在书写对联时，上联通常从右往左写，下联从左往右写。</li>
-<li><strong>特定场合</strong>：在某些特定的节日或场合，对联的内容和顺序也有特定的规定。<br>通过这些方法，通常可以较为准确地区分对联的上下联。不过，由于对联的创作非常灵活，有时也可能会遇到一些特殊情况，需要结合具体的对联内容和背景来确定。’</li>
-</ol>
-</blockquote>
-<ol start="2">
-<li><p>求职信的特点</p>
-<ol>
-<li>自荐性</li>
-<li>针对性</li>
-<li>竞争性</li>
-</ol>
-</li>
-<li><p>求职信的写法</p>
-<ol>
-<li>标题：正中间写“求职信”（或者应聘信、自荐信）</li>
-<li>称呼：标题下定格写用人单位或领导名称（例如“XXX公司经理”）</li>
-<li>问候语：在第二行空两格写“您好！”</li>
-<li>正文：<ol>
-<li>开头：写求职信的缘由，目标，自我简介</li>
-<li>主体：思想品行，学习能力（主修课程），专业水平，爱好特长、实习情况、获奖情况。</li>
-<li>结尾：决心、展望</li>
-</ol>
-</li>
-<li>祝福语：“此致”空两格写，“敬礼”顶格写。</li>
-<li>署名、日期：右下角写</li>
-<li>附件：个人简历、电话、证书复印件。</li>
-</ol>
-</li>
-</ol>
-<h3 id="个人简历"><a href="#个人简历" class="headerlink" title="个人简历"></a>个人简历</h3><blockquote>
-<p>随着社会的发展，人事制度的变革，使得职业选择的机会越来越多，范围越来越广，职业变更也越发频繁。在选择或变更职业之前，首先要做好的工作就是准备一份让用人单位产生注意力和发生兴趣，或能够获得人才交流中心人员的信任感或赞赏，从而把你推荐给用人单位的简历。<br>所谓简历，就是对自己的生活经历，包括学历、工作经历及相关成就等，有选择地、重点地加以概括、叙述的一种应用文书，也称个人简历或个人履历书。  有人称简历是职场“敲门砖”，一份妥当的简历，可以引起招聘单位的兴趣，为写作者赢得面试的机会。一般来说，任何一个单位公开招聘，都会收到很多简历，而大多数简历都是大同小异，招聘一方可能会视而不见。因此，简历的好坏是决定求职者能否得到所求职位的第一关。<br>个人简历除具有求职文书功能外，在现代社会，简历是人事档案的重要组成部分，也是考查干部、选拔任用人才等必须具备的一份重要资料。</p>
-</blockquote>
-<ol>
-<li>个人简历的种类<ol>
-<li>依据表达方式的不同，个人简历可分为表格式和叙述式。</li>
-<li>依据写作顺序的不同，个人简历可分为时间顺序型简历、职能型简历和组合型简历。</li>
-</ol>
-</li>
-<li>个人简历一般具备以下几个特点：<ol>
-<li>真实性</li>
-<li>目的性   </li>
-<li>完整性</li>
-<li>简明性</li>
-</ol>
-</li>
-<li>个人简历写法</li>
-</ol>
-<blockquote>
-<p>不同类型的简历，写作格式不尽相同。通常情况下，简历可由标题、正文、落款三个部分组成。</p>
-</blockquote>
-<ol>
-<li>标题<br>个人简历的标题，可以写成个人简历、简历、个人履历书，也可以在它们的前面加上写作者的名字，如：张扬个人简历。</li>
-<li>正文<ol>
-<li>个人基本情况</li>
-<li>学习经历(大学或大专主修课)</li>
-<li>工作经历（社团活动、实践学习）</li>
-<li>个人技能（专业水平能力、其他能力）</li>
-<li>爱好特长</li>
-<li>获奖情况</li>
-<li>求职意向</li>
-<li>自我评定</li>
-<li>联系方式<br>3、落款</li>
-</ol>
-</li>
-</ol>
-<blockquote>
-<p>个人简历的写作要求</p>
-<ol>
-<li>内容真实客观<br>在简历写作中，个人的基本情况与学习、工作等经历，以及各项优势特长等必须如实记写，绝不能弄虚作假，编造学历、资历来欺骗用人单位。用人单位会层层把关，多方考核。求职者若作假，一旦真相大白，不仅不能被录用，写作者的品质也必将大打折扣。<br>一些人力资源部经理一再告诫大家，求职简历一定要按照实际情况填写，任何虚假的内容都不要写。一位经理说，即使有的人靠含有水分的简历得到了面试的机会，但面试时也会露出马脚。企业选人都非常慎重，自己当年应聘时过了9道关，而弄虚作假是过不了一轮又一轮的面试关的。</li>
-<li>突出具体优势<br>写作个人简历，亮出你最吸引人的优点。<br>撰写简历要把握对方为什么要考虑让你到他们公司来担任这个职务?你如何能帮助他们解决问题?也就是要根据求职目标突出自身优势，即完成本职工作所具备的学识、能力、专长或者已取得的成就，并且尽可能用事实和数字加以说明，如在校主修专业课程的成绩、竞赛中获得的奖项、专业实习成绩、工作实践成果等，进而让用人单位清楚地认识你所具备的求职、任职资格。</li>
-<li>表述简洁明了<br>作为求职文书使用的个人简历，在写作时应力求简洁明了，没有必要将自己的所有经历都一一地表述出来，篇幅尽量压缩在1～2页纸以内（Ａ4纸），最好1页就能说明问题，关键是要能最大限度地反映出自身所具有的求职优势。</li>
-<li>语言文字准确<br>个人简历写作者在表述自己学识、能力、经验时，语言要准确，既不夸大自己的能力，也不必过分自谦，而要实事求是，使人阅后确信所写内容与写作者的实际相符。文字书写要准确，人事部门相关人士会认为写错别字的求职者文化素质不高，或做事马虎大意。<br>每到招聘时，一个企业或单位，尤其是大型企业或单位，每次都会收到很多份简历，工作人员不可能都仔细阅读，一般一份简历只用１分钟就看完了，最多不超过３分钟。</li>
-<li>递交简历的技巧<br>在企业招聘会现场给企业递交简历时，要选择人不是很多、很乱时候，要多争取跟用人单位聊聊，增加对方的印象，最好能让对方把你的简历做上重点标注，否则你的简历极有可能被淹没在一堆竞争者的简历中。</li>
-</ol>
-</blockquote>
-<h3 id="竞聘书"><a href="#竞聘书" class="headerlink" title="竞聘书"></a>竞聘书</h3><ol>
-<li>竞聘书的含义</li>
-</ol>
-<ul>
-<li>是竞聘者为了实现竞争上岗，在竞聘会议上面对评审者和听众发表</li>
-<li>展露自我具有足够条件的专用演说类文书，也叫竞聘演讲稿、竞聘报告或讲话稿。大至竞选总统，小到竞聘上岗，都要用这种讲话稿。在我国，随着竞争上岗的普遍实行，竞聘讲话稿的写作越来越显得重要。</li>
-</ul>
-<ol start="2">
-<li>竞聘书作用</li>
-</ol>
-<ul>
-<li>竞聘书既是竞聘者对自身素质的评价，也是人事部门和群众了解竞聘者情况的渠道。它既为择优选聘提供依据，也有利于竞聘者自身素质的提高，同时也是组织人事部门用以考核干部的重要档案材料。</li>
-</ul>
-<ol start="3">
-<li>竞聘书特点<ul>
-<li>明确性</li>
-<li>集中性</li>
-<li>竞争性</li>
-<li>实用性</li>
-<li>程序性</li>
-<li>准确性</li>
-</ul>
-</li>
-<li>竞聘书写法<ol>
-<li>标题<ul>
-<li>文种式</li>
-<li>公文式</li>
-<li>文章式</li>
-</ul>
-</li>
-<li>称呼：评委、听众。</li>
-<li>问候语：“大家好！”</li>
-<li>正文：<ol>
-<li>开头：交代身份、竞聘缘由、目标等<br> 2.主体<ol>
-<li>自我简介，包括但不限于年龄、毕业院校、专业、学历、工作经历。</li>
-<li>对岗位的认知和理解。</li>
-<li>竞聘优势条件：政治素质、业务能力、工作态度。</li>
-<li>上岗后的目标和设想。</li>
-</ol>
-</li>
-<li>结尾：态度、展望</li>
-</ol>
-</li>
-<li>结束语：感谢、祝福。</li>
-<li>落款：署名和日期。</li>
-</ol>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《数控车床与加工工艺》笔记</title>
-    <url>/2024/09/04/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A%E4%B8%8E%E5%8A%A0%E5%B7%A5%E5%B7%A5%E8%89%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="数控车床与加工工艺"><a href="#数控车床与加工工艺" class="headerlink" title="数控车床与加工工艺"></a>数控车床与加工工艺</h1><blockquote>
-<p>前言：本文是由Ding在大学课程“数控车床与加工工艺”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。</p>
-</blockquote>
-<h2 id="基础认知"><a href="#基础认知" class="headerlink" title="基础认知"></a>基础认知</h2><h3 id="数控车床简述"><a href="#数控车床简述" class="headerlink" title="数控车床简述"></a>数控车床简述</h3><ul>
-<li>概述参考<a href="https://baike.baidu.com/item/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A/3205">数控车床（百度百科）</a></li>
-</ul>
-<h3 id="数控车床型号"><a href="#数控车床型号" class="headerlink" title="数控车床型号"></a>数控车床型号</h3><blockquote>
-<p>数控车床型号表示方法遵守GB&#x2F;T15375-2008《金属切削机床 型号编制方法》，由字母及一组数字组成。例如数控车床代号CK6140含义如下:</p>
-</blockquote>
-<ul>
-<li>CK6140<ol>
-<li>“C”表示车床</li>
-<li>“K”表示数控</li>
-<li>“6”表示落地及卧式车床组</li>
-<li>“1”表示卧式车床系</li>
-<li>“40”表示床身最大回转直径（400mm）的1&#x2F;10</li>
-</ol>
-</li>
-<li>5085<ol>
-<li>“50”表示床身最大回转直径（500mm）的1&#x2F;10</li>
-<li>“85”表示最大加工长度（850mm）的1&#x2F;10</li>
-</ol>
-</li>
-</ul>
-<h3 id="数控机床分类"><a href="#数控机床分类" class="headerlink" title="数控机床分类"></a>数控机床分类</h3><ol>
-<li>按照数控系统分类<ul>
-<li>Funuc(日)</li>
-<li>西门子(德)</li>
-<li>华中(中)</li>
-<li>广数(中)</li>
-<li>凯恩帝(中)</li>
-</ul>
-</li>
-<li>按照主轴系统分类<ul>
-<li>立式</li>
-<li>卧式<ul>
-<li>水平导轨式</li>
-<li>倾斜导轨式</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<h3 id="数控车床用途（加工范围）"><a href="#数控车床用途（加工范围）" class="headerlink" title="数控车床用途（加工范围）"></a>数控车床用途（加工范围）</h3><ul>
-<li>数控车床是使用较为广泛的 数控机床 之一。 它主要用于 轴类零件 或盘类零件的内外圆柱面、任意锥角的内外圆锥面、复杂回转内外曲面和圆柱、圆锥螺纹等切削加工，并能进行切槽、 钻孔 、扩孔、铰孔及镗孔等。</li>
-</ul>
-<h3 id="数控车床主要系统"><a href="#数控车床主要系统" class="headerlink" title="数控车床主要系统"></a>数控车床主要系统</h3><ul>
-<li>Funuc(日)</li>
-<li>西门子(德)</li>
-<li>华中(中)</li>
-<li>广数(中)</li>
-<li>凯恩帝(中)</li>
-</ul>
-<h3 id="数控车五大指令"><a href="#数控车五大指令" class="headerlink" title="数控车五大指令"></a>数控车五大指令</h3><ol>
-<li>G表示：准备功能。</li>
-<li>M表示：辅助功能。</li>
-<li>S表示：主轴功能。</li>
-<li>T表示：刀具功能。</li>
-<li>F表示：进给功能。</li>
-</ol>
-<blockquote>
-<p><strong>补充</strong><br>第一台数控机床：美国麻省理工学院在1952年研制出第一台带有控制器的三轴铣床，标志着世界上第一台数控机床的诞生。<br>中国第一台数控机床：1958年，北京第一机床厂与清华大学合作，试制出中国第一台数控机床——X53K1三坐标数控机床。</p>
-</blockquote>
-<h2 id="编程"><a href="#编程" class="headerlink" title="编程"></a>编程</h2><h3 id="五大指令"><a href="#五大指令" class="headerlink" title="五大指令"></a>五大指令</h3><h4 id="G（FUNUC）"><a href="#G（FUNUC）" class="headerlink" title="G（FUNUC）"></a>G（FUNUC）</h4><h5 id="FANUC-0iMate-TD系统与SINUMERIK828D系统常用G代码功能"><a href="#FANUC-0iMate-TD系统与SINUMERIK828D系统常用G代码功能" class="headerlink" title="FANUC 0iMate-TD系统与SINUMERIK828D系统常用G代码功能"></a>FANUC 0iMate-TD系统与SINUMERIK828D系统常用G代码功能</h5><table>
-  <tr>
-    <th>G代码</th>
-    <th>发那科系统含义</th>
-    <th>西门子系统含义</th>
-  </tr>
-  <tr>
-    <td>G00</td>
-    <td>快速点定位(快速移动)</td>
-    <td>快速点定位(快速移动)</td>
-  </tr>
-  <tr>
-    <td>G01</td>
-    <td>直线插补</td>
-    <td>直线插补</td>
-  </tr>
-  <tr>
-    <td>G02</td>
-    <td>顺时针圆弧插补</td>
-    <td>顺时针圆弧插补</td>
-  </tr>
-  <tr>
-    <td>G03</td>
-    <td>逆时针圆弧插补</td>
-    <td>逆时针圆弧插补</td>
-  </tr>
-  <tr>
-    <td>G04</td>
-    <td>暂停</td>
-    <td>暂停</td>
-  </tr>
-  <tr>
-    <td>G28</td>
-    <td>返回参考点</td>
-    <td>用G74表示返回参考点</td>
-  </tr>
-  <tr>
-    <td>G32</td>
-    <td>切削螺纹</td>
-    <td>用G33表示切削螺纹</td>
-  </tr>
-  <tr>
-    <td>G40</td>
-    <td>取消刀尖圆弧半径补偿</td>
-    <td>取消刀尖圆弧半径补偿</td>
-  </tr>
-  <tr>
-    <td>G41</td>
-    <td>刀尖圆弧半径左补偿</td>
-    <td>刀尖圆弧半径左补偿</td>
-  </tr>
-  <tr>
-    <td>G42</td>
-    <td>刀尖圆弧半径右补偿</td>
-    <td>刀尖圆弧半径右补偿</td>
-  </tr>
-  <tr>
-    <td>G70</td>
-    <td>精车复合循环</td>
-    <td rowspan="4">西门子毛坯循环用 CYCLE952</td>
-  </tr>
-  <tr>
-    <td>G71</td>
-    <td>粗车复合循环</td>
-  </tr>
-  <tr>
-    <td>G72</td>
-    <td>端面粗车复合循环</td>
-  </tr>
-  <tr>
-    <td>G73</td>
-    <td>固定形状粗车复合循环</td>
-  </tr>
-  <tr>
-    <td>G74</td>
-    <td>端面深孔钻削、端面车槽复合循环</td>
-    <td>回参考点</td>
-  </tr>
-  <tr>
-    <td>G75</td>
-    <td>径向沟槽复合循环</td>
-    <td>回固定点(西门子车槽循环用 CYCLE930、CYCLE940)</td>
-  </tr>
-  <tr>
-    <td>G76</td>
-    <td>螺纹切削复合循环</td>
-    <td>西门子螺纹切削复合循环用CYCLE99</td>
-  </tr>
-  <tr>
-    <td>G90</td>
-    <td>外圆(内孔)单一固定循环</td>
-    <td>绝对值编程</td>
-  </tr>
-  <tr>
-    <td>G92(重点)</td>
-    <td>螺纹切削单一循环</td>
-    <td>未指定</td>
-  </tr>
-  <tr>
-    <td>G96</td>
-    <td>主轴转速恒定切削速度</td>
-    <td>主轴转速恒定切削速度</td>
-  </tr>
-  <tr>
-    <td>G97</td>
-    <td>取消主轴恒定切削速度</td>
-    <td>取消主轴恒定切削速度</td>
-  </tr>
-  <tr>
-    <td>G98</td>
-    <td>每分钟进给量(mm/min)</td>
-    <td>未指定</td>
-  </tr>
-  <tr>
-    <td>G99</td>
-    <td>每转进给量(mm/r)</td>
-    <td>未指定</td>
-  </tr>
-</table>
-
-
-
-<h4 id="M"><a href="#M" class="headerlink" title="M"></a>M</h4><h5 id="FANUC-0i-Mate-和-SINUMERIK-828D-系统常用辅助功能指令及含义"><a href="#FANUC-0i-Mate-和-SINUMERIK-828D-系统常用辅助功能指令及含义" class="headerlink" title="FANUC 0i Mate 和 SINUMERIK 828D 系统常用辅助功能指令及含义"></a>FANUC 0i Mate 和 SINUMERIK 828D 系统常用辅助功能指令及含义</h5><table>
-<thead>
-<tr>
-<th>指令</th>
-<th>含义</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>M00</td>
-<td>程序停止</td>
-</tr>
-<tr>
-<td>M01</td>
-<td>计划停止</td>
-</tr>
-<tr>
-<td>M02</td>
-<td>程序结束</td>
-</tr>
-<tr>
-<td>M03</td>
-<td>主轴正转</td>
-</tr>
-<tr>
-<td>M04</td>
-<td>主轴反转</td>
-</tr>
-<tr>
-<td>M05</td>
-<td>主轴停</td>
-</tr>
-<tr>
-<td>M08</td>
-<td>切削液开</td>
-</tr>
-<tr>
-<td>M09</td>
-<td>切削液关</td>
-</tr>
-<tr>
-<td>M30</td>
-<td>程序结束</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>（必考）M02和M30的区别:<br>M02和M30都是程序结束的指令<br>但是M02指的是程序结束且光标停止在程序结束处，而M30指的是程序结束且光标跳转到程序开头。<br>M02是停止指令，完成工件加工程序段的所有指令后，使主轴、进给和冷却液停止，程序光标停在程序末尾。<br>M30是复位指令，完成停止动作后，重新复位，完成M02指令功能外，还使储存器中的加工程序返回到初始状态。 </p>
-</blockquote>
-<h4 id="S"><a href="#S" class="headerlink" title="S"></a>S</h4><ul>
-<li>不同材料加工转速</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>材料</th>
-<th>S转速（mm&#x2F;min）</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>钢（45#）、铁、铝</td>
-<td>S600——S1200</td>
-</tr>
-<tr>
-<td>不锈钢</td>
-<td>S300——S500</td>
-</tr>
-<tr>
-<td>尼龙</td>
-<td>1000以上</td>
-</tr>
-</tbody></table>
-<h4 id="T"><a href="#T" class="headerlink" title="T"></a>T</h4><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>对应刀具</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>T0101</td>
-<td>一号刀具（90度外圆车刀）</td>
-</tr>
-<tr>
-<td>T0202</td>
-<td>二号刀具（切刀）</td>
-</tr>
-<tr>
-<td>T0303</td>
-<td>三号刀具（螺纹刀）</td>
-</tr>
-<tr>
-<td>T0404</td>
-<td>四号刀具（35度偏刀）</td>
-</tr>
-</tbody></table>
-<h4 id="F"><a href="#F" class="headerlink" title="F"></a>F</h4><ul>
-<li>常用的进给速度单位一般是每转进给量(mm&#x2F;r),即G99</li>
-<li>常用的进给速度一般是F（0.1——0.3），最常用的一般是0.15。（这里是指每转进给量）<blockquote>
-<p>粗车和精车的区别<br>简单来说：</p>
-<ol>
-<li><strong>目的</strong>：粗车是为了快速去除材料，精车是为了提高精度和表面质量。</li>
-<li><strong>精度</strong>：粗车的精度较低，精车的精度较高。</li>
-<li><strong>切削用量</strong>：粗车使用较大的切削深度和进给量，精车使用较小的切削深度和进给量。</li>
-<li><strong>刀具</strong>：粗车刀具角度大，精车刀具角度小，更适合精细加工。</li>
-<li><strong>机床</strong>：粗车可以在普通机床上完成，精车则需要更精密的机床。</li>
-</ol>
-</blockquote>
-</li>
-</ul>
-<h3 id="编程-1"><a href="#编程-1" class="headerlink" title="编程"></a>编程</h3><blockquote>
-<p>从这里正式开始我们的编程部分</p>
-</blockquote>
-<h4 id="G00"><a href="#G00" class="headerlink" title="G00"></a>G00</h4><blockquote>
-<p>在发那科数控机床中，G00指令代表的是“快速定位”。这个指令用于控制数控机床在两个指定点之间以最高速度进行快速移动，而不进行任何加工操作。G00指令的主要作用是实现机床的快速移动，可以大大缩短加工时间。在数控加工过程中，机床需要在不同的加工点之间进行移动，而G00指令则提供了一种快速移动的方式。使用G00指令时，机床会以最大速度移动到目标位置，不进行切削或加工操作。这种快速移动有助于提高生产效率和机床的运行速度。简而言之，G00是一个用于快速定位的G代码指令，它使得机床能够迅速从一个位置移动到另一个位置，以提高加工效率。</p>
-</blockquote>
-<ul>
-<li><p><strong>格式</strong>：<code>G00 X(U)_ Z(W)_</code></p>
-<p>这里，<code>X(U)</code> 和 <code>Z(W)</code> 分别代表目标点的绝对坐标或相对坐标位移。其中，<code>X</code> 和 <code>Z</code> 表示目标点的绝对坐标，而 <code>U</code> 和 <code>W</code> 表示目标点相对于刀具当前位置的相对坐标位移。<code>X(U)</code> 表示坐标按直径输入。在使用G00指令时，需要注意以下几点：</p>
-<ol>
-<li>该指令使刀具按照点位控制方式快速移动到指定位置。移动过程中不得对工件进行加工。</li>
-<li>所有编程轴同时以参数所定义的速度移动，当某轴走完编程值便停止，而其他轴继续运动。</li>
-<li>不运动的坐标无须编程。</li>
-<li>G00可以写成G0。</li>
-</ol>
-</li>
-</ul>
-<p>例如，如果有一个指令 <code>G00 X75 Z200</code>，它将使刀具快速移动到X轴75单位，Z轴200单位的位置。这种快速移动不会对工件进行加工，且各轴以最大速度独立移动，直到达到指定位置。</p>
-<h4 id="GO1"><a href="#GO1" class="headerlink" title="GO1"></a>GO1</h4><blockquote>
-<p>在发那科数控机床中，G01指令代表的是“直线插补”。这个指令用于控制数控机床的刀具沿直线路径从一个点移动到另一个点，通常用于切削加工。以下是G01指令的一些关键特点：</p>
-<ol>
-<li><strong>直线移动</strong>：G01指令使刀具以直线方式移动到指定的坐标位置。</li>
-<li><strong>速度控制</strong>：G01指令允许通过F指令参数来设置进给速度或切削速度。</li>
-<li><strong>坐标系设置</strong>：在使用G01指令之前，需要确保正确设置了坐标系，以保证机床的坐标系与编程中的坐标系一致。</li>
-<li><strong>运动路径规划</strong>：在编写G01指令时，需要仔细规划运动路径，确保路径是安全、稳定和符合加工要求的。</li>
-<li><strong>坐标值准确性</strong>：在编写G01指令时，要确保输入的坐标值准确无误，错误的坐标值可能导致机床运动到错误的位置。</li>
-</ol>
-</blockquote>
-<ul>
-<li><strong>格式</strong>：<code>G01 X(U) Z(W) F</code><br>G01指令的格式通常为<code>G01 X(U) Z(W) F</code><ol>
-<li>其中X、Z为要求移动到的位置的绝对坐标值；</li>
-<li>U、W为要求移动到的位置的增量坐标值；</li>
-<li>F为进给速率，即刀具移动的速度。</li>
-<li>G01也可以写成G1。</li>
-<li>这个指令在数控加工中非常关键，因为它允许精确控制刀具的直线运动，从而实现精确的加工。</li>
-</ol>
-</li>
-</ul>
-<h4 id="GO2-GO3"><a href="#GO2-GO3" class="headerlink" title="GO2&amp;GO3"></a>GO2&amp;GO3</h4><blockquote>
-<p>在发那科数控机床中，G02和G03指令分别代表顺时针和逆时针方向的圆弧插补。</p>
-</blockquote>
-<ol>
-<li><p><strong>G02指令</strong>：代表顺时针方向圆弧插补（Clockwise）。使用G02指令时，刀具会沿着顺时针方向的圆弧路径从一个点移动到另一个点。</p>
-</li>
-<li><p><strong>G03指令</strong>：代表逆时针方向圆弧插补（Counter-Clockwise）。使用G03指令时，刀具会沿着逆时针方向的圆弧路径从一个点移动到另一个点。</p>
-</li>
-<li><p><strong>G02和G03的格式</strong>:</p>
-</li>
-</ol>
-<ul>
-<li>这两个指令格式都是一样的:<code>G02(G03)) X终点坐标 Y终点坐标 R圆弧半径 F进给速率</code></li>
-</ul>
-<h4 id="G92指令"><a href="#G92指令" class="headerlink" title="G92指令"></a>G92指令</h4><blockquote>
-<p>在发那科数控机床中，G92指令用于螺纹切削循环，它是一种简单螺纹循环指令，可以简化程序，用于切削加工圆柱螺纹和圆锥螺纹。</p>
-</blockquote>
-<ol>
-<li><p><strong>指令格式</strong>：<code>G92 X Z F</code></p>
-<ul>
-<li>X、Z：分别代表螺纹终点的绝对坐标。</li>
-<li>F：公制螺纹的螺距（单位：mm&#x2F;牙），必须为正数，默认值为1。</li>
-</ul>
-</li>
-<li><p><strong>功能</strong>：G92指令可以切削加工圆柱螺纹，通过简化程序减少编程的复杂性。</p>
-</li>
-</ol>
-<p>通过使用G92指令，可以在数控车床上高效、准确地进行螺纹加工。</p>
-]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
