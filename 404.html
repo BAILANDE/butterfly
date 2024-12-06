@@ -54,7 +54,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2024-12-06 20:30:37'
+  postUpdate: '2024-12-06 20:44:08'
 }</script><script>(win=>{
       win.saveToLocal = {
         set: (key, value, ttl) => {
@@ -162,8 +162,8 @@
     container: document.querySelector('.aplayer'),
     fixed: true,
     autoplay: false,
-    showlrc: 3,
-    lrcType: 0,
+    showlrc: true, // 显示歌词，确保此项为 true
+    lrcType: 3,   // 3 表示直接从 URL 加载 lrc 文件
     theme: '#e6d0b2',
     mode: 'circulation',
     preload: 'metadata',
@@ -175,14 +175,14 @@
         author: '古巨基',
         url: '/music/必杀技.mp3',
         pic: 'https://th.bing.com/th/id/R.a4ed605a30897480d5c94f68829f3e4d?rik=DWwrWVzyWYz8pQ&riu=http%3a%2f%2fp2.music.126.net%2fbGf_fKdDvqcxMroyYneb_A%3d%3d%2f109951167032763041.jpg&ehk=cFV0aIx7UERW2MnjTboU5%2fV%2bITxh%2fW60YPkBvCr4HWo%3d&risl=&pid=ImgRaw&r=0',
-        lrc: '/music/.lrc'
+        lrc: '/music/必杀技.lrc' // 确保路径正确
       },
       {
         title: 'hofd',
         author: '袁昊',
         url: '/music/hofd - 袁昊.mp3',
         pic: '/music/hofd - 袁昊.jpg',
-        lrc: '/music/hofd - 袁昊.lrc'
+        lrc: '/music/hofd - 袁昊.lrc' // 确保路径正确
       }
     ]
   });
