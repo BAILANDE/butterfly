@@ -12,15 +12,83 @@
       </tags>
   </entry>
   <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+    <title>password-generator(密码生成器)</title>
+    <url>/2024/09/19/password-generator/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
+<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
 </blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
+<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
+<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
+<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
+<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
+<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
+<li>password-generator分为两个版本<ul>
+<li>web版功能简单，使用方便</li>
+<li>pc版有备份功能，磁盘占用小</li>
+</ul>
+</li>
+</ul>
+<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
+<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
+<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
+<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
+<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
+</ul>
+<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
+<li><p>这个密码生成器的基本功能包括：</p>
+<ul>
+<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
+</li>
+<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
+</li>
+</ul>
+</li>
+<li><p>选择字符类型：</p>
+<ul>
+<li>小写字母</li>
+<li>大写字母</li>
+<li>数字</li>
+<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
+<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
+</ul>
+</li>
+<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
+</li>
+<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
+</li>
+</ol>
+<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
+
+<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
+<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
+<li>其他下载地址：<ul>
+<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
+</ul>
+</li>
+</ul>
+<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
+<li>与web版基本一致，只有以下两点差别：<ul>
+<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
+<li>有备份至github功能</li>
+</ul>
+</li>
+</ul>
+<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1Autoplay=0&muted=1" allowfullscreen></iframe>
+</div>
+
+<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
+<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
+</blockquote>
+<ul>
+<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
+</ul>
+<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
+<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
+<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
+</ul>
 ]]></content>
       <categories>
         <category>AI编程</category>
@@ -115,7 +183,7 @@
 </li>
 </ol>
 <div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1Autoplay=0" allowfullscreen></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1autoplay=0" allowfullscreen></iframe>
 </div>
 
 <ol start="3">
@@ -138,10 +206,6 @@
 </li>
 </ol>
 <p><a href="https://space.bilibili.com/1061641039">点击跳转此up主的主页</a><br><a href="https://www.bilibili.com/video/BV1dW4y1W7UT?t=60.2">点击跳转此视频主页</a></p>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=945485174&bvid=BV1dW4y1W7UT&cid=900689965&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
 <div class="video-container">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=945485174&bvid=BV1dW4y1W7UT&cid=900689965&p=1&autoplay=0" allowfullscreen></iframe>
 </div>
@@ -167,92 +231,6 @@
 </blockquote>
 <p>1. </p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>password-generator(密码生成器)</title>
-    <url>/2024/09/19/password-generator/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
-<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
-</blockquote>
-<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
-<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
-<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
-<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
-<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
-<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
-<li>password-generator分为两个版本<ul>
-<li>web版功能简单，使用方便</li>
-<li>pc版有备份功能，磁盘占用小</li>
-</ul>
-</li>
-</ul>
-<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
-<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
-<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
-<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
-<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
-</ul>
-<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
-<li><p>这个密码生成器的基本功能包括：</p>
-<ul>
-<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
-</li>
-<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
-</li>
-</ul>
-</li>
-<li><p>选择字符类型：</p>
-<ul>
-<li>小写字母</li>
-<li>大写字母</li>
-<li>数字</li>
-<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
-<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
-</ul>
-</li>
-<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
-</li>
-<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
-</li>
-</ol>
-<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
-
-<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
-<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
-<li>其他下载地址：<ul>
-<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
-</ul>
-</li>
-</ul>
-<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
-<li>与web版基本一致，只有以下两点差别：<ul>
-<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
-<li>有备份至github功能</li>
-</ul>
-</li>
-</ul>
-<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1Autoplay=0&muted=1" allowfullscreen></iframe>
-</div>
-
-<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
-<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
-</blockquote>
-<ul>
-<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
-</ul>
-<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
-<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
-<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
   </entry>
   <entry>
     <title>python学习笔记</title>
@@ -780,22 +758,21 @@
       </tags>
   </entry>
   <entry>
-    <title>名言收录</title>
-    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
-    <content><![CDATA[<h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
-<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
 </blockquote>
-<ol>
-<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
-</li>
-<li></li>
-</ol>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>AI编程</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
+        <tag>AI编程</tag>
       </tags>
   </entry>
   <entry>
@@ -818,28 +795,6 @@
       </categories>
       <tags>
         <tag>个人权益维护</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件安装目录</title>
-    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>实用</category>
-      </categories>
-      <tags>
-        <tag>实用</tag>
       </tags>
   </entry>
   <entry>
@@ -1152,6 +1107,25 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>名言收录</title>
+    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
+<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+</blockquote>
+<ol>
+<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
+</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -1522,6 +1496,28 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件安装目录</title>
+    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="debd79b97b7ac7a4c7671c361bcfa1145ed50df4d702bc19226db8fbb028e3cc">a5536f4338164362af310f4d7087da369081f04e02be203c8b657e0d3b84433b178536edc177c876e3e7a8d074a16dda064484e9f547eb4a19f6bc77180d82f9663d4dca61c3ad091e539196fc5212dd91e83e82fbfefd07c869b0e4b327d4bf40227528b8afa581098abb3c487f24088907bb03e6efc9fa95c083f928693be282878814e5ff0de8116a9ce6ad926c431728a25ceaf30410567813da392fe437578d3fa1d4d130ac25ab4274ad20afe906811e6fbb332334f2767fbc5822a7311738500ff85e99054b8545e998ce5026b46e3b2c8099c9769775d1c651c0e4d84e06262be3733d1e5a39134225af4edc86a3838f769714e3b456e6eaddfa624664d94510400660da218f90350c6700e32f711cfb68c46a57e43fdead3202a674db8b260910abe63f5054604a3c85db6424138e50f9984af25acd1892dc94062f03acc4c889838cef2e60222d69cb8f6ce936333cdad48a64cc905fa2f1a5c06844be932d604c6a697c71ca0c0ad58fd1c120c185c0eb13948b754e6d5f9d511a4a03775af8e3fbfe2a3d2fc61be0c67dbf51be5a0612b57accc79e0f310c5b1ae5ec5055f67f25339b1d0a07e0aaf3fc0d2cc8dc365c4cb430bdda5c9529d4ff5a78ad25f6b3124d504b41908c5ba519880ca1cefaad4b295bc7576a8fea4ad842c634e0276498fb6ce296151e0a95ffc79b492b4940432cc272147cdd8c2cfc366ecb36e8b3b96f9913a1f23a3e9ded3b1225a8cfebcc9e361563ef7e2ab8e6222a502cc807d265d0620339c15d847a210b5f942cceaad4cb502f32c1d2d1b157a357ae34e3c97199723094fdd24065e0c3d8d60e1f1b3046ec6124940ba463e1971fe4e063a109c9c0a426985d41453ea90d5c2d8d73c7d8d6018568a40e32b8312baf369bc5907dc7e8d9422d05a0289d748a90ccfbcb3143d0b6037765e3160d46142af24fae98f734cdde22192777e064ff9c2f7f7b1d91e873eb620cce09f4990edd7a87f8201319fad3b0777f8265cf26f3f2357010d2c5ccf4718ec3814b02c39eb9e33b960be165cdc858e6bcea434d9c2fc369cadfdf93977c95242c04cfb94f99996d03e6d3b226e0c1165092cd3d95264cbba73bfa0b028ee748937b360e588e7ba59d2bd93f8a81b8fc54ce50379aa06581795c2900aa864cdc6e72168b5b46981c233742178b1b4e8ddcb1ed08cbd94ea5661ba3c7899ac0799c715ef64cf530856c053caa7cfa3c7571652053a145ecb3ee3c892a1b90057af2255316f7821a18997db164fd1c961231c6a2945a66ad80a731c1a8b04e32368030a6b5d0efe2074712232479d2225f76dbf00ede3b76ae370933a7405e9755ca05a60e3e443c788fd842e6271433eb106508273bcea72bf6021c3424ca89c391b627bf33320f9e029aa058c509e2535132ed8da8d3b887839476b6fede3e548c8065043dbe35f522ebaba1d6a0365e509290080de964711569c31f410e85be035f21aed6173ae39ed9ef7af160aa41ba20c5fcd5074dbc0f09e5d7094826d855fd8650671d52bd97b8e140d8d04edbad0bb09905a6f11fffc75b7d1ad3f5a4fc90bd3b17e9ceaf5d4d5ad9b5a1599efeb5051bce3b08a724e11f1688fd06d6d139f3ea26c9e5b63617376aa29e90fdb4ebfa17cd019ab966368aa4a56aed5f06d06b5db37013625f712ca1b1feab0d65a444504bd92718f6dbc3c0a01839351a3845e6daafaf84ed29ebd0db1b8605ace4a1707024b1ce1eac634902bebbb2bfe5f9f043dcc72528b6e2d5b4b599617584682dac05bbb18852199bd62010b590f56a5acd36d3b5ae78f281a62a3719767fe55815ab76250ec45fc273afc57cf2e03273e5d18ca325612880f8fedceab40b12fe500ea0cec28bbc36f0c83c9c6b2f73224c11bae99845c4a6cd0cafa897bead4ba57be836bfcc2b966fee526a2c017c6f6302eeca376692d7a367f4b1015cb4bd02c07c096e79fcef11999a4a06ed5e3b94b390f1860bef7c7c206f16c792a1b7678460cd7ac5ace9233039b963286675eaed3da814801627c340521f774931c90aee7c31bedf10a8ca4754f89d71930da2f6a1a2e7626d5f8a625487031e177b9587dd2e7e43f6eeab11afc5facdafc0d67b3ca041aaae3493ffad00381e32cf583f8c5810a658ed5fdbc155623389665afd3216eceeecc893dcf62a1236d3b56baf44b2ef7b3ace9d13481b10005c873736b8c0b7d2f261b98847e28d32649d7f5ae6935986c689413e8f242f877014c0e6fd74ecb225fcea75fe6d121a41fe0d325af71f167b04d6e7ed010c0e94f54056a9589daac253b50d46c683d14a6f90a2e246c297231bb33b869c0ef7ba63dba4365502d70099da6d8b3ff2a3c083e8832401c1fee9c0f97f253908f7251de06bdad57624551d4dd0067cf7cc99eb2dd793ff1dc0c6840fc979b76b828853d5e9a8c995e1215ac9dfcaffd2816ffb9778508030d3d85c05e06515dcef68b8427b057672d9bad4a935106ecff8c6b8f4b4970817dc710e3d40277b7f071fbdc436369c288a26a5f7db84f1857c3f810aac7156990f0d58c572a42c4c5345b5b822a48e330f1519d459d48350578981fe5d46f97399ff367e948942057b82f25abaf6382936854f83301316df2b55edfc49798786dae1bfb419dc6f1760dd727d01be35b64ba940c585381f2342323d8e8082333a76e13c61b901d226e33b081f8c69a05860596d417053b557bee75709f9977f195a3a7de99817eba6bcf4be9adad577c26debbc18dc968b57cb10148fde3dce6ed601724d838cb3b1b2d2045ed1ad8691be0c6b414a10fd68c4c094a7e945fb6e0124d01840ba38ed2addd2ac435c37a53970bccfc68ccb1ca2fb8e895075bfc3c41df0259db8ac755ca2df0e237fa740fd124bd3c015a5973ed0578eb8bb2422cb833c6c26154e9a1c3c346eec4fca9cde9933ff2ac40cd48ce80c787ea799fd6cc8b7a55bc0665f68c99fce0de51780f05d993f595aab38e8b41dde85c082e8fb292f37826b119bdc88a6e2947638d76b5765e4478e4d34fb8509f71118d067e459c546f17bf23c7bacd1798e15ba8e23f197f1627b2548c57a5226cf0cd330f35386d469395286482c0d57f2984248d89d52e47a356a7b8957f9de6bf49bd022dd2a02620dda680da29862b3d71c190c04fc0654b9035ff679239bc1a9758b60ec15e1a60be63b9890362e6af534e55438d00c034d65573cdb456e0958cfcb1b42b34c2ed18d66f57d606cb50319e828d7f0d9d752f4da3a91a3d1a935dcf0cf16e07e1bb528f4ee10783b1b0dc589815788b68ac0a495747a57952a2d34274fef386ceaf6b05d7ed31b64f3dd3f6d11e93c0835605697a58c2a95efc58ebc641ec7012ca786a180487e5d3e60ebc66c5f2c8f6623fdc3b22b0b850e8097760d66b1c6eb3a5225cee1a4c356c293cd16220daf10fc03616374ee889d39877fb3731a1fa4d2d71119438eb7d2d15f015f8eb91c8a5a3e5b0fe9917b93af4c5ec7d24f51cf464953b9a044280f63dbf26eff18693e472651387f83e7e9eba3298acb71e22fff6c093816565d332b0f511c1302586a8a9326e5ba7324f29d521a19a76ba8838c5f516bd50a2110ed17f399ebc6c275b0a4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>实用</category>
+      </categories>
+      <tags>
+        <tag>实用</tag>
       </tags>
   </entry>
 </search>
