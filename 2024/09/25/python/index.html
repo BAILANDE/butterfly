@@ -727,28 +727,11 @@
   }
 })()</script></div><div class="aplayer no-destroy" data-fixed="true" data-autoplay="false"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><style>
   .aplayer {
-    border-radius: 20px; /* 增加圆角 */
-    box-shadow: 0 4px 20px rgba(0,0,0,0.3); /* 增加阴影深度 */
-    background-color: #fff; /* 设置背景为白色 */
+    border-radius: 4px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.2);
+    background-color: #f9f9f9;
   }
-  .aplayer .aplayer-info {
-    font-size: 14px; /* 增加信息字体大小 */
-    color: #333; /* 设置信息字体颜色 */
-  }
-  .aplayer .aplayer-lrc {
-    font-size: 16px; /* 增加歌词字体大小 */
-    color: #666; /* 设置歌词字体颜色 */
-  }
-  .aplayer .aplayer-lrc-current {
-    color: #333; /* 设置当前行歌词颜色 */
-  }
-  .aplayer .aplayer-icon {
-    fill: #666; /* 设置图标颜色 */
-  }
-  .aplayer .aplayer-icon:hover {
-    fill: #333; /* 设置图标悬停颜色 */
-  }
-</style><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script> <script>
+</style><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script>
   const ap = new APlayer({
     container: document.querySelector('.aplayer'),
     fixed: true,
