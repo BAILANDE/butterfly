@@ -1,89 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>password-generator(密码生成器)</title>
-    <url>/2024/09/19/password-generator/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
-<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
-</blockquote>
-<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
-<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
-<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
-<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
-<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
-<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
-<li>password-generator分为两个版本<ul>
-<li>web版功能简单，使用方便</li>
-<li>pc版有备份功能，磁盘占用小</li>
-</ul>
-</li>
-</ul>
-<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
-<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
-<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
-<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
-<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
-</ul>
-<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
-<li><p>这个密码生成器的基本功能包括：</p>
-<ul>
-<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
-</li>
-<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
-</li>
-</ul>
-</li>
-<li><p>选择字符类型：</p>
-<ul>
-<li>小写字母</li>
-<li>大写字母</li>
-<li>数字</li>
-<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
-<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
-</ul>
-</li>
-<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
-</li>
-<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
-</li>
-</ol>
-<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
-
-<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
-<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
-<li>其他下载地址：<ul>
-<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
-</ul>
-</li>
-</ul>
-<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
-<li>与web版基本一致，只有以下两点差别：<ul>
-<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
-<li>有备份至github功能</li>
-</ul>
-</li>
-</ul>
-<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1&autoplay=0&muted=1" allowfullscreen></iframe>
-</div>
-
-<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
-<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
-</blockquote>
-<ul>
-<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
-</ul>
-<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
-<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
-<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
-</ul>
-]]></content>
+    <title>《产品三维造型与结构设计（UG）》测试内容</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="考试案例"><a href="#考试案例" class="headerlink" title="考试案例"></a>考试案例</h1><h2 id="案例一"><a href="#案例一" class="headerlink" title="案例一"></a>案例一</h2>]]></content>
       <categories>
-        <category>AI编程</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>AI编程</tag>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -222,14 +147,108 @@
 ]]></content>
   </entry>
   <entry>
-    <title>《产品三维造型与结构设计（UG）》测试内容</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="考试案例"><a href="#考试案例" class="headerlink" title="考试案例"></a>考试案例</h1><h2 id="案例一"><a href="#案例一" class="headerlink" title="案例一"></a>案例一</h2>]]></content>
+    <title>名言收录</title>
+    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
+<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+</blockquote>
+<ol>
+<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
+</li>
+<li></li>
+</ol>
+]]></content>
       <categories>
-        <category>学习笔记</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>password-generator(密码生成器)</title>
+    <url>/2024/09/19/password-generator/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
+<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
+</blockquote>
+<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
+<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
+<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
+<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
+<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
+<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
+<li>password-generator分为两个版本<ul>
+<li>web版功能简单，使用方便</li>
+<li>pc版有备份功能，磁盘占用小</li>
+</ul>
+</li>
+</ul>
+<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
+<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
+<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
+<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
+<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
+</ul>
+<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
+<li><p>这个密码生成器的基本功能包括：</p>
+<ul>
+<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
+</li>
+<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
+</li>
+</ul>
+</li>
+<li><p>选择字符类型：</p>
+<ul>
+<li>小写字母</li>
+<li>大写字母</li>
+<li>数字</li>
+<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
+<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
+</ul>
+</li>
+<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
+</li>
+<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
+</li>
+</ol>
+<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
+
+<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
+<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
+<li>其他下载地址：<ul>
+<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
+</ul>
+</li>
+</ul>
+<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
+<li>与web版基本一致，只有以下两点差别：<ul>
+<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
+<li>有备份至github功能</li>
+</ul>
+</li>
+</ul>
+<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1&autoplay=0&muted=1" allowfullscreen></iframe>
+</div>
+
+<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
+<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
+</blockquote>
+<ul>
+<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
+</ul>
+<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
+<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
+<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
       </tags>
   </entry>
   <entry>
@@ -255,22 +274,568 @@
       </tags>
   </entry>
   <entry>
-    <title>名言收录</title>
-    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
-<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
 </blockquote>
-<ol>
-<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
-</li>
-<li></li>
-</ol>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>AI编程</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>软件安装目录</title>
+    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="ae6dbfd17b4b195ec50dea81fb22e025f581abdca1fa71a6f0e2b0293c5f734d">a5536f4338164362af310f4d7087da3609128c47cd5f14e87b94fa7fc800f0f35d13ef96f5a1a294d8df9ce7dff538d67ee752a0c3ba915c41e1e2208c086ed747f4df3b3e002dbe25448d80a8144fc9e838636517da9e9b6aa83cb42244cb1df33b7fd5931dd54ce337f80f234a0c7b5187cb443081fa6c9e1090161b09ea2fcc651f3c35e782e6b2ba540c00123084f769e08044bc18272e7b96c14b89c0e72a3a9303d5c28062601311f1b307bb76ca7eae0130cae61491745c74d14795f393890c74e1b1fc2c31c64a6a941a6b7e8362dbd840221d0b8588e0480eb791526a1078be721f90985d841a2d4fff563661831d5c6a0251cf8421d07cba4d5a77870ca509bd5d42f451e1a70d52513e0ced0872aea934ea06695f68f49c4247af645f50f5a6f7f9474c1cd54fe82982fe0d066d1a03ed63339e1fee914d59f25b337ce906aad1deb394d900b26a7c027734eaaddd1d321de1c220fbc2be3dbbbbb312f8fcdb3aa615eaf9882943a7af837c9969d39b777294e2bc844d7f8e8630762514dc326a48e52e34c234f6ef4c2aa274667408d7e14dba99e7f068ce1aa05024d86adc8948809e02feea3c24fcfb91f25e3abd6c1e15f2bb6b2f36233185a0a3219558357a4bb8bc4f02cbd0caffb8301c42e36f5f497bb8ebdba37f0749515bc7515debf2361dd5d853e0cb64bcbe714970425623fd47f82dd77df27d775143bc715ef44a22767588cd2a2d6246edc523c1da49be8d4dcd76b3c126f4681af862429569bc441596cdb5ca0fcddbda18c83f49990bc534c987374930ccd442acd2962614534169529a1031648e831d27cbee0a583fce2cf1973943655b2da4477ab18787cee57cadd2455007a82035662532aaeb8d9e8a724d562dd77e5fd186437628f0786fd05cd47346f5d1bb453ceba0d58e7544d84114c90cd12800b7111e06bd20e3340aff9939ce9e1630f2e02bfca002e97b116831952ef2ed6d3b831a205174ae5c0565e82f7894448d7227a7d2934a6f3ce15b169be4f1d28c0a1d9628db401813ac609813a5fa9821f03633f6b8fe6a790b9ad86c0a01f473fa28c5594f0bf89b59434dce56a83a75f51251b3b83cb2e0b262e8292779562a6af34fac1791ead7f2c5614fafc1b368a345ac07a564df16f52e776d80835d548389524f32ce773fdc492450ad2ab91f33566f888a1c642a818a1b2c0c840bad93b0623017971676a3c0e4b722d8acdf3d406127ca376937d23360f638dc5880cfc4bf579efc391329e0fc7bd7f3ec269b46bad8d3233a3b2376b2f466f109c43e8f5d98db38dd16e7ebc55716345629db395dd399c0a7adf5675f7c4b6b388cf32db18897f1f5306a36ec5532f7e6ed5c9cd3c03c8af3f3e11594c19b78acb06964c5c3601686269afb4525d72d13cab3c85c6167183331011f91c982613a0f5c92a0f290c7624ed56f183e9dd672ceb298fd60ddabbf994c9409b6187814019ca9a9f4578258e1e98a11158a7f1a78687dc30d9858040c3b69310d31f88fdc1c5a98d7f71648646003b86049aab6c4fabe16a6067d643f640a1e9cc970c668312fdfa7b5899887f14a12a087647b85962b73bad4bb17f6c6bd42826d0770bc3ef172277f442979f404c6b5c182cdcc9f48b88fe94ce40727903150b052895ffe636b3919696e77c24bcabd1042d12edc5ea48bfe1a58759bece020f4bc28401d4457a66cf8e35371911400b126acae406656c80866748ebcb5ccd663083b9184afe5bf33724858121f9dbfb94649c6c770fe2c1d5942393a55d3af79046ba7e152ec87249282867edbeeb840c290871b637b15527dc8008dbff0a95bc971bb39a6423fcd545319007672630ae197c2609aa2eb9110abd43dc458e455bfe1d4467140ea04d7679ebe49a89401e7c3950b51b2573efc325db1b4f5dc9f79d4f1355f012547d840588ddc95a4a6f9fe5542dbe11c02987ea7bc34f66818c85853575939e1662c1d1faf187f4fcc8b094f1b3961118fc0062f2571538fc9ba48c2e5c68c9b044a67e266c06f8a89e64a2469a7001057549442631e9348641929dcdb16afab5c0b73d1b55cf0e18e18135010f90764bad025529f30fe61ed077b5386f155ec930772c6909a4edb1860d8ad5ffdfa8cb397190289a1c62f0ba295e95992651add211017185b8a116ded67d4fea4b53ed23583bfa3d509dd4d6838ff44348e44cfc61ee8232ca9a9c78c9587dc48adcbe45990cd01b13c5d29d178e917892632fce71e3eb0b8ec904d50cf433eac47a87de6dd2028860865997beaf099e263c7671dce60e6470e9677fbac16bed92ef628da381f037b9d1e8034dc5f32077483099e1cdf2d45fddd58a5be002919b6a723d3ef0ba521dc480bceff73bc2001d57ab102242c91e0c81e8e4e8bf8e4a424715d9e7c75f375378dfe1b22c4b4834236aa6cbeb5f38aa281b7c95c0515a891d34a5d7222367cace5303e2528247590d7426a887f4987f16d457a556965751c02d08c26cba6c61ca9bbfee8671953fcad5ba1838645be3fc98edd2602a8662f70ebcb74695c48047a83ffc09599730475ddac2e5dcc6b81b0257fdb694ba5cbc9099563b82549adcd64898693eac1aef87091f22add06faa6e1d6e50212c67a53d3d73bf4199c115fa63a04ec479d1f281ae405928753b8fa9d01177eebe2e9424ebf550ff5c083fcf51d714dba1a2e06542942dab9352bf9c555e4e732cc0043e7a8f8dc73c8b8861e9869992fdd49a448a707a3bb120480dee8a96a986ed304cdad0ed1a6461b69b2b154392b1afd0092f08d6c0031bb1291dec10a2cf45c4e6cccd6414b45e45e709956374ec2e30690bb95637c2787b8ff0931837e7f60988c77fff0fa66ed121a274b6343b453146626c0f86f0eba62f93481908efe09b03eaa006287181806f12dd33245c26037f203b2f07002413c9292cc3303e6f539c993535eb6c675c8dc6527b4ff83d787f1a53aa4d02597154ff9df12a66af90996fdd6c2937e256876baed56d9c465caa62268f048ce265e90a8834da081b22967a4d6bd32282908a4396943e5d85e981631a56f5e83db6e077463a0275d45315b4549e8c72e95fc130050d858ea57dada28db407a30e3829e21ede49d1eb9ec065a5a4a1be3726e7e6a454afaa71cc2b992f8163439c3c549ec35962fe7ef5451bcfc99837e33313f5fab3bc3e26db9d41b525e045476eb79958e558e23415a2354e511b19e8eaf96d25d2e04cc6f923a7aead73b2c793d06146364f4cfcbe7a62fbfd39f234da3ddca78809aefcf35cf382d35ce7e6db38f7927e21ff66234cff7c2b07ecc259a327dc14faa074d545f9da3f3f725e25b3df5737e9582742fb122310cbe85a589717c9e9736515f66344fcb6a3b97d80a33c9e2b7e56d956da8cb31e92375318cd4eba80fd51d140ed5bc0d1bea0633356835d68e7bc191f266dc2904a8e22edd51f1b6aa01a86508dd497319b68bab20e676240f7761a46552ca5e9046d269a51b9d3bc647cb75fee847fd44bf28d996de316c736d197c8d9e994f826eea3925f52a8da11a63462e2b3a8b6147310377771743ad9e08d138f0b37c13ce025ac80fbd295d5a623c9aec5bf1c6bb9d81c277a8cc4302560189affc1cfc685a2a34d938fa32a4e651b4c13b185c51d2bc71d93909f293fe5202084863b9983ce7b7a0194183249a30842b29f88c59ca0f68ca0277db5f474c5a3b35e7074f6f694211a96f564a0122ec741412e9d48200cab9eb275bf7ed8ec9bff38ea16ef83cb5109f02569b99b49e90688664c3d53426706687df1c23f5628ce8518470d9bda7d6268fc2c62438ba2f5b2246b2f97bbd0c8a27ce85ca2d12f343643f97f66df6a5d9511d656e869815c2de29c7c835e6d618f4d39ea28d00cb2650dbdbe956b2f23c580c6471ecb6fde3b36b6e2ebb332f347f545b831411dbe6969a7da8041cd877dc86f624dcc29d60c8cbbd7a73a17e59f3c83d18a115818855e01456355cb6f1d113f9f0fd090fe00eb7cc5224be6521bb8d45a75c3c667f30a2512d9e2a5df2d1c68a2adf2eafa9cc1245c5be6fc58991</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>实用</category>
+      </categories>
+      <tags>
+        <tag>实用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>python学习笔记</title>
+    <url>/2024/09/25/python/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><blockquote>
+<p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之&gt;旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
+</blockquote>
+<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
+<p>解释一下为什么学习python：</p>
+<ol>
+<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
+</li>
+<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
+</li>
+<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
+</li>
+<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
+</li>
+<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
+</li>
+<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
+</li>
+<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
+</li>
+<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
+</li>
+<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
+</li>
+<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
+</li>
+<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
+</li>
+<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
+</li>
+<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
+</li>
+<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
+</li>
+</ol>
+<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
+<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
+<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
+<li><a href="https://www.python.org/">python官网</a></li>
+</ul>
+<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
+<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
+<ol>
+<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
+<ul>
+<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+</ul>
+</li>
+<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
+<ul>
+<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+</ul>
+</li>
+<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
+<ul>
+<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
+</ul>
+</li>
+<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
+</ul>
+</li>
+<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
+<ul>
+<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
+</ul>
+</li>
+<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
+<ul>
+<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
+<ul>
+<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
+</ul>
+</li>
+<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
+<ul>
+<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
+</ul>
+</li>
+<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
+</ul>
+</li>
+<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
+<ul>
+<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
+</li>
+<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
+</li>
+<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
+</li>
+<li><p>对于刚开始接触Python的新手来说，首要任务是熟悉Python的开发环境配置以及安装一个合适的集成开发环境（IDE）。以下是一些建议：</p>
+<ol>
+<li><p><strong>安装Python</strong>：</p>
+<ul>
+<li>首先，访问Python的官方网站下载适合您操作系统的Python版本。</li>
+<li>安装Python时，确保勾选了“Add Python to PATH”选项，这样可以在命令行中方便地调用Python。</li>
+</ul>
+</li>
+<li><p><strong>配置环境</strong>：</p>
+<ul>
+<li>验证安装是否成功，可以在命令行中输入<code>python --version</code>或<code>python3 --version</code>来检查Python的版本。</li>
+<li>了解如何创建和激活虚拟环境，这对于管理不同项目的依赖非常有用。</li>
+</ul>
+</li>
+<li><p><strong>选择IDE</strong>：</p>
+<ul>
+<li>选择一个功能强大且易于使用的IDE，如PyCharm、Visual Studio Code（VSCode）、Eclipse（配合PyDev插件）等。</li>
+<li>安装IDE，并熟悉其基本功能，如代码高亮、自动补全、代码调试等。</li>
+</ul>
+</li>
+<li><p><strong>设置IDE</strong>：</p>
+<ul>
+<li>在IDE中配置Python解释器，确保它指向了正确安装的Python版本。</li>
+<li>探索和安装必要的插件或扩展，以增强IDE的功能。</li>
+</ul>
+</li>
+<li><p><strong>编写Hello World</strong>：</p>
+<ul>
+<li>在IDE中创建您的第一个Python脚本，编写经典的“Hello, World!”程序，并运行它以验证环境配置是否正确。</li>
+</ul>
+</li>
+<li><p><strong>寻求帮助</strong>：</p>
+<ul>
+<li>如果在配置环境或安装IDE时遇到问题，不要犹豫，寻求社区的帮助或查阅相关文档。</li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>记住，一个舒适且功能齐全的开发环境是高效编程的基础。花时间正确设置您的环境，将有助于您更顺利地开始Python学习之旅。如果您遇到困难或不确定如何进行，请参考bilibili up主 **<a href="https://www.bilibili.com/video/BV1jgWLeREbp?t=288.3">年年吃布饱的视频</a>**（点击此处精准空降原视频）。</p>
+</li>
+<li><p>视频作者主页: <strong><a href="https://space.bilibili.com/3546660779068014">点此跳转</a></strong></p>
+</li>
+</ul>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113004884527853&bvid=BV1jgWLeREbp&cid=500001658178767&p=1Autoplay=0" allowfullscreen></iframe>
+</div>
+
+<ul>
+<li><p>对于刚开始学习编程的新手来说，<strong>免费的PyCharm社区版（PyCharm Community Edition）</strong>已经足够满足基本的编程需求。</p>
+<ul>
+<li><a href="https://www.jetbrains.com/pycharm/download/?section=windows">下载PyCharm社区版</a></li>
+</ul>
+</li>
+<li><p>在阅读了前面的介绍之后，您对Python已经有了初步的认识。现在，让我们正式踏上Python的学习之旅。</p>
+</li>
+<li><p>为了使您的编程体验更加流畅，您可以先对PyCharm进行一些优化设置，以确保它更加符合您的工作习惯，例如</p>
+<ul>
+<li>设置所需快捷键。<ul>
+<li>ctrl+向上滚动滚轮为字体放大</li>
+<li>ctrl+向下滚动滚轮为字体缩小</li>
+<li>………………</li>
+</ul>
+</li>
+<li>配置所需插件<ul>
+<li>汉化包（帮助我们更好的使用PyCharm）</li>
+<li>翻译插件（帮助我们理解英文代码和注释）</li>
+</ul>
+</li>
+<li>设置自己喜欢的主题</li>
+</ul>
+</li>
+</ul>
+<h2 id="python，从此处开始"><a href="#python，从此处开始" class="headerlink" title="python，从此处开始"></a>python，从此处开始</h2><h3 id="python基础语法"><a href="#python基础语法" class="headerlink" title="python基础语法"></a>python基础语法</h3><h4 id="字面量"><a href="#字面量" class="headerlink" title="字面量"></a>字面量</h4><ol>
+<li><p>字面量的含义：在代码中被写下来的、固定的值。称之为字面量</p>
+</li>
+<li><p>常见字面量的类型<br>目前先了解整数、浮点数、字符串即可</p>
+</li>
+<li><p>基于print语句完成各类字面量的输出</p>
+</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="number">666</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="number">13.14</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<h4 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h4><p>在程序代码中，对代码进行解释说明的文字确实被称为注释，这些注释不会被系统执行。根据你的描述，我们可以将注释分为以下两种：</p>
+<ol>
+<li><p><strong>单行注释</strong>：</p>
+<ul>
+<li>这是最常见的注释方式，通常用于解释代码中的某一行或几行。</li>
+<li>单行注释以特定的符号开始，比如在Python中是 <code>#</code>。</li>
+<li>单行注释仅对紧随其后的一行代码有效。</li>
+</ul>
+<p>示例（Python）：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 这是一个单行注释</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)  <span class="comment"># 这行代码会打印 &quot;Hello, World!&quot;</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>注：一般建议”#”和注释内容之间用空格隔开</li>
+</ul>
+</li>
+<li><p><strong>多行注释</strong>：</p>
+<ul>
+<li>多行注释用于跨越多行的解释说明。</li>
+<li>在某些语言中，可以使用特定的多行注释语法，而在Python中，通常使用三个连续的单引号 <code>&#39;&#39;&#39;</code> 或双引号 <code>&quot;&quot;&quot;</code> 来创建多行字符串，虽然它们主要用于文档字符串（docstrings），但也可以用来创建多行注释。</li>
+<li>多行注释可以包含在代码块的开始处，用于解释整个函数、类或模块。</li>
+</ul>
+<p>示例（Python）：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">这是一个多行注释</span></span><br><span class="line"><span class="string">可以跨越多行</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure></li>
+</ol>
+<p>在实际编程中，注释的使用应该简洁明了，避免冗余，同时确保它们能够为代码的阅读者提供有价值的信息。此外，注释应该随着代码的更新而更新，以保持代码的准确性和可维护性。</p>
+<h4 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h4><ul>
+<li>变量：在程序运行时，能够存储计算结果或能表示值的抽象概念，简单的说，变量就是在程序运行时，记录数据用的。</li>
+<li>变量的定义格式<ul>
+<li>变量名 &#x3D; 变量值</li>
+<li>每个变量都有自己的名称，称之为“变量名”，即变量本身。</li>
+<li>每个变量都有自己存储的值（内容），称之为“变量值”。</li>
+<li>“&#x3D;”表示赋值，将右侧的值赋予左侧的变量。</li>
+</ul>
+</li>
+<li>需注意，变量的值<strong>是可以发生改变的</strong>，下面是一个示例</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 初始化变量money，表示钱包中的初始金额</span></span><br><span class="line">money = <span class="number">50</span></span><br><span class="line"><span class="comment"># 打印初始金额，单位是人民币</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br><span class="line"><span class="comment"># 购买一个汉堡，花费10元人民币，从钱包中减去10元</span></span><br><span class="line">money = money-<span class="number">10</span>  </span><br><span class="line"><span class="comment"># 打印购买汉堡后的剩余金额</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>拓展：</p>
+<ol>
+<li>print语句如何输出多份内容？<br>   答：使用”,”隔开，例如：   <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(内容<span class="number">1</span>,内容<span class="number">2</span>, 内容<span class="number">3</span>)</span><br></pre></td></tr></table></figure></li>
+<li>python如何使用加减乘除？<br>   答：+（加）、-（减）、*（乘）、&#x2F;（除）</li>
+</ol>
+</blockquote>
+<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4><ul>
+<li><p>在之前的学习中，我们了解到数据是有类型的，目前的学习我们主要接触三类数据类型。</p>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>描述</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>string</td>
+<td>字符串类型</td>
+<td>有引号引起来的数据都是字符串</td>
+</tr>
+<tr>
+<td>int</td>
+<td>整型（有符号）</td>
+<td>数字类型，存放整数 如-1，10,20,0等</td>
+</tr>
+<tr>
+<td>float</td>
+<td>浮点型（有符号）</td>
+<td>数字类型，存放小数 如1.3，-3.4,20.24等</td>
+</tr>
+</tbody></table>
+</li>
+<li><p>那么问题来了，怎么判断数据的类型呢？这里我们有三种方法：</p>
+<ol>
+<li>在print语句中，直接输出类型信息。</li>
+<li>用变量存储type()的结果（返回值）。</li>
+<li>使用type()语句查看变量中存储的数据类型。<ul>
+<li><strong>这里要注意，变量是没有类型的，我们查看的是变量存储的数据类型</strong></li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 1.在print语句中，直接输出类型信息(方法1)</span><br><span class="line"></span><br><span class="line"># 打印字符串 &quot;hello，world&quot; 的数据类型</span><br><span class="line">print(type(&quot;hello，world&quot;))  # 输出: &lt;class &#x27;str&#x27;&gt;</span><br><span class="line"># 打印整数 2024 的数据类型</span><br><span class="line">print(type(2024))  # 输出: &lt;class &#x27;int&#x27;&gt;</span><br><span class="line"># 打印浮点数 20.24 的数据类型</span><br><span class="line">print(type(20.24))  # 输出: &lt;class &#x27;float&#x27;&gt;</span><br><span class="line"></span><br><span class="line"># 2.用变量存储type()的结果(方法2)</span><br><span class="line"></span><br><span class="line"># 获取字符串 &quot;hello world&quot; 的数据类型</span><br><span class="line">A = type(&quot;hello world&quot;)</span><br><span class="line"># 获取整数 2024 的数据类型</span><br><span class="line">B = type(2024)</span><br><span class="line"># 获取浮点数 20.24 的数据类型</span><br><span class="line">C = type(20.24)</span><br><span class="line"># 打印字符串 &quot;hello world&quot; 的数据类型，结果将是 &lt;class &#x27;str&#x27;&gt;</span><br><span class="line">print(A)</span><br><span class="line"># 打印整数 2024 的数据类型，结果将是 &lt;class &#x27;int&#x27;&gt;</span><br><span class="line">print(B)</span><br><span class="line"># 打印浮点数 20.24 的数据类型，结果将是 &lt;class &#x27;float&#x27;&gt;</span><br><span class="line">print(C)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># 3.使用type()语句查看变量中存储的数据类型(方法3)</span><br><span class="line">D = &quot;hello world&quot;  # 定义一个字符串变量D</span><br><span class="line">F = type(D)  # 获取变量D的数据类型并赋值给变量F</span><br><span class="line">print(F)  # 打印变量F，即变量D的数据类型&lt;class &#x27;str&#x27;&gt;</span><br></pre></td></tr></table></figure>
+
+<h4 id="数据类型转换"><a href="#数据类型转换" class="headerlink" title="数据类型转换"></a>数据类型转换</h4><p>在特定场景下，数据类型之间是可以相互转换的，如字符串转数字，数字转字符串等。</p>
+<ol>
+<li><p>为什么要进行数据转换？</p>
+<ul>
+<li>从文件中读取的数字，默认是字符串，我们需要转换成数字类型</li>
+<li>后续学习的input()语句，默认结果是字符串，若需要数字也需要转换</li>
+<li>将数字转换成字符串用以写出到外部系统</li>
+<li>等等</li>
+</ul>
+</li>
+<li><p>示例代码</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 示例代码</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将字符串转换为整数</span></span><br><span class="line">string_number = <span class="string">&quot;2024&quot;</span></span><br><span class="line">integer_number = <span class="built_in">int</span>(string_number)</span><br><span class="line"><span class="built_in">print</span>(integer_number)  <span class="comment"># 输出: 2024</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将字符串转换为浮点数</span></span><br><span class="line">string_float = <span class="string">&quot;20.24&quot;</span></span><br><span class="line">float_number = <span class="built_in">float</span>(string_float)</span><br><span class="line"><span class="built_in">print</span>(float_number)  <span class="comment"># 输出: 20.24</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将整数转换为字符串</span></span><br><span class="line">int_number = <span class="number">2024</span></span><br><span class="line">string_from_int = <span class="built_in">str</span>(int_number)</span><br><span class="line"><span class="built_in">print</span>(string_from_int)  <span class="comment"># 输出: &quot;2024&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将浮点数转换为字符串</span></span><br><span class="line">float_number = <span class="number">20.24</span></span><br><span class="line">string_from_float = <span class="built_in">str</span>(float_number)</span><br><span class="line"><span class="built_in">print</span>(string_from_float)  <span class="comment"># 输出: &quot;20.24&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 示例：浮点数转整数丢失精度</span></span><br><span class="line">float_number = <span class="number">20.74</span></span><br><span class="line">int_from_float = <span class="built_in">int</span>(float_number)</span><br><span class="line"><span class="built_in">print</span>(int_from_float)  <span class="comment"># 输出: 20，小数部分丢失</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>常见的转换语句</p>
+</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>语句（函数）</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>int(x)</td>
+<td>将x转换为一个整数</td>
+</tr>
+<tr>
+<td>float(x)</td>
+<td>将x转换为一个浮点数</td>
+</tr>
+<tr>
+<td>str(x)</td>
+<td>将x转换为字符串</td>
+</tr>
+</tbody></table>
+<ol start="3">
+<li>注意事项<ul>
+<li>任何数据类型都可以转字符串</li>
+<li>字符串内必须有数字才能转换为数字</li>
+<li>浮点数转整数会丢失精度（小数部分）<br>和前面学习的type()一样，这三个语句是带有结果的（返回值），我们可以直接print输出结果或者用变量储存结果值。</li>
+</ul>
+</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h4 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h4><ol>
+<li>在python程序中，我们会给很多东西取名字，如<ul>
+<li>变量的名字</li>
+<li>方法的名字</li>
+<li>类的名字<br>等等，这些名字统一称之为标识符，用来做内容的标识。</li>
+</ul>
+</li>
+<li>标识符内容限定：只允许出现英文、数字、中文、下滑新（_）,其余任何元素都不被允许。</li>
+<li>命名规则（强制）<ul>
+<li>不推荐使用中文（中文支持并不完善，可能会有隐藏问题）</li>
+<li>数字不可以用作开头（硬性限制）</li>
+<li>区分大小写</li>
+<li>不可使用关键字，如False、True、and、in<br> is等等（同样区分大小写）</li>
+</ul>
+</li>
+<li>命名规范（不强制）<ul>
+<li>变量<ol>
+<li>有意义：变量名应该清晰地表达变量的用途或它所代表的数据类型。</li>
+<li>简洁：在表达清晰的前提下，使用最少的名字长度。</li>
+<li>下划线命名法：多个单词组合变量名，要使用下划线分割。</li>
+<li>英文字母全部小写。</li>
+</ol>
+</li>
+</ul>
+</li>
+<li><strong>请注意，不遵守命名规则会导致错误，而不遵守命名规范虽然不会引起错误，但会使代码的可读性和整洁度降低。</strong><br>下面是一份正确和错误的示例<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 错误示例</span></span><br><span class="line">1_name = <span class="string">&quot;老赵&quot;</span></span><br><span class="line">name_! = <span class="string">&quot;老李&quot;</span></span><br><span class="line"><span class="keyword">class</span> = <span class="number">1</span></span><br><span class="line"><span class="keyword">def</span> = <span class="number">1</span></span><br><span class="line"><span class="comment"># 正确示例</span></span><br><span class="line">name_ = <span class="string">&quot;老王&quot;</span></span><br><span class="line">_name = <span class="string">&quot;老孙&quot;</span></span><br><span class="line">_Name = <span class="string">&quot;老钱&quot;</span></span><br></pre></td></tr></table></figure></li>
+</ol>
+<h4 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h4><ol>
+<li>算数运算符<br>在python中，常用的数学运算符包括以下七种<table>
+<thead>
+<tr>
+<th>序号</th>
+<th>运算符</th>
+<th>描述</th>
+<th>示例</th>
+<th>结果</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td><code>+</code></td>
+<td>加法</td>
+<td><code>5 + 3</code></td>
+<td>8</td>
+</tr>
+</tbody></table>
+</li>
+</ol>
+<p>| 2    | <code>-</code>    | 减法           | <code>5 - 3</code>       | 2      |<br>| 3    | <code>*</code>    | 乘法           | <code>5 * 3</code>       | 15     |<br>| 4    | <code>/</code>    | 除法           | <code>5 / 3</code>       | 1.666… |<br>| 5    | <code>%</code>    | 求余数         | <code>5 % 3</code>       | 2      |<br>| 6    | <code>**</code>   | 幂运算         | <code>5 ** 3</code>      | 125    |<br>| 7    | <code>//</code>   | 整除           | <code>5 // 3</code>      | 1      |</p>
+<ol start="2">
+<li>赋值运算符<br>在Python中，赋值运算符用于将值赋给变量。基本的赋值运算符是 &#x3D;。<br>此外，还有一些复合赋值运算符，它们结合了数学运算和赋值操作。  <table>
+<thead>
+<tr>
+<th>序号</th>
+<th>运算符</th>
+<th>描述</th>
+<th>示例代码</th>
+<th>等效于</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td><code>=</code></td>
+<td>基本赋值</td>
+<td><code>x = 5</code></td>
+<td><code>x = 5</code></td>
+</tr>
+</tbody></table>
+</li>
+</ol>
+<p>| 2    | <code>+=</code>   | 加法赋值       | <code>x += 3</code>                  | <code>x = x + 3</code>             |<br>| 3    | <code>-=</code>   | 减法赋值       | <code>x -= 3</code>                  | <code>x = x - 3</code>             |<br>| 4    | <code>*=</code>   | 乘法赋值       | <code>x *= 3</code>                  | <code>x = x * 3</code>             |<br>| 5    | <code>/=</code>   | 除法赋值       | <code>x /= 3</code>                  | <code>x = x / 3</code>             |<br>| 6    | <code>%=</code>   | 取模赋值       | <code>x %= 3</code>                  | <code>x = x % 3</code>             |<br>| 7    | <code>**=</code>  | 幂运算赋值     | <code>x **= 3</code>                 | <code>x = x ** 3</code>            |<br>| 8    | <code>//=</code>  | 整除赋值      | <code>x //= 3</code>                 | <code>x = x // 3</code>            |</p>
+<p>示例代码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 数学运算符</span><br><span class="line">print(&quot;5+5=&quot;,5 + 5)</span><br><span class="line">print(&quot;5-5=&quot;,5 - 5)</span><br><span class="line">print(&quot;5*5=&quot;,5 * 5)</span><br><span class="line">print(&quot;5/5=&quot;,5 / 5)</span><br><span class="line">print(&quot;5%5=&quot;,5 % 5)</span><br><span class="line">print(&quot;5//5=&quot;,5//5)</span><br><span class="line"></span><br><span class="line"># 赋值运算符</span><br><span class="line">num = 1 + 2 * 4</span><br><span class="line">print(num) # 输出；9</span><br><span class="line"></span><br><span class="line"># 复合赋值运算符</span><br><span class="line"></span><br><span class="line"># 基本赋值</span><br><span class="line">x = 5</span><br><span class="line">print(x)  # 输出: 5</span><br><span class="line"></span><br><span class="line"># 加法赋值</span><br><span class="line">x += 3</span><br><span class="line">print(x)  # 输出: 8</span><br><span class="line"></span><br><span class="line"># 减法赋值</span><br><span class="line">x -= 2</span><br><span class="line">print(x)  # 输出: 6</span><br><span class="line"></span><br><span class="line"># 乘法赋值</span><br><span class="line">x *= 4</span><br><span class="line">print(x)  # 输出: 24</span><br><span class="line"></span><br><span class="line"># 除法赋值</span><br><span class="line">x /= 3</span><br><span class="line">print(x)  # 输出: 8.0</span><br><span class="line"></span><br><span class="line"># 取模赋值</span><br><span class="line">x %= 5</span><br><span class="line">print(x)  # 输出: 3</span><br><span class="line"></span><br><span class="line"># 幂运算赋值</span><br><span class="line">x **= 2</span><br><span class="line">print(x)  # 输出: 9</span><br><span class="line"></span><br><span class="line"># 整除赋值</span><br><span class="line">x //= 2</span><br><span class="line">print(x)  # 输出: 4.0</span><br></pre></td></tr></table></figure>
+
+<h4 id="字符串拓展内容"><a href="#字符串拓展内容" class="headerlink" title="字符串拓展内容"></a>字符串拓展内容</h4><h5 id="字符串三种定义方式"><a href="#字符串三种定义方式" class="headerlink" title="字符串三种定义方式"></a>字符串三种定义方式</h5><ol>
+<li>在Python编程语言中，我们通常认为用双引号（” “）包围的字符序列是字符串。然而，为了更精确地表达，我们应当注意到，实际上，无论是单引号（’ ‘）、双引号（” “）、还是三引号（””” “”” 或 ‘’’ ‘’’）包围的字符序列，都可以被视为字符串。</li>
+</ol>
+<p>例如</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 单引号定义法</span></span><br><span class="line">name = <span class="string">&#x27;张三&#x27;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(name))</span><br><span class="line"><span class="built_in">print</span>(name)</span><br><span class="line"></span><br><span class="line"><span class="comment">#双引号定义法</span></span><br><span class="line">name = <span class="string">&quot;李四&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(name))</span><br><span class="line"><span class="built_in">print</span>(name)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 三引号定义法（可以像注释一样可以换行）</span></span><br><span class="line">name = <span class="string">&quot;&quot;&quot;这里的文字可以换行，比如这是第一行</span></span><br><span class="line"><span class="string">这是第二行</span></span><br><span class="line"><span class="string">这是第三行</span></span><br><span class="line"><span class="string">在终端中他们分别占据一行</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(name))</span><br><span class="line"><span class="built_in">print</span>(name)</span><br></pre></td></tr></table></figure>
+
+<p>在终端中他们应该这样显示：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line">张三</span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line">李四</span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line">这里的文字可以换行，比如这是第一行</span><br><span class="line">这是第二行</span><br><span class="line">这是第三行</span><br><span class="line">在终端中他们分别占据一行</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p>那么就出现了一个问题， 如果<strong>要定义的字符串本身包括单引号或者双引号</strong>，怎么办呢？</p>
+<ol>
+<li>使用不同类型的引号：如果字符串本身包含单引号，可以使用双引号来定义字符串；反之亦然。</li>
+</ol>
+<ul>
+<li><p>示例代码</p>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name = <span class="string">&#x27;&quot;张三&quot;&#x27;</span></span><br><span class="line">name_1 = <span class="string">&quot;&#x27;李四&#x27;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(name,name_1,)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>结果应该是：</p>
+</li>
+</ul>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;张三&quot;</span> <span class="string">&#x27;李四&#x27;</span> </span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>转义字符：在字符串中，可以通过在引号前加上反斜杠 <strong>()</strong> 来转义引号，使其成为普通字符。</li>
+</ol>
+<ul>
+<li>例如打印如下文本：</li>
+</ul>
+<blockquote>
+<p>Mao Zedong said: “The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o’clock in the morning. The hope is placed upon you.”</p>
+</blockquote>
+<ul>
+<li>示例代码</li>
+</ul>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Mao Zedong said: &quot;The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o\&#x27;clock in the morning. The hope is placed upon you.&quot;&#x27;</span>)</span><br></pre></td></tr></table></figure>
+<p>  这里在o’clock的引号前加了一个 *<em>*</em> 把单引号变成普通字符，输出结果应该是</p>
+  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">Mao Zedong said: <span class="string">&quot;The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o&#x27;clock in the morning. The hope is placed upon you.&quot;</span></span><br></pre></td></tr></table></figure></li>
+</ul>
+<blockquote>
+<p>1957年11月，毛泽东同志在莫斯科大学发表“希望寄托在你们身上”著名讲话：<br>毛泽东说：“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。”<br>Mao Zedong said: “The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o’clock in the morning. The hope is placed upon you.”<br>来自<a href="https://www.youth.cn/">https://www.youth.cn</a></p>
+</blockquote>
+<p>2.总结<br>    1.字符串的三种定义方式：<br>    - 单引号方式<br>    - 双引号方式<br>    - 三引号方式<br>    2. 引号的嵌套<br>        - 可以使用：\来进行转义<br>         - 单引号内可以写双引号或双引号内可以写单引号</p>
+<h5 id="字符串拼接"><a href="#字符串拼接" class="headerlink" title="字符串拼接"></a>字符串拼接</h5><ol>
+<li>如果我们有两个字符串（文本）字面量，可以将其拼接成一个字符串，通过+号即可完成，如</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>（<span class="string">&quot;abc&quot;</span>+<span class="string">&quot;def&quot;</span>）</span><br></pre></td></tr></table></figure>
+
+<p>输出结果应该是：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">abcdef</span><br></pre></td></tr></table></figure>
+<ol start="2">
+<li>不过一般，单纯的2个字符串字面量进行拼接没什么意义，字面量和变量或变量和变量之间才会使用拼接，如：</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">A = <span class="string">&quot;libai&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;my name is &quot;</span> + A)</span><br></pre></td></tr></table></figure>
+<p>输出结果应该是：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">my name <span class="keyword">is</span> libai</span><br></pre></td></tr></table></figure>
+<ol start="3">
+<li>要注意，拼接操作无法和非字符串类型进行拼接。</li>
+</ol>
+<h5 id="字符串格式化"><a href="#字符串格式化" class="headerlink" title="字符串格式化"></a>字符串格式化</h5><ul>
+<li><p>在频繁使用字符串拼接的过程中，我们可能会遇到一些不便：</p>
+<ol>
+<li>当涉及的变量数量增多时，进行字符串拼接变得繁琐且容易出错。</li>
+<li>直接将字符串与其他数据类型（如数字）拼接时，会遇到类型不匹配的问题。</li>
+</ol>
+</li>
+<li><p>这里我们用另一种方法，使用”%s”。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;我今天上了%s节课&quot;</span> % <span class="number">10</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello%s&quot;</span> % <span class="string">&quot;world&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;%s年,%s专业平均月工资是%s&quot;</span> %(<span class="number">2024</span>,<span class="string">&quot;计算机&quot;</span>,<span class="string">&quot;八万&quot;</span>))</span><br></pre></td></tr></table></figure>
+<p>结果应该是</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">我今天上了<span class="number">10</span>节课</span><br><span class="line">helloworld</span><br><span class="line"><span class="number">2024</span>年,计算机专业平均月工资是八万</span><br></pre></td></tr></table></figure></li>
+<li><p>另外，我们也有其他的数据类型占位符，下面是一些常用的占位符，使用方法和%s一致。</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>格式符号</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>%s</td>
+<td>将内容转换成字符串，放入占位位置</td>
+</tr>
+<tr>
+<td>%d</td>
+<td>将内容转换成整数，放入占位位置</td>
+</tr>
+<tr>
+<td>%f</td>
+<td>将内容转换成浮点型，放入占位位置</td>
+</tr>
+</tbody></table>
+<h5 id="掌握格式化字符串的过程中做数字的精度控制"><a href="#掌握格式化字符串的过程中做数字的精度控制" class="headerlink" title="掌握格式化字符串的过程中做数字的精度控制"></a>掌握格式化字符串的过程中做数字的精度控制</h5><ul>
+<li><p>我们可以使用辅助符号”m.n”来控制数据的宽度和精度</p>
+<ul>
+<li>m，控制宽度，要求是数字（很少使用），设置的宽度小于数字自身，不生效</li>
+<li>n，控制小数点精度，要求是数字，会进行小数的四舍五入</li>
+</ul>
+</li>
+<li><p>m和n均可省略</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">num1 = <span class="number">23</span></span><br><span class="line">num2 = <span class="number">22.25</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今天我吃了%5d顿饭&quot;</span> % num1)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今天我花了%32.2f元&quot;</span> % num2)</span><br></pre></td></tr></table></figure>
+<p>结果是</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">今天我吃了   <span class="number">23</span>顿饭</span><br><span class="line">今天我花了                           <span class="number">22.25</span>元</span><br></pre></td></tr></table></figure>
+<p>这里有空格的原因是：num2不足32位，用空格补全。</p>
+</li>
+</ul>
+<h5 id="字符串格式化方式2"><a href="#字符串格式化方式2" class="headerlink" title="字符串格式化方式2"></a>字符串格式化方式2</h5><ul>
+<li>确实，使用 % 符号进行字符串格式化既方便又灵活，它还允许我们控制输出的精度。不过，除了这种方法，还有其他几种格式化字符串的方式可以考虑：<ul>
+<li>通过 <strong>f”内容{变量}”</strong> 来实现</li>
+</ul>
+</li>
+<li>这种方式有两个特点<ul>
+<li>不做精度控制</li>
+<li>不限数据类型</li>
+</ul>
+</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">num1 = <span class="number">23</span></span><br><span class="line">num2 = <span class="number">22.25</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;今天我吃了<span class="subst">&#123;num1&#125;</span>顿饭&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;今天我花了<span class="subst">&#123;num2&#125;</span>元&quot;</span>)</span><br></pre></td></tr></table></figure>
+<p>结果应该是</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">今天我吃了23顿饭</span><br><span class="line">今天我花了22.25元</span><br></pre></td></tr></table></figure>
+<h5 id="对表达式进行格式化"><a href="#对表达式进行格式化" class="headerlink" title="对表达式进行格式化"></a>对表达式进行格式化</h5><ol>
+<li>表达式定义：表达式：一条具有明确执行结果的代码语句。</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;1*1的结果是%d&quot;</span> % (<span class="number">1</span>*<span class="number">1</span>))</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;1*1的结果是<span class="subst">&#123;<span class="number">1</span>*<span class="number">1</span>&#125;</span>&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;字符串在Python中的类型名是：%s&quot;</span> % <span class="built_in">type</span>(<span class="string">&quot;字符串&quot;</span>))</span><br></pre></td></tr></table></figure>
+<p>结果是</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1*1的结果是1</span><br><span class="line">1*1的结果是1</span><br><span class="line">字符串在Python中的类型名是：&lt;class &#x27;str&#x27;&gt;</span><br></pre></td></tr></table></figure>
+<h4 id="数据输入"><a href="#数据输入" class="headerlink" title="数据输入"></a>数据输入</h4>]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -953,571 +1518,6 @@
       </categories>
       <tags>
         <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>python学习笔记</title>
-    <url>/2024/09/25/python/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><blockquote>
-<p>尽管作者并没有计算机专业的背景，也没有接受过正规的Python教育，但正是出于对编程的浓厚兴趣，驱使他开始了这段学习之&gt;旅。他的学习材料主要来源于网络资源和各种书籍。因此，笔记中的内容可能会显得有些分散，但作者正在努力将这些知识点整合起来，以便为读者提供一个更加流畅和连贯的学习体验。</p>
-</blockquote>
-<p><strong>笔记仅供参考，如有错误请在评论区指出或联系作者</strong></p>
-<p>解释一下为什么学习python：</p>
-<ol>
-<li><p><strong>易于上手</strong>：Python 的语法简洁明了，非常适合编程新手作为入门语言。</p>
-</li>
-<li><p><strong>应用广泛</strong>：Python 在 Web 开发、数据分析、人工智能、科学计算、自动化脚本和网络爬虫等多个领域都有广泛的应用。</p>
-</li>
-<li><p><strong>活跃的社区</strong>：Python 拥有一个非常活跃的社区，提供了大量的资源、工具和框架，以及解决问题的支持。</p>
-</li>
-<li><p><strong>丰富的库和框架</strong>：Python 拥有丰富的第三方库和框架，如 NumPy、Pandas、Django、Flask、TensorFlow 等，这些库简化了在各个领域的开发工作。</p>
-</li>
-<li><p><strong>数据科学和机器学习的首选</strong>：Python 是数据科学和机器学习领域的首选语言，它的强大数据处理能力和与数据可视化库的无缝集成使其备受青睐。</p>
-</li>
-<li><p><strong>跨平台兼容性</strong>：Python 是一种跨平台的语言，可以在 Windows、macOS 和 Linux 等多种操作系统上运行。</p>
-</li>
-<li><p><strong>编程范式的灵活性</strong>：Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，为开发者提供了灵活性。</p>
-</li>
-<li><p><strong>职业前景广阔</strong>：随着对 Python 开发者的需求不断增长，掌握 Python 技能可以开启更多的就业机会和更高的薪资待遇。</p>
-</li>
-<li><p><strong>自动化和脚本编写</strong>：Python 常用于编写自动化脚本，可以自动化日常任务，从而提高工作效率。</p>
-</li>
-<li><p><strong>教育领域的应用</strong>：许多教育机构和在线课程选择 Python 作为教学语言，因为它有助于学生更快地掌握编程概念。</p>
-</li>
-<li><p><strong>快速开发和原型设计</strong>：Python 的快速开发能力使其在快速原型设计和迭代开发中非常有用。</p>
-</li>
-<li><p><strong>云计算的广泛应用</strong>：Python 在 AWS、Azure 和 Google Cloud Platform 等云计算服务中也有广泛的应用。</p>
-</li>
-<li><p><strong>可扩展性</strong>：Python 程序可以轻松扩展，以处理更大的工作负载或更复杂的任务。</p>
-</li>
-<li><p><strong>开源和免费</strong>：Python 是开源的，这意味着它是免费使用的，并且有一个持续更新和改进的代码库。</p>
-</li>
-</ol>
-<p>总结来说，Python 的多功能性、易用性和强大的社区支持使其成为学习编程的理想选择。</p>
-<h2 id="python基本概述"><a href="#python基本概述" class="headerlink" title="python基本概述"></a>python基本概述</h2><ul>
-<li>参考<a href="https://baike.baidu.com/item/Python/407313?fromModule=disambiguation">百度百科</a></li>
-<li><a href="https://www.python.org/">python官网</a></li>
-</ul>
-<h2 id="python的IDE"><a href="#python的IDE" class="headerlink" title="python的IDE"></a>python的IDE</h2><ul>
-<li><p>以下是目前最强大的10个Python IDE，包括了它们的主要特点以及官方网站的链接：</p>
-<ol>
-<li><p><strong>PyCharm</strong>：由 JetBrains 开发，适合专业开发者，支持大型Python项目开发，有免费社区版和付费专业版。</p>
-<ul>
-<li>官网链接：<a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
-</ul>
-</li>
-<li><p><strong>Visual Studio Code</strong>：微软开发的轻量级但功能强大的编辑器，支持Python开发，可以通过安装扩展来增强功能。</p>
-<ul>
-<li>官网链接：<a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-</ul>
-</li>
-<li><p><strong>Sublime Text</strong>：高度可定制的代码编辑器，支持多种语言，包括Python，以其速度和灵活性而闻名。</p>
-<ul>
-<li>官网链接：<a href="https://www.sublimetext.com/">Sublime Text</a></li>
-</ul>
-</li>
-<li><p><strong>Atom</strong>：由GitHub开发的开源编辑器，可定制性强，支持Python开发。</p>
-<ul>
-<li>官网链接：<a href="https://atom-editor.cc/">Atom</a></li>
-</ul>
-</li>
-<li><p><strong>Jupyter Notebook</strong>：适合数据科学和交互式编程，支持多种编程语言，包括Python。</p>
-<ul>
-<li>官网链接：<a href="https://jupyter.org/">Jupyter Notebook</a></li>
-</ul>
-</li>
-<li><p><strong>Spyder</strong>：科学计算和数据分析的IDE，与Anaconda发行版捆绑，适合进行科学计算和数据分析。</p>
-<ul>
-<li>官网链接：<a href="https://www.spyder-ide.org/">Spyder IDE</a></li>
-</ul>
-</li>
-<li><p><strong>Eclipse with PyDev</strong>：Eclipse是一个开源的IDE，通过PyDev插件支持Python开发。</p>
-<ul>
-<li>官网链接：<a href="https://marketplace.eclipse.org/content/pydev-python-ide-eclipse">PyDev</a></li>
-</ul>
-</li>
-<li><p><strong>Wing IDE</strong>：提供强大的调试和代码分析工具，支持远程开发，适合专业开发者。</p>
-<ul>
-<li>官网链接：<a href="https://wingware.com/downloads">Wing IDE</a></li>
-</ul>
-</li>
-<li><p><strong>Vim</strong>：高度可配置的文本编辑器，通过插件支持Python开发，适合喜欢使用键盘的高级用户。</p>
-<ul>
-<li>官网链接：<a href="https://www.vim.org/">Vim</a></li>
-</ul>
-</li>
-<li><p><strong>Emacs</strong>：可扩展的、自定义的文本编辑器，支持Python编辑，适合喜欢深度定制自己编辑器的用户。</p>
-<ul>
-<li>官网链接：<a href="https://www.gnu.org/software/emacs/">Emacs</a></li>
-</ul>
-</li>
-</ol>
-</li>
-<li><p>这些IDE各有特点，适合不同需求和场景的Python开发。</p>
-</li>
-<li><p>我所使用的是PyCharm，PyCharm 是由 JetBrains 公司开发的一款流行的 Python 集成开发环境（IDE）。它被广泛认为是 Python 编程语言中最强大的 IDE 之一，特别适合进行大型项目的开发。PyCharm 提供了许多为 Python 开发设计的强大功能。</p>
-</li>
-<li><p>PyCharm分为两个版本：免费的 Community Edition 和付费的 Professional Edition。Community Edition 提供了基本的 Python 开发功能，而 Professional Edition 则提供了更多的企业级功能，如 Web 开发、数据库工具、远程开发等。</p>
-</li>
-<li><p>对于刚开始接触Python的新手来说，首要任务是熟悉Python的开发环境配置以及安装一个合适的集成开发环境（IDE）。以下是一些建议：</p>
-<ol>
-<li><p><strong>安装Python</strong>：</p>
-<ul>
-<li>首先，访问Python的官方网站下载适合您操作系统的Python版本。</li>
-<li>安装Python时，确保勾选了“Add Python to PATH”选项，这样可以在命令行中方便地调用Python。</li>
-</ul>
-</li>
-<li><p><strong>配置环境</strong>：</p>
-<ul>
-<li>验证安装是否成功，可以在命令行中输入<code>python --version</code>或<code>python3 --version</code>来检查Python的版本。</li>
-<li>了解如何创建和激活虚拟环境，这对于管理不同项目的依赖非常有用。</li>
-</ul>
-</li>
-<li><p><strong>选择IDE</strong>：</p>
-<ul>
-<li>选择一个功能强大且易于使用的IDE，如PyCharm、Visual Studio Code（VSCode）、Eclipse（配合PyDev插件）等。</li>
-<li>安装IDE，并熟悉其基本功能，如代码高亮、自动补全、代码调试等。</li>
-</ul>
-</li>
-<li><p><strong>设置IDE</strong>：</p>
-<ul>
-<li>在IDE中配置Python解释器，确保它指向了正确安装的Python版本。</li>
-<li>探索和安装必要的插件或扩展，以增强IDE的功能。</li>
-</ul>
-</li>
-<li><p><strong>编写Hello World</strong>：</p>
-<ul>
-<li>在IDE中创建您的第一个Python脚本，编写经典的“Hello, World!”程序，并运行它以验证环境配置是否正确。</li>
-</ul>
-</li>
-<li><p><strong>寻求帮助</strong>：</p>
-<ul>
-<li>如果在配置环境或安装IDE时遇到问题，不要犹豫，寻求社区的帮助或查阅相关文档。</li>
-</ul>
-</li>
-</ol>
-</li>
-<li><p>记住，一个舒适且功能齐全的开发环境是高效编程的基础。花时间正确设置您的环境，将有助于您更顺利地开始Python学习之旅。如果您遇到困难或不确定如何进行，请参考bilibili up主 **<a href="https://www.bilibili.com/video/BV1jgWLeREbp?t=288.3">年年吃布饱的视频</a>**（点击此处精准空降原视频）。</p>
-</li>
-<li><p>视频作者主页: <strong><a href="https://space.bilibili.com/3546660779068014">点此跳转</a></strong></p>
-</li>
-</ul>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113004884527853&bvid=BV1jgWLeREbp&cid=500001658178767&p=1Autoplay=0" allowfullscreen></iframe>
-</div>
-
-<ul>
-<li><p>对于刚开始学习编程的新手来说，<strong>免费的PyCharm社区版（PyCharm Community Edition）</strong>已经足够满足基本的编程需求。</p>
-<ul>
-<li><a href="https://www.jetbrains.com/pycharm/download/?section=windows">下载PyCharm社区版</a></li>
-</ul>
-</li>
-<li><p>在阅读了前面的介绍之后，您对Python已经有了初步的认识。现在，让我们正式踏上Python的学习之旅。</p>
-</li>
-<li><p>为了使您的编程体验更加流畅，您可以先对PyCharm进行一些优化设置，以确保它更加符合您的工作习惯，例如</p>
-<ul>
-<li>设置所需快捷键。<ul>
-<li>ctrl+向上滚动滚轮为字体放大</li>
-<li>ctrl+向下滚动滚轮为字体缩小</li>
-<li>………………</li>
-</ul>
-</li>
-<li>配置所需插件<ul>
-<li>汉化包（帮助我们更好的使用PyCharm）</li>
-<li>翻译插件（帮助我们理解英文代码和注释）</li>
-</ul>
-</li>
-<li>设置自己喜欢的主题</li>
-</ul>
-</li>
-</ul>
-<h2 id="python，从此处开始"><a href="#python，从此处开始" class="headerlink" title="python，从此处开始"></a>python，从此处开始</h2><h3 id="python基础语法"><a href="#python基础语法" class="headerlink" title="python基础语法"></a>python基础语法</h3><h4 id="字面量"><a href="#字面量" class="headerlink" title="字面量"></a>字面量</h4><ol>
-<li><p>字面量的含义：在代码中被写下来的、固定的值。称之为字面量</p>
-</li>
-<li><p>常见字面量的类型<br>目前先了解整数、浮点数、字符串即可</p>
-</li>
-<li><p>基于print语句完成各类字面量的输出</p>
-</li>
-</ol>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="number">666</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="number">13.14</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<h4 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h4><p>在程序代码中，对代码进行解释说明的文字确实被称为注释，这些注释不会被系统执行。根据你的描述，我们可以将注释分为以下两种：</p>
-<ol>
-<li><p><strong>单行注释</strong>：</p>
-<ul>
-<li>这是最常见的注释方式，通常用于解释代码中的某一行或几行。</li>
-<li>单行注释以特定的符号开始，比如在Python中是 <code>#</code>。</li>
-<li>单行注释仅对紧随其后的一行代码有效。</li>
-</ul>
-<p>示例（Python）：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 这是一个单行注释</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)  <span class="comment"># 这行代码会打印 &quot;Hello, World!&quot;</span></span><br></pre></td></tr></table></figure>
-<ul>
-<li>注：一般建议”#”和注释内容之间用空格隔开</li>
-</ul>
-</li>
-<li><p><strong>多行注释</strong>：</p>
-<ul>
-<li>多行注释用于跨越多行的解释说明。</li>
-<li>在某些语言中，可以使用特定的多行注释语法，而在Python中，通常使用三个连续的单引号 <code>&#39;&#39;&#39;</code> 或双引号 <code>&quot;&quot;&quot;</code> 来创建多行字符串，虽然它们主要用于文档字符串（docstrings），但也可以用来创建多行注释。</li>
-<li>多行注释可以包含在代码块的开始处，用于解释整个函数、类或模块。</li>
-</ul>
-<p>示例（Python）：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">这是一个多行注释</span></span><br><span class="line"><span class="string">可以跨越多行</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure></li>
-</ol>
-<p>在实际编程中，注释的使用应该简洁明了，避免冗余，同时确保它们能够为代码的阅读者提供有价值的信息。此外，注释应该随着代码的更新而更新，以保持代码的准确性和可维护性。</p>
-<h4 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h4><ul>
-<li>变量：在程序运行时，能够存储计算结果或能表示值的抽象概念，简单的说，变量就是在程序运行时，记录数据用的。</li>
-<li>变量的定义格式<ul>
-<li>变量名 &#x3D; 变量值</li>
-<li>每个变量都有自己的名称，称之为“变量名”，即变量本身。</li>
-<li>每个变量都有自己存储的值（内容），称之为“变量值”。</li>
-<li>“&#x3D;”表示赋值，将右侧的值赋予左侧的变量。</li>
-</ul>
-</li>
-<li>需注意，变量的值<strong>是可以发生改变的</strong>，下面是一个示例</li>
-</ul>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 初始化变量money，表示钱包中的初始金额</span></span><br><span class="line">money = <span class="number">50</span></span><br><span class="line"><span class="comment"># 打印初始金额，单位是人民币</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br><span class="line"><span class="comment"># 购买一个汉堡，花费10元人民币，从钱包中减去10元</span></span><br><span class="line">money = money-<span class="number">10</span>  </span><br><span class="line"><span class="comment"># 打印购买汉堡后的剩余金额</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;钱包还有：&quot;</span>, money, <span class="string">&quot;人民币&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>拓展：</p>
-<ol>
-<li>print语句如何输出多份内容？<br>   答：使用”,”隔开，例如：   <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(内容<span class="number">1</span>,内容<span class="number">2</span>, 内容<span class="number">3</span>)</span><br></pre></td></tr></table></figure></li>
-<li>python如何使用加减乘除？<br>   答：+（加）、-（减）、*（乘）、&#x2F;（除）</li>
-</ol>
-</blockquote>
-<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4><ul>
-<li><p>在之前的学习中，我们了解到数据是有类型的，目前的学习我们主要接触三类数据类型。</p>
-<table>
-<thead>
-<tr>
-<th>类型</th>
-<th>描述</th>
-<th>说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>string</td>
-<td>字符串类型</td>
-<td>有引号引起来的数据都是字符串</td>
-</tr>
-<tr>
-<td>int</td>
-<td>整型（有符号）</td>
-<td>数字类型，存放整数 如-1，10,20,0等</td>
-</tr>
-<tr>
-<td>float</td>
-<td>浮点型（有符号）</td>
-<td>数字类型，存放小数 如1.3，-3.4,20.24等</td>
-</tr>
-</tbody></table>
-</li>
-<li><p>那么问题来了，怎么判断数据的类型呢？这里我们有三种方法：</p>
-<ol>
-<li>在print语句中，直接输出类型信息。</li>
-<li>用变量存储type()的结果（返回值）。</li>
-<li>使用type()语句查看变量中存储的数据类型。<ul>
-<li><strong>这里要注意，变量是没有类型的，我们查看的是变量存储的数据类型</strong></li>
-</ul>
-</li>
-</ol>
-</li>
-</ul>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 1.在print语句中，直接输出类型信息(方法1)</span><br><span class="line"></span><br><span class="line"># 打印字符串 &quot;hello，world&quot; 的数据类型</span><br><span class="line">print(type(&quot;hello，world&quot;))  # 输出: &lt;class &#x27;str&#x27;&gt;</span><br><span class="line"># 打印整数 2024 的数据类型</span><br><span class="line">print(type(2024))  # 输出: &lt;class &#x27;int&#x27;&gt;</span><br><span class="line"># 打印浮点数 20.24 的数据类型</span><br><span class="line">print(type(20.24))  # 输出: &lt;class &#x27;float&#x27;&gt;</span><br><span class="line"></span><br><span class="line"># 2.用变量存储type()的结果(方法2)</span><br><span class="line"></span><br><span class="line"># 获取字符串 &quot;hello world&quot; 的数据类型</span><br><span class="line">A = type(&quot;hello world&quot;)</span><br><span class="line"># 获取整数 2024 的数据类型</span><br><span class="line">B = type(2024)</span><br><span class="line"># 获取浮点数 20.24 的数据类型</span><br><span class="line">C = type(20.24)</span><br><span class="line"># 打印字符串 &quot;hello world&quot; 的数据类型，结果将是 &lt;class &#x27;str&#x27;&gt;</span><br><span class="line">print(A)</span><br><span class="line"># 打印整数 2024 的数据类型，结果将是 &lt;class &#x27;int&#x27;&gt;</span><br><span class="line">print(B)</span><br><span class="line"># 打印浮点数 20.24 的数据类型，结果将是 &lt;class &#x27;float&#x27;&gt;</span><br><span class="line">print(C)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># 3.使用type()语句查看变量中存储的数据类型(方法3)</span><br><span class="line">D = &quot;hello world&quot;  # 定义一个字符串变量D</span><br><span class="line">F = type(D)  # 获取变量D的数据类型并赋值给变量F</span><br><span class="line">print(F)  # 打印变量F，即变量D的数据类型&lt;class &#x27;str&#x27;&gt;</span><br></pre></td></tr></table></figure>
-
-<h4 id="数据类型转换"><a href="#数据类型转换" class="headerlink" title="数据类型转换"></a>数据类型转换</h4><p>在特定场景下，数据类型之间是可以相互转换的，如字符串转数字，数字转字符串等。</p>
-<ol>
-<li><p>为什么要进行数据转换？</p>
-<ul>
-<li>从文件中读取的数字，默认是字符串，我们需要转换成数字类型</li>
-<li>后续学习的input()语句，默认结果是字符串，若需要数字也需要转换</li>
-<li>将数字转换成字符串用以写出到外部系统</li>
-<li>等等</li>
-</ul>
-</li>
-<li><p>示例代码</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 示例代码</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将字符串转换为整数</span></span><br><span class="line">string_number = <span class="string">&quot;2024&quot;</span></span><br><span class="line">integer_number = <span class="built_in">int</span>(string_number)</span><br><span class="line"><span class="built_in">print</span>(integer_number)  <span class="comment"># 输出: 2024</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将字符串转换为浮点数</span></span><br><span class="line">string_float = <span class="string">&quot;20.24&quot;</span></span><br><span class="line">float_number = <span class="built_in">float</span>(string_float)</span><br><span class="line"><span class="built_in">print</span>(float_number)  <span class="comment"># 输出: 20.24</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将整数转换为字符串</span></span><br><span class="line">int_number = <span class="number">2024</span></span><br><span class="line">string_from_int = <span class="built_in">str</span>(int_number)</span><br><span class="line"><span class="built_in">print</span>(string_from_int)  <span class="comment"># 输出: &quot;2024&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 将浮点数转换为字符串</span></span><br><span class="line">float_number = <span class="number">20.24</span></span><br><span class="line">string_from_float = <span class="built_in">str</span>(float_number)</span><br><span class="line"><span class="built_in">print</span>(string_from_float)  <span class="comment"># 输出: &quot;20.24&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 示例：浮点数转整数丢失精度</span></span><br><span class="line">float_number = <span class="number">20.74</span></span><br><span class="line">int_from_float = <span class="built_in">int</span>(float_number)</span><br><span class="line"><span class="built_in">print</span>(int_from_float)  <span class="comment"># 输出: 20，小数部分丢失</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>常见的转换语句</p>
-</li>
-</ol>
-<table>
-<thead>
-<tr>
-<th>语句（函数）</th>
-<th>说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>int(x)</td>
-<td>将x转换为一个整数</td>
-</tr>
-<tr>
-<td>float(x)</td>
-<td>将x转换为一个浮点数</td>
-</tr>
-<tr>
-<td>str(x)</td>
-<td>将x转换为字符串</td>
-</tr>
-</tbody></table>
-<ol start="3">
-<li>注意事项<ul>
-<li>任何数据类型都可以转字符串</li>
-<li>字符串内必须有数字才能转换为数字</li>
-<li>浮点数转整数会丢失精度（小数部分）<br>和前面学习的type()一样，这三个语句是带有结果的（返回值），我们可以直接print输出结果或者用变量储存结果值。</li>
-</ul>
-</li>
-</ol>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
-
-<h4 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h4><ol>
-<li>在python程序中，我们会给很多东西取名字，如<ul>
-<li>变量的名字</li>
-<li>方法的名字</li>
-<li>类的名字<br>等等，这些名字统一称之为标识符，用来做内容的标识。</li>
-</ul>
-</li>
-<li>标识符内容限定：只允许出现英文、数字、中文、下滑新（_）,其余任何元素都不被允许。</li>
-<li>命名规则（强制）<ul>
-<li>不推荐使用中文（中文支持并不完善，可能会有隐藏问题）</li>
-<li>数字不可以用作开头（硬性限制）</li>
-<li>区分大小写</li>
-<li>不可使用关键字，如False、True、and、in<br> is等等（同样区分大小写）</li>
-</ul>
-</li>
-<li>命名规范（不强制）<ul>
-<li>变量<ol>
-<li>有意义：变量名应该清晰地表达变量的用途或它所代表的数据类型。</li>
-<li>简洁：在表达清晰的前提下，使用最少的名字长度。</li>
-<li>下划线命名法：多个单词组合变量名，要使用下划线分割。</li>
-<li>英文字母全部小写。</li>
-</ol>
-</li>
-</ul>
-</li>
-<li><strong>请注意，不遵守命名规则会导致错误，而不遵守命名规范虽然不会引起错误，但会使代码的可读性和整洁度降低。</strong><br>下面是一份正确和错误的示例<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 错误示例</span></span><br><span class="line">1_name = <span class="string">&quot;老赵&quot;</span></span><br><span class="line">name_! = <span class="string">&quot;老李&quot;</span></span><br><span class="line"><span class="keyword">class</span> = <span class="number">1</span></span><br><span class="line"><span class="keyword">def</span> = <span class="number">1</span></span><br><span class="line"><span class="comment"># 正确示例</span></span><br><span class="line">name_ = <span class="string">&quot;老王&quot;</span></span><br><span class="line">_name = <span class="string">&quot;老孙&quot;</span></span><br><span class="line">_Name = <span class="string">&quot;老钱&quot;</span></span><br></pre></td></tr></table></figure></li>
-</ol>
-<h4 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h4><ol>
-<li>算数运算符<br>在python中，常用的数学运算符包括以下七种<table>
-<thead>
-<tr>
-<th>序号</th>
-<th>运算符</th>
-<th>描述</th>
-<th>示例</th>
-<th>结果</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1</td>
-<td><code>+</code></td>
-<td>加法</td>
-<td><code>5 + 3</code></td>
-<td>8</td>
-</tr>
-</tbody></table>
-</li>
-</ol>
-<p>| 2    | <code>-</code>    | 减法           | <code>5 - 3</code>       | 2      |<br>| 3    | <code>*</code>    | 乘法           | <code>5 * 3</code>       | 15     |<br>| 4    | <code>/</code>    | 除法           | <code>5 / 3</code>       | 1.666… |<br>| 5    | <code>%</code>    | 求余数         | <code>5 % 3</code>       | 2      |<br>| 6    | <code>**</code>   | 幂运算         | <code>5 ** 3</code>      | 125    |<br>| 7    | <code>//</code>   | 整除           | <code>5 // 3</code>      | 1      |</p>
-<ol start="2">
-<li>赋值运算符<br>在Python中，赋值运算符用于将值赋给变量。基本的赋值运算符是 &#x3D;。<br>此外，还有一些复合赋值运算符，它们结合了数学运算和赋值操作。  <table>
-<thead>
-<tr>
-<th>序号</th>
-<th>运算符</th>
-<th>描述</th>
-<th>示例代码</th>
-<th>等效于</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1</td>
-<td><code>=</code></td>
-<td>基本赋值</td>
-<td><code>x = 5</code></td>
-<td><code>x = 5</code></td>
-</tr>
-</tbody></table>
-</li>
-</ol>
-<p>| 2    | <code>+=</code>   | 加法赋值       | <code>x += 3</code>                  | <code>x = x + 3</code>             |<br>| 3    | <code>-=</code>   | 减法赋值       | <code>x -= 3</code>                  | <code>x = x - 3</code>             |<br>| 4    | <code>*=</code>   | 乘法赋值       | <code>x *= 3</code>                  | <code>x = x * 3</code>             |<br>| 5    | <code>/=</code>   | 除法赋值       | <code>x /= 3</code>                  | <code>x = x / 3</code>             |<br>| 6    | <code>%=</code>   | 取模赋值       | <code>x %= 3</code>                  | <code>x = x % 3</code>             |<br>| 7    | <code>**=</code>  | 幂运算赋值     | <code>x **= 3</code>                 | <code>x = x ** 3</code>            |<br>| 8    | <code>//=</code>  | 整除赋值      | <code>x //= 3</code>                 | <code>x = x // 3</code>            |</p>
-<p>示例代码</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 数学运算符</span><br><span class="line">print(&quot;5+5=&quot;,5 + 5)</span><br><span class="line">print(&quot;5-5=&quot;,5 - 5)</span><br><span class="line">print(&quot;5*5=&quot;,5 * 5)</span><br><span class="line">print(&quot;5/5=&quot;,5 / 5)</span><br><span class="line">print(&quot;5%5=&quot;,5 % 5)</span><br><span class="line">print(&quot;5//5=&quot;,5//5)</span><br><span class="line"></span><br><span class="line"># 赋值运算符</span><br><span class="line">num = 1 + 2 * 4</span><br><span class="line">print(num) # 输出；9</span><br><span class="line"></span><br><span class="line"># 复合赋值运算符</span><br><span class="line"></span><br><span class="line"># 基本赋值</span><br><span class="line">x = 5</span><br><span class="line">print(x)  # 输出: 5</span><br><span class="line"></span><br><span class="line"># 加法赋值</span><br><span class="line">x += 3</span><br><span class="line">print(x)  # 输出: 8</span><br><span class="line"></span><br><span class="line"># 减法赋值</span><br><span class="line">x -= 2</span><br><span class="line">print(x)  # 输出: 6</span><br><span class="line"></span><br><span class="line"># 乘法赋值</span><br><span class="line">x *= 4</span><br><span class="line">print(x)  # 输出: 24</span><br><span class="line"></span><br><span class="line"># 除法赋值</span><br><span class="line">x /= 3</span><br><span class="line">print(x)  # 输出: 8.0</span><br><span class="line"></span><br><span class="line"># 取模赋值</span><br><span class="line">x %= 5</span><br><span class="line">print(x)  # 输出: 3</span><br><span class="line"></span><br><span class="line"># 幂运算赋值</span><br><span class="line">x **= 2</span><br><span class="line">print(x)  # 输出: 9</span><br><span class="line"></span><br><span class="line"># 整除赋值</span><br><span class="line">x //= 2</span><br><span class="line">print(x)  # 输出: 4.0</span><br></pre></td></tr></table></figure>
-
-<h4 id="字符串拓展内容"><a href="#字符串拓展内容" class="headerlink" title="字符串拓展内容"></a>字符串拓展内容</h4><h5 id="字符串三种定义方式"><a href="#字符串三种定义方式" class="headerlink" title="字符串三种定义方式"></a>字符串三种定义方式</h5><ol>
-<li>在Python编程语言中，我们通常认为用双引号（” “）包围的字符序列是字符串。然而，为了更精确地表达，我们应当注意到，实际上，无论是单引号（’ ‘）、双引号（” “）、还是三引号（””” “”” 或 ‘’’ ‘’’）包围的字符序列，都可以被视为字符串。</li>
-</ol>
-<p>例如</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 单引号定义法</span></span><br><span class="line">name = <span class="string">&#x27;张三&#x27;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(name))</span><br><span class="line"><span class="built_in">print</span>(name)</span><br><span class="line"></span><br><span class="line"><span class="comment">#双引号定义法</span></span><br><span class="line">name = <span class="string">&quot;李四&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(name))</span><br><span class="line"><span class="built_in">print</span>(name)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 三引号定义法（可以像注释一样可以换行）</span></span><br><span class="line">name = <span class="string">&quot;&quot;&quot;这里的文字可以换行，比如这是第一行</span></span><br><span class="line"><span class="string">这是第二行</span></span><br><span class="line"><span class="string">这是第三行</span></span><br><span class="line"><span class="string">在终端中他们分别占据一行</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">type</span>(name))</span><br><span class="line"><span class="built_in">print</span>(name)</span><br></pre></td></tr></table></figure>
-
-<p>在终端中他们应该这样显示：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line">张三</span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line">李四</span><br><span class="line">&lt;<span class="keyword">class</span> <span class="string">&#x27;str&#x27;</span>&gt;</span><br><span class="line">这里的文字可以换行，比如这是第一行</span><br><span class="line">这是第二行</span><br><span class="line">这是第三行</span><br><span class="line">在终端中他们分别占据一行</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li><p>那么就出现了一个问题， 如果<strong>要定义的字符串本身包括单引号或者双引号</strong>，怎么办呢？</p>
-<ol>
-<li>使用不同类型的引号：如果字符串本身包含单引号，可以使用双引号来定义字符串；反之亦然。</li>
-</ol>
-<ul>
-<li><p>示例代码</p>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">name = <span class="string">&#x27;&quot;张三&quot;&#x27;</span></span><br><span class="line">name_1 = <span class="string">&quot;&#x27;李四&#x27;&quot;</span></span><br><span class="line"><span class="built_in">print</span>(name,name_1,)</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>结果应该是：</p>
-</li>
-</ul>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="string">&quot;张三&quot;</span> <span class="string">&#x27;李四&#x27;</span> </span><br></pre></td></tr></table></figure>
-
-<ol start="2">
-<li>转义字符：在字符串中，可以通过在引号前加上反斜杠 <strong>()</strong> 来转义引号，使其成为普通字符。</li>
-</ol>
-<ul>
-<li>例如打印如下文本：</li>
-</ul>
-<blockquote>
-<p>Mao Zedong said: “The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o’clock in the morning. The hope is placed upon you.”</p>
-</blockquote>
-<ul>
-<li>示例代码</li>
-</ul>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Mao Zedong said: &quot;The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o\&#x27;clock in the morning. The hope is placed upon you.&quot;&#x27;</span>)</span><br></pre></td></tr></table></figure>
-<p>  这里在o’clock的引号前加了一个 *<em>*</em> 把单引号变成普通字符，输出结果应该是</p>
-  <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">Mao Zedong said: <span class="string">&quot;The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o&#x27;clock in the morning. The hope is placed upon you.&quot;</span></span><br></pre></td></tr></table></figure></li>
-</ul>
-<blockquote>
-<p>1957年11月，毛泽东同志在莫斯科大学发表“希望寄托在你们身上”著名讲话：<br>毛泽东说：“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。”<br>Mao Zedong said: “The world is yours, as well as ours, but in the final analysis, it is yours. You young people are full of vigor and vitality, like the sun at eight or nine o’clock in the morning. The hope is placed upon you.”<br>来自<a href="https://www.youth.cn/">https://www.youth.cn</a></p>
-</blockquote>
-<p>2.总结<br>    1.字符串的三种定义方式：<br>    - 单引号方式<br>    - 双引号方式<br>    - 三引号方式<br>    2. 引号的嵌套<br>        - 可以使用：\来进行转义<br>         - 单引号内可以写双引号或双引号内可以写单引号</p>
-<h5 id="字符串拼接"><a href="#字符串拼接" class="headerlink" title="字符串拼接"></a>字符串拼接</h5><ol>
-<li>如果我们有两个字符串（文本）字面量，可以将其拼接成一个字符串，通过+号即可完成，如</li>
-</ol>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>（<span class="string">&quot;abc&quot;</span>+<span class="string">&quot;def&quot;</span>）</span><br></pre></td></tr></table></figure>
-
-<p>输出结果应该是：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">abcdef</span><br></pre></td></tr></table></figure>
-<ol start="2">
-<li>不过一般，单纯的2个字符串字面量进行拼接没什么意义，字面量和变量或变量和变量之间才会使用拼接，如：</li>
-</ol>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">A = <span class="string">&quot;libai&quot;</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;my name is &quot;</span> + A)</span><br></pre></td></tr></table></figure>
-<p>输出结果应该是：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">my name <span class="keyword">is</span> libai</span><br></pre></td></tr></table></figure>
-<ol start="3">
-<li>要注意，拼接操作无法和非字符串类型进行拼接。</li>
-</ol>
-<h5 id="字符串格式化"><a href="#字符串格式化" class="headerlink" title="字符串格式化"></a>字符串格式化</h5><ul>
-<li><p>在频繁使用字符串拼接的过程中，我们可能会遇到一些不便：</p>
-<ol>
-<li>当涉及的变量数量增多时，进行字符串拼接变得繁琐且容易出错。</li>
-<li>直接将字符串与其他数据类型（如数字）拼接时，会遇到类型不匹配的问题。</li>
-</ol>
-</li>
-<li><p>这里我们用另一种方法，使用”%s”。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;我今天上了%s节课&quot;</span> % <span class="number">10</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello%s&quot;</span> % <span class="string">&quot;world&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;%s年,%s专业平均月工资是%s&quot;</span> %(<span class="number">2024</span>,<span class="string">&quot;计算机&quot;</span>,<span class="string">&quot;八万&quot;</span>))</span><br></pre></td></tr></table></figure>
-<p>结果应该是</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">我今天上了<span class="number">10</span>节课</span><br><span class="line">helloworld</span><br><span class="line"><span class="number">2024</span>年,计算机专业平均月工资是八万</span><br></pre></td></tr></table></figure></li>
-<li><p>另外，我们也有其他的数据类型占位符，下面是一些常用的占位符，使用方法和%s一致。</p>
-</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>格式符号</th>
-<th>作用</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>%s</td>
-<td>将内容转换成字符串，放入占位位置</td>
-</tr>
-<tr>
-<td>%d</td>
-<td>将内容转换成整数，放入占位位置</td>
-</tr>
-<tr>
-<td>%f</td>
-<td>将内容转换成浮点型，放入占位位置</td>
-</tr>
-</tbody></table>
-<h5 id="掌握格式化字符串的过程中做数字的精度控制"><a href="#掌握格式化字符串的过程中做数字的精度控制" class="headerlink" title="掌握格式化字符串的过程中做数字的精度控制"></a>掌握格式化字符串的过程中做数字的精度控制</h5><ul>
-<li><p>我们可以使用辅助符号”m.n”来控制数据的宽度和精度</p>
-<ul>
-<li>m，控制宽度，要求是数字（很少使用），设置的宽度小于数字自身，不生效</li>
-<li>n，控制小数点精度，要求是数字，会进行小数的四舍五入</li>
-</ul>
-</li>
-<li><p>m和n均可省略</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">num1 = <span class="number">23</span></span><br><span class="line">num2 = <span class="number">22.25</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今天我吃了%5d顿饭&quot;</span> % num1)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今天我花了%32.2f元&quot;</span> % num2)</span><br></pre></td></tr></table></figure>
-<p>结果是</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">今天我吃了   <span class="number">23</span>顿饭</span><br><span class="line">今天我花了                           <span class="number">22.25</span>元</span><br></pre></td></tr></table></figure>
-<p>这里有空格的原因是：num2不足32位，用空格补全。</p>
-</li>
-</ul>
-<h5 id="字符串格式化方式2"><a href="#字符串格式化方式2" class="headerlink" title="字符串格式化方式2"></a>字符串格式化方式2</h5><ul>
-<li>确实，使用 % 符号进行字符串格式化既方便又灵活，它还允许我们控制输出的精度。不过，除了这种方法，还有其他几种格式化字符串的方式可以考虑：<ul>
-<li>通过 <strong>f”内容{变量}”</strong> 来实现</li>
-</ul>
-</li>
-<li>这种方式有两个特点<ul>
-<li>不做精度控制</li>
-<li>不限数据类型</li>
-</ul>
-</li>
-</ul>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">num1 = <span class="number">23</span></span><br><span class="line">num2 = <span class="number">22.25</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;今天我吃了<span class="subst">&#123;num1&#125;</span>顿饭&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;今天我花了<span class="subst">&#123;num2&#125;</span>元&quot;</span>)</span><br></pre></td></tr></table></figure>
-<p>结果应该是</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">今天我吃了23顿饭</span><br><span class="line">今天我花了22.25元</span><br></pre></td></tr></table></figure>
-<h5 id="对表达式进行格式化"><a href="#对表达式进行格式化" class="headerlink" title="对表达式进行格式化"></a>对表达式进行格式化</h5><ol>
-<li>表达式定义：表达式：一条具有明确执行结果的代码语句。</li>
-</ol>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;1*1的结果是%d&quot;</span> % (<span class="number">1</span>*<span class="number">1</span>))</span><br><span class="line"><span class="built_in">print</span>(<span class="string">f&quot;1*1的结果是<span class="subst">&#123;<span class="number">1</span>*<span class="number">1</span>&#125;</span>&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;字符串在Python中的类型名是：%s&quot;</span> % <span class="built_in">type</span>(<span class="string">&quot;字符串&quot;</span>))</span><br></pre></td></tr></table></figure>
-<p>结果是</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1*1的结果是1</span><br><span class="line">1*1的结果是1</span><br><span class="line">字符串在Python中的类型名是：&lt;class &#x27;str&#x27;&gt;</span><br></pre></td></tr></table></figure>
-<h4 id="数据输入"><a href="#数据输入" class="headerlink" title="数据输入"></a>数据输入</h4>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>软件安装目录</title>
-    <url>/2024/09/15/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请联系作者" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="ae6dbfd17b4b195ec50dea81fb22e025f581abdca1fa71a6f0e2b0293c5f734d">a5536f4338164362af310f4d7087da3609128c47cd5f14e87b94fa7fc800f0f35d13ef96f5a1a294d8df9ce7dff538d67ee752a0c3ba915c41e1e2208c086ed747f4df3b3e002dbe25448d80a8144fc9e838636517da9e9b6aa83cb42244cb1df33b7fd5931dd54ce337f80f234a0c7b5187cb443081fa6c9e1090161b09ea2fcc651f3c35e782e6b2ba540c00123084f769e08044bc18272e7b96c14b89c0e72a3a9303d5c28062601311f1b307bb76ca7eae0130cae61491745c74d14795f393890c74e1b1fc2c31c64a6a941a6b7e8362dbd840221d0b8588e0480eb791526a1078be721f90985d841a2d4fff563661831d5c6a0251cf8421d07cba4d5a77870ca509bd5d42f451e1a70d52513e0ced0872aea934ea06695f68f49c4247af645f50f5a6f7f9474c1cd54fe82982fe0d066d1a03ed63339e1fee914d59f25b337ce906aad1deb394d900b26a7c027734eaaddd1d321de1c220fbc2be3dbbbbb312f8fcdb3aa615eaf9882943a7af837c9969d39b777294e2bc844d7f8e8630762514dc326a48e52e34c234f6ef4c2aa274667408d7e14dba99e7f068ce1aa05024d86adc8948809e02feea3c24fcfb91f25e3abd6c1e15f2bb6b2f36233185a0a3219558357a4bb8bc4f02cbd0caffb8301c42e36f5f497bb8ebdba37f0749515bc7515debf2361dd5d853e0cb64bcbe714970425623fd47f82dd77df27d775143bc715ef44a22767588cd2a2d6246edc523c1da49be8d4dcd76b3c126f4681af862429569bc441596cdb5ca0fcddbda18c83f49990bc534c987374930ccd442acd2962614534169529a1031648e831d27cbee0a583fce2cf1973943655b2da4477ab18787cee57cadd2455007a82035662532aaeb8d9e8a724d562dd77e5fd186437628f0786fd05cd47346f5d1bb453ceba0d58e7544d84114c90cd12800b7111e06bd20e3340aff9939ce9e1630f2e02bfca002e97b116831952ef2ed6d3b831a205174ae5c0565e82f7894448d7227a7d2934a6f3ce15b169be4f1d28c0a1d9628db401813ac609813a5fa9821f03633f6b8fe6a790b9ad86c0a01f473fa28c5594f0bf89b59434dce56a83a75f51251b3b83cb2e0b262e8292779562a6af34fac1791ead7f2c5614fafc1b368a345ac07a564df16f52e776d80835d548389524f32ce773fdc492450ad2ab91f33566f888a1c642a818a1b2c0c840bad93b0623017971676a3c0e4b722d8acdf3d406127ca376937d23360f638dc5880cfc4bf579efc391329e0fc7bd7f3ec269b46bad8d3233a3b2376b2f466f109c43e8f5d98db38dd16e7ebc55716345629db395dd399c0a7adf5675f7c4b6b388cf32db18897f1f5306a36ec5532f7e6ed5c9cd3c03c8af3f3e11594c19b78acb06964c5c3601686269afb4525d72d13cab3c85c6167183331011f91c982613a0f5c92a0f290c7624ed56f183e9dd672ceb298fd60ddabbf994c9409b6187814019ca9a9f4578258e1e98a11158a7f1a78687dc30d9858040c3b69310d31f88fdc1c5a98d7f71648646003b86049aab6c4fabe16a6067d643f640a1e9cc970c668312fdfa7b5899887f14a12a087647b85962b73bad4bb17f6c6bd42826d0770bc3ef172277f442979f404c6b5c182cdcc9f48b88fe94ce40727903150b052895ffe636b3919696e77c24bcabd1042d12edc5ea48bfe1a58759bece020f4bc28401d4457a66cf8e35371911400b126acae406656c80866748ebcb5ccd663083b9184afe5bf33724858121f9dbfb94649c6c770fe2c1d5942393a55d3af79046ba7e152ec87249282867edbeeb840c290871b637b15527dc8008dbff0a95bc971bb39a6423fcd545319007672630ae197c2609aa2eb9110abd43dc458e455bfe1d4467140ea04d7679ebe49a89401e7c3950b51b2573efc325db1b4f5dc9f79d4f1355f012547d840588ddc95a4a6f9fe5542dbe11c02987ea7bc34f66818c85853575939e1662c1d1faf187f4fcc8b094f1b3961118fc0062f2571538fc9ba48c2e5c68c9b044a67e266c06f8a89e64a2469a7001057549442631e9348641929dcdb16afab5c0b73d1b55cf0e18e18135010f90764bad025529f30fe61ed077b5386f155ec930772c6909a4edb1860d8ad5ffdfa8cb397190289a1c62f0ba295e95992651add211017185b8a116ded67d4fea4b53ed23583bfa3d509dd4d6838ff44348e44cfc61ee8232ca9a9c78c9587dc48adcbe45990cd01b13c5d29d178e917892632fce71e3eb0b8ec904d50cf433eac47a87de6dd2028860865997beaf099e263c7671dce60e6470e9677fbac16bed92ef628da381f037b9d1e8034dc5f32077483099e1cdf2d45fddd58a5be002919b6a723d3ef0ba521dc480bceff73bc2001d57ab102242c91e0c81e8e4e8bf8e4a424715d9e7c75f375378dfe1b22c4b4834236aa6cbeb5f38aa281b7c95c0515a891d34a5d7222367cace5303e2528247590d7426a887f4987f16d457a556965751c02d08c26cba6c61ca9bbfee8671953fcad5ba1838645be3fc98edd2602a8662f70ebcb74695c48047a83ffc09599730475ddac2e5dcc6b81b0257fdb694ba5cbc9099563b82549adcd64898693eac1aef87091f22add06faa6e1d6e50212c67a53d3d73bf4199c115fa63a04ec479d1f281ae405928753b8fa9d01177eebe2e9424ebf550ff5c083fcf51d714dba1a2e06542942dab9352bf9c555e4e732cc0043e7a8f8dc73c8b8861e9869992fdd49a448a707a3bb120480dee8a96a986ed304cdad0ed1a6461b69b2b154392b1afd0092f08d6c0031bb1291dec10a2cf45c4e6cccd6414b45e45e709956374ec2e30690bb95637c2787b8ff0931837e7f60988c77fff0fa66ed121a274b6343b453146626c0f86f0eba62f93481908efe09b03eaa006287181806f12dd33245c26037f203b2f07002413c9292cc3303e6f539c993535eb6c675c8dc6527b4ff83d787f1a53aa4d02597154ff9df12a66af90996fdd6c2937e256876baed56d9c465caa62268f048ce265e90a8834da081b22967a4d6bd32282908a4396943e5d85e981631a56f5e83db6e077463a0275d45315b4549e8c72e95fc130050d858ea57dada28db407a30e3829e21ede49d1eb9ec065a5a4a1be3726e7e6a454afaa71cc2b992f8163439c3c549ec35962fe7ef5451bcfc99837e33313f5fab3bc3e26db9d41b525e045476eb79958e558e23415a2354e511b19e8eaf96d25d2e04cc6f923a7aead73b2c793d06146364f4cfcbe7a62fbfd39f234da3ddca78809aefcf35cf382d35ce7e6db38f7927e21ff66234cff7c2b07ecc259a327dc14faa074d545f9da3f3f725e25b3df5737e9582742fb122310cbe85a589717c9e9736515f66344fcb6a3b97d80a33c9e2b7e56d956da8cb31e92375318cd4eba80fd51d140ed5bc0d1bea0633356835d68e7bc191f266dc2904a8e22edd51f1b6aa01a86508dd497319b68bab20e676240f7761a46552ca5e9046d269a51b9d3bc647cb75fee847fd44bf28d996de316c736d197c8d9e994f826eea3925f52a8da11a63462e2b3a8b6147310377771743ad9e08d138f0b37c13ce025ac80fbd295d5a623c9aec5bf1c6bb9d81c277a8cc4302560189affc1cfc685a2a34d938fa32a4e651b4c13b185c51d2bc71d93909f293fe5202084863b9983ce7b7a0194183249a30842b29f88c59ca0f68ca0277db5f474c5a3b35e7074f6f694211a96f564a0122ec741412e9d48200cab9eb275bf7ed8ec9bff38ea16ef83cb5109f02569b99b49e90688664c3d53426706687df1c23f5628ce8518470d9bda7d6268fc2c62438ba2f5b2246b2f97bbd0c8a27ce85ca2d12f343643f97f66df6a5d9511d656e869815c2de29c7c835e6d618f4d39ea28d00cb2650dbdbe956b2f23c580c6471ecb6fde3b36b6e2ebb332f347f545b831411dbe6969a7da8041cd877dc86f624dcc29d60c8cbbd7a73a17e59f3c83d18a115818855e01456355cb6f1d113f9f0fd090fe00eb7cc5224be6521bb8d45a75c3c667f30a2512d9e2a5df2d1c68a2adf2eafa9cc1245c5be6fc58991</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>实用</category>
-      </categories>
-      <tags>
-        <tag>实用</tag>
       </tags>
   </entry>
 </search>
