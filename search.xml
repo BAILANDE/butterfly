@@ -1,6 +1,275 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>calculator(计算器)</title>
+    <url>/2024/09/20/calculator/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
+<li>一个简单的在线计算器</li>
+</ul>
+<blockquote>
+<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
+</blockquote>
+<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《产品三维造型与结构设计（UG）》测试内容</title>
+    <url>/2024/09/05/UG/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="考试案例"><a href="#考试案例" class="headerlink" title="考试案例"></a>考试案例</h1><h2 id="案例一"><a href="#案例一" class="headerlink" title="案例一"></a>案例一</h2>]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>名言收录</title>
+    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
+<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
+</blockquote>
+<ol>
+<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
+</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>可编程序控制器技术与应用</title>
+    <url>/2024/09/07/PLC/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
+<p> 前言：本文是由Ding在大学课程“可编程序控制器技术与应用”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。<br>本文所使用的软件为博途V16（TIA Portal V16），PLC设备为西门子PLC_1[CPU 1214C DC&#x2F;DC&#x2F;DC]</p>
+</blockquote>
+<h2 id="PLC的起源和诞生"><a href="#PLC的起源和诞生" class="headerlink" title="PLC的起源和诞生"></a>PLC的起源和诞生</h2><ul>
+<li><strong>起源</strong>：1968年，美国最大的汽车制造商<a href="https://baike.baidu.com/item/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/556241"><strong>通用汽车公司</strong></a>为了适应生产工艺不断更新的需要，期望找到一种新的方法，尽可能减少重新设计继电控制系统和重新接线的工作，以降低成本、缩短周期，设想把计算机通用、灵活、功能完备等优点和继电控制系统的简单易懂、价格便宜等优点结合起来，制成一种通用控制装置，并把计算机的编程方法和程序输入方式加以简化，用面向控制过程、面向问题的“自然语言”进行编程，使不熟悉计算机的人也能方便地使用。</li>
+<li><strong>诞生</strong>：1969年，美国<a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8/5559330#:~:text=%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8%EF%BC%88%E5%8D%B3%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B1%E6%96%87%EF%BC%9ADigital%20Equipment%20Corporation%EF%BC%8C%E7%AE%80%E7%A7%B0DEC%EF%BC%89%E3%80%82%201998%E5%B9%B41%E6%9C%88DEC%E5%85%AC%E5%8F%B8%E8%A2%AB,%E5%BA%B7%E6%9F%8F%20%E4%BB%A596%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%94%B6%E8%B4%AD%EF%BC%8C2001%E5%B9%B4%20%E6%83%A0%E6%99%AE%20%E5%BA%B7%E6%9F%8F%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6%E3%80%82"><strong>美国数字设备公司</strong></a>研制出了第一台可编程序逻辑控制器PDP—14，在通用汽车公司的自动装配线上试用获得了成功。</li>
+</ul>
+<h2 id="PLC简介"><a href="#PLC简介" class="headerlink" title="PLC简介"></a>PLC简介</h2><ol>
+<li>可编程逻辑控制器（Programmable Logic Controller）简称PLC，最初只能进行计数、定时及开关量逻辑控制。<br>随着计算机技术的发展，可编程逻辑控制的功能不断扩展和完善，其功能远远超出了逻辑控制的范围，具有了PID、A&#x2F;D、D&#x2F;A、算术运算、数字量智能控制、监控、通信联网等多方面的功能，它已变成了实际意义上的一种工业控制计算机。</li>
+<li>于是，美国电器制造商协会将其正式命名为可编程序控制器（Programmable Controller），简称PC。</li>
+<li>由于它与<a href="https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E8%AE%A1%E7%AE%97%E6%9C%BA/3731770"><strong>个人计算机(Personal computer)</strong></a>的简称PC相同，所以人们习惯上仍将其称为<a href="https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8/84414?fromtitle=PLC&fromid=275974"><strong>PLC</strong></a>。</li>
+</ol>
+<h2 id="PLC定义"><a href="#PLC定义" class="headerlink" title="PLC定义"></a>PLC定义</h2><ul>
+<li>1987年2月，国际电工委员会(IEC)对可编程控制器的定义是：1987年，国际电工委员会 (IEC)是这样定义可编程控制器的：“可编程控制器是一种数字运算操作的电子系统，专为在工业环境下应用而设计，它采用可编程序的存储器，用来在其内部存储执行逻辑运算、数序控制、定时、技术和算术运算等操作的指令，并通过数字式、模拟式的输入和输出，控制各种类型的机械或生产过程。</li>
+</ul>
+<h2 id="PLC的分类"><a href="#PLC的分类" class="headerlink" title="PLC的分类"></a>PLC的分类</h2><ol>
+<li>按结构特点分<ul>
+<li>整体式；：结构紧凑、体积小、价格低,小型PLC一般采用整体式结构</li>
+<li>模块式：配置灵活，可根据需要选配不同规模的系统，且装配便，便于扩展和维修，大、中型PLC一般采用模块式结构</li>
+</ul>
+</li>
+<li>按控制规模分<ul>
+<li>微型:I&#x2F;0点数小于64</li>
+<li>小型:I&#x2F;0点数64-256</li>
+<li>中型:I&#x2F;0点数256-1024</li>
+<li>大型:I&#x2F;0点数1024以上</li>
+</ul>
+</li>
+<li>按控制性能分<ul>
+<li>低档机</li>
+<li>中档机</li>
+<li>高档机</li>
+</ul>
+</li>
+</ol>
+<h2 id="PLC应用"><a href="#PLC应用" class="headerlink" title="PLC应用"></a>PLC应用</h2><ol>
+<li>数字量控制</li>
+<li>运动量控制</li>
+<li>闭环过程控制</li>
+<li>数据处理</li>
+<li>通信联网</li>
+</ol>
+<h2 id="PLC基本结构"><a href="#PLC基本结构" class="headerlink" title="PLC基本结构"></a>PLC基本结构</h2><ul>
+<li>CPU,电源，储存器和输入输出接口电路等组成（其硬件组成与微型计算机相似。）</li>
+</ul>
+<h2 id="PLC特点"><a href="#PLC特点" class="headerlink" title="PLC特点"></a>PLC特点</h2><ul>
+<li>（可编程逻辑控制器）的特点包括：<ol>
+<li>编程方法简单易学</li>
+<li>功能强，性能价格比高</li>
+<li>硬件配套齐全，用户使用方便，适应性强</li>
+<li>可靠性高，抗干扰能力强</li>
+<li>系统的设计、安装、调试工作量少</li>
+<li>维修工作量小，维修方便</li>
+<li>体积小，能耗低</li>
+</ol>
+</li>
+</ul>
+<h2 id="PLC基本编程语言"><a href="#PLC基本编程语言" class="headerlink" title="PLC基本编程语言"></a>PLC基本编程语言</h2><ol>
+<li>梯形图</li>
+<li>语句表</li>
+<li>功能块图</li>
+<li>顺序功能图</li>
+<li>结构文本</li>
+</ol>
+<h2 id="PLC控制系统示意图"><a href="#PLC控制系统示意图" class="headerlink" title="PLC控制系统示意图"></a>PLC控制系统示意图</h2><p><img src="/img/PLC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="PLC控制系统示意图"></p>
+<h2 id="PLC工作原理"><a href="#PLC工作原理" class="headerlink" title="PLC工作原理"></a>PLC工作原理</h2><p><img src="/img/PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt="PLC工作原理"></p>
+<ul>
+<li><strong>扫描周期</strong>：PLC在RUN工作状态时，执行一次扫描过程所需的时间称为扫描周期，典型值为1～l00ms</li>
+</ul>
+<h1 id="S7-1200-PLC-简介"><a href="#S7-1200-PLC-简介" class="headerlink" title="S7-1200 PLC 简介"></a>S7-1200 PLC 简介</h1><ol>
+<li><p>S7-1200 PLC (Programmable Logic Controller) 是西门子公司推出的一款PLC，主要面向简单而高精度的自动化任务。S7-1200设计紧凑、组态灵活且具有功能强大的指令集，这些特点的组合使它成为控制各种应用的完美解决方案。CPU将微处理器、集成电源、输入电路和输出电路组合到一个设计紧凑的外壳中以形成功能强大的PLC。CPU根据用户程序逻辑监视输入并更改输出，用户程序可以包含布尔逻辑、计数、定时、复杂数学运算以及与其它智能设备的通信。</p>
+</li>
+<li><p>目前S7-1200 PLC有四种CPU型号:1211C、1212C、1214C、1215C，<a href="https://www.ad.siemens.com.cn/productportal/prods/s7-1200_plc_easy_plus/04-version/01-Specification/S7-1200_New_Para.html">点击跳转查看具体参数</a></p>
+</li>
+<li><p>S7-1200 PLC 最多可以扩展8个信号模块和3个通信模块，最大本地数字I&#x2F;O点数为284个最大本地模拟I&#x2F;O点数为69个S7-1200中央机架最大扩展8个数字量和模拟量模块，如果超过该数量可通过PROFIBUS或PROFINET扩展分布式I&#x2F;O系统，将过程信号连接到S7-1200控制器。CPU类型决定最多可扩展的模块数量，CPU1211C不能扩展，CPU1212C可扩展2个，CPU1214C 可扩展8个。</p>
+</li>
+<li><p>S7-1200视频展示</p>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1nzpzeFE8U?t=9.3"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，希望理解）</a></li>
+</ul>
+</li>
+</ol>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1&autoplay=0" allowfullscreen></iframe>
+</div>
+
+<ol start="3">
+<li>这里奉上一份S7-1200系统手册<br><a href="/PLC/s71200_system_manual_zh-CHS_zh-CHS.pdf" target="_blank">点击下载PDF文件</a></li>
+</ol>
+<h1 id="博途V16（TIA-Portal-V16）PLC编程入门"><a href="#博途V16（TIA-Portal-V16）PLC编程入门" class="headerlink" title="博途V16（TIA Portal V16）PLC编程入门"></a>博途V16（TIA Portal V16）PLC编程入门</h1><blockquote>
+<p>软件介绍：博途V16（TIA Portal V16）是西门子推出的自动化软件，用于编程、配置和维护自动化系统。它支持多种编程语言，提供统一的工程环境，简化了自动化设备的配置和维护工作。它还包含了一些新功能，如增强的指令集和改进的仿真工具，帮助工程师更高效地完成自动化任务。（目前最高版本为v19）</p>
+</blockquote>
+<h2 id="PLC组态"><a href="#PLC组态" class="headerlink" title="PLC组态"></a>PLC组态</h2><ol>
+<li>在使用博途V16（TIA Portal V16）进行初次操作时，需要创建一个新的项目文件，并对设备进行配置。请确保配置的设备型号与实际的硬件设备相匹配。如果您不确定具体的PLC硬件型号，可以选择一个非特定的CPU型号作为起点。之后，通过点击“获取连接设备的组态”，系统将自动检测并配置PLC。请注意，这一步骤的前提是您必须连接了实际的PLC硬件。</li>
+</ol>
+<p><img src="/PLC/%E9%9D%9E%E7%89%B9%E5%AE%9ACPU.jpg" alt="非特定的CPU"></p>
+<p><img src="/PLC/%E8%8E%B7%E5%8F%96%E7%9B%B8%E8%BF%9E%E8%AE%BE%E5%A4%87%E7%9A%84%E7%BB%84%E6%80%81.jpg" alt="获取相连设备的组态"></p>
+<ol start="2">
+<li><p>在组态完成后，就可以编写程序了，在以下的笔记中会逐步讲解博途V16（TIA Portal V16）中的指令以及其他内容。</p>
+</li>
+<li><p>在完成组态设置后，打开项目视图。在左侧的项目树中，您会看到已经配置好的设备，例如这里的“PLC_1[CPU 1214C DC&#x2F;DC&#x2F;DC]”。只需双击该设备，就可以查看其程序块。在程序块列表中，找到并双击“main[OB1]”，即可进入主程序块，开始编程工作。</p>
+</li>
+<li><p>可以参考此视频简单了解博途V16软件的界面和基本功能，感谢b站up主电工鼠</p>
+</li>
+</ol>
+<p><a href="https://space.bilibili.com/1061641039">点击跳转此up主的主页</a><br><a href="https://www.bilibili.com/video/BV1dW4y1W7UT?t=60.2">点击跳转此视频主页</a></p>
+<div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=945485174&bvid=BV1dW4y1W7UT&cid=900689965&p=1&autoplay=0" allowfullscreen></iframe>
+</div>
+
+<blockquote>
+<p>关于PLC与电脑的连接方式？<br>PLC（可编程逻辑控制器）与电脑的连接方式主要有以下几种：</p>
+<ol>
+<li><strong>串口连接</strong>：通过RS-232或RS-485串行端口进行连接。如果电脑有COM口，可以直接使用串口线连接PLC和电脑。如果电脑没有COM口，可以使用USB转串口的转换器进行连接。</li>
+<li><strong>以太网连接</strong>：通过工业以太网连接PC和PLC。这通常涉及到使用网线将电脑的以太网端口与PLC的以太网端口相连。连接后，需要设置电脑的IP地址，确保与PLC的IP地址在同一网段，并且选择一个未使用的IP地址以避免冲突。</li>
+<li><strong>无线连接</strong>：一些现代PLC支持无线连接，可以通过Wi-Fi与电脑建立连接。这通常需要在PLC和电脑上配置相应的无线网络设置。</li>
+<li><strong>USB连接</strong>：某些PLC支持通过USB接口与电脑连接，这种情况下需要使用USB到PLC通信口的专用电缆，并可能需要在电脑上安装相应的驱动程序。<br>在连接PLC与电脑时，还需要考虑通信协议的设置，如Modbus、Profinet等，确保PLC和电脑端的通信参数（如波特率、数据位、停止位等）匹配。连接成功后，可以通过专用的软件（如STEP7、TIA Portal、SoMachine等）进行程序的上传、下载、监控和调试。<br>在我的实际操作过程中，电脑与PLC连接主要使用以太网连接（<a href="https://baike.baidu.com/item/Profinet/2310540">Profinet</a>）</li>
+</ol>
+<p>如果没有真实的PLC硬件怎么办？<br>博途V16（TIA Portal V16）拥有仿真、强制表、监控表等功能，可以辅助我们学习PLC</p>
+<p>在西门子PLC中，”I”、”Q”和”M”分别是什么？<br>I”、”Q”和”M”是三种不同类型的存储区，它们在编程和控制过程中扮演着重要的角色：</p>
+<ol>
+<li><strong>I存储区</strong>：代表输入存储区（Input），用于接收外部信号，如传感器、按钮、开关等设备的信号。这些信号可以是数字量或模拟量，PLC通过这些输入信号来感知外部环境的状态变化，并根据程序逻辑进行相应的控制操作。</li>
+<li><strong>Q存储区</strong>：代表输出存储区（Output），用于提供电平信号，控制执行器、继电器、电机等设备的工作。PLC通过输出存储区来对外部设备进行控制，实现自动化控制系统的目标。</li>
+<li><strong>M存储区</strong>：代表中间存储区（Memory Bit），是PLC内部的位寄存器，用于存储程序中的中间结果、计数器、定时器等信息。在编程时，M位通常用于标志位，实现程序中的逻辑运算、计数、定时等功能。<br>这些存储区在PLC编程和控制中非常重要，它们使得PLC能够灵活地处理输入信号、控制输出设备，并存储和处理程序运行中的中间数据。掌握I、Q、M的概念和应用对于PLC编程工程师来说是基础知识。<br><em><strong>另外在编程过程中，建议先把 I”、”Q”和”M”先填入变量表，并写清楚名称，方便后期编写程序。另外，在程序段中也应该填写相应注释</strong></em></li>
+</ol>
+</blockquote>
+<h2 id="入门案例"><a href="#入门案例" class="headerlink" title="入门案例"></a>入门案例</h2><blockquote>
+<p>由于笔记内容繁多，不利于直接阅读，因此所有笔记均以压缩包格式提供。</p>
+</blockquote>
+<p>1. </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>password-generator(密码生成器)</title>
+    <url>/2024/09/19/password-generator/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
+<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
+</blockquote>
+<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
+<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
+<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
+<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
+<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
+<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
+<li>password-generator分为两个版本<ul>
+<li>web版功能简单，使用方便</li>
+<li>pc版有备份功能，磁盘占用小</li>
+</ul>
+</li>
+</ul>
+<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
+<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
+<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
+<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
+<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
+</ul>
+<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
+<li><p>这个密码生成器的基本功能包括：</p>
+<ul>
+<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
+</li>
+<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
+</li>
+</ul>
+</li>
+<li><p>选择字符类型：</p>
+<ul>
+<li>小写字母</li>
+<li>大写字母</li>
+<li>数字</li>
+<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
+<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
+</ul>
+</li>
+<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
+</li>
+<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
+</li>
+</ol>
+<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
+
+<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
+<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
+<li>其他下载地址：<ul>
+<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
+</ul>
+</li>
+</ul>
+<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
+<li>与web版基本一致，只有以下两点差别：<ul>
+<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
+<li>有备份至github功能</li>
+</ul>
+</li>
+</ul>
+<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1&autoplay=0&muted=1" allowfullscreen></iframe>
+</div>
+
+<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
+<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
+</blockquote>
+<ul>
+<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
+</ul>
+<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
+<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
+<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>AI编程</category>
+      </categories>
+      <tags>
+        <tag>AI编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>python学习笔记</title>
     <url>/2024/09/25/python/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="python学习笔记"><a href="#python学习笔记" class="headerlink" title="python学习笔记"></a>python学习笔记</h1><blockquote>
@@ -526,54 +795,6 @@
       </tags>
   </entry>
   <entry>
-    <title>名言收录</title>
-    <url>/2024/10/06/%E5%90%8D%E8%A8%80%E6%94%B6%E5%BD%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="名言收录"><a href="#名言收录" class="headerlink" title="名言收录"></a>名言收录</h1><blockquote>
-<p>这篇文章的收录始于2024年10月6日。对于那些作者身份不明的名言，我们以“佚名”来代替，以示尊重和纪念那些无名的智慧贡献者。<br>本文章会持续更新。<br>当然，对于这些名言，我没有意图去对它们进行分类，仅仅是在阅读时记录下来。</p>
-</blockquote>
-<ol>
-<li><p>“世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。” <strong>————毛泽东</strong></p>
-</li>
-<li></li>
-</ol>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《产品三维造型与结构设计（UG）》测试内容</title>
-    <url>/2024/09/05/UG/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="考试案例"><a href="#考试案例" class="headerlink" title="考试案例"></a>考试案例</h1><h2 id="案例一"><a href="#案例一" class="headerlink" title="案例一"></a>案例一</h2>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>calculator(计算器)</title>
-    <url>/2024/09/20/calculator/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="calculator-计算器"><a href="#calculator-计算器" class="headerlink" title="calculator(计算器)"></a>calculator(计算器)</h1><h2 id="online-calculator（web）"><a href="#online-calculator（web）" class="headerlink" title="online-calculator（web）"></a>online-calculator（web）</h2><ul>
-<li>一个简单的在线计算器</li>
-</ul>
-<blockquote>
-<p>github开源地址：<a href="https://github.com/BAILANDE/Online-calculator">https://github.com/BAILANDE/Online-calculator</a><br>演示网站1: <a href="https://online-calculator.dingview.top/">https://online-calculator.dingview.top</a><br>演示网站2: <a href="https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app/">https://online-calculator-git-main-dings-projects-ba804e9a.vercel.app</a></p>
-</blockquote>
-<iframe src="https://online-calculator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=700 ></iframe>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《应用文写作》笔记</title>
     <url>/2024/08/27/%E5%BA%94%E7%94%A8%E6%96%87%E5%86%99%E4%BD%9C%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="《应用文写作》笔记"><a href="#《应用文写作》笔记" class="headerlink" title="《应用文写作》笔记"></a>《应用文写作》笔记</h1><h2 id="应用文的整体认知"><a href="#应用文的整体认知" class="headerlink" title="应用文的整体认知"></a>应用文的整体认知</h2><blockquote>
@@ -884,227 +1105,6 @@
       <tags>
         <tag>学习笔记</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>password-generator(密码生成器)</title>
-    <url>/2024/09/19/password-generator/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote>
-<p>请注意：在本博客网站上，所有标注有“AI编程”标签(或分类)的文章，其源代码都不同程度地使用了人工智能技术。</p>
-</blockquote>
-<p>在这个信息迅速膨胀的时代，人工智能（AI）的重要性在众多领域和层面上日益凸显，标志着我们正处于一场技术革命的浪潮之中。</p>
-<p>AI的融入使得编程的门槛大大降低，即便是编程新手也能轻松体验编程带来的乐趣和成就感。</p>
-<p>在一些特定任务上，AI的能力已经超越了人类，特别是在进行大规模代码生成时，AI展现出的速度和精确度是人类难以企及的。以往，我们面对难题时可能会寻求教师或专家的指导；而现在，AI成为了我们新的智能顾问和合作伙伴。</p>
-<p>这个程序的创造是出于纯粹的兴趣驱动。我之所以选择了人工智能（AI）编程，是因为我目前还没有涉足Python的学习，毕竟我的专业领域并不在计算机科学。</p>
-<h1 id="password-generator"><a href="#password-generator" class="headerlink" title="password-generator"></a>password-generator</h1><ul>
-<li>一个使用python语言开发的、简易小巧的密码生成器。</li>
-<li>password-generator分为两个版本<ul>
-<li>web版功能简单，使用方便</li>
-<li>pc版有备份功能，磁盘占用小</li>
-</ul>
-</li>
-</ul>
-<h2 id="password-generator（web）"><a href="#password-generator（web）" class="headerlink" title="password-generator（web）"></a>password-generator（web）</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><ul>
-<li>github开源地址: <a href="https://github.com/BAILANDE/Password-generator">https://github.com/BAILANDE/Password-generator</a></li>
-<li>如需使用请移步password-generator主站（由于浏览器的安全设置或页面的权限策略可能导致“复制密码”按钮无法复制，手动复制还是可以的）</li>
-<li>演示网站1 <a href="https://password-generator.dingview.top/">https://password-generator.dingview.top/</a></li>
-<li>演示网站2 <a href="https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/">https://password-generator-git-main-dings-projects-ba804e9a.vercel.app/</a></li>
-</ul>
-<h3 id="基本功能"><a href="#基本功能" class="headerlink" title="基本功能"></a>基本功能</h3><ol>
-<li><p>这个密码生成器的基本功能包括：</p>
-<ul>
-<li><p>输入密码名称：用户可以输入想要的密码名称，以便在复制时使用。</p>
-</li>
-<li><p>选择密码长度：用户可以设置生成密码的长度。</p>
-</li>
-</ul>
-</li>
-<li><p>选择字符类型：</p>
-<ul>
-<li>小写字母</li>
-<li>大写字母</li>
-<li>数字</li>
-<li>特殊符号 用户可以勾选或取消勾选这些选项，以定制生成的密码。</li>
-<li>生成密码：点击“生成密码”按钮后，系统会根据用户的设置随机生成一个符合要求的密码，并显示在界面上。</li>
-</ul>
-</li>
-<li><p>复制密码：用户可以点击“复制密码”按钮，将生成的密码和密码名称以Markdown格式复制到剪贴板，方便后续使用。</p>
-</li>
-<li><p>提示信息：在密码复制成功或失败时，会显示提示信息，告知用户操作结果。</p>
-</li>
-</ol>
-<iframe src="https://password-generator.dingview.top/" scrolling="no" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"width="100%" height=550 ></iframe>
-
-<h2 id="password-generator（PC）"><a href="#password-generator（PC）" class="headerlink" title="password-generator（PC）"></a>password-generator（PC）</h2><h3 id="下载地址（附源代码）"><a href="#下载地址（附源代码）" class="headerlink" title="下载地址（附源代码）"></a>下载地址（附源代码）</h3><ul>
-<li>github地址：<a href="https://github.com/BAILANDE/Password-generator-pc">https://github.com/BAILANDE/Password-generator-pc</a></li>
-<li>其他下载地址：<ul>
-<li>蓝奏云：<a href="https://wweo.lanzouj.com/iOLh62al7w4h">点击跳转</a> 密码:2iki</li>
-</ul>
-</li>
-</ul>
-<h3 id="基本功能-1"><a href="#基本功能-1" class="headerlink" title="基本功能"></a>基本功能</h3><ul>
-<li>与web版基本一致，只有以下两点差别：<ul>
-<li>多了中文汉字和泰语字符选项（为了增加密码强度）</li>
-<li>有备份至github功能</li>
-</ul>
-</li>
-</ul>
-<h3 id="演示与使用教程"><a href="#演示与使用教程" class="headerlink" title="演示与使用教程"></a>演示与使用教程</h3><h4 id="演示视频"><a href="#演示视频" class="headerlink" title="演示视频"></a>演示<a href="https://www.bilibili.com/video/BV17xtDeKEHL?t=1.2">视频</a></h4><div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113180172880974&bvid=BV17xtDeKEHL&cid=25958483948&p=1&autoplay=0&muted=1" allowfullscreen></iframe>
-</div>
-
-<h4 id="图片教程"><a href="#图片教程" class="headerlink" title="图片教程"></a>图片教程</h4><blockquote>
-<p>使用备份功能首先需要一个GitHub账户，注册过程非常简单。如果遇到访问困难，可以尝试使用Watt Toolkit加速器来解决。点击<a href="https://steampp.net/">这里访问Watt Toolkit官网</a>。<br><a href="https://github.com/">点击这里跳转github官网</a></p>
-</blockquote>
-<ul>
-<li>教程开始<br><img src="/password_generator/1.png" alt="1"><br><img src="/password_generator/2.png" alt="1"><br><img src="/password_generator/3.png" alt="1"><br><img src="/password_generator/4.png" alt="1"><br><img src="/password_generator/5.png" alt="1"><br><img src="/password_generator/6.png" alt="1"><br><img src="/password_generator/7.png" alt="1"><br><img src="/password_generator/8.png" alt="1"><br><img src="/password_generator/9.png" alt="1"><br><img src="/password_generator/10.png" alt="1"><br><img src="/password_generator/11.png" alt="1"><br><img src="/password_generator/12.png" alt="1"><br><img src="/password_generator/13.png" alt="1"><br><img src="/password_generator/14.png" alt="1"><br><img src="/password_generator/15.png" alt="1"><br><img src="/password_generator/16.png" alt="1"><br><img src="/password_generator/17.png" alt="1"><br><img src="/password_generator/18.png" alt="1"><br><img src="/password_generator/19.png" alt="1"><br><img src="/password_generator/20.png" alt="1"></li>
-</ul>
-<p><a href="/password_generator/password_generator.pdf" target="_blank">点击下载PDF文件</a></p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><ul>
-<li>在实际操作过程中，对于像我这样不熟悉Python的人来说，代码编写并不是最大的挑战，因为kimi和gpt的高效能力大大节省了我们的时间。然而，在打包过程中，我遇到了一些琐碎的问题。尽管如此，我也并没有花费太多时间就成功解决了这些问题。 </li>
-<li>AI的能力确实令人印象深刻，但要正确并有效地利用它，持续学习是必不可少的。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>AI编程</category>
-      </categories>
-      <tags>
-        <tag>AI编程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>可编程序控制器技术与应用</title>
-    <url>/2024/09/07/PLC/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="可编程序控制器（PLC）"><a href="#可编程序控制器（PLC）" class="headerlink" title="可编程序控制器（PLC）"></a>可编程序控制器（PLC）</h1><blockquote>
-<p> 前言：本文是由Ding在大学课程“可编程序控制器技术与应用”一课整理的笔记，内容包括老师板书、教材资料和互联网资料（如有侵权请联系作者在24小时内删除），<strong>仅供参考</strong>。如有错误请在首页（关于页、评论区）联系作者指出。<br>本文所使用的软件为博途V16（TIA Portal V16），PLC设备为西门子PLC_1[CPU 1214C DC&#x2F;DC&#x2F;DC]</p>
-</blockquote>
-<h2 id="PLC的起源和诞生"><a href="#PLC的起源和诞生" class="headerlink" title="PLC的起源和诞生"></a>PLC的起源和诞生</h2><ul>
-<li><strong>起源</strong>：1968年，美国最大的汽车制造商<a href="https://baike.baidu.com/item/%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/556241"><strong>通用汽车公司</strong></a>为了适应生产工艺不断更新的需要，期望找到一种新的方法，尽可能减少重新设计继电控制系统和重新接线的工作，以降低成本、缩短周期，设想把计算机通用、灵活、功能完备等优点和继电控制系统的简单易懂、价格便宜等优点结合起来，制成一种通用控制装置，并把计算机的编程方法和程序输入方式加以简化，用面向控制过程、面向问题的“自然语言”进行编程，使不熟悉计算机的人也能方便地使用。</li>
-<li><strong>诞生</strong>：1969年，美国<a href="https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8/5559330#:~:text=%E7%BE%8E%E5%9B%BDDEC%E5%85%AC%E5%8F%B8%EF%BC%88%E5%8D%B3%E7%BE%8E%E5%9B%BD%E6%95%B0%E5%AD%97%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B1%E6%96%87%EF%BC%9ADigital%20Equipment%20Corporation%EF%BC%8C%E7%AE%80%E7%A7%B0DEC%EF%BC%89%E3%80%82%201998%E5%B9%B41%E6%9C%88DEC%E5%85%AC%E5%8F%B8%E8%A2%AB,%E5%BA%B7%E6%9F%8F%20%E4%BB%A596%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%94%B6%E8%B4%AD%EF%BC%8C2001%E5%B9%B4%20%E6%83%A0%E6%99%AE%20%E5%BA%B7%E6%9F%8F%E5%AE%A3%E5%B8%83%E5%90%88%E5%B9%B6%E3%80%82"><strong>美国数字设备公司</strong></a>研制出了第一台可编程序逻辑控制器PDP—14，在通用汽车公司的自动装配线上试用获得了成功。</li>
-</ul>
-<h2 id="PLC简介"><a href="#PLC简介" class="headerlink" title="PLC简介"></a>PLC简介</h2><ol>
-<li>可编程逻辑控制器（Programmable Logic Controller）简称PLC，最初只能进行计数、定时及开关量逻辑控制。<br>随着计算机技术的发展，可编程逻辑控制的功能不断扩展和完善，其功能远远超出了逻辑控制的范围，具有了PID、A&#x2F;D、D&#x2F;A、算术运算、数字量智能控制、监控、通信联网等多方面的功能，它已变成了实际意义上的一种工业控制计算机。</li>
-<li>于是，美国电器制造商协会将其正式命名为可编程序控制器（Programmable Controller），简称PC。</li>
-<li>由于它与<a href="https://baike.baidu.com/item/%E4%B8%AA%E4%BA%BA%E8%AE%A1%E7%AE%97%E6%9C%BA/3731770"><strong>个人计算机(Personal computer)</strong></a>的简称PC相同，所以人们习惯上仍将其称为<a href="https://baike.baidu.com/item/%E5%8F%AF%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%8E%A7%E5%88%B6%E5%99%A8/84414?fromtitle=PLC&fromid=275974"><strong>PLC</strong></a>。</li>
-</ol>
-<h2 id="PLC定义"><a href="#PLC定义" class="headerlink" title="PLC定义"></a>PLC定义</h2><ul>
-<li>1987年2月，国际电工委员会(IEC)对可编程控制器的定义是：1987年，国际电工委员会 (IEC)是这样定义可编程控制器的：“可编程控制器是一种数字运算操作的电子系统，专为在工业环境下应用而设计，它采用可编程序的存储器，用来在其内部存储执行逻辑运算、数序控制、定时、技术和算术运算等操作的指令，并通过数字式、模拟式的输入和输出，控制各种类型的机械或生产过程。</li>
-</ul>
-<h2 id="PLC的分类"><a href="#PLC的分类" class="headerlink" title="PLC的分类"></a>PLC的分类</h2><ol>
-<li>按结构特点分<ul>
-<li>整体式；：结构紧凑、体积小、价格低,小型PLC一般采用整体式结构</li>
-<li>模块式：配置灵活，可根据需要选配不同规模的系统，且装配便，便于扩展和维修，大、中型PLC一般采用模块式结构</li>
-</ul>
-</li>
-<li>按控制规模分<ul>
-<li>微型:I&#x2F;0点数小于64</li>
-<li>小型:I&#x2F;0点数64-256</li>
-<li>中型:I&#x2F;0点数256-1024</li>
-<li>大型:I&#x2F;0点数1024以上</li>
-</ul>
-</li>
-<li>按控制性能分<ul>
-<li>低档机</li>
-<li>中档机</li>
-<li>高档机</li>
-</ul>
-</li>
-</ol>
-<h2 id="PLC应用"><a href="#PLC应用" class="headerlink" title="PLC应用"></a>PLC应用</h2><ol>
-<li>数字量控制</li>
-<li>运动量控制</li>
-<li>闭环过程控制</li>
-<li>数据处理</li>
-<li>通信联网</li>
-</ol>
-<h2 id="PLC基本结构"><a href="#PLC基本结构" class="headerlink" title="PLC基本结构"></a>PLC基本结构</h2><ul>
-<li>CPU,电源，储存器和输入输出接口电路等组成（其硬件组成与微型计算机相似。）</li>
-</ul>
-<h2 id="PLC特点"><a href="#PLC特点" class="headerlink" title="PLC特点"></a>PLC特点</h2><ul>
-<li>（可编程逻辑控制器）的特点包括：<ol>
-<li>编程方法简单易学</li>
-<li>功能强，性能价格比高</li>
-<li>硬件配套齐全，用户使用方便，适应性强</li>
-<li>可靠性高，抗干扰能力强</li>
-<li>系统的设计、安装、调试工作量少</li>
-<li>维修工作量小，维修方便</li>
-<li>体积小，能耗低</li>
-</ol>
-</li>
-</ul>
-<h2 id="PLC基本编程语言"><a href="#PLC基本编程语言" class="headerlink" title="PLC基本编程语言"></a>PLC基本编程语言</h2><ol>
-<li>梯形图</li>
-<li>语句表</li>
-<li>功能块图</li>
-<li>顺序功能图</li>
-<li>结构文本</li>
-</ol>
-<h2 id="PLC控制系统示意图"><a href="#PLC控制系统示意图" class="headerlink" title="PLC控制系统示意图"></a>PLC控制系统示意图</h2><p><img src="/img/PLC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="PLC控制系统示意图"></p>
-<h2 id="PLC工作原理"><a href="#PLC工作原理" class="headerlink" title="PLC工作原理"></a>PLC工作原理</h2><p><img src="/img/PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt="PLC工作原理"></p>
-<ul>
-<li><strong>扫描周期</strong>：PLC在RUN工作状态时，执行一次扫描过程所需的时间称为扫描周期，典型值为1～l00ms</li>
-</ul>
-<h1 id="S7-1200-PLC-简介"><a href="#S7-1200-PLC-简介" class="headerlink" title="S7-1200 PLC 简介"></a>S7-1200 PLC 简介</h1><ol>
-<li><p>S7-1200 PLC (Programmable Logic Controller) 是西门子公司推出的一款PLC，主要面向简单而高精度的自动化任务。S7-1200设计紧凑、组态灵活且具有功能强大的指令集，这些特点的组合使它成为控制各种应用的完美解决方案。CPU将微处理器、集成电源、输入电路和输出电路组合到一个设计紧凑的外壳中以形成功能强大的PLC。CPU根据用户程序逻辑监视输入并更改输出，用户程序可以包含布尔逻辑、计数、定时、复杂数学运算以及与其它智能设备的通信。</p>
-</li>
-<li><p>目前S7-1200 PLC有四种CPU型号:1211C、1212C、1214C、1215C，<a href="https://www.ad.siemens.com.cn/productportal/prods/s7-1200_plc_easy_plus/04-version/01-Specification/S7-1200_New_Para.html">点击跳转查看具体参数</a></p>
-</li>
-<li><p>S7-1200 PLC 最多可以扩展8个信号模块和3个通信模块，最大本地数字I&#x2F;O点数为284个最大本地模拟I&#x2F;O点数为69个S7-1200中央机架最大扩展8个数字量和模拟量模块，如果超过该数量可通过PROFIBUS或PROFINET扩展分布式I&#x2F;O系统，将过程信号连接到S7-1200控制器。CPU类型决定最多可扩展的模块数量，CPU1211C不能扩展，CPU1212C可扩展2个，CPU1214C 可扩展8个。</p>
-</li>
-<li><p>S7-1200视频展示</p>
-<ul>
-<li><a href="https://www.bilibili.com/video/BV1nzpzeFE8U?t=9.3"><strong>点我跳转b站视频</strong>，精准空降（作者实力有限，站内播放可能会有小问题，希望理解）</a></li>
-</ul>
-</li>
-</ol>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113103048082794&bvid=BV1nzpzeFE8U&cid=25792743879&p=1&autoplay=0" allowfullscreen></iframe>
-</div>
-
-<ol start="3">
-<li>这里奉上一份S7-1200系统手册<br><a href="/PLC/s71200_system_manual_zh-CHS_zh-CHS.pdf" target="_blank">点击下载PDF文件</a></li>
-</ol>
-<h1 id="博途V16（TIA-Portal-V16）PLC编程入门"><a href="#博途V16（TIA-Portal-V16）PLC编程入门" class="headerlink" title="博途V16（TIA Portal V16）PLC编程入门"></a>博途V16（TIA Portal V16）PLC编程入门</h1><blockquote>
-<p>软件介绍：博途V16（TIA Portal V16）是西门子推出的自动化软件，用于编程、配置和维护自动化系统。它支持多种编程语言，提供统一的工程环境，简化了自动化设备的配置和维护工作。它还包含了一些新功能，如增强的指令集和改进的仿真工具，帮助工程师更高效地完成自动化任务。（目前最高版本为v19）</p>
-</blockquote>
-<h2 id="PLC组态"><a href="#PLC组态" class="headerlink" title="PLC组态"></a>PLC组态</h2><ol>
-<li>在使用博途V16（TIA Portal V16）进行初次操作时，需要创建一个新的项目文件，并对设备进行配置。请确保配置的设备型号与实际的硬件设备相匹配。如果您不确定具体的PLC硬件型号，可以选择一个非特定的CPU型号作为起点。之后，通过点击“获取连接设备的组态”，系统将自动检测并配置PLC。请注意，这一步骤的前提是您必须连接了实际的PLC硬件。</li>
-</ol>
-<p><img src="/PLC/%E9%9D%9E%E7%89%B9%E5%AE%9ACPU.jpg" alt="非特定的CPU"></p>
-<p><img src="/PLC/%E8%8E%B7%E5%8F%96%E7%9B%B8%E8%BF%9E%E8%AE%BE%E5%A4%87%E7%9A%84%E7%BB%84%E6%80%81.jpg" alt="获取相连设备的组态"></p>
-<ol start="2">
-<li><p>在组态完成后，就可以编写程序了，在以下的笔记中会逐步讲解博途V16（TIA Portal V16）中的指令以及其他内容。</p>
-</li>
-<li><p>在完成组态设置后，打开项目视图。在左侧的项目树中，您会看到已经配置好的设备，例如这里的“PLC_1[CPU 1214C DC&#x2F;DC&#x2F;DC]”。只需双击该设备，就可以查看其程序块。在程序块列表中，找到并双击“main[OB1]”，即可进入主程序块，开始编程工作。</p>
-</li>
-<li><p>可以参考此视频简单了解博途V16软件的界面和基本功能，感谢b站up主电工鼠</p>
-</li>
-</ol>
-<p><a href="https://space.bilibili.com/1061641039">点击跳转此up主的主页</a><br><a href="https://www.bilibili.com/video/BV1dW4y1W7UT?t=60.2">点击跳转此视频主页</a></p>
-<div class="video-container">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=945485174&bvid=BV1dW4y1W7UT&cid=900689965&p=1&autoplay=0" allowfullscreen></iframe>
-</div>
-
-<blockquote>
-<p>关于PLC与电脑的连接方式？<br>PLC（可编程逻辑控制器）与电脑的连接方式主要有以下几种：</p>
-<ol>
-<li><strong>串口连接</strong>：通过RS-232或RS-485串行端口进行连接。如果电脑有COM口，可以直接使用串口线连接PLC和电脑。如果电脑没有COM口，可以使用USB转串口的转换器进行连接。</li>
-<li><strong>以太网连接</strong>：通过工业以太网连接PC和PLC。这通常涉及到使用网线将电脑的以太网端口与PLC的以太网端口相连。连接后，需要设置电脑的IP地址，确保与PLC的IP地址在同一网段，并且选择一个未使用的IP地址以避免冲突。</li>
-<li><strong>无线连接</strong>：一些现代PLC支持无线连接，可以通过Wi-Fi与电脑建立连接。这通常需要在PLC和电脑上配置相应的无线网络设置。</li>
-<li><strong>USB连接</strong>：某些PLC支持通过USB接口与电脑连接，这种情况下需要使用USB到PLC通信口的专用电缆，并可能需要在电脑上安装相应的驱动程序。<br>在连接PLC与电脑时，还需要考虑通信协议的设置，如Modbus、Profinet等，确保PLC和电脑端的通信参数（如波特率、数据位、停止位等）匹配。连接成功后，可以通过专用的软件（如STEP7、TIA Portal、SoMachine等）进行程序的上传、下载、监控和调试。<br>在我的实际操作过程中，电脑与PLC连接主要使用以太网连接（<a href="https://baike.baidu.com/item/Profinet/2310540">Profinet</a>）</li>
-</ol>
-<p>如果没有真实的PLC硬件怎么办？<br>博途V16（TIA Portal V16）拥有仿真、强制表、监控表等功能，可以辅助我们学习PLC</p>
-<p>在西门子PLC中，”I”、”Q”和”M”分别是什么？<br>I”、”Q”和”M”是三种不同类型的存储区，它们在编程和控制过程中扮演着重要的角色：</p>
-<ol>
-<li><strong>I存储区</strong>：代表输入存储区（Input），用于接收外部信号，如传感器、按钮、开关等设备的信号。这些信号可以是数字量或模拟量，PLC通过这些输入信号来感知外部环境的状态变化，并根据程序逻辑进行相应的控制操作。</li>
-<li><strong>Q存储区</strong>：代表输出存储区（Output），用于提供电平信号，控制执行器、继电器、电机等设备的工作。PLC通过输出存储区来对外部设备进行控制，实现自动化控制系统的目标。</li>
-<li><strong>M存储区</strong>：代表中间存储区（Memory Bit），是PLC内部的位寄存器，用于存储程序中的中间结果、计数器、定时器等信息。在编程时，M位通常用于标志位，实现程序中的逻辑运算、计数、定时等功能。<br>这些存储区在PLC编程和控制中非常重要，它们使得PLC能够灵活地处理输入信号、控制输出设备，并存储和处理程序运行中的中间数据。掌握I、Q、M的概念和应用对于PLC编程工程师来说是基础知识。<br><em><strong>另外在编程过程中，建议先把 I”、”Q”和”M”先填入变量表，并写清楚名称，方便后期编写程序。另外，在程序段中也应该填写相应注释</strong></em></li>
-</ol>
-</blockquote>
-<h2 id="入门案例"><a href="#入门案例" class="headerlink" title="入门案例"></a>入门案例</h2><blockquote>
-<p>由于笔记内容繁多，不利于直接阅读，因此所有笔记均以压缩包格式提供。</p>
-</blockquote>
-<p>1. </p>
-]]></content>
   </entry>
   <entry>
     <title>《数控车床与加工工艺》笔记</title>
@@ -1500,13 +1500,272 @@
   </entry>
   <entry>
     <title>数控车床复习题</title>
-    <url>/2024/12/09/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A%E5%A4%8D%E4%B9%A0%E9%A2%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="复习题"><a href="#复习题" class="headerlink" title="复习题"></a>复习题</h1><h2 id="简答题"><a href="#简答题" class="headerlink" title="简答题"></a>简答题</h2><ol>
+    <url>/2024/12/09/%E6%95%B0%E6%8E%A7%E8%BD%A6%E5%BA%8A%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E9%A2%98/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="复习题"><a href="#复习题" class="headerlink" title="复习题"></a>复习题</h1><h2 id="A卷题"><a href="#A卷题" class="headerlink" title="A卷题"></a>A卷题</h2><h3 id="选择题"><a href="#选择题" class="headerlink" title="选择题"></a>选择题</h3><p>单项选择题（每题2分，共30分）</p>
+<ol>
+<li><p>零件加工螺纹时，F指(B)</p>
+<ul>
+<li>A. 螺距</li>
+<li>B. 导程</li>
+<li>C. 根据主轴转速和螺纹导程计算出的进给速度</li>
+<li>D. 任意</li>
+</ul>
+</li>
+<li><p>全闭环控制系统的位置反馈元件应（B）</p>
+<ul>
+<li>A. 装在电机轴上</li>
+<li>B. 装在执行部件上</li>
+<li>C. 装在传动丝杆上</li>
+<li>D. 不需要位置</li>
+</ul>
+</li>
+<li><p>一个完整的程序由(D)、程序内容和程序结束三部分组成。</p>
+<ul>
+<li>A. 程序序号</li>
+<li>B. 程序字</li>
+<li>C. 程序段号</li>
+<li>D. 程序号</li>
+</ul>
+</li>
+<li><p>数控机床的主轴轴线平行于（B）</p>
+<ul>
+<li>A. X轴</li>
+<li>B. Z轴</li>
+<li>C. Y轴</li>
+<li>D. C轴</li>
+</ul>
+</li>
+<li><p>数控机床坐标轴的正方向规定为（A）</p>
+<ul>
+<li>A. 增大工件和刀具之间的距离的方向</li>
+<li>B. 减小工件和刀具之间的距离的方向</li>
+<li>C. 刀具接近工件的方向</li>
+<li>D. 任意方向</li>
+</ul>
+</li>
+<li><p>在数控机床坐标系中，Y坐标轴（C）于X.Z坐标轴</p>
+<ul>
+<li>A. 对称</li>
+<li>B. 交叉</li>
+<li>C. 垂直</li>
+<li>D. 平行</li>
+</ul>
+</li>
+<li><p>确定数控机床坐标轴时，一般应该先确定（C）</p>
+<ul>
+<li>A. X轴</li>
+<li>B. Y轴</li>
+<li>C. Z轴</li>
+<li>D. C轴</li>
+</ul>
+</li>
+<li><p>对于径向尺寸要求比较高，轮廓形状单调递增，轴向切削尺寸大于径向切削尺寸的毛坯类下件进行车削循环。加工时，采用(A) 指令编程合适。</p>
+<ul>
+<li>A. G71</li>
+<li>B. G72</li>
+<li>C. G74</li>
+<li>D. G75</li>
+</ul>
+</li>
+<li><p>数控机床坐标系按坐标值读法不同可分为（A）和相对坐标值两类</p>
+<ul>
+<li>A. 绝对坐标值</li>
+<li>B. 标准坐标值</li>
+<li>C. 参考坐标值</li>
+<li>D. 增量坐标值</li>
+</ul>
+</li>
+<li><p>在绝对坐标系中，刀具(或机床)运动轨迹的坐标值是以(C) 设定。</p>
+<ul>
+<li>A. 前一位置</li>
+<li>B. 后一位置</li>
+<li>C. 原点</li>
+<li>D. 相邻的位置</li>
+</ul>
+</li>
+</ol>
+<p>多项选择题（每题2分，共30分）</p>
+<ol>
+<li><p>下列程序号的格式正确的是(AD)。</p>
+<ul>
+<li>A. G04 X1.5</li>
+<li>B. G04P1.5</li>
+<li>C. G04Q1.5</li>
+<li>D. G04U1.5</li>
+</ul>
+</li>
+<li><p>在右手直角笛卡儿坐标系中，用手指尖确定(ABC)的正方向。</p>
+<ul>
+<li>A. X轴</li>
+<li>B. Y轴</li>
+<li>C. Z轴</li>
+<li>D. U轴</li>
+</ul>
+</li>
+<li><p>机床某一部件运动的正方向，下列叙述正确的是(AB)。</p>
+<ul>
+<li>A. 增大工件和刀具之间的距离的方向</li>
+<li>B. 刀具远离工件的方向</li>
+<li>C. 减小工件和刀具之间的距离的方向</li>
+<li>D. 刀具靠近工件的方向</li>
+</ul>
+</li>
+<li><p>数控机床书写坐标值的方式有(AB)。</p>
+<ul>
+<li>A. 绝对坐标方式</li>
+<li>B. 相对坐标方式</li>
+<li>C. 原点方式</li>
+<li>D. 参考方式</li>
+</ul>
+</li>
+<li><p>工件坐标系原点的选择原则是（ABC）</p>
+<ul>
+<li>A. 设计基准</li>
+<li>B. 工艺基准</li>
+<li>C. 对称中心</li>
+<li>D. 任意位置</li>
+</ul>
+</li>
+<li><p>指令S后的数字的单位为（BC）</p>
+<ul>
+<li>A. r&#x2F;s</li>
+<li>B. mm&#x2F;min</li>
+<li>C. r&#x2F;min</li>
+<li>D. r&#x2F;h</li>
+</ul>
+</li>
+<li><p>数控编程的步骤一般包括分析零件图样和工艺处理、(AB)、输入数控系统、程序检验和首件试加工。</p>
+<ul>
+<li>A. 数学计算</li>
+<li>B. 编写程序单</li>
+<li>C. 对刀</li>
+<li>D. 设定切削用量</li>
+</ul>
+</li>
+<li><p>工件相对于刀具运动的数控机床有(AB)。</p>
+<ul>
+<li>A. 数控铣床</li>
+<li>B. 加工中心</li>
+<li>C. 数控车床</li>
+<li>D. 数控磨床</li>
+</ul>
+</li>
+<li><p>用于程序结束的指令是(ABD)。</p>
+<ul>
+<li>A. M02</li>
+<li>B. M30</li>
+<li>C. M99</li>
+<li>D. M05</li>
+</ul>
+</li>
+<li><p>指令T0102的含义是(AB)。</p>
+<ul>
+<li>A. 01表示刀号</li>
+<li>B. 02表示刀补号</li>
+<li>C. 02表示刀号</li>
+<li>D. 01表示刀补号</li>
+</ul>
+</li>
+<li><p>下列叙述正确的是(AC)。</p>
+<ul>
+<li>A. 子程序执行完毕后返回主程序</li>
+<li>B. 可以有多个主程序</li>
+<li>C. 可以有多个子程序</li>
+<li>D. 子程序可以调用主程序</li>
+</ul>
+</li>
+<li><p>直线插补指令G01可以用来(ABC)。</p>
+<ul>
+<li>A. 编写孔加工程序</li>
+<li>B. 编写平面加工程序</li>
+<li>C. 编写端面加工程序</li>
+<li>D. 编写螺纹加工程序</li>
+</ul>
+</li>
+<li><p>若数控机床暂停3s,数控编程指令正确的是(AD)。</p>
+<ul>
+<li>A. G04X3</li>
+<li>B. G04X300</li>
+<li>C. G04P300</li>
+<li>D. G04P3000</li>
+</ul>
+</li>
+<li><p>程序编程中关于绝对坐标与增量坐标指令叙述错误的是(ABD)。</p>
+<ul>
+<li>A. 程序中只能用指令G90</li>
+<li>B. 程序中只能用指令G91</li>
+<li>C. 指令G90、G91在同一个程序可以混合使用</li>
+<li>D. 子程序中不可以使用指令G91</li>
+</ul>
+</li>
+<li><p>数控机床上用来表示程序停止的指令是(AD)。</p>
+<ul>
+<li>A. M02</li>
+<li>B. M20</li>
+<li>C. M03</li>
+<li>D. M30</li>
+</ul>
+</li>
+</ol>
+<h3 id="判断题"><a href="#判断题" class="headerlink" title="判断题"></a>判断题</h3><ol>
+<li><p>在编制加工程序时，程序段号可以不写<br>答案：正确</p>
+</li>
+<li><p>T0101表示选用第一号刀，使用第一号刀具位置补偿值<br>答案：正确</p>
+</li>
+<li><p>一个程序段内只允许有一个M指令<br>答案：正确</p>
+</li>
+<li><p>数控车圆弧加工编程，既可以用圆心编程也可以用半径编程<br>答案：正确</p>
+</li>
+<li><p>数控编程中既可以用绝对值编程，也可以用增量值编程<br>答案：正确</p>
+</li>
+<li><p>FANUC 有些系统中，程序“G01Z-20.0F0.4”是一正确的程序段<br>答案：正确</p>
+</li>
+<li><p>在FANUC 数控车上指令G00X _ W _是正确的书写格式<br>答案：正确</p>
+</li>
+<li><p>复合固定循环应用于非一次加工即能加工到规定尺寸的情况<br>答案：正确</p>
+</li>
+<li><p>加工圆锥面的指令“G90 X _ Z _ R _ F _ ”中，R 为切削起点与圆锥面切削终点的半径差。<br>答案：正确</p>
+</li>
+<li><p>加工圆锥面的指令“G90 X _ Z _ R _ F _ ”中，R 不可以为负数<br>答案：错误</p>
+</li>
+<li><p>G01 、G02 、G03 、G04都是模态指令<br>答案：错误</p>
+</li>
+<li><p>G32 指令功能为螺纹切削加工，只能加工圆柱螺纹<br>答案：错误</p>
+</li>
+<li><p>车螺纹时，必须设置升速段和降速段<br>答案：正确</p>
+</li>
+<li><p>螺纹期间的进给速度倍率、主轴速度倍率有效<br>答案：错误</p>
+</li>
+<li><p>螺纹加工的进给次数和背吃刀量会直接影响螺纹的加工质量<br>答案：正确</p>
+</li>
+<li><p>G92 指令只能加工圆锥螺纹<br>答案：错误</p>
+</li>
+<li><p>G32 指令是FANUC 系统中用于加工螺纹的单一固定循环指令<br>答案：错误</p>
+</li>
+<li><p>如果在单段方式下执行G92 循环，则每执行一次必须按4 次循环启动按钮<br>答案：错误</p>
+</li>
+<li><p>FANUC系统中，G76 指令只能用于圆柱螺纹的加工，不能用于圆锥螺纹的加工<br>答案：错误</p>
+</li>
+<li><p>开环数控系统使用的电机为伺服电机，其精度取决于伺服电机的精度。<br>答案：错误</p>
+</li>
+</ol>
+<h3 id="简答题"><a href="#简答题" class="headerlink" title="简答题"></a>简答题</h3><ol>
 <li><p>数控车床私服系统控制方式分为哪三类?<br>开环控制方式，闭环控制方式，半闭环控制方式<br>开环用在经济型数控车床。<br>闭环用在高精度车床。<br>半闭环介于两者之间，用于精度较高的场合。</p>
 </li>
 <li><p>什么是零件加工路线？确定加工的路线原则?<br>加工路线指数控机床加工过程中刀具到刀位点相对于被加工零件的移动轨迹和运动方向<br> 原则是保证零件加工精度和表面粗糙度的要求，尽量缩短加工路线，减少刀具空移动时间 应使数值简单，程序段少，以减少编程时间</p>
 </li>
 </ol>
+<h2 id="编程题"><a href="#编程题" class="headerlink" title="编程题"></a>编程题</h2><ol>
+<li><p><img src="/img/shukong.png" alt="第六大题"></p>
+</li>
+<li><p>对应程序</p>
+</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">O0001</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+
 ]]></content>
   </entry>
 </search>
