@@ -2569,6 +2569,16 @@ figure.highlight pre .javascript .function {
     width: 100% !important;
   }
 }
+@media screen and (min-width: 900px) {
+  .layout > div:first-child {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -o-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+}
 .layout.hide-aside {
   max-width: 1000px;
 }
@@ -3501,7 +3511,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (min-width: 900px) {
   #aside-content {
-    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 @media screen and (max-width: 900px) {
@@ -4355,9 +4365,13 @@ figure.highlight pre .javascript .function {
   padding: 40px 20px;
   width: 100%;
   text-align: center;
+  padding: 10px 8px;
+  background-color: rgba(0,0,0,0.1);
 }
-#footer .footer-other .framework-info {
-  display: block;
+#footer .footer-other .copyright,
+#footer .footer-other .framework-info,
+#footer .footer-other .footer_custom_text {
+  font-size: 0.9em;
 }
 #page-header {
   position: relative;
