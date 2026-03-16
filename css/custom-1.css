@@ -1,0 +1,114 @@
+/* =========================================
+   Keep Theme Custom Style
+   自定义样式（推荐方式：覆盖 CSS 变量）
+   ========================================= */
+
+
+/* =========================================
+   1. 加载字体
+   使用 CDN 加载 LXGW WenKai（霞鹜文楷）
+   保证 PC / iOS / Android 显示一致
+   ========================================= */
+
+@import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.6.0/style.css");
+
+
+
+/* =========================================
+   2. 覆盖 Keep 主题全局变量
+   官方推荐方式：修改 CSS Variables
+   ========================================= */
+
+:root {
+
+    /* 全站字体 */
+    --base-font-family: "LXGW WenKai", serif;
+
+    /* 基础字体大小 */
+    --base-font-size: 18px;
+
+}
+
+
+
+/* =========================================
+   3. 文章阅读优化
+   ========================================= */
+
+.keep-markdown-body {
+
+    /* 行高优化（阅读更舒服） */
+    line-height: 1.8;
+
+    /* 字距微调 */
+    letter-spacing: 0.02em;
+
+}
+
+
+
+/* =========================================
+   4. Markdown 标题大小
+   调整标题层级，使层次更清晰
+   ========================================= */
+
+.keep-markdown-body h1 { font-size: 38px; }
+
+.keep-markdown-body h2 { font-size: 34px; }
+
+.keep-markdown-body h3 { font-size: 30px; }
+
+.keep-markdown-body h4 { font-size: 26px; }
+
+.keep-markdown-body h5 { font-size: 22px; }
+
+.keep-markdown-body h6 { font-size: 20px; }
+
+
+
+/* =========================================
+   5. 标题上下间距优化
+   ========================================= */
+
+.keep-markdown-body h1,
+.keep-markdown-body h2,
+.keep-markdown-body h3,
+.keep-markdown-body h4,
+.keep-markdown-body h5,
+.keep-markdown-body h6 {
+
+    margin-top: 1.4em;
+    margin-bottom: 0.6em;
+
+}
+
+
+
+/* =========================================
+   6. 段落间距优化
+   ========================================= */
+
+.keep-markdown-body p {
+
+    margin: 1em 0;
+
+}
+
+
+
+/* =========================================
+   7. 首页一言（Hitokoto）字体统一
+   防止被组件默认字体覆盖
+   ========================================= */
+
+.first-screen-description,
+.first-screen-hitokoto,
+#hitokoto {
+
+    font-family: var(--base-font-family);
+
+}
+
+:root {
+    --box-border-radius: 20px;
+}
