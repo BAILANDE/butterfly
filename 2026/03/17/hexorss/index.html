@@ -304,7 +304,7 @@
             
                 <span class="meta-info-item post-update-date">
                     <i class="icon fa-solid fa-file-pen"></i>&nbsp;
-                    <span class="datetime" data-updated="Tue Mar 17 2026 15:51:58 GMT+0800">2026-03-17 15:51:58</span>
+                    <span class="datetime" data-updated="Tue Mar 17 2026 16:36:28 GMT+0800">2026-03-17 16:36:28</span>
                 </span>
             
         
@@ -334,12 +334,12 @@
         
         
             <span class="meta-info-item post-wordcount">
-                <i class="icon fas fa-file-word"></i>&nbsp;<span>271 字</span>
+                <i class="icon fas fa-file-word"></i>&nbsp;<span>599 字</span>
             </span>
         
         
             <span class="meta-info-item post-min2read">
-                <i class="icon fas fa-clock"></i>&nbsp;<span>1 分钟</span>
+                <i class="icon fas fa-clock"></i>&nbsp;<span>2 分钟</span>
             </span>
         
         
@@ -361,44 +361,84 @@
                     
 
                     
-                         <h2 id="问题简述"><a href="#问题简述" class="headerlink" title="问题简述"></a>问题简述</h2><p>在使用 Hexo 搭建博客并开启 RSS 订阅后，我遇到了一系列非常“玄学”的问题：</p>
+                         <h2 id="问题简述"><a href="#问题简述" class="headerlink" title="问题简述"></a>问题简述</h2><blockquote>
+<p>(如果您的hexo静态博客还没有开启RSS订阅功能，请点此获取指南)[]<br>在使用 Hexo 搭建博客并开启 RSS 订阅后，我遇到了一些非常“玄学”的问题：</p>
+</blockquote>
 <ol>
-<li>删除文章后，RSS 里还存在。</li>
-<li>修改作者信息后，并没有覆盖，出现两篇文章，两个作者。</li>
-<li>RSS 内容和网站不一致。</li>
+<li>删除文章后，RSS 中仍然存在</li>
+<li>修改作者信息后，没有覆盖旧内容，反而出现两条记录（不同作者）</li>
+<li>RSS 内容与网站实际内容不一致</li>
 </ol>
 <blockquote>
-<p>这篇文章就是一份完整的解决方案，帮你一次性彻底搞定。</p>
+<p>看起来像是 Hexo 没更新，但其实问题并不在 Hexo 本身。</p>
 </blockquote>
-<h2 id="问题原因"><a href="#问题原因" class="headerlink" title="问题原因"></a>问题原因</h2><p>核心原因只有一个：</p>
+<hr>
+<h2 id="问题原因"><a href="#问题原因" class="headerlink" title="问题原因"></a>问题原因</h2><p>核心原因其实只有一个：</p>
 <blockquote>
-<p>❗ 缓存</p>
+<p>❗ 缓存（Cache）</p>
 </blockquote>
-<p>具体表现为：</p>
+<p>常见的缓存来源包括：</p>
 <ol>
-<li><p>浏览器缓存了旧的 RSS 文件</p>
+<li><p><strong>浏览器缓存</strong><br>浏览器可能缓存了旧的 RSS 文件（如 <code>atom.xml</code>）</p>
 </li>
-<li><p>RSS 阅读器没有及时刷新</p>
+<li><p><strong>RSS 阅读器缓存</strong><br>很多 RSS 客户端刷新频率较低，甚至会长期缓存旧数据</p>
 </li>
-<li><p>本地访问时读取的是旧版本</p>
+<li><p><strong>CDN &#x2F; 本地缓存</strong><br>如果使用了 CDN（如 GitHub Pages &#x2F; Cloudflare），也可能存在缓存延迟</p>
 </li>
 </ol>
+<hr>
 <p>需要明确一点：</p>
-<p>Hexo 每次生成的 RSS 一定是最新的,看到的不更新，是可能是因为<strong>访问了“旧缓存”</strong></p>
-<h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>解决办法：</p>
-<p>修改原始路径：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom.xml</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>为：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom2.xml</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>✅ Hexo 每次执行生成（<code>hexo g</code>）时，RSS 文件一定是最新的<br>❗ 你看到的“旧内容”，几乎都是缓存导致的</p>
+</blockquote>
+<hr>
+<h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>最简单粗暴、同时也是<strong>最有效</strong>的方法：</p>
+<blockquote>
+<p>👉 <strong>修改 RSS 文件路径，绕过所有缓存</strong></p>
+</blockquote>
+<h3 id="修改配置文件"><a href="#修改配置文件" class="headerlink" title="修改配置文件"></a>修改配置文件</h3><p>编辑hexo根目录的<code>_config.yml</code>（不是 <code>.xml</code>，也不是主题的<code>_config.yml</code>，请注意）：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">atom</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span></span><br></pre></td></tr></table></figure>
 
-<p>或者什么路径都行。<br>然后执行：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+<p>修改为：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">atom</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom2.xml</span></span><br></pre></td></tr></table></figure>
 
-<p>然后RSS订阅地址就更新为：</p>
+<p>（路径可以随意，例如 <code>feed.xml</code>、<code>rss.xml</code> 等）</p>
+<hr>
+<h3 id="重新生成并部署"><a href="#重新生成并部署" class="headerlink" title="重新生成并部署"></a>重新生成并部署</h3><p>执行：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="使用新的订阅地址"><a href="#使用新的订阅地址" class="headerlink" title="使用新的订阅地址"></a>使用新的订阅地址</h3><p>新的 RSS 地址变为：</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://www.example.com/atom2.xml</span><br></pre></td></tr></table></figure>
 
-<h2 id="最后附上我的RSS地址"><a href="#最后附上我的RSS地址" class="headerlink" title="最后附上我的RSS地址"></a>最后附上我的RSS地址</h2><p><a href="https://www.dingview.top/atom.xml">https://www.dingview.top/atom.xml</a></p>
-<p><strong>感谢订阅</strong></p>
+<p>重新添加到你的 RSS 阅读器即可。</p>
+<hr>
+<h2 id="关于-RSS-的一些建议"><a href="#关于-RSS-的一些建议" class="headerlink" title="关于 RSS 的一些建议"></a>关于 RSS 的一些建议</h2><h3 id="不要频繁更换地址"><a href="#不要频繁更换地址" class="headerlink" title="不要频繁更换地址"></a>不要频繁更换地址</h3><p>RSS 地址一旦更换，已有订阅基本会失效。<br>👉 只有在缓存严重问题时再修改路径。</p>
+<hr>
+<h3 id="使用标准路径"><a href="#使用标准路径" class="headerlink" title="使用标准路径"></a>使用标准路径</h3><p>推荐使用：</p>
+<ul>
+<li><code>atom.xml</code>（首选）</li>
+<li><code>rss.xml</code></li>
+<li><code>feed.xml</code></li>
+</ul>
+<p>对 RSS 阅读器以及 Google、Microsoft Bing 更友好。</p>
+<hr>
+<h3 id="更新后记得清缓存"><a href="#更新后记得清缓存" class="headerlink" title="更新后记得清缓存"></a>更新后记得清缓存</h3><p>很多问题不是 RSS，而是 Hexo 本地缓存：</p>
+<figure class="highlight bash"><figcaption><span>id</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="避免重复文章"><a href="#避免重复文章" class="headerlink" title="避免重复文章"></a>避免重复文章</h3><p>不要随意修改：</p>
+<ul>
+<li>永久链接（文章的固定网址）</li>
+<li>文章路径</li>
+</ul>
+<p>否则 RSS 可能识别为新文章，出现重复。</p>
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><blockquote>
+<p><strong>RSS 出问题，90% 是缓存问题，10% 是配置问题。</strong></p>
+</blockquote>
+<h2 id="最后附上我的-RSS-地址"><a href="#最后附上我的-RSS-地址" class="headerlink" title="最后附上我的 RSS 地址"></a>最后附上我的 RSS 地址</h2><p>👉 <a href="https://www.dingview.top/atom.xml">https://www.dingview.top/atom.xml</a></p>
+<p><strong>欢迎订阅</strong></p>
 
                     
                 </div>
@@ -618,7 +658,7 @@
             <div class="pc-post-toc left-toc">
                 <div class="post-toc-wrap border-box">
     <div class="post-toc border-box">
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E7%AE%80%E8%BF%B0"><span class="nav-number">1.</span> <span class="nav-text">问题简述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E5%8E%9F%E5%9B%A0"><span class="nav-number">2.</span> <span class="nav-text">问题原因</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95"><span class="nav-number">3.</span> <span class="nav-text">解决办法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%80%E5%90%8E%E9%99%84%E4%B8%8A%E6%88%91%E7%9A%84RSS%E5%9C%B0%E5%9D%80"><span class="nav-number">4.</span> <span class="nav-text">最后附上我的RSS地址</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E7%AE%80%E8%BF%B0"><span class="nav-number">1.</span> <span class="nav-text">问题简述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E5%8E%9F%E5%9B%A0"><span class="nav-number">2.</span> <span class="nav-text">问题原因</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95"><span class="nav-number">3.</span> <span class="nav-text">解决办法</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6"><span class="nav-number">3.1.</span> <span class="nav-text">修改配置文件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%87%8D%E6%96%B0%E7%94%9F%E6%88%90%E5%B9%B6%E9%83%A8%E7%BD%B2"><span class="nav-number">3.2.</span> <span class="nav-text">重新生成并部署</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8%E6%96%B0%E7%9A%84%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80"><span class="nav-number">3.3.</span> <span class="nav-text">使用新的订阅地址</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B3%E4%BA%8E-RSS-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE"><span class="nav-number">4.</span> <span class="nav-text">关于 RSS 的一些建议</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8D%E8%A6%81%E9%A2%91%E7%B9%81%E6%9B%B4%E6%8D%A2%E5%9C%B0%E5%9D%80"><span class="nav-number">4.1.</span> <span class="nav-text">不要频繁更换地址</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8%E6%A0%87%E5%87%86%E8%B7%AF%E5%BE%84"><span class="nav-number">4.2.</span> <span class="nav-text">使用标准路径</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B4%E6%96%B0%E5%90%8E%E8%AE%B0%E5%BE%97%E6%B8%85%E7%BC%93%E5%AD%98"><span class="nav-number">4.3.</span> <span class="nav-text">更新后记得清缓存</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%81%BF%E5%85%8D%E9%87%8D%E5%A4%8D%E6%96%87%E7%AB%A0"><span class="nav-number">4.4.</span> <span class="nav-text">避免重复文章</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">5.</span> <span class="nav-text">总结</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%80%E5%90%8E%E9%99%84%E4%B8%8A%E6%88%91%E7%9A%84-RSS-%E5%9C%B0%E5%9D%80"><span class="nav-number">6.</span> <span class="nav-text">最后附上我的 RSS 地址</span></a></li></ol>
     </div>
 </div>
 
@@ -660,7 +700,7 @@
             
                 <span class="count-item border-box word">
                     <span class="item-type border-box">总字数</span>
-                    <span class="item-value border-box word">1.9k</span>
+                    <span class="item-value border-box word">2.3k</span>
                 </span>
             
 
@@ -826,7 +866,7 @@
             <div class="tablet-post-toc">
                 <div class="post-toc-wrap border-box">
     <div class="post-toc border-box">
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E7%AE%80%E8%BF%B0"><span class="nav-number">1.</span> <span class="nav-text">问题简述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E5%8E%9F%E5%9B%A0"><span class="nav-number">2.</span> <span class="nav-text">问题原因</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95"><span class="nav-number">3.</span> <span class="nav-text">解决办法</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%80%E5%90%8E%E9%99%84%E4%B8%8A%E6%88%91%E7%9A%84RSS%E5%9C%B0%E5%9D%80"><span class="nav-number">4.</span> <span class="nav-text">最后附上我的RSS地址</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E7%AE%80%E8%BF%B0"><span class="nav-number">1.</span> <span class="nav-text">问题简述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%97%AE%E9%A2%98%E5%8E%9F%E5%9B%A0"><span class="nav-number">2.</span> <span class="nav-text">问题原因</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95"><span class="nav-number">3.</span> <span class="nav-text">解决办法</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6"><span class="nav-number">3.1.</span> <span class="nav-text">修改配置文件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%87%8D%E6%96%B0%E7%94%9F%E6%88%90%E5%B9%B6%E9%83%A8%E7%BD%B2"><span class="nav-number">3.2.</span> <span class="nav-text">重新生成并部署</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8%E6%96%B0%E7%9A%84%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80"><span class="nav-number">3.3.</span> <span class="nav-text">使用新的订阅地址</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B3%E4%BA%8E-RSS-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE"><span class="nav-number">4.</span> <span class="nav-text">关于 RSS 的一些建议</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8D%E8%A6%81%E9%A2%91%E7%B9%81%E6%9B%B4%E6%8D%A2%E5%9C%B0%E5%9D%80"><span class="nav-number">4.1.</span> <span class="nav-text">不要频繁更换地址</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BD%BF%E7%94%A8%E6%A0%87%E5%87%86%E8%B7%AF%E5%BE%84"><span class="nav-number">4.2.</span> <span class="nav-text">使用标准路径</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9B%B4%E6%96%B0%E5%90%8E%E8%AE%B0%E5%BE%97%E6%B8%85%E7%BC%93%E5%AD%98"><span class="nav-number">4.3.</span> <span class="nav-text">更新后记得清缓存</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%81%BF%E5%85%8D%E9%87%8D%E5%A4%8D%E6%96%87%E7%AB%A0"><span class="nav-number">4.4.</span> <span class="nav-text">避免重复文章</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%80%BB%E7%BB%93"><span class="nav-number">5.</span> <span class="nav-text">总结</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%80%E5%90%8E%E9%99%84%E4%B8%8A%E6%88%91%E7%9A%84-RSS-%E5%9C%B0%E5%9D%80"><span class="nav-number">6.</span> <span class="nav-text">最后附上我的 RSS 地址</span></a></li></ol>
     </div>
 </div>
 
