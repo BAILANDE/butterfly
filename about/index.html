@@ -91,10 +91,6 @@ document.addEventListener('visibilitychange', function () {
 });
 </script>
 
-
-<script>
-console.log("测试一下 👀");
-</script>
 <body>
 <div class="progress-bar-container">
     
@@ -333,7 +329,7 @@ console.log("测试一下 👀");
 </ul>
 <h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>如果你有任何问题或想要与我交流，可以通过以下方式联系我：</p>
 <ul>
-<li>电子邮件：<a class="link"   href="mailto:&#x6d;&#x6f;&#x78;&#105;&#x6a;&#x69;&#110;&#108;&#118;&#121;&#105;&#x40;&#x65;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#109;" >moxijinlvyi@email.com<i class="fas fa-external-link-alt"></i></a><br>所有文章均为原创内容(除特殊声明外)，版权所有。如需转载，请注明出处并保留原文链接。</li>
+<li>电子邮件：<a class="link"   href="mailto:&#109;&#x6f;&#x78;&#105;&#106;&#x69;&#x6e;&#x6c;&#118;&#x79;&#x69;&#x40;&#101;&#109;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;" >moxijinlvyi@email.com<i class="fas fa-external-link-alt"></i></a><br>所有文章均为原创内容(除特殊声明外)，版权所有。如需转载，请注明出处并保留原文链接。</li>
 </ul>
 <h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p>读者在访问、阅读、使用或传播博客内容时，即表示您已阅读并同意以下全部条款，并承认已理解风险及责任归属。</p>
 <p>
@@ -432,6 +428,50 @@ console.log("测试一下 👀");
     
 </footer>
 
+
+
+<script>
+// F12整蛊
+window.addEventListener('load', function () {
+
+  let count = 0;       // 输出次数
+  const total = 30;    // 总共输出40行
+
+  // 整蛊文案数组
+  const messages = [
+    "你看个蛋哦 👀",
+    "系统检测到异常操作 ⚠️",
+    "不要乱点，我在看着你 👁️",
+    "警告：不要偷看控制台 😏",
+    "Error: 页面正在崩溃中 💥",
+    "偷偷看源码？不行不行 🚫",
+    "你的浏览器被我盯上了 👻",
+    "警告：再看就要炸啦 ⚡",
+    "Error: 数据丢失（其实没有）",
+    "小心！有人在监视你的操作 👀"
+  ];
+
+  let timer = setInterval(() => {
+
+    // 随机选择输出类型：warn 或 error
+    let type = Math.random() < 0.5 ? 'warn' : 'error';
+
+    // 随机选择一条整蛊文案
+    let msg = messages[Math.floor(Math.random() * messages.length)];
+
+    // 输出到控制台
+    console[type](msg);
+
+    count++;
+
+    if (count >= total) {
+      clearInterval(timer); // 输出完毕停止
+    }
+
+  }, 100); // 每100ms输出一行
+
+});
+</script>
         </div>
     </div>
 

@@ -91,10 +91,6 @@ document.addEventListener('visibilitychange', function () {
 });
 </script>
 
-
-<script>
-console.log("测试一下 👀");
-</script>
 <body>
 <div class="progress-bar-container">
     
@@ -371,6 +367,50 @@ console.log("测试一下 👀");
     
 </footer>
 
+
+
+<script>
+// F12整蛊
+window.addEventListener('load', function () {
+
+  let count = 0;       // 输出次数
+  const total = 30;    // 总共输出40行
+
+  // 整蛊文案数组
+  const messages = [
+    "你看个蛋哦 👀",
+    "系统检测到异常操作 ⚠️",
+    "不要乱点，我在看着你 👁️",
+    "警告：不要偷看控制台 😏",
+    "Error: 页面正在崩溃中 💥",
+    "偷偷看源码？不行不行 🚫",
+    "你的浏览器被我盯上了 👻",
+    "警告：再看就要炸啦 ⚡",
+    "Error: 数据丢失（其实没有）",
+    "小心！有人在监视你的操作 👀"
+  ];
+
+  let timer = setInterval(() => {
+
+    // 随机选择输出类型：warn 或 error
+    let type = Math.random() < 0.5 ? 'warn' : 'error';
+
+    // 随机选择一条整蛊文案
+    let msg = messages[Math.floor(Math.random() * messages.length)];
+
+    // 输出到控制台
+    console[type](msg);
+
+    count++;
+
+    if (count >= total) {
+      clearInterval(timer); // 输出完毕停止
+    }
+
+  }, 100); // 每100ms输出一行
+
+});
+</script>
         </div>
     </div>
 
