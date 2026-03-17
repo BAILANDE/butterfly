@@ -365,185 +365,142 @@
             <div class="main-content border-box">
                 
 
-                    .home-content-container {
-  background var(--background-color-1)
+                    <div class="home-content-container fade-in-down-animation">
+    
+    <ul class="home-post-list border-box">
+        
+            <li class="home-post-item">
 
-  if (hexo-config('home') && hexo-config('home.announcement')) {
-    .website-announcement {
-      keep-container(var(--home-post-hover-scale), 1rem, 1.8rem)
-      display flex
-      align-items center
-      justify-content space-between
-      margin-top -0.6rem
+                
 
-      +keep-tablet() {
-        margin-top -0.4rem
-      }
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2026/03/17/post/">
+                            post
+                        </a>
+                    </h3>
 
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            
+                        
+                    </div>
 
-      +keep-mobile() {
-        margin-top -0.2rem
+                    
 
-        .announcement {
-          font-size 0.9rem
-        }
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Tue Mar 17 2026 11:38:40 GMT+0800"
+                >2026-03-17 11:38:40</span>
+            </span>
+        
 
-        .icon {
-          font-size 1rem !important
-        }
-      }
+        
 
+        
 
-      .announcement {
-        width 100%
-        padding 0 0.5rem
-        color var(--text-color-3)
+        
 
-        p {
-          width 100%
-          overflow hidden
-          white-space nowrap
-          text-overflow ellipsis
-        }
-      }
+        
+        
+        
+        
+    </div>
 
+    
+        <a class="home-read-more" href="/2026/03/17/post/">阅读全文&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
 
-      .icon {
-        flex-shrink 0
-        padding 0.2rem
-        font-size 1.2rem
+                </div>
+            </li>
+        
+            <li class="home-post-item">
 
-        &.left {
-          color var(--keep-danger-color)
-          font-size 1.5rem
-          transform-origin left bottom
-          animation shake 1s ease infinite
-        }
+                
 
-        &.right {
-          color var(--text-color-4)
-          cursor pointer
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2026/03/10/AIuse/">
+                            全球AI狂潮，普通人何去何从
+                        </a>
+                    </h3>
 
-          &:hover {
-            color var(--text-color-3)
-          }
-        }
-      }
-    }
-  }
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            普通人的定义
+此处为（dergod版），引用于dergod blog，点此访问
+在我看来，一个普通人至少应该具备这些东西：
 
-  .home-post-list {
+有正常的思维（而不是完全抽象，对吧 slx）
+没有特别稳定的体制工作
+能正常使用电脑和手机
+心理基本健全
+至少具备基本的学习...
+                        
+                    </div>
 
-    .home-post-item {
-      position relative
+                    
 
-      keep-container(var(--home-post-hover-scale), 0, 2.8rem)
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Mon Mar 16 2026 22:28:24 GMT+0800"
+                >2026-03-16 22:28:24</span>
+            </span>
+        
 
-      .post-sticky-box {
-        position absolute
-        z-index $z-index-1
-        display flex
-        align-items center
-        box-sizing border-box
-        padding 0.1rem 0.4rem
-        color var(--text-color-4)
-        font-size 12px
-        letter-spacing 1px
-        background var(--background-color-3)
-        border-radius 0.3rem
-        transform scale(0.86)
-        cursor default
-        disable-user-select()
+        
 
-        &.cover-offset {
-          top 0.6rem
-          right 0.6rem
-        }
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%9D%82%E8%B0%88/">杂谈</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
 
-        &.card-offset {
-          top 0.8rem
-          right 0.8rem
-        }
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E6%9D%82%E8%B0%88/">杂谈</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
 
-        +keep-mobile() {
-          padding 0
-          background none
-          transform rotate(45deg)
+        
+        
+        
+        
+    </div>
 
-          .sticky-name {
-            display none
-          }
-        }
-      }
+    
+        <a class="home-read-more" href="/2026/03/10/AIuse/">阅读全文&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
 
-
-      .home-post-item-top {
-        width 100%
-        overflow hidden
-        background-color var(--background-color-2)
-        border-top-left-radius var(--box-border-radius)
-        border-top-right-radius var(--box-border-radius)
-
-        +keep-mobile() {
-          height 8rem !important
-        }
-
-        .home-cover {
-          width 100%
-          height 100%
-          object-fit cover
-          transform-origin center center
-          transition-t("transform", "0", "1", "linear")
-
-          &:hover {
-            transform scale(1.03)
-          }
-        }
-      }
+                </div>
+            </li>
+        
+    </ul>
+    
 
 
-      .home-post-item-bottom {
-        padding 2rem
 
-        .sticky-icon {
-          position absolute
-          top 1.2rem
-          right 1.2rem
-          color var(--text-color-4)
-          font-size 1.2rem
-          transform rotate(45deg)
-        }
-
-
-        .home-post-title {
-          margin 0
-          color var(--text-color-2)
-          font-weight 600
-          font-size 1.4rem
-          line-height 1.5
-
-
-          +keep-tablet() {
-            font-size 1.3rem
-          }
-
-
-          +keep-mobile() {
-            font-size 1.2rem
-          }
-        }
-
-
-        .home-post-content {
-          margin 1.8rem 0
-          color var(--text-color-3)
-          text-align justify
-          word-wrap break-word
-        }
-      }
-    }
-  }
-}
+</div>
 
 
                 
