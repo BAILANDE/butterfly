@@ -10,7 +10,7 @@
     
     <title>
         
-            POST |
+            Hexo RSS 部署指南 |
         
         Ding&#39;s blog
     </title>
@@ -270,7 +270,7 @@
             <div class="post-content-bottom border-box">
                 
                     <div class="post-title">
-                        POST
+                        Hexo RSS 部署指南
                     </div>
                 
 
@@ -304,16 +304,38 @@
             
                 <span class="meta-info-item post-update-date">
                     <i class="icon fa-solid fa-file-pen"></i>&nbsp;
-                    <span class="datetime" data-updated="Tue Mar 17 2026 16:36:52 GMT+0800">2026-03-17 16:36:52</span>
+                    <span class="datetime" data-updated="Tue Mar 17 2026 16:45:28 GMT+0800">2026-03-17 16:45:28</span>
                 </span>
             
         
 
         
-
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/hexo%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/">hexo问题汇总</a></li>
+                        
+                    
+                </ul>
+            </span>
         
 
         
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/hexo%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/">hexo问题汇总</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+            <span class="meta-info-item post-wordcount">
+                <i class="icon fas fa-file-word"></i>&nbsp;<span>328 字</span>
+            </span>
         
         
             <span class="meta-info-item post-min2read">
@@ -339,7 +361,72 @@
                     
 
                     
-                         
+                         <h2 id="一、安装-RSS-插件"><a href="#一、安装-RSS-插件" class="headerlink" title="一、安装 RSS 插件"></a>一、安装 RSS 插件</h2><p>Hexo 官方推荐插件：<code>hexo-generator-feed</code></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-feed --save</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="二、配置-config-yml"><a href="#二、配置-config-yml" class="headerlink" title="二、配置 _config.yml"></a>二、配置 <code>_config.yml</code></h2><p>在站点根目录 <code>_config.yml</code> 中添加：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">atom</span>       <span class="comment"># RSS 类型：atom 或 rss2</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">atom.xml</span>   <span class="comment"># RSS 文件生成路径</span></span><br><span class="line">  <span class="attr">limit:</span> <span class="number">20</span>        <span class="comment"># RSS 显示的文章数量</span></span><br><span class="line">  <span class="attr">hub:</span></span><br><span class="line">  <span class="attr">content:</span> <span class="literal">true</span>    <span class="comment"># 是否输出全文</span></span><br></pre></td></tr></table></figure>
+
+<p>确保站点 URL 配置正确：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">https://你的域名</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="三、文章摘要设置（可选）"><a href="#三、文章摘要设置（可选）" class="headerlink" title="三、文章摘要设置（可选）"></a>三、文章摘要设置（可选）</h2><p>在文章中使用 <code>&lt;!-- more --&gt;</code> 标记，RSS 只显示该标记之前内容。<br>如果希望 RSS 显示全文，保持 <code>content: true</code> 即可。</p>
+<hr>
+<h2 id="四、生成-RSS-文件"><a href="#四、生成-RSS-文件" class="headerlink" title="四、生成 RSS 文件"></a>四、生成 RSS 文件</h2><p>执行 Hexo 命令生成并部署：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean   <span class="comment"># 清理旧文件</span></span><br><span class="line">hexo g       <span class="comment"># 生成静态文件</span></span><br><span class="line">hexo d       <span class="comment"># 部署到服务器</span></span><br></pre></td></tr></table></figure>
+
+<p>部署完成后，RSS 地址通常为：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://你的域名/atom.xml</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="五、RSS-类型选择"><a href="#五、RSS-类型选择" class="headerlink" title="五、RSS 类型选择"></a>五、RSS 类型选择</h2><table>
+<thead>
+<tr>
+<th>类型</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>atom.xml</td>
+<td>推荐现代标准</td>
+</tr>
+<tr>
+<td>feed.xml</td>
+<td>一般兼容写法</td>
+</tr>
+<tr>
+<td>rss2.xml</td>
+<td>传统标准，可兼容旧系统</td>
+</tr>
+</tbody></table>
+<p>通常建议使用 <code>atom.xml</code>。</p>
+<hr>
+<h2 id="六、进阶配置（可选）"><a href="#六、进阶配置（可选）" class="headerlink" title="六、进阶配置（可选）"></a>六、进阶配置（可选）</h2><ul>
+<li><strong>控制文章数量：</strong></li>
+</ul>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">limit:</span> <span class="number">10</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><strong>只显示摘要：</strong></li>
+</ul>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">feed:</span></span><br><span class="line">  <span class="attr">content:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><strong>提交 RSS 到平台：</strong></li>
+</ul>
+<p>将 RSS 地址提交到：</p>
+<ul>
+<li>搜索引擎（Bing &#x2F; Google）</li>
+<li>RSS 阅读器（Feedly &#x2F; Inoreader &#x2F; Follow）</li>
+</ul>
+<hr>
+<h2 id="七、部署建议"><a href="#七、部署建议" class="headerlink" title="七、部署建议"></a>七、部署建议</h2><p>每次更新文章后，执行：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+
+<p>确保 RSS 文件同步最新文章。</p>
+
                     
                 </div>
 
@@ -349,7 +436,7 @@
     <div class="copyright-info-content border-box">
         <div class="copyright-info-top border-box">
             <div class="copyright-post-title border-box text-ellipsis">
-                POST
+                Hexo RSS 部署指南
             </div>
 
             <div class="copyright-post-link border-box text-ellipsis">
@@ -402,6 +489,14 @@
                 <div class="post-bottom-tags-and-share border-box">
                     <div>
                         
+                            <ul class="post-tags-box border-box">
+                                
+                                    <li class="tag-item border-box">
+                                        <i class="icon fas fa-hashtag"></i>&nbsp;<a href="/tags/hexo%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/">hexo问题汇总</a>
+                                    </li>
+                                
+                            </ul>
+                        
                     </div>
                     <div>
                         
@@ -441,10 +536,10 @@
                                 <a class="next"
                                    rel="next"
                                    href="/2026/03/17/RSS_hlep/"
-                                   title="Hexo RSS 全面指南：从踩坑到彻底解决（缓存 / 作者错误 / 删除不同步）"
+                                   title="Hexo RSS 缓存、作者错误、删除不同步问题（已解决）"
                                 >
                                     <span class="title flex-center">
-                                        <span class="post-nav-title-item text-ellipsis">Hexo RSS 全面指南：从踩坑到彻底解决（缓存 / 作者错误 / 删除不同步）</span>
+                                        <span class="post-nav-title-item text-ellipsis">Hexo RSS 缓存、作者错误、删除不同步问题（已解决）</span>
                                         <span class="post-nav-item">下一篇</span>
                                     </span>
                                     <span class="right arrow-icon flex-center">
@@ -550,7 +645,7 @@
             <div class="pc-post-toc left-toc">
                 <div class="post-toc-wrap border-box">
     <div class="post-toc border-box">
-        
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%AE%89%E8%A3%85-RSS-%E6%8F%92%E4%BB%B6"><span class="nav-number">1.</span> <span class="nav-text">一、安装 RSS 插件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E9%85%8D%E7%BD%AE-config-yml"><span class="nav-number">2.</span> <span class="nav-text">二、配置 _config.yml</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E6%96%87%E7%AB%A0%E6%91%98%E8%A6%81%E8%AE%BE%E7%BD%AE%EF%BC%88%E5%8F%AF%E9%80%89%EF%BC%89"><span class="nav-number">3.</span> <span class="nav-text">三、文章摘要设置（可选）</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E7%94%9F%E6%88%90-RSS-%E6%96%87%E4%BB%B6"><span class="nav-number">4.</span> <span class="nav-text">四、生成 RSS 文件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%94%E3%80%81RSS-%E7%B1%BB%E5%9E%8B%E9%80%89%E6%8B%A9"><span class="nav-number">5.</span> <span class="nav-text">五、RSS 类型选择</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%AD%E3%80%81%E8%BF%9B%E9%98%B6%E9%85%8D%E7%BD%AE%EF%BC%88%E5%8F%AF%E9%80%89%EF%BC%89"><span class="nav-number">6.</span> <span class="nav-text">六、进阶配置（可选）</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%83%E3%80%81%E9%83%A8%E7%BD%B2%E5%BB%BA%E8%AE%AE"><span class="nav-number">7.</span> <span class="nav-text">七、部署建议</span></a></li></ol>
     </div>
 </div>
 
@@ -592,7 +687,7 @@
             
                 <span class="count-item border-box word">
                     <span class="item-type border-box">总字数</span>
-                    <span class="item-value border-box word">2.3k</span>
+                    <span class="item-value border-box word">2.6k</span>
                 </span>
             
 
@@ -758,7 +853,7 @@
             <div class="tablet-post-toc">
                 <div class="post-toc-wrap border-box">
     <div class="post-toc border-box">
-        
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%80%E3%80%81%E5%AE%89%E8%A3%85-RSS-%E6%8F%92%E4%BB%B6"><span class="nav-number">1.</span> <span class="nav-text">一、安装 RSS 插件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%8C%E3%80%81%E9%85%8D%E7%BD%AE-config-yml"><span class="nav-number">2.</span> <span class="nav-text">二、配置 _config.yml</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%89%E3%80%81%E6%96%87%E7%AB%A0%E6%91%98%E8%A6%81%E8%AE%BE%E7%BD%AE%EF%BC%88%E5%8F%AF%E9%80%89%EF%BC%89"><span class="nav-number">3.</span> <span class="nav-text">三、文章摘要设置（可选）</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9B%9B%E3%80%81%E7%94%9F%E6%88%90-RSS-%E6%96%87%E4%BB%B6"><span class="nav-number">4.</span> <span class="nav-text">四、生成 RSS 文件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BA%94%E3%80%81RSS-%E7%B1%BB%E5%9E%8B%E9%80%89%E6%8B%A9"><span class="nav-number">5.</span> <span class="nav-text">五、RSS 类型选择</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%AD%E3%80%81%E8%BF%9B%E9%98%B6%E9%85%8D%E7%BD%AE%EF%BC%88%E5%8F%AF%E9%80%89%EF%BC%89"><span class="nav-number">6.</span> <span class="nav-text">六、进阶配置（可选）</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%83%E3%80%81%E9%83%A8%E7%BD%B2%E5%BB%BA%E8%AE%AE"><span class="nav-number">7.</span> <span class="nav-text">七、部署建议</span></a></li></ol>
     </div>
 </div>
 
