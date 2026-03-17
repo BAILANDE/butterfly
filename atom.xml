@@ -9,7 +9,27 @@
   <link href="https://www.dingview.top/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Ding</rights>
   <title>Ding's blog</title>
-  <updated>2026-03-16T14:28:24.365Z</updated>
+  <updated>2026-03-17T07:51:58.347Z</updated>
+  <entry>
+    <author>
+      <name>Ding</name>
+    </author>
+    <category term="hexo问题汇总" scheme="https://www.dingview.top/categories/hexo%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+    <category term="hexo问题汇总" scheme="https://www.dingview.top/tags/hexo%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+    <content>
+      <![CDATA[<h2 id="问题简述"><a href="#问题简述" class="headerlink" title="问题简述"></a>问题简述</h2><p>在使用 Hexo 搭建博客并开启 RSS 订阅后，我遇到了一系列非常“玄学”的问题：</p><ol><li>删除文章后，RSS 里还存在。</li><li>修改作者信息后，并没有覆盖，出现两篇文章，两个作者。</li><li>RSS 内容和网站不一致。</li></ol><blockquote><p>这篇文章就是一份完整的解决方案，帮你一次性彻底搞定。</p></blockquote><h2 id="问题原因"><a href="#问题原因" class="headerlink" title="问题原因"></a>问题原因</h2><p>核心原因只有一个：</p><blockquote><p>❗ 缓存</p></blockquote><p>具体表现为：</p><ol><li><p>浏览器缓存了旧的 RSS 文件</p></li><li><p>RSS 阅读器没有及时刷新</p></li><li><p>本地访问时读取的是旧版本</p></li></ol><p>需要明确一点：</p><p>Hexo 每次生成的 RSS 一定是最新的,看到的不更新，是可能是因为<strong>访问了“旧缓存”</strong></p><h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>解决办法：</p><p>修改原始路径：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom.xml</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>为：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">feed:</span><br><span class="line">  type: atom</span><br><span class="line">  path: atom2.xml</span><br></pre></td></tr></table></figure><p>或者什么路径都行。<br>然后执行：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure><p>然后RSS订阅地址就更新为：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://www.example.com/atom2.xml</span><br></pre></td></tr></table></figure><h2 id="最后附上我的RSS地址"><a href="#最后附上我的RSS地址" class="headerlink" title="最后附上我的RSS地址"></a>最后附上我的RSS地址</h2><p><a href="https://www.dingview.top/atom.xml">https://www.dingview.top/atom.xml</a></p><p><strong>感谢订阅</strong></p>]]>
+    </content>
+    <id>https://www.dingview.top/2026/03/17/hexorss/</id>
+    <link href="https://www.dingview.top/2026/03/17/hexorss/"/>
+    <published>2026-03-17T07:34:57.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="问题简述"><a href="#问题简述" class="headerlink" title="问题简述"></a>问题简述</h2><p>在使用 Hexo 搭建博客并开启 RSS 订阅后，我遇到了一系列非常“玄学”的问题：</p>
+<ol>
+<li>删除文章后，]]>
+    </summary>
+    <title>Hexo RSS 全面指南：从踩坑到彻底解决（缓存 / 作者错误 / 删除不同步）</title>
+    <updated>2026-03-17T07:51:58.347Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Ding</name>
