@@ -54,45 +54,7 @@
 
 
 
-<script>
-/*
-// 页面崩溃整蛊插件，保存原始标题
-var originTitle = document.title;
 
-// 获取或创建 favicon 节点
-function getFavicon() {
-  let link = document.querySelector("link[rel*='icon']");
-  if (!link) {
-    link = document.createElement("link");
-    link.rel = "icon";
-    document.head.appendChild(link);
-  }
-  return link;
-}
-
-// 保存原始 favicon
-var originIcon = getFavicon().href;
-
-// 设置 favicon（避免缓存问题，加时间戳）
-function setFavicon(url) {
-  const link = getFavicon();
-  link.href = url + '?v=' + Date.now();
-}
-
-// 监听标签页切换
-document.addEventListener('visibilitychange', function () {
-  if (document.hidden) {
-    // 切走：伪装崩溃
-    document.title = '页面崩溃啦！';
-    setFavicon('/images/bengkui.png');
-  } else {
-    // 切回：静默恢复
-    document.title = originTitle;
-    setFavicon(originIcon);
-  }
-});
-*/
-</script>
 <body>
 <div class="progress-bar-container">
     
@@ -366,7 +328,7 @@ document.addEventListener('visibilitychange', function () {
             
                 <span class="meta-info-item post-update-date">
                     <i class="icon fa-solid fa-file-pen"></i>&nbsp;
-                    <span class="datetime" data-updated="Sun Mar 29 2026 21:26:31 GMT+0800">2026-03-29 21:26:31</span>
+                    <span class="datetime" data-updated="Mon Mar 30 2026 10:07:26 GMT+0800">2026-03-30 10:07:26</span>
                 </span>
             
         

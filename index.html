@@ -52,45 +52,7 @@
 
 
 
-<script>
-/*
-// 页面崩溃整蛊插件，保存原始标题
-var originTitle = document.title;
 
-// 获取或创建 favicon 节点
-function getFavicon() {
-  let link = document.querySelector("link[rel*='icon']");
-  if (!link) {
-    link = document.createElement("link");
-    link.rel = "icon";
-    document.head.appendChild(link);
-  }
-  return link;
-}
-
-// 保存原始 favicon
-var originIcon = getFavicon().href;
-
-// 设置 favicon（避免缓存问题，加时间戳）
-function setFavicon(url) {
-  const link = getFavicon();
-  link.href = url + '?v=' + Date.now();
-}
-
-// 监听标签页切换
-document.addEventListener('visibilitychange', function () {
-  if (document.hidden) {
-    // 切走：伪装崩溃
-    document.title = '页面崩溃啦！';
-    setFavicon('/images/bengkui.png');
-  } else {
-    // 切回：静默恢复
-    document.title = originTitle;
-    setFavicon(originIcon);
-  }
-});
-*/
-</script>
 <body>
 <div class="progress-bar-container">
     
@@ -108,157 +70,111 @@ document.addEventListener('visibilitychange', function () {
 <main class="page-container border-box">
     <!-- home first screen  -->
     
-        if (hexo-config('first_screen')) {
-  $temp-fs-bg-img-light = hexo-config('first_screen.background_img')
-  $temp-fs-bg-img-dark = hexo-config('first_screen.background_img_dark')
-}
-else {
-  $temp-fs-bg-img-light = ''
-  $temp-fs-bg-img-dark = ''
-}
+        
+<div class="first-screen-container border-box flex-center fade-in-down-animation">
+    <div class="first-screen-content border-box">
+        <div class="top-placeholder border-box"></div>
 
-$fs-bg-img-light = $temp-fs-bg-img-light ? $temp-fs-bg-img-light : '/images/bg.svg'
-$fs-bg-img-dark = $temp-fs-bg-img-dark ? $temp-fs-bg-img-dark : $fs-bg-img-light
+        <div class="middle-placeholder border-box">
+            
+                <div class="description border-box">
+                    
+                        <div class="desc-item border-box"><span class="desc hitokoto"></span><span class="cursor">｜</span></div>
+                    
+                </div>
+            
 
-$root = hexo-config('root')
+            
+                <script async data-pjax
+                        src="https://v1.hitokoto.cn/?encode=js"
+                >
+                </script>
+            
+        </div>
 
-.first-screen-container {
-  width 100%
-  height 100vh
-  overflow hidden
-  background-image url($root + $fs-bg-img-light)
-  background-position-x center
-  background-position-y center
-  background-size cover
-  background-repeat-x no-repeat
-  background-repeat-y no-repeat
+        <div class="bottom-placeholder border-box">
+            
+                <div class="sc-icon-list border-box">
+                    <!-- fontawesome icons -->
+                    
+                        
+                            
+                            <div class="tooltip sc-icon-item "
+                                 data-tooltip-content="bilibili"
+                                 
+                                 
+                            >
+                                
+                                    
+                                    
+                                        <a target="_blank" href="https://space.bilibili.com/1548468144">
+                                            <i class="fab fa-bilibili"></i>
+                                        </a>
+                                    
+                                
+                            </div>
+                        
+                    
+                        
+                            
+                            <div class="tooltip sc-icon-item "
+                                 data-tooltip-content="QQ"
+                                 
+                                 
+                            >
+                                
+                                    
+                                    
+                                        <a target="_blank" href="https://qm.qq.com/q/mJErnZvdPW">
+                                            <i class="fab fa-qq"></i>
+                                        </a>
+                                    
+                                
+                            </div>
+                        
+                    
+                        
+                            
+                            <div class="tooltip sc-icon-item "
+                                 data-tooltip-content="telegram"
+                                 
+                                 
+                            >
+                                
+                                    
+                                    
+                                        <a target="_blank" href="https://t.me/yaolingyaojiu">
+                                            <i class="fab fa-telegram"></i>
+                                        </a>
+                                    
+                                
+                            </div>
+                        
+                    
+                        
+                            
+                            <div class="tooltip sc-icon-item "
+                                 data-tooltip-content="Email"
+                                 
+                                 
+                            >
+                                
+                                    <a href="mailto:mailto:moxijinlvyi@email.com">
+                                        <i class="fas fa-envelope"></i>
+                                    </a>
+                                
+                            </div>
+                        
+                    
 
-
-  .dark-mode & {
-    background-image url($root + $fs-bg-img-dark)
-  }
-
-  .first-screen-content {
-    display flex
-    flex-direction column
-    align-items center
-    justify-content space-between
-    width 80%
-    height 90%
-    padding-top calc(var(--header-height) * 0.5)
-
-    +keep-tablet() {
-      padding-top calc(var(--header-height) * 0.5 * 0.9)
-    }
-
-    +keep-mobile() {
-      padding-top calc(var(--header-height) * 0.5 * 0.8)
-    }
-
-    .description {
-      display var(--first-screen-display)
-      color var(--first-screen-font-color-light)
-      font-weight bold
-      font-size var(--first-screen-font-size)
-      font-family var(--first-screen-font-family)
-      line-height 1.8
-      text-align center
-      transform translateY(var(--first-screen-font-offset))
-      opacity 0
-
-      .dark-mode & {
-        color var(--first-screen-font-color-dark)
-
-        .desc-item {
-          .desc
-          .cursor {
-            color var(--first-screen-font-color-dark)
-          }
-        }
-      }
-
-
-      .desc-item {
-        .desc {
-          color var(--first-screen-font-color-light)
-        }
-
-        .cursor {
-          color var(--first-screen-font-color-light)
-          animation blink-caret 0.8s step-end infinite
-        }
-      }
-
-
-      +keep-tablet() {
-        font-size calc(var(--first-screen-font-size) * 0.9)
-      }
-    }
-
-
-    .bottom-placeholder {
-      width 100%
-
-      .sc-icon-list {
-        display flex
-        justify-content center
-
-        .sc-icon-item {
-          display flex
-          align-items center
-          margin 0 1rem
-          cursor pointer
-
-          i {
-            color var(--first-screen-icon-color-light)
-            font-size var(--first-screen-icon-size)
-          }
-
-
-          svg {
-            width var(--first-screen-icon-size)
-            height var(--first-screen-icon-size)
-
-            path {
-              fill var(--first-screen-icon-color-light)
-            }
-          }
-
-
-          .dark-mode & {
-            i {
-              color var(--first-screen-icon-color-dark)
-            }
-
-            svg {
-              path {
-                fill var(--first-screen-icon-color-dark)
-              }
-            }
-          }
-
-
-          +keep-tablet() {
-            i {
-              font-size calc(var(--first-screen-icon-size) * 0.9)
-            }
-
-            svg {
-              width calc(var(--first-screen-icon-size) * 0.9)
-              height calc(var(--first-screen-icon-size) * 0.9)
-            }
-          }
-
-
-          a {
-            display flex !important
-            align-items center !important
-          }
-        }
-      }
-    }
-  }
-}
+                    <!-- custom svg icons -->
+                    
+                    
+                </div>
+            
+        </div>
+    </div>
+</div>
 
     
 
@@ -503,8 +419,8 @@ $root = hexo-config('root')
         
             <span class="meta-info-item border-box">
                 <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
-                                                                                data-updated="Sun Mar 29 2026 21:26:31 GMT+0800"
-                >2026-03-29 21:26:31</span>
+                                                                                data-updated="Mon Mar 30 2026 10:07:26 GMT+0800"
+                >2026-03-30 10:07:26</span>
             </span>
         
 
