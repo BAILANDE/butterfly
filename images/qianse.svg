@@ -1,0 +1,66 @@
+<svg width="100%" height="100%" viewBox="0 0 1920 1080"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="none"
+     style="position:fixed;top:0;left:0;z-index:-1;overflow:hidden;">
+
+  <defs>
+    <!-- 彩色柔光 -->
+    <radialGradient id="g1">
+      <stop offset="0%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+
+    <radialGradient id="g2">
+      <stop offset="0%" stop-color="#00cfff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+
+    <radialGradient id="g3">
+      <stop offset="0%" stop-color="#9bff00"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+
+  <!-- 白色背景 -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <!-- 粒子 -->
+  <circle cx="300" cy="400" r="220" fill="url(#g1)" filter="url(#blur)" opacity="0.5">
+    <animate attributeName="cx" values="300;1600;300" dur="28s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="400;200;400" dur="20s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1500" cy="700" r="260" fill="url(#g2)" filter="url(#blur)" opacity="0.4">
+    <animate attributeName="cx" values="1500;200;1500" dur="32s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="700;300;700" dur="24s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="900" cy="200" r="200" fill="url(#g3)" filter="url(#blur)" opacity="0.4">
+    <animate attributeName="cx" values="900;400;1200;900" dur="30s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="200;800;300;200" dur="22s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 抽象形状 -->
+  <path fill="#ff6ec7" opacity="0.08">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite"
+      values="
+      M500,500 Q700,300 900,500 T1300,500 Q1100,700 900,500 T500,500;
+      M500,600 Q800,200 1000,600 T1400,600 Q1000,900 800,600 T500,600;
+      M500,500 Q700,300 900,500 T1300,500 Q1100,700 900,500 T500,500
+      "/>
+  </path>
+
+  <path fill="#00cfff" opacity="0.06">
+    <animate attributeName="d" dur="25s" repeatCount="indefinite"
+      values="
+      M300,800 C600,600 900,1000 1200,800 S1800,1000 1600,700;
+      M300,700 C700,900 1000,600 1300,800 S1700,600 1600,900;
+      M300,800 C600,600 900,1000 1200,800 S1800,1000 1600,700
+      "/>
+  </path>
+
+</svg>
