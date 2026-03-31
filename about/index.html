@@ -293,7 +293,7 @@
 </ul>
 <h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>如果你有任何问题或想要与我交流，可以通过以下方式联系我：</p>
 <ul>
-<li>电子邮件：<a class="link"   href="mailto:&#x6d;&#111;&#120;&#x69;&#x6a;&#105;&#110;&#x6c;&#x76;&#x79;&#x69;&#x40;&#x65;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#109;" >moxijinlvyi@email.com<i class="fas fa-external-link-alt"></i></a><br>所有文章均为原创内容(除特殊声明外)，版权所有。如需转载，请注明出处并保留原文链接。</li>
+<li>电子邮件：<a class="link"   href="mailto:&#109;&#x6f;&#120;&#x69;&#106;&#x69;&#x6e;&#x6c;&#x76;&#121;&#x69;&#x40;&#x65;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;" >moxijinlvyi@email.com<i class="fas fa-external-link-alt"></i></a><br>所有文章均为原创内容(除特殊声明外)，版权所有。如需转载，请注明出处并保留原文链接。</li>
 </ul>
 <h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p>读者在访问、阅读、使用或传播博客内容时，即表示您已阅读并同意以下全部条款，并承认已理解风险及责任归属。</p>
 <p>
@@ -335,6 +335,92 @@
             </div>
 
             <!-- comment plugin -->
+            
+                
+
+
+    <div class="comments-container border-box">
+        <div id="comments-anchor" class="comment-area-title border-box">
+            <i class="fas fa-comments"></i>&nbsp;评论
+        </div>
+        <div class="comment-plugin-fail border-box">
+    <span class="fail-tip">评论插件加载失败</span>
+    <button class="reload keep-button">点击重新加载</button>
+</div>
+<div class="comment-plugin-loading flex-center border-box">
+    <i class="loading-icon fa-solid fa-spinner fa-spin"></i>
+    <span class="load-tip">正在加载评论插件</span>
+</div>
+<script data-pjax>
+  window.KeepCommentPlugin = {}
+  window.KeepCommentPlugin.hideLoading = () => {
+    const cplDom = document.querySelector('.comments-container .comment-plugin-loading')
+    cplDom.style.display = 'none'
+  }
+  window.KeepCommentPlugin.loadFailHandle = () => {
+    window.KeepCommentPlugin.hideLoading()
+    const cpfDom = document.querySelector('.comments-container .comment-plugin-fail')
+    cpfDom.style.display = 'flex'
+    cpfDom.querySelector('.reload').addEventListener('click', () => {
+      window.location.reload()
+    })
+  }
+</script>
+
+        
+            
+
+    <div class="waline-comment-container">
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@waline/client@v3.2.1/dist/waline.css"/>
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@waline/client@v3.2.1/dist/waline-meta.css"/>
+        <div id="waline-comment"></div>
+        <script data-pjax>
+          window.KeepCommentPlugin.walineOptions = JSON.parse('{}'.replace(/&#34;/g, '"'))
+          window.KeepCommentPlugin.walineOptions.el = '#waline-comment'
+          window.KeepCommentPlugin.walineOptions.comment = '.post-comments-count'
+          window.KeepCommentPlugin.walineOptions.serverURL = 'comment.dingview.top'
+          window.KeepCommentPlugin.walineOptions.lang = 'zh-CN' || 'zh-CN'
+          window.KeepCommentPlugin.walineOptions.reaction = 'true' === 'true'
+        </script>
+
+        
+
+        
+            <script data-pjax
+                    async
+                    type="module"
+            >
+              import { init } from '//cdn.jsdelivr.net/npm/@waline/client@v3.2.1/dist/waline.js'
+              window.KeepCommentPlugin.initWaline = () => {
+                if (init) {
+                  init(window.KeepCommentPlugin.walineOptions)
+                  window.KeepCommentPlugin.hideLoading()
+                } else {
+                  setTimeout(() => {
+                    window.KeepCommentPlugin.initWaline()
+                  }, 1000)
+                }
+              }
+
+              if ('true' === 'true') {
+                setTimeout(() => {
+                  window.KeepCommentPlugin.initWaline()
+                }, 1200)
+              } else {
+                window.addEventListener('DOMContentLoaded', window.KeepCommentPlugin.initWaline)
+              }
+            </script>
+        
+    </div>
+
+
+        
+    </div>
+
+
+
+
+
             
         </div>
     </div>
