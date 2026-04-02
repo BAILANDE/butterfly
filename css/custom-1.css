@@ -113,4 +113,21 @@
     --box-border-radius: 20px;
 }
 
+/* =========================================
+   8. 加粗字体增强（针对 LXGW WenKai 加粗不明显问题）
+   ========================================= */
 
+/* 针对 strong 和 b 标签的文字加粗 */
+.keep-markdown-body strong,
+.keep-markdown-body b {
+    font-weight: 600; /* 使用中等粗体，浏览器模拟加粗更明显 */
+    
+    /* 可选：增加文字描边增强视觉粗感 */
+    text-shadow: 0.5px 0 0 currentColor,
+                 -0.5px 0 0 currentColor,
+                 0 0.5px 0 currentColor,
+                 0 -0.5px 0 currentColor;
+    
+    /* 保持字体一致 */
+    font-family: var(--base-font-family);
+}
