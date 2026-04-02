@@ -120,13 +120,13 @@
 /* 针对 strong 和 b 标签的文字加粗 */
 .keep-markdown-body strong,
 .keep-markdown-body b {
-    font-weight: 600; /* 使用中等粗体，浏览器模拟加粗更明显 */
+    font-weight: 600; /* 中等粗体 */
     
-    /* 可选：增加文字描边增强视觉粗感 */
-    text-shadow: 0.5px 0 0 currentColor,
-                 -0.5px 0 0 currentColor,
-                 0 0.5px 0 currentColor,
-                 0 -0.5px 0 currentColor;
+    /* 调整文字描边，减轻粗感 */
+    text-shadow: 0.3px 0 0 currentColor,
+                 -0.3px 0 0 currentColor,
+                 0 0.3px 0 currentColor,
+                 0 -0.3px 0 currentColor;
     
     /* 保持字体一致 */
     font-family: var(--base-font-family);
