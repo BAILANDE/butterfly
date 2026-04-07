@@ -500,77 +500,27 @@
                     </div>
                     <div>
                         
-                            $share-item-width = 1.8rem
-
-.post-share-container {
-  flex-shrink 0
-
-  .share-list-wrap {
-    display flex
-    justify-content flex-end
-
-    .share-item {
-      width $share-item-width
-      height $share-item-width
-      margin-left 0.5rem
-      padding 0.4rem
-      border-style solid
-      border-width 0.1rem
-      border-radius 50%
-      cursor pointer
-      transition-t("background", "0", "0.3", "ease")
-
-
-      i {
-        color inherit
-        font-size 1rem
-      }
-
-
-      &.qq {
-        color var(--keep-primary-color)
-        border-color var(--keep-primary-color)
-
-        &:hover {
-          color var(--background-color-1)
-          background var(--keep-primary-color)
-        }
-      }
-
-
-      &.wechat {
-        color var(--keep-success-color)
-        border-color var(--keep-success-color)
-
-        img {
-          filter brightness(1) !important
-
-          &[lazyload] {
-            &::before {
-              background #fff !important
-            }
-          }
-        }
-
-        &:hover {
-          color var(--background-color-1)
-          background var(--keep-success-color)
-        }
-      }
-
-
-      &.weibo {
-        color var(--keep-danger-color)
-        border-color var(--keep-danger-color)
-
-        &:hover {
-          color var(--background-color-1)
-          background var(--keep-danger-color)
-        }
-      }
-    }
-  }
-}
+                            <div class="post-share-container border-box">
+    <ul class="share-list-wrap border-box">
+        <li class="qq share-item border-box flex-center tooltip"
+            data-tooltip-content="分享到 QQ"
+        >
+            <i class="fa-brands fa-qq"></i>
+        </li>
+        <li class="wechat share-item border-box flex-center tooltip tooltip-img"
+            data-tooltip-content="分享到微信"
+            data-tooltip-img-tip="微信扫一扫"
+            data-tooltip-img-style="background-color: #fff; top: -10px; padding: 0.6rem 0.6rem 0.1rem 0.6rem;"
+        >
+            <i class="fa-brands fa-weixin"></i>
+        </li>
+        <li class="weibo share-item border-box flex-center tooltip"
+            data-tooltip-content="分享到微博"
+        >
+            <i class="fa-brands fa-weibo"></i>
+        </li>
+    </ul>
+</div>
 
                         
                     </div>
