@@ -10,7 +10,7 @@ function runningTime(){
 
   pv.parentNode.appendChild(span);
 
-  const start = new Date("2024-01-01 00:00:00").getTime();
+  const start = new Date("2024-08-22 19:24:51").getTime();
 
   function update(){
 
