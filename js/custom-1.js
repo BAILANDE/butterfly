@@ -31,3 +31,4 @@ function runningTime(){
 document.addEventListener("DOMContentLoaded", runningTime);
 document.addEventListener("pjax:complete", runningTime);
 
+
