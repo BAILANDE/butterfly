@@ -284,7 +284,7 @@
 
                     
 <div class="fade-in-down-animation">
-    <div class="post-page-container border-box">
+    <div class="post-page-container border-box encrypt">
         <div class="post-content-container border-box">
             
 
@@ -325,7 +325,7 @@
             
                 <span class="meta-info-item post-update-date">
                     <i class="icon fa-solid fa-file-pen"></i>&nbsp;
-                    <span class="datetime" data-updated="Sun Apr 26 2026 20:45:10 GMT+0800">2026-04-26 20:45:10</span>
+                    <span class="datetime" data-updated="Sun Apr 26 2026 20:45:31 GMT+0800">2026-04-26 20:45:31</span>
                 </span>
             
         
@@ -364,23 +364,15 @@
                     
 
                     
-                         <blockquote>
-<p>救赎之道，就在其中。</p>
-</blockquote>
-<h2 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h2><p>受命于der，既寿永昌</p>
-<p>我们把人类称之为人类，男人称之为男人，女人称之为女人。</p>
-<p>长得像人类但无人类行为的称之为猴</p>
-<p>不要碧莲的人称之为狗</p>
-<p>不要碧莲的情侣称之为狗男女</p>
-<p>不要碧莲……<br>此处省略100个不要碧莲……</p>
-<h2 id="教义"><a href="#教义" class="headerlink" title="教义"></a>教义</h2><h2 id="恋爱"><a href="#恋爱" class="headerlink" title="恋爱"></a>恋爱</h2><ol>
-<li><p>不支持LGBT，但理解。</p>
-</li>
-<li><p>不支持彩礼，因为大多数为交易。（狗男女请忽略此条）</p>
-</li>
-<li></li>
-</ol>
-
+                        <div class="post-encrypt-box border-box"
+                             data-secret="66219c80758849817a186dad6aa7f196ead2d1c2f03781a0175f386ad8d42a59"
+                             data-iv="f1fac282c08f1d8bd5079bae2c272862"
+                             data-ep="29b4af1da1df7507711eb6447ce3014e"
+                             data-content="d643f67a8b3e9bbadc4ef1626fd300c5fe5d1db624fbc95e9d87e8c48391302786c8b04eadf40ecfe30d84969ce826534205876d7aac13e8bdf67cfb9a2ee6c3705c81e5c78e82aa9b96bd8fdd40bc587811f916049f6210e0534dc7ff5ae6061cd7bfff01f2d5d351c5621dc20c301857d3aba13b95f445299d586123f118f34ad2b431979c39e07eedba57189c8754e0296a774146676e22b0b55c8b988912e21ee7a1ce980bbd727998edaf1de22857648414c14b8df5b08cf362e7ed9a043e87da2c5df755b57666d313f2cd481548426d06baf54f7cf364ec8125ede2b35da89f947aa65bc6a2cf2e2ae8fff2397335e25604e7ce7c012679641846af3a4a10341ac6827e85959d78d7eadab4c5484d502241fcfd9bf705042e3aebcb4b2753422fd3a3d8f72f0b88ac1efa158ae5ee233cb52e80b757c22bcaed467be61d2b83c6648a8a02fa223129b18174b23dda8263ed9850d65937d56e213d521d3c31ee89915105827c0732102b9c02a5957604025794b277485d1b6996efbb870cab3dfbc40874f9c3b4dca802d3539327a596820da7c660f0a68db4acd4c083b7c4c8614875028529034c35bf579be824430939e7d1cc8f71819c411a559544a329ff6365501039be7147bf0aa72865375595586e2a83b8668d9cfdbacd69f4265efc3c7fa5d247214cb992a07674ee27cfb1e1115195e818dbe3b2b9adfd73d95eac205b8296b222653e04d002d21f8d8def86fa49d3c3bb25aa852142c0d0ca6ae120bceecfc80e770e91915187cd7cfc251551d7090b0dbe9f4cc939101d9cc2e186204da2b74ab4e5506357452b6ff8a90c9be4b906cd7b74a33173b10916afb2ab795c70480140733f41f3de35bbac01a93720aaef569b84506f596ee09bbc444c3276587ff95c7499622f96736e2f7dce62bf1dc6a3cf8fe139fa7ee2a329a2de7222a9ebabf62fd535757434b3a9d8366635884611a67f204ef4da0b11440f8562063d673224a1890f3213935d31c88b5d9db470113749d7a27b347296cd2a1a0e73fab99efc6c9c28f875b42d6ffcb1660a2dc7cbb39382981e8e88acfea7df42e11b1c47bf8ba96e78068e72ce94294746072d9b2c28c57bdb411996ec870c8d1ac0f2790bdcc7aa573a99"
+                        >
+                            <input type="password" class="password-input border-box" placeholder="请输入密码...">
+                        </div>
+                        <div class="post"></div>
                     
                 </div>
 
@@ -719,6 +711,13 @@ window.addEventListener('load', function () {
             <div class="post-tools-container border-box">
     <ul class="post-tools-list border-box">
         <!-- PC encrypt again -->
+        
+            <li class="status-item flex-center post-lock border-box"
+                data-tooltip-content="重新加密"
+            >
+                <i class="fa-solid fa-lock"></i>
+                <i class="fa-solid fa-lock-open"></i>
+            </li>
         
 
         <!-- PC TOC show toggle -->
